@@ -3,9 +3,9 @@ Simple ngram_analytic Python Jupyter Notebook
 
 ## Setting
 
-Include your text files into the "source" folder to extract the bigrams.<br />
-Include your sample bigrams to be compared into the folder "test_inp".<br />
-Default files are generated with phi3:14b.
+Include your text files into the "source" folder to extract the bigrams or trigrams.<br />
+<!-- Include your sample bigrams to be compared into the folder "test_inp".<br /> -->
+Default files are generated with phi3:14b (100 participants x 7 genres).
 
 ## Description ##
 Samples of language from 7 different genres were collected from `n` participants. The genres include both spoken and written English. The spoken genres were transcribed and saved in text files in written form.
