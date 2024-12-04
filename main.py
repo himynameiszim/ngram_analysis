@@ -6,9 +6,27 @@ import pandas as pd
 import numpy as np
 import string
 import shutil  # For removing the directory
+import re
 
 # Download nltk data
 nltk.download('punkt')
+
+# Preprocess input filenames
+def preprocess_data(directory):
+    for filename in os.listdir(directory):
+        # Replace 'tm_family' with 'tm-family' and 'tm_friends' with 'tm-friends'
+        new_filename = filename.replace('tm_family', 'tm-family').replace('tm_friends', 'tm-friends')
+    
+        # Find the participant number (e.g., P1, P93) and format it with leading zeros
+        new_filename = re.sub(r'P(\d+)', lambda match: f'{int(match.group(1)):03d}', new_filename)
+    
+        # Get the full path of the original and new filename
+        old_file = os.path.join(directory, filename)
+        new_file = os.path.join(directory, new_filename)
+    
+        # Rename the file
+        os.rename(old_file, new_file)
+        print(f'Renamed: {filename} -> {new_filename}')
 
 # Function to remove punctuation from text
 def remove_punctuation(text):
@@ -112,5 +130,6 @@ def main(input_dir, output_dir):
 
 if __name__ == "__main__":
     input_dir = input("Enter the path to the input directory: ").strip()
+    preprocess_data(input_dir)
     output_dir = input("Enter the path to the output directory: ").strip()
     main(input_dir, output_dir)
