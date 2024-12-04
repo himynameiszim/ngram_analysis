@@ -1,8 +1,7 @@
 # ngram_analysis
-Simple ngram_analytic Python Jupyter Notebook
+Ngram-based analytical idiolectal profiling
 
 ## Setting
-
 Create a "source" folder. <br />
 Create a "output" folder. <br />
 Include your text files into the "source" folder to extract the bigrams or trigrams.<br />
@@ -13,7 +12,6 @@ Samples of language from 7 different genres were collected from `n` participants
 The primary purpose of this is to identify the bigrams and trigrams that are shared across all genres. The text file for one genre is called a container. Punctuation will be ignored.
 
 ## First time set up
-
 Create an environment with Python 3.9 (Stable Version)
 ```[bash]
 conda create -n <environment-name> python=3.9
@@ -22,13 +20,11 @@ pip3 install -r requirements.txt
 ```
 
 ## Run
-
 ```[bash]
 python3 main.py
 ```
 
 ## Tips
-
 For ease of reading CSV files, consider installing [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv).<br />
 ``Ctrl + P`` in VsCode to launch Quick Open and paste:<br />
 ```ext install mechatroner.rainbow-csv``` 
