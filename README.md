@@ -5,7 +5,7 @@ Ngram-based analytical idiolectal profiling
 Create a "source" folder. <br />
 Create a "output" folder. <br />
 Include your text files into the "source" folder to extract the bigrams or trigrams.<br />
-Default files are generated with phi3:14b (100 participants x 7 genres).
+Default files are generated with phi3:14b (93 participants x 7 genres).
 
 ## Description ##
 Samples of language from 7 different genres were collected from `n` participants. The genres include both spoken and written English. The spoken genres were transcribed and saved in text files in written form.
