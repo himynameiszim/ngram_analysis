@@ -2,3 +2,7 @@
 source/*.txt
 *.zip
 output/*.csv
+bigram/*.csv
+bigram/*.png
+trigram/*.csv
+trigram/*.png
