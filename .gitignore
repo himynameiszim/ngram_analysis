@@ -6,3 +6,6 @@ bigram/*.csv
 bigram/*.png
 trigram/*.csv
 trigram/*.png
+corpus/
+corpus_processed/
+output/
