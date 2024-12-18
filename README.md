@@ -27,7 +27,7 @@ Extracting XML-formatted corpus(es) to .txt files for comparison.
 ```[bash]
 python3 xmlprocess.py
 ```
-After pasting in the path of "'~'/corpus/", the output will be produced as "'~'/corpus_processed/"
+After pasting in the path of "/corpus/", the output will be produced as "/corpus_processed/"
 
 ## Run
 ```[bash]
