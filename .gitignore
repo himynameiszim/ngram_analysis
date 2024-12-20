@@ -3,9 +3,9 @@
 *.txt
 *.xml
 
-contestant_output/*.csv
-contestant_source/*.txt
-corpus_output/*.csv
-corpus_processed/*.txt
+contestant_output/
+contestant_source/
+corpus_output/
+corpus_processed/
 corpus_source/
 output/
