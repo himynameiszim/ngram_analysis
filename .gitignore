@@ -1,16 +1,11 @@
-# output
-# source/*.txt
-# *.zip
-# output/*.csv
-# bigram/*.csv
-# bigram/*.png
-# trigram/*.csv
-# trigram/*.png
-# corpus/
-# corpus_processed/
-# output/
-
 *.zip
 *.csv
 *.txt
 *.xml
+
+/contestant_output/*.csv
+/contestant_source/*.txt
+/corpus_output/*.csv
+/corpus_processed/*.txt
+/corpus_source
+/output
