@@ -1,0 +1,397 @@
+<text id="SWBR">
+	<header>
+		<rec_length>0:12:40</rec_length>
+		<rec_date>2016-02-21</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0630 S0632 S0636 S0637 S0638</list_speakers>
+		<rec_loc>Living Room in bungalow in Snettisham; speakers 1 and 3’s home.</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Injections and taking blood samples, ANON’s scan, ANON starting work at 5, not being able to afford new things, ageing, ANON and ANON’s friend Norman, The Life of Brian, Eurovision</topics>
+		<activity>Chatting to Grandparents and parents at Grandparent’s bungalow on weekend visit.</activity>
+		<conv_type>Discussing, explaining, complaining, anecdote telling, making arrangements</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0630">
+				<exactage>80</exactage>
+				<age1994>60plus</age1994>
+				<agerange>80_89</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Great Bircham, England</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>England</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Norfolk</dialect_rep>
+				<hab_city>Snettisham</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>eastern_engl</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>retired</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0632">
+				<exactage>26</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Kings Lynn, Norfolk, UK</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>England</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Neutral</dialect_rep>
+				<hab_city>London</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>4 years</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Carer/ Freelance Illustrator and writer</occupation>
+				<socgrade>D</socgrade>
+				<nssec>6</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0636">
+				<exactage>79</exactage>
+				<age1994>60plus</age1994>
+				<agerange>70_79</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Castletown, Cork</birthplace>
+				<birthcountry>Ireland</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Norfolk</dialect_rep>
+				<hab_city>Snettisham</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>eastern_engl</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>retired</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0637">
+				<exactage>50</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>London</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Neutral</dialect_rep>
+				<hab_city>Bromyard</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>10</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>electronics engineer - company director</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_1</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0638">
+				<exactage>48</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Kings Lynn, Norfolk, UK</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Neutral</dialect_rep>
+				<hab_city>Bromyard</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>10 years</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Young Carer Community Development Worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0636">no he was brilliant</u>
+<u n="2" who="S0632">so he was he was good at</u>
+<u n="3" who="S0636">he was</u>
+<u n="4" who="S0632" trans="overlap">putting a line in your arm?</u>
+<u n="5" who="S0636">he come back sometimes when he's had a blood test or his thing and he blooming great bruises you know and I think oh she weren't very good <vocal desc="laugh"/></u>
+<u n="6" who="S0632"><vocal desc="laugh"/></u>
+<u n="7" who="S0636">it depend but it depends who you get some are better than others you know and they can slip it into a vein really easy and</u>
+<u n="8" who="S0632">yeah</u>
+<u n="9" who="S0636">you don't know they done it others you think oh my god</u>
+<u n="10" who="S0632">mm but was that the er injection to give you the stuff that made you feel really hot? <vocal desc="laugh"/></u>
+<u n="11" who="S0636">yeah put that through him</u>
+<u n="12" who="S0630" trans="overlap">boiling water</u>
+<u n="13" who="S0632"><vocal desc="laugh"/></u>
+<u n="14" who="S0636">I dunno what it was even no some dye they put in you know</u>
+<u n="15" who="S0637">yeah I had that it's really weird</u>
+<u n="16" who="S0636">and</u>
+<u n="17" who="S0632">makes you feel really fevery or</u>
+<u n="18" who="S0636">he said that'll make</u>
+<u n="19" who="S0637" trans="overlap">you feel like you're sitting under a sunlamp</u>
+<u n="20" who="S0632">mm</u>
+<u n="21" who="S0636" trans="overlap">he said you'll be feeling a bit warm when that go through and you got your arms up behind head holding this bloody line cos you gotta hold that up there as well to keep it off the floor and er and I thought I ain't felt anything and then all of a sudden that hit me and I thought yes I am you felt warm the whole way up and then my face felt all hot you know <vocal desc="laugh"/> when you have a hot flush and the <unclear/></u>
+<u n="22" who="S0632"><vocal desc="laugh"/></u>
+<u n="23" who="S0636">but I didn't when I had my angiogram they put dye through that time and they said oh you'll might feel a warm flush but I didn't feel a thing with that one</u>
+<u n="24" who="S0632">no?</u>
+<u n="25" who="S0636">but this one I did</u>
+<u n="26" who="S0632">mm</u>
+<u n="27" who="S0636">so</u>
+<u n="28" who="S0630">that was a cold flush going through</u>
+<u n="29" who="S0636" trans="overlap">yeah</u>
+<u n="30" who="S0632"><vocal desc="laugh"/></u>
+<u n="31" who="S0636">depends what they're done for I suppose I dunno they</u>
+<u n="32" who="S0637">mm</u>
+<u n="33" who="S0636">cos when I had that scan last year on the bottom half here they never put no dyes through that time but this time I said to him I said I didn't have that <trunc>la</trunc> he said it depends what we're looking for he says sometimes we do and sometimes we don't <vocal desc="laugh"/> I thought well</u>
+<u n="34" who="S0632"><vocal desc="laugh"/> mm different kinds of scans</u>
+<u n="35" who="S0636">yeah</u>
+<u n="36" who="S0632" trans="overlap">different kinds of</u>
+<u n="37" who="S0636">noisy old thing no it be whooshing and going all er over you and oh <pause dur="short"/> the worst bit is drinking the water first</u>
+<u n="38" who="S0632">yeah</u>
+<u n="39" who="S0636">jug full of water and <trunc>thi</trunc> drink that and I think I hate water and drinking a whole jug full of it oh</u>
+<u n="40" who="S0632"><vocal desc="laugh"/></u>
+<u n="41" who="S0636">ain't even really cold you know</u>
+<u n="42" who="S0632">mm</u>
+<u n="43" who="S0636">I was gonna say to him give me a jug full of coffee I'll drink that <vocal desc="laugh"/></u>
+<u n="44" who="S0632"><vocal desc="laugh"/></u>
+<u n="45" who="S0630"><unclear>silly woman</unclear></u>
+<u n="46" who="S0632"><vocal desc="laugh"/> <pause dur="short"/> mm so are we gonna go and see <anon type="name" nameType="f"/> and grandad <anon type="name" nameType="m"/> after lunch?</u>
+<u n="47" who="S0637">briefly yeah then we'll set off to <anon type="place"/></u>
+<u n="48" who="S0630">what time do your shift at over at <anon type="place"/>?</u>
+<u n="49" who="S0632">five o'clock</u>
+<u n="50" who="S0630">oh</u>
+<u n="51" who="S0632">so I need to get there before five really</u>
+<u n="52" who="S0630" trans="overlap">well yeah have your apron on</u>
+<u n="53" who="S0632"><vocal desc="laugh"/></u>
+<u n="54" who="S0630"><unclear/></u>
+<u n="55" who="S0632"><vocal desc="laugh"/> yeah so but yeah cos I <anon type="name" nameType="m"/>'s been there all week so I guess</u>
+<u n="56" who="S0630">he'll be</u>
+<u n="57" who="S0632">he wouldn't mind if I turned up a little bit early probably <vocal desc="laugh"/> er him and his dad will have been on their own all day today and all day yesterday as well</u>
+<u n="58" who="S0637">yeah yeah we'll get there as soon as we can</u>
+<u n="59" who="S0632">no like extreme rush but yeah that would be nice</u>
+<u n="60" who="S0630">if we get there at half five he'll speed it up er more</u>
+<u n="61" who="S0632" trans="overlap">no it'll be you you're late you'll have to make up the time after <vocal desc="laugh"/> <pause dur="short"/> that's the problem <pause dur="long"/> reading a book are you mum?</u>
+<u n="62" who="S0638">yep</u>
+<u n="63" who="S0632">that's nice <vocal desc="laugh"/></u>
+<u n="64" who="S0638"><vocal desc="laugh"/> yep</u>
+<u n="65" who="S0630">why do one takes one's glasses off to read with?</u>
+<u n="66" who="S0637">cos she needs new glasses</u>
+<u n="67" who="S0632">do you need an eye test?</u>
+<u n="68" who="S0630">do you need?</u>
+<u n="69" who="S0638" trans="overlap">I'm not allowed anything new <vocal desc="laugh"/></u>
+<u n="70" who="S0632"><vocal desc="laugh"/> ah why I thought you</u>
+<u n="71" who="S0630" trans="overlap">you can't get it from Poundland</u>
+<u n="72" who="S0632" trans="overlap">can't can't have real things?</u>
+<u n="73" who="S0638">I can't have glasses or a new mattress or anything I need to be comfortable and helpful</u>
+<u n="74" who="S0632">oh</u>
+<u n="75" who="S0638">I'm just a tired old workhorse and when I can't work anymore they'll cart me off</u>
+<u n="76" who="S0630"><unclear/></u>
+<u n="77" who="S0632">I don't like this story</u>
+<u n="78" who="S0638"><vocal desc="laugh"/></u>
+<u n="79" who="S0632"><vocal desc="laugh"/></u>
+<u n="80" who="S0638">that's life at the moment</u>
+<u n="81" who="S0632">oh</u>
+<u n="82" who="S0630">oh</u>
+<u n="83" who="S0632">my eyes are dim my back is old and bent</u>
+<u n="84" who="S0638">mm</u>
+<u n="85" who="S0632"><vocal desc="laugh"/></u>
+<u n="86" who="S0637">my eyes are bent</u>
+<u n="87" who="S0632"><vocal desc="laugh"/></u>
+<u n="88" who="S0636">mm?</u>
+<u n="89" who="S0632"><vocal desc="laugh"/> that old man from the Life of Brian</u>
+<u n="90" who="S0630">mm?</u>
+<u n="91" who="S0632">that old man from the Life of Brian who goes to answer the door <vocal desc="laugh"/> back is dim my eyes are old and bent <vocal desc="laugh"/> <pause dur="short"/> mm</u>
+<u n="92" who="S0636">we all age differently old <anon type="name" nameType="m"/> who was here the other day he's eighty-eight</u>
+<u n="93" who="S0632">yeah?</u>
+<u n="94" who="S0636">yeah and he's just changed his car and he drive around and come in here and he sit there</u>
+<u n="95" who="S0630" trans="overlap">yeah</u>
+<u n="96" who="S0636">and he's as bright as a button and I'll tell you what he's still got a bit of a smutty mind and he keep saying got a nice young girl moved in next door to me he say she's with two young kiddies he says she's only about thirty she said that's pretty and</u>
+<u n="97" who="S0632">oh <vocal desc="sigh"/></u>
+<u n="98" who="S0636">I said oh yeah</u>
+<u n="99" who="S0632"><vocal desc="laugh"/></u>
+<u n="100" who="S0636">then he go on <pause dur="short"/> when she moved in she had her husband but he left her cos he reckoned that erm no she chucked him out cos he was carrying on with somebody so she's threw him out he she says she had a bit of a cheek doing that she says she's had about five different men in there since he left <vocal desc="laugh"/></u>
+<u n="101" who="S0630">yeah <vocal desc="laugh"/></u>
+<u n="102" who="S0636"><vocal desc="laugh"/></u>
+<u n="103" who="S0632">since he left</u>
+<u n="104" who="S0636"><vocal desc="laugh"/></u>
+<u n="105" who="S0632"><vocal desc="laugh"/> there's a difference</u>
+<u n="106" who="S0636" trans="overlap">I think he was <unclear/></u>
+<u n="107" who="S0632"><vocal desc="laugh"/> <pause dur="short"/> there's a big difference</u>
+<u n="108" who="S0636">yeah so <pause dur="short"/> yeah you know <unclear/> <pause dur="short"/> really pretty young girl I think well</u>
+<u n="109" who="S0632"><vocal desc="laugh"/> <pause dur="short"/> oh</u>
+<u n="110" who="S0636">but he couldn't tell a bloody meerkat from a teddy bear</u>
+<u n="111" who="S0632"><vocal desc="laugh"/></u>
+<u n="112" who="S0636"><vocal desc="laugh"/></u>
+<u n="113" who="S0632">it's a meerkat teddy really though isn't it?</u>
+<u n="114" who="S0636" trans="overlap">mm</u>
+<u n="115" who="S0630">mm</u>
+<u n="116" who="S0632">stuffed animal</u>
+<event desc="sound of internet"/>
+<u n="117" who="S0636">he's always <unclear>ragging you off</unclear> isn't he?</u>
+<u n="118" who="S0630">yeah</u>
+<u n="119" who="S0636">he's always er you know <pause dur="short"/> taking the mickey out of him oh</u>
+<u n="120" who="S0632">is he?</u>
+<u n="121" who="S0636">yeah</u>
+<u n="122" who="S0630"><unclear/></u>
+<u n="123" who="S0632">what are you watching dad? it's really loud <vocal desc="laugh"/></u>
+<event desc="sound of internet"/>
+<u n="124" who="S0632">oh Life of Brian</u>
+<u n="125" who="S0636">oh</u>
+<u n="126" who="S0632"><vocal desc="laugh"/></u>
+<event desc="sound of internet"/>
+<u n="127" who="S0636">do you know what do you you see something to do with that and then you'll suddenly realise how many years has gone by since they were on you know?</u>
+<u n="128" who="S0632">yeah</u>
+<u n="129" who="S0636">it's but <trunc>d</trunc><trunc>d</trunc> I don't know where the years go <unclear/> <pause dur="short"/> that was twenty years ago were that was it even thirty years ago you know?</u>
+<u n="130" who="S0632" trans="overlap">uhu</u>
+<u n="131" who="S0636">I feel oh dear <pause dur="short"/> mm</u>
+<u n="132" who="S0632"><vocal desc="laugh"/></u>
+<u n="133" who="S0637">that's it</u>
+<u n="134" who="S0632">it's still funny though</u>
+<u n="135" who="S0637">my legs are grey</u>
+<u n="136" who="S0636" trans="overlap">oh yeah</u>
+<u n="137" who="S0637">my ears are gnarled my eyes are old and bent</u>
+<u n="138" who="S0632"><vocal desc="laugh"/> my ears gnarled <vocal desc="laugh"/></u>
+<u n="139" who="S0637">my legs are grey my ears are gnarled my eyes are old and bent</u>
+<u n="140" who="S0632"><vocal desc="laugh"/></u>
+<u n="141" who="S0630"><unclear/></u>
+<u n="142" who="S0636">but we all still feel sixteen up here <vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="143" who="S0637"><vocal desc="whistle"/></u>
+<u n="144" who="S0632">soon be time for Eurovision again</u>
+<u n="145" who="S0630">I think they do the songs this week don't they?</u>
+<u n="146" who="S0632">yeah the the er semifinals or something</u>
+<u n="147" who="S0630">yeah <unclear/></u>
+<u n="148" who="S0637" trans="overlap">Song for Europe</u>
+<u n="149" who="S0632">Song for Europe</u>
+<u n="150" who="S0630">you've got to represent the <trunc>s</trunc></u>
+<u n="151" who="S0632">and me and <anon type="name" nameType="m"/> are gonna work on our entry for next year <vocal desc="laugh"/></u>
+<u n="152" who="S0630">yeah <pause dur="short"/> I don't think <unclear/> won't beat them foreign countries out voting block</u>
+<u n="153" who="S0632">we'll never win <unclear/> was a nice one</u>
+<u n="154" who="S0637" trans="overlap">well they're changing the voting aren't they?</u>
+<u n="155" who="S0632">are they changing it?</u>
+<u n="156" who="S0637" trans="overlap">next time yeah</u>
+<u n="157" who="S0632">oh I didn't know that</u>
+<u n="158" who="S0637">yeah I haven't into how they're changing it but they're changing it</u>
+<u n="159" who="S0632">changing it somehow</u>
+<u n="160" who="S0637">yeah</u>
+<u n="161" who="S0630">well they've got to cos of all them</u>
+<u n="162" who="S0632"><vocal desc="laugh"/></u>
+<u n="163" who="S0630">little countries vote ten each and you <unclear>haven't</unclear> got a choice</u>
+<u n="164" who="S0632"><vocal desc="laugh"/> UK nil points</u>
+<u n="165" who="S0630">yeah that's it</u>
+<u n="166" who="S0637" trans="overlap">yeah that'll be it</u>
+<u n="167" who="S0632"><vocal desc="laugh"/></u>
+<u n="168" who="S0630">and we lost Wogan so we shan't have him <unclear>chanting away</unclear> at</u>
+<u n="169" who="S0637">mm no</u>
+<u n="170" who="S0632">mm no he hadn't presented it for a few years anyway though</u>
+<u n="171" who="S0630"><unclear>no well I mean well</unclear></u>
+<u n="172" who="S0632">it's Graham Norton now <vocal desc="laugh"/></u>
+<u n="173" who="S0630">yeah</u>
+<u n="174" who="S0637">got to be Irish</u>
+<u n="175" who="S0632">got to be Irish that's the criteria</u>
+<u n="176" who="S0630">yeah that is true</u>
+<u n="177" who="S0632">have an Irish presenter a cheeky Irish presenter preferably</u>
+<u n="178" who="S0637">uhu</u>
+<u n="179" who="S0630">mm</u>
+<u n="180" who="S0632"><vocal desc="laugh"/></u>
+<u n="181" who="S0630">with a sense of humour</u>
+<u n="182" who="S0632" trans="overlap">and make slightly yeah <pause dur="short"/> make the right sort of comments about the er</u>
+<u n="183" who="S0630"><unclear/></u>
+<u n="184" who="S0632">yeah <pause dur="long"/> it's part of what you watch it for isn't it? I used to <trunc>wa</trunc> look forward to Terry's comments on things <vocal desc="laugh"/></u>
+<u n="185" who="S0630">mm mm</u>
+<u n="186" who="S0632"><vocal desc="laugh"/> so he got into too much trouble</u>
+<u n="187" who="S0630"><vocal desc="laugh"/></u>
+<u n="188" who="S0637">he made it though really</u>
+<u n="189" who="S0632">yeah it's it's the way to make it appeal to the British public really</u>
+<u n="190" who="S0637">cos I think nobody really watched the Eurovision Song Contest until Terry Wogan got involved</u>
+<u n="191" who="S0632">really?</u>
+<u n="192" who="S0637">yeah I think extremely low viewing figures but it's true Wogan's made it</u>
+<u n="193" who="S0632">mm <pause dur="long"/> such huge events now they're like little song Olympics</u>
+<u n="194" who="S0637">mm exactly what it is really</u>
+<u n="195" who="S0632">the song Olympics</u>
+<u n="196" who="S0637">only it's a meritocracy</u>
+<u n="197" who="S0632">only it's not a meritocracy no there isn't an independent judging panel and timers <vocal desc="laugh"/> it's much harder to measure a song isn't it subjectively than it is go you ran that bit the fastest?</u>
+<u n="198" who="S0637">it's not about it's never been about the song it's all <trunc>b</trunc>been it's was in about political affiliations</u>
+<u n="199" who="S0632">I guess so although I feel like they pick their favourite song from their political affiliates</u>
+<u n="200" who="S0637">yeah</u>
+<u n="201" who="S0632">so still like the best of that bunch</u>
+<u n="202" who="S0637">mm</u>
+<u n="203" who="S0632">but we might as well not be in the competition <vocal desc="laugh"/> cos we're not in the competition</u>
+<u n="204" who="S0637"><unclear>dancing</unclear></u>
+<u n="205" who="S0632"><vocal desc="laugh"/> but what won that year? was that the fairy tale year?</u>
+<u n="206" who="S0637">I can't remember I only remember Verda Serduchka</u>
+<u n="207" who="S0632">and you liked it so much</u>
+<u n="208" who="S0637"><vocal desc="whistle"/></u>
+<u n="209" who="S0632">but there was one year that Lordi won</u>
+<u n="210" who="S0637">was that the year oh might yeah <pause dur="short"/> yeah cos they're from are they Finnish?</u>
+<u n="211" who="S0632">yeah I think they're Finnish</u>
+<u n="212" who="S0637" trans="overlap">or they're yeah <pause dur="short"/> from</u>
+<u n="213" who="S0630" trans="overlap">dinner's ready</u>
+<u n="214" who="S0632">dinner's ready</u>
+<u n="215" who="S0630">dinner's ready yes</u>
+<u n="216" who="S0632">yay</u>
+<u n="217" who="S0637" trans="overlap">woo-hoo yay</u>
+<u n="218" who="S0630"><unclear/></u>
+<u n="219" who="S0632"><vocal desc="laugh"/></u>
+<u n="220" who="S0630"><vocal desc="laugh"/></u>
+<u n="221" who="S0632">I'm so excited</u>
+<u n="222" who="S0638">look at him go</u>
+<u n="223" who="S0632">look he's going</u>
+<u n="224" who="S0638" trans="overlap">I like positive <anon type="name" nameType="m"/></u>
+<u n="225" who="S0632"><vocal desc="laugh"/> he's a positive man with a positive attitude</u>
+<u n="226" who="S0638">I like that</u>
+<u n="227" who="S0632">outlook on life</u>
+<u n="228" who="S0638">about time</u>
+<u n="229" who="S0632">sunny <anon type="name" nameType="m"/> I call him <vocal desc="laugh"/></u>
+<u n="230" who="S0638"><vocal desc="laugh"/></u>
+<u n="231" who="S0632"><vocal desc="laugh"/></u>
+<u n="232" who="S0638">I've waited a long time for this his <unclear>developments</unclear></u>
+<u n="233" who="S0637" trans="overlap">yeah</u>
+<u n="234" who="S0632"><anon type="name" nameType="m"/> and sunshine bubbles <anon type="name" nameType="n"/> <vocal desc="laugh"/></u>
+<u n="235" who="S0630"><vocal desc="laugh"/> <unclear/></u>
+<u n="236" who="S0632">I'll go get myself a</u>
+<u n="237" who="S0638" trans="overlap">she can run her own race</u>
+<u n="238" who="S0636" trans="overlap">she can yeah she can</u>
+<u n="239" who="S0630">what's what have you done with your phone now? what you done to that?</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

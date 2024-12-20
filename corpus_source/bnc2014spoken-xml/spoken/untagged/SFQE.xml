@@ -1,0 +1,929 @@
+<text id="SFQE">
+	<header>
+		<rec_length>0:23:37</rec_length>
+		<rec_date>2015-10-24</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q4</rec_period>
+		<n_speakers>4</n_speakers>
+		<list_speakers>S0511 S0512 S0513 S0514</list_speakers>
+		<rec_loc>Dining room at home, Bury St Edmunds, Suffolk</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Research and transcribing, school, IB</topics>
+		<activity>Supper with the boys</activity>
+		<conv_type>Discussing, explaining, Inquiring, Anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0511">
+				<exactage>43</exactage>
+				<age1994>35_44</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>UK</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>RP</dialect_rep>
+				<hab_city>Bury St Edmunds</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>11 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Programme Director</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>French -- limited; Spanish -- limited; Swahili -- limited</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0512">
+				<exactage>12</exactage>
+				<age1994>0_14</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>London</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>RP</dialect_rep>
+				<hab_city>Bury St Edmunds</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>11 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0513">
+				<exactage>14</exactage>
+				<age1994>0_14</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>London</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>R.P.</dialect_rep>
+				<hab_city>Bury St Edmunds</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>11 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>German -- conversational</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0514">
+				<exactage>16</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>London</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>RP</dialect_rep>
+				<hab_city>Bury St Edmunds</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>11 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0511">okay</u>
+<u n="2" who="S0512" trans="overlap">the</u>
+<u n="3" who="S0511">right I've got it we're recording now</u>
+<u n="4" who="S0513" whoConfidence="low">great</u>
+<u n="5" who="S0512" trans="overlap"><unclear>recording</unclear></u>
+<u n="6" who="S0511"><vocal desc="laugh"/></u>
+<u n="7" who="S0512">does that count as a word?</u>
+<u n="8" who="S0511">sorry?</u>
+<u n="9" who="S0512">does that count as a word?</u>
+<u n="10" who="S0513" whoConfidence="low">what?</u>
+<u n="11" who="S0511">great?</u>
+<u n="12" who="S0512" trans="overlap">laughing laughing</u>
+<u n="13" who="S0511">I don't know they probably erm they well they she said they have transcribers didn't she? <pause dur="short"/> so</u>
+<u n="14" who="S0513" trans="overlap">that would be an extremely boring job</u>
+<u n="15" who="S0511">transcribing? a conversation?</u>
+<u n="16" who="S0513">well depends how interesting the conversation was</u>
+<u n="17" who="S0511">well I wonder what other people talk about at dinner</u>
+<u n="18" who="S0514">it's probably</u>
+<u n="19" who="S0513" whoConfidence="low">exactly</u>
+<u n="20" who="S0514" trans="overlap" whoConfidence="low">interesting occasionally</u>
+<u n="21" who="S0511"><vocal desc="laugh"/> when I did my university research I did lots of interviews and aunt <anon type="name" nameType="f"/> transcribed them for me I paid her</u>
+<u n="22" who="S0513">did she find them interesting?</u>
+<u n="23" who="S0511">I think she did yeah</u>
+<u n="24" who="S0513">what were the interviews about?</u>
+<u n="25" who="S0511">I was interviewing people about community finance</u>
+<u n="26" who="S0514">mm riveting</u>
+<u n="27" who="S0511">mm properly erm you're supposed to as a researcher transcribe them yourself because <pause dur="short"/> so that you can really listen to it and because like she might mishear something or if it was like a technically specific word or something erm but kind of the process of transcribing is supposed to kind of like when you start to think about what is erm in the data which is significant so when people say the same things or whatever or similar things</u>
+<u n="28" who="S0514">mm</u>
+<u n="29" who="S0512"><unclear>really good</unclear></u>
+<u n="30" who="S0511">so there you go so I've just been looking at <anon type="name" nameType="m"/>'s CAS thing he's got this like online tool to record all his CAS stuff</u>
+<u n="31" who="S0513"><unclear/></u>
+<u n="32" who="S0512">no it's</u>
+<u n="33" who="S0514" trans="overlap">no Community Action Service it's an IB thing</u>
+<u n="34" who="S0511"><unclear>okay and er</unclear></u>
+<u n="35" who="S0512"><vocal desc="laugh"/></u>
+<u n="36" who="S0513">what where you have to volunteer and stuff?</u>
+<u n="37" who="S0511">yeah that's the <trunc>commun</trunc> is that the community bit or the service bit?</u>
+<u n="38" who="S0514" trans="overlap" whoConfidence="low">that's the service bit</u>
+<u n="39" who="S0511">oh okay</u>
+<u n="40" who="S0513" whoConfidence="low">what's the community bit?</u>
+<u n="41" who="S0514" whoConfidence="low">there isn't one</u>
+<u n="42" who="S0512" trans="overlap">it's the community</u>
+<u n="43" who="S0514" trans="overlap" whoConfidence="low">creativity</u>
+<u n="44" who="S0513" whoConfidence="low">oh sorry</u>
+<u n="45" who="S0511"><vocal desc="laugh"/> actually I think</u>
+<u n="46" who="S0513" trans="overlap" whoConfidence="low"><trunc>ye</trunc></u>
+<u n="47" who="S0511" trans="overlap">you said community not me</u>
+<u n="48" who="S0513" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="49" who="S0512">yeah you said community</u>
+<u n="50" who="S0511"><vocal desc="laugh"/></u>
+<u n="51" who="S0512"><anon type="name" nameType="m"/></u>
+<u n="52" who="S0513" whoConfidence="low">what are you gonna do?</u>
+<u n="53" who="S0514" whoConfidence="low">loads of stuff</u>
+<u n="54" who="S0512"><vocal desc="laugh"/></u>
+<u n="55" who="S0513" whoConfidence="low">that's not very helpful</u>
+<u n="56" who="S0511">and what have you done so far?</u>
+<u n="57" who="S0514" trans="overlap" whoConfidence="low"><unclear>or</unclear> very helpful <pause dur="short"/> er I've done erm</u>
+<u n="58" who="S0512"><vocal desc="laugh"/> everything</u>
+<u n="59" who="S0513" whoConfidence="low">the suspense is killing me</u>
+<u n="60" who="S0511"><vocal desc="laugh"/></u>
+<u n="61" who="S0514" whoConfidence="low">well there's the <anon type="place"/> thing and the work camp mm</u>
+<u n="62" who="S0513" whoConfidence="low">uhu</u>
+<u n="63" who="S0512"><unclear>when have you got</unclear></u>
+<u n="64" who="S0511" trans="overlap">that's volunteering or service as they call it</u>
+<u n="65" who="S0514" whoConfidence="low">yeah er the <unclear>hacking</unclear> club</u>
+<u n="66" who="S0513" whoConfidence="low">mm</u>
+<u n="67" who="S0512"><unclear>oh</unclear></u>
+<u n="68" who="S0514" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="69" who="S0513" whoConfidence="low">a what?</u>
+<u n="70" who="S0514" whoConfidence="low">a hacking club <vocal desc="laugh"/></u>
+<u n="71" who="S0513" whoConfidence="low">well</u>
+<u n="72" who="S0512">hacking club <vocal desc="laugh"/></u>
+<u n="73" who="S0513" whoConfidence="low">don't worry fine</u>
+<u n="74" who="S0511">I don't know what's funny about that I don't think this hacking club's got a name</u>
+<u n="75" who="S0512">what is it called?</u>
+<u n="76" who="S0514" whoConfidence="low"><unclear>root</unclear> access?</u>
+<u n="77" who="S0511">root access?</u>
+<u n="78" who="S0513" trans="overlap" whoConfidence="low">hacking club <vocal desc="laugh"/></u>
+<u n="79" who="S0512"><vocal desc="misc"/></u>
+<u n="80" who="S0514" whoConfidence="low">is this from the internet or something?</u>
+<u n="81" who="S0513" whoConfidence="low">no <vocal desc="laugh"/></u>
+<u n="82" who="S0511">is it ethical hacking club? specifically</u>
+<u n="83" who="S0513" trans="overlap" whoConfidence="low">hacking</u>
+<u n="84" who="S0511" trans="overlap">root access</u>
+<u n="85" who="S0513" trans="overlap" whoConfidence="low">club <vocal desc="laugh"/> oh ethical hacking great <vocal desc="laugh"/></u>
+<u n="86" who="S0511">what do you mean oh ethical hacking great?</u>
+<u n="87" who="S0514" trans="overlap" whoConfidence="low">well it's better than non-ethical</u>
+<u n="88" who="S0512"><vocal desc="laugh"/></u>
+<u n="89" who="S0511">mm exactly <pause dur="short"/> erm</u>
+<u n="90" who="S0514" whoConfidence="low">er what else was there? <pause dur="short"/> erm</u>
+<u n="91" who="S0512" trans="overlap"><unclear>several minutes</unclear></u>
+<u n="92" who="S0514" whoConfidence="low">that's not helpful</u>
+<u n="93" who="S0512" trans="overlap"><unclear>left left on the</unclear></u>
+<u n="94" who="S0513" whoConfidence="low"><unclear/> <trunc>micropho</trunc> where where's the mic?</u>
+<u n="95" who="S0511">I think we'll just yeah carry on <anon type="name" nameType="m"/></u>
+<u n="96" who="S0514" whoConfidence="low">er what was the other thing? <pause dur="short"/> erm</u>
+<u n="97" who="S0511">oh we just put the cos he's helping out at parents' evening</u>
+<u n="98" who="S0514" whoConfidence="low">yeah</u>
+<u n="99" who="S0512">of what then?</u>
+<u n="100" who="S0513" trans="overlap" whoConfidence="low">doing what?</u>
+<u n="101" who="S0512">hacking?</u>
+<u n="102" who="S0514" whoConfidence="low">no</u>
+<u n="103" who="S0512">er</u>
+<u n="104" who="S0514" trans="overlap" whoConfidence="low">er stuff with the maths department</u>
+<u n="105" who="S0513" whoConfidence="low">I helped out on parents' evening once I didn't got bugger all</u>
+<u n="106" who="S0512">I always help out a parents' evening</u>
+<u n="107" who="S0511" trans="overlap">you got bugger all what?</u>
+<u n="108" who="S0513" whoConfidence="low">I got nothing <unclear/> out of parents' evening</u>
+<u n="109" who="S0511">well no</u>
+<u n="110" who="S0513" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="111" who="S0511" trans="overlap">that's what's called helping out</u>
+<u n="112" who="S0514" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="113" who="S0511"><anon type="name" nameType="m"/>'s not getting anything out of it <vocal desc="laugh"/> he's</u>
+<u n="114" who="S0513" whoConfidence="low">well yeah</u>
+<u n="115" who="S0511" trans="overlap">I think he's got more the <trunc>wha</trunc></u>
+<u n="116" who="S0513" trans="overlap" whoConfidence="low">is it a parents' evening or is it open evening?</u>
+<u n="117" who="S0514" whoConfidence="low">open evening</u>
+<u n="118" who="S0513" whoConfidence="low">open evening oh yeah I've done the last one</u>
+<u n="119" who="S0512"><trunc>wha</trunc> er <trunc>wha</trunc></u>
+<u n="120" who="S0513" trans="overlap" whoConfidence="low">I did a parents' evening when I was a captain and er rang a bell every ten minutes</u>
+<u n="121" who="S0511">and er</u>
+<u n="122" who="S0513" trans="overlap" whoConfidence="low">and Mr <anon type="name" nameType="n"/> yelled at us if we were like two seconds late <vocal desc="laugh"/></u>
+<u n="123" who="S0511">well you know what parents' evenings are such a nightmare trying to get everything working so you think you should get something for helping out a parents' evening? <pause dur="short"/> that doesn't like how you know</u>
+<u n="124" who="S0513" trans="overlap" whoConfidence="low">yeah well he's getting</u>
+<u n="125" who="S0511" trans="overlap">it's probably</u>
+<u n="126" who="S0513" trans="overlap" whoConfidence="low">he's</u>
+<u n="127" who="S0511" trans="overlap">fulfilling your captain duties</u>
+<u n="128" who="S0513" trans="overlap" whoConfidence="low">he's get he's getting part of his erm</u>
+<u n="129" who="S0512">CAS</u>
+<u n="130" who="S0513" whoConfidence="low">yeah his</u>
+<u n="131" who="S0512">Community</u>
+<u n="132" who="S0513" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="133" who="S0512" trans="overlap">Action Service</u>
+<u n="134" who="S0514" whoConfidence="low">creativity</u>
+<u n="135" who="S0511">I don't think</u>
+<u n="136" who="S0512" trans="overlap"><unclear/></u>
+<u n="137" who="S0511" trans="overlap">you're supposed to do these things just for doing you know <vocal desc="laugh"/> I think the idea is that you become a better er well the er when <anon type="name" nameType="m"/> puts them on this online system he chooses things that it's like well you know help with learning new challenges or whatever whatever like the learning outcomes from it</u>
+<u n="138" who="S0512">it's just bull</u>
+<u n="139" who="S0514" whoConfidence="low">yeah I mean</u>
+<u n="140" who="S0511"><anon type="name" nameType="m"/> don't swear</u>
+<u n="141" who="S0514" whoConfidence="low">that wasn't swearing it implied swearing</u>
+<u n="142" who="S0513" trans="overlap" whoConfidence="low">implied swearing is the same sound</u>
+<u n="143" who="S0511" trans="overlap">mm</u>
+<u n="144" who="S0513" whoConfidence="low"><unclear/></u>
+<u n="145" who="S0511">thank you <anon type="name" nameType="m"/> for that delightful</u>
+<u n="146" who="S0512" trans="overlap"><vocal desc="misc"/></u>
+<u n="147" who="S0511">brotherly comment</u>
+<u n="148" who="S0512">you're so hoity-toity</u>
+<u n="149" who="S0511" trans="overlap">erm but <anon type="name" nameType="m"/> it occurs to me that</u>
+<u n="150" who="S0513" trans="overlap" whoConfidence="low">oh shut up</u>
+<u n="151" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="152" who="S0511">do you know what hoity-toity was</u>
+<u n="153" who="S0514" trans="overlap" whoConfidence="low">you just dropped the dice your food</u>
+<u n="154" who="S0511">we <trunc>ca</trunc></u>
+<u n="155" who="S0513" trans="overlap" whoConfidence="low">I'll just drop the dice in your face</u>
+<u n="156" who="S0511">if we keep saying</u>
+<u n="157" who="S0514" trans="overlap" whoConfidence="low">yeah you did</u>
+<u n="158" who="S0511" trans="overlap">hoity-toity I bet it'll end up as a really popular word</u>
+<u n="159" who="S0513" whoConfidence="low">hoity-toity hoity-toity</u>
+<u n="160" who="S0514" trans="overlap">er</u>
+<u n="161" who="S0513" trans="overlap" whoConfidence="low">hoity-toity</u>
+<u n="162" who="S0511"><vocal desc="laugh"/></u>
+<u n="163" who="S0514" trans="overlap" whoConfidence="low">I'm not sure about that <vocal desc="laugh"/></u>
+<u n="164" who="S0511" trans="overlap">no that's cheating</u>
+<u n="165" who="S0513" whoConfidence="low"><unclear/> <vocal desc="laugh"/></u>
+<u n="166" who="S0511">erm stop throwing the dice around please <pause dur="short"/> er <anon type="name" nameType="m"/> we haven't talked about theory of knowledge</u>
+<u n="167" who="S0514" trans="overlap" whoConfidence="low"><anon type="name" nameType="m"/></u>
+<u n="168" who="S0512">that was <unclear/> <vocal desc="laugh"/></u>
+<u n="169" who="S0514" whoConfidence="low">right</u>
+<u n="170" who="S0511">for weeks</u>
+<u n="171" who="S0513" whoConfidence="low">he's not very good at it</u>
+<u n="172" who="S0511">what how are we doing in theory of knowledge? what do we</u>
+<u n="173" who="S0514" trans="overlap" whoConfidence="low">fine</u>
+<u n="174" who="S0511" trans="overlap">now know?</u>
+<u n="175" who="S0512">theorising</u>
+<u n="176" who="S0514" trans="overlap" whoConfidence="low">nothing</u>
+<u n="177" who="S0512" trans="overlap">knowledge?</u>
+<u n="178" who="S0514" whoConfidence="low">mm</u>
+<u n="179" who="S0511">well what have you done? so you've been doing it for half a term now like what</u>
+<u n="180" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="181" who="S0511">on earth have you done? <vocal desc="laugh"/></u>
+<u n="182" who="S0514" whoConfidence="low">well</u>
+<u n="183" who="S0513" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="184" who="S0512">bugger all</u>
+<u n="185" who="S0514" whoConfidence="low">mm <pause dur="short"/> not very much really</u>
+<u n="186" who="S0513" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="187" who="S0511">well what happens in the sessions?</u>
+<u n="188" who="S0514" whoConfidence="low">there was some watching videos and stuff</u>
+<u n="189" who="S0511">about what?</u>
+<u n="190" who="S0513" trans="overlap" whoConfidence="low">and erm having</u>
+<u n="191" who="S0514" whoConfidence="low">like mm</u>
+<u n="192" who="S0513" trans="overlap" whoConfidence="low">mm</u>
+<u n="193" who="S0514" trans="overlap" whoConfidence="low">there was stuff about colour perception <pause dur="short"/> we did it for a bit</u>
+<u n="194" who="S0511" trans="overlap"><anon type="name" nameType="m"/> doesn't have any colour perception <vocal desc="laugh"/></u>
+<u n="195" who="S0513" whoConfidence="low">oh shut up</u>
+<u n="196" who="S0513" whoConfidence="low">I do but I can tell the difference between red and blue</u>
+<u n="197" who="S0511">okay</u>
+<u n="198" who="S0514" trans="overlap" whoConfidence="low">er</u>
+<u n="199" who="S0511">what so that's a good point right</u>
+<u n="200" who="S0514" trans="overlap" whoConfidence="low">stuff like that</u>
+<u n="201" who="S0511">so when</u>
+<u n="202" who="S0513" trans="overlap" whoConfidence="low">how many hours a week do you do this?</u>
+<u n="203" who="S0514" whoConfidence="low">what gives words meaning</u>
+<u n="204" who="S0513" whoConfidence="low">hello</u>
+<u n="205" who="S0514" whoConfidence="low">we started doing the more complicated</u>
+<u n="206" who="S0512" trans="overlap">hello</u>
+<u n="207" who="S0514" whoConfidence="low">logic stuff and it turns out the teacher doesn't understand it and completely failed</u>
+<u n="208" who="S0511">great</u>
+<u n="209" who="S0514" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="210" who="S0511">so hang on a minute the colour perception cos that's gonna be <unclear/> because you know you and I know that that's blue but <anon type="name" nameType="m"/></u>
+<u n="211" who="S0513" trans="overlap" whoConfidence="low">no it's not</u>
+<u n="212" who="S0511">knows it's black <vocal desc="laugh"/></u>
+<u n="213" who="S0514" whoConfidence="low">mm</u>
+<u n="214" who="S0511">so I guess that it's</u>
+<u n="215" who="S0512" trans="overlap">well <anon type="name" nameType="m"/>'s <unclear/></u>
+<u n="216" who="S0511" trans="overlap">quite a good <vocal desc="laugh"/> but that's quite a good example then</u>
+<u n="217" who="S0512" trans="overlap">cos it's</u>
+<u n="218" who="S0511" trans="overlap">of like how</u>
+<u n="219" who="S0512" trans="overlap">well</u>
+<u n="220" who="S0511" trans="overlap" whoConfidence="low">we know whether</u>
+<u n="221" who="S0512" trans="overlap">but it's</u>
+<u n="222" who="S0511" trans="overlap">or not we know</u>
+<u n="223" who="S0512"><unclear/></u>
+<u n="224" who="S0513" trans="overlap" whoConfidence="low">yeah it's <unclear>in my genes</unclear></u>
+<u n="225" who="S0512">yeah</u>
+<u n="226" who="S0513" whoConfidence="low">in the</u>
+<u n="227" who="S0514" trans="overlap">do you know the Monty Hall problem?</u>
+<u n="228" who="S0513" whoConfidence="low">genes and <unclear/></u>
+<u n="229" who="S0511">Monty Hall?</u>
+<u n="230" who="S0514" whoConfidence="low">yeah</u>
+<u n="231" who="S0511">no</u>
+<u n="232" who="S0514" whoConfidence="low">erm so</u>
+<u n="233" who="S0513" whoConfidence="low"><unclear/></u>
+<u n="234" who="S0514" whoConfidence="low">when you've got three doors and there's two goats and a car</u>
+<u n="235" who="S0511">right</u>
+<u n="236" who="S0512">interesting</u>
+<u n="237" who="S0511">oh that if you open the first one</u>
+<u n="238" who="S0513" trans="overlap" whoConfidence="low">oh <trunc>y</trunc>yeah yeah</u>
+<u n="239" who="S0514" trans="overlap" whoConfidence="low">yes that one</u>
+<u n="240" who="S0513" trans="overlap" whoConfidence="low">I know what you mean</u>
+<u n="241" who="S0512" trans="overlap">what <unclear/></u>
+<u n="242" who="S0514" trans="overlap" whoConfidence="low">yeah our teacher gave us the wrong answer to that</u>
+<u n="243" who="S0513" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="244" who="S0512">like what is that sorry?</u>
+<u n="245" who="S0514" whoConfidence="low">you're supposed to choose another door</u>
+<u n="246" who="S0511" trans="overlap">explain it to <anon type="name" nameType="m"/></u>
+<u n="247" who="S0514" whoConfidence="low">yeah er <event desc="sound of cutlery"/></u>
+<u n="248" who="S0512">oh yeah</u>
+<u n="249" who="S0514" trans="overlap" whoConfidence="low">well</u>
+<u n="250" who="S0512" trans="overlap">oh yeah</u>
+<u n="251" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="252" who="S0512">yeah I</u>
+<u n="253" who="S0514" trans="overlap" whoConfidence="low">yeah yeah our</u>
+<u n="254" who="S0511"><vocal desc="laugh"/></u>
+<u n="255" who="S0514" trans="overlap" whoConfidence="low">teacher said that that's <trunc>li</trunc> an illusion and you're not supposed to choose another door it's the same for most of the lesson <vocal desc="laugh"/></u>
+<u n="256" who="S0513" whoConfidence="low">wait how does how does it <trunc>w</trunc>wait do it again to me erm can't remember it</u>
+<u n="257" who="S0514" whoConfidence="low">so there's three doors</u>
+<u n="258" who="S0511" trans="overlap">can I have your leftover food?</u>
+<u n="259" who="S0514" trans="overlap" whoConfidence="low">er there's a goat behind two of them and a car behind one of them</u>
+<u n="260" who="S0513" whoConfidence="low">yeah</u>
+<u n="261" who="S0514" trans="overlap" whoConfidence="low">you choose one then someone opens another door and it has a goat behind it should you <trunc>sh</trunc> change which one you choose assuming you want a car</u>
+<u n="262" who="S0513" whoConfidence="low">yeah because then you've got a fifty-fifty chance right</u>
+<u n="263" who="S0511">mm</u>
+<u n="264" who="S0514" whoConfidence="low">er</u>
+<u n="265" who="S0512" trans="overlap">but you have</u>
+<u n="266" who="S0514" trans="overlap" whoConfidence="low">actually it's a two-thirds chance</u>
+<u n="267" who="S0512">if you change</u>
+<u n="268" who="S0513" whoConfidence="low">is it?</u>
+<u n="269" who="S0514" whoConfidence="low">mm</u>
+<u n="270" who="S0512" trans="overlap">yeah</u>
+<u n="271" who="S0511">so I so you</u>
+<u n="272" who="S0512" trans="overlap">but <unclear/></u>
+<u n="273" who="S0514" trans="overlap" whoConfidence="low">what you're effectively doing is choosing both the goat the both your already opened door and the car one</u>
+<u n="274" who="S0511">hang on a minute</u>
+<u n="275" who="S0514" trans="overlap" whoConfidence="low">and the other one</u>
+<u n="276" who="S0511">can we just start</u>
+<u n="277" who="S0514" trans="overlap" whoConfidence="low">and taking whichever one's</u>
+<u n="278" who="S0511">hang on a minute can we just start again? so I've got a door</u>
+<u n="279" who="S0514" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="280" who="S0511">A B and C</u>
+<u n="281" who="S0514" whoConfidence="low">yeah</u>
+<u n="282" who="S0511">and there are there behind them there's two goats and a car and</u>
+<u n="283" who="S0514" trans="overlap" whoConfidence="low">yes</u>
+<u n="284" who="S0511">we're assuming you want the car</u>
+<u n="285" who="S0514" whoConfidence="low">yeah</u>
+<u n="286" who="S0511">so in my head I'm going to choose door A</u>
+<u n="287" who="S0514" whoConfidence="low">you say you choose <trunc>d</trunc> you're going to choose door A</u>
+<u n="288" who="S0511" trans="overlap">okay I choose door A</u>
+<u n="289" who="S0514" whoConfidence="low">yeah and then</u>
+<u n="290" who="S0511">does it get opened?</u>
+<u n="291" who="S0514" whoConfidence="low">someone else opens say</u>
+<u n="292" who="S0512" trans="overlap">door</u>
+<u n="293" who="S0514" whoConfidence="low">door B and there's a goat behind it</u>
+<u n="294" who="S0511">okay</u>
+<u n="295" who="S0514" whoConfidence="low">should you switch?</u>
+<u n="296" who="S0511" trans="overlap">so</u>
+<u n="297" who="S0512">to door C</u>
+<u n="298" who="S0511" trans="overlap">and I know that the truth is you should</u>
+<u n="299" who="S0514" whoConfidence="low">yes</u>
+<u n="300" who="S0511" trans="overlap">so when I've made my first decision there was a one in three</u>
+<u n="301" who="S0514" whoConfidence="low">yeah</u>
+<u n="302" who="S0511">chance</u>
+<u n="303" who="S0512" trans="overlap">yes</u>
+<u n="304" who="S0514" whoConfidence="low">so what you're gonna effectively do now is choose both the other doors and take whichever one is right</u>
+<u n="305" who="S0511">how can I do that?</u>
+<u n="306" who="S0514" whoConfidence="low">well if you <trunc>choo</trunc> if you swap to the other one</u>
+<u n="307" who="S0511">C?</u>
+<u n="308" who="S0514" whoConfidence="low">yeah</u>
+<u n="309" who="S0512">yeah</u>
+<u n="310" who="S0514" whoConfidence="low">then you er it's like a way of imagining it it just if you swap to the other one then there's a chance that the car we can I dunno I don't know how to explain it better than you can effectively choose the other two</u>
+<u n="311" who="S0511"><vocal desc="laugh"/> you're really not cut out for a teacher are you? so <vocal desc="laugh"/> behind door we can now disregard door B</u>
+<u n="312" who="S0514" whoConfidence="low">yeah</u>
+<u n="313" who="S0512" trans="overlap">mm</u>
+<u n="314" who="S0511">let's go and we know</u>
+<u n="315" who="S0514" trans="overlap" whoConfidence="low">well no we can't disregard door B</u>
+<u n="316" who="S0511">ah</u>
+<u n="317" who="S0514" whoConfidence="low">cos there's still three doors</u>
+<u n="318" who="S0512">mm</u>
+<u n="319" who="S0513" trans="overlap" whoConfidence="low">yeah and you just know that <unclear/></u>
+<u n="320" who="S0514" trans="overlap" whoConfidence="low">we just know that one of them has the goat behind it</u>
+<u n="321" who="S0511">and so we've got two remaining doors</u>
+<u n="322" who="S0512">one with a goat</u>
+<u n="323" who="S0511" trans="overlap">and a fifty-fifty chance of one having a goat of of er of either of them having the car?</u>
+<u n="324" who="S0514" whoConfidence="low">yes</u>
+<u n="325" who="S0511">so why does me changing my mind <vocal desc="laugh"/></u>
+<u n="326" who="S0514" whoConfidence="low">well er it's definitely better than the first one because that was a one-third chance</u>
+<u n="327" who="S0511">yes so I so I'm</u>
+<u n="328" who="S0512" trans="overlap">well</u>
+<u n="329" who="S0511" trans="overlap">already down to fifty-fifty</u>
+<u n="330" who="S0514" whoConfidence="low">yeah but</u>
+<u n="331" who="S0511" trans="overlap">so why</u>
+<u n="332" who="S0514" trans="overlap" whoConfidence="low">I think it's also two-thirds I can't in fact remember</u>
+<u n="333" who="S0513" whoConfidence="low">oh great</u>
+<u n="334" who="S0511">but your</u>
+<u n="335" who="S0512" trans="overlap">but if it's</u>
+<u n="336" who="S0511" trans="overlap">teacher had this wrong</u>
+<u n="337" who="S0514" whoConfidence="low">yeah</u>
+<u n="338" who="S0513" whoConfidence="low">what did he say? or she</u>
+<u n="339" who="S0514" trans="overlap" whoConfidence="low">he said that that's like an illusion and you're supposed to it doesn't <trunc>ma</trunc>matter whether you</u>
+<u n="340" who="S0513" whoConfidence="low">well</u>
+<u n="341" who="S0514" trans="overlap" whoConfidence="low">do any way</u>
+<u n="342" who="S0512" trans="overlap">I it I er</u>
+<u n="343" who="S0514" trans="overlap" whoConfidence="low">and he also backed this up with some really rubbish statistics where basically</u>
+<u n="344" who="S0511" trans="overlap">mm</u>
+<u n="345" who="S0514" whoConfidence="low">we did it three times</u>
+<u n="346" who="S0511">mm</u>
+<u n="347" who="S0514" whoConfidence="low">and did it four times sorry and we got a fifty percent chance of getting the car but the person who was doing it didn't always switch or stay</u>
+<u n="348" who="S0511">right so that you're and so the you weren't doing the same</u>
+<u n="349" who="S0514" whoConfidence="low">yeah</u>
+<u n="350" who="S0511" trans="overlap">thing over so you can</u>
+<u n="351" who="S0513" trans="overlap" whoConfidence="low">that's just bloody stupid isn't it?</u>
+<u n="352" who="S0514" trans="overlap" whoConfidence="low">yes it is</u>
+<u n="353" who="S0511">so <trunc>d</trunc> are you saying that towards the end of the lesson you managed to convince the teacher of what <trunc>was</trunc>wasn't right?</u>
+<u n="354" who="S0514" whoConfidence="low">yes</u>
+<u n="355" who="S0511">and how did you do that?</u>
+<u n="356" who="S0514" whoConfidence="low">one of the people in our class did a good explanation of it</u>
+<u n="357" who="S0511">erm and convinced the teacher?</u>
+<u n="358" who="S0514" whoConfidence="low">yeah</u>
+<u n="359" who="S0513" whoConfidence="low">really? <vocal desc="laugh"/></u>
+<u n="360" who="S0511"><vocal desc="laugh"/> okay I can't believe the teacher was teaching like did he by mistake start doing this? or was this like did he have like <trunc>m</trunc> the materials to do this problem?</u>
+<u n="361" who="S0514" whoConfidence="low">mm he had materials to do the problem</u>
+<u n="362" who="S0511">well and actually he had got the answer wrong?</u>
+<u n="363" who="S0514" whoConfidence="low">yeah</u>
+<u n="364" who="S0511"><vocal desc="laugh"/> that's unbelievable</u>
+<u n="365" who="S0513" whoConfidence="low">yeah</u>
+<u n="366" who="S0511">is that because he was like you know your other teacher <anon type="name" nameType="m"/> who as far as I can tell is actually younger than you? <vocal desc="laugh"/></u>
+<u n="367" who="S0514" whoConfidence="low">he's not that young</u>
+<u n="368" who="S0511"><vocal desc="laugh"/></u>
+<u n="369" who="S0512">what age is he?</u>
+<u n="370" who="S0513" trans="overlap" whoConfidence="low">neither are you</u>
+<u n="371" who="S0514" whoConfidence="low">I dunno</u>
+<u n="372" who="S0511"><anon type="name" nameType="m"/> now put your phone down please <pause dur="long"/> well at least he backed down I mean that's good</u>
+<u n="373" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="374" who="S0511">that and that's reasonably unusual as well how many people are in your <unclear>TOC</unclear> lessons?</u>
+<u n="375" who="S0514" whoConfidence="low">er</u>
+<u n="376" who="S0513" whoConfidence="low"><vocal desc="laugh"/> TOC <unclear/></u>
+<u n="377" who="S0514" whoConfidence="low">like eighteen maybe?</u>
+<u n="378" who="S0513" whoConfidence="low"><unclear/> maybe</u>
+<u n="379" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="380" who="S0511">oh so quite a lot then</u>
+<u n="381" who="S0513" whoConfidence="low"><vocal desc="laugh"/> <unclear/></u>
+<u n="382" who="S0511"><anon type="name" nameType="m"/> this goulash it's very nice</u>
+<u n="383" who="S0513" whoConfidence="low">mm</u>
+<u n="384" who="S0512">would you like to finish mine?</u>
+<u n="385" who="S0511">no I'm just finishing off <anon type="name" nameType="m"/>'s</u>
+<u n="386" who="S0512"><unclear/></u>
+<u n="387" who="S0511" trans="overlap">besides I'm supposed to stop finishing off everybody's food now I've come back from <unclear>the clinic</unclear></u>
+<u n="388" who="S0513" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="389" who="S0511">no it's really very nice I can't understand how they <pause dur="short"/> mm say that this is for two people <pause dur="short"/> it's just absolutely bizarre</u>
+<u n="390" who="S0513" whoConfidence="low">yeah I know I can't believe that one person could eat it I mean it's disgusting</u>
+<u n="391" who="S0511">oh <anon type="name" nameType="m"/> it's not disgusting you've eaten some of yours and you should be really like the thing you cooked</u>
+<u n="392" who="S0513" whoConfidence="low">well it's not very</u>
+<u n="393" who="S0512" trans="overlap">surely he has more</u>
+<u n="394" who="S0513" trans="overlap" whoConfidence="low">why not?</u>
+<u n="395" who="S0514" whoConfidence="low">you were only using a recipe</u>
+<u n="396" who="S0513" whoConfidence="low">yeah</u>
+<u n="397" who="S0511">well I suppose <pause dur="short"/> they say one of the reasons to get kids to do cooking is that they're they're more likely to kind of enjoy it if they've made it themselves</u>
+<u n="398" who="S0514" whoConfidence="low">mm</u>
+<u n="399" who="S0511" trans="overlap">that's what they say you know that kind of contributing to the process</u>
+<u n="400" who="S0514" trans="overlap" whoConfidence="low">I'm not quite sure about that</u>
+<u n="401" who="S0513" whoConfidence="low">if you do like it then it's nicer if you've made it but if you</u>
+<u n="402" who="S0511" trans="overlap">okay</u>
+<u n="403" who="S0513" trans="overlap" whoConfidence="low">if it tastes horrible then it's just you know horrible</u>
+<u n="404" who="S0511" trans="overlap">but it's not horrible oh maybe the problem is</u>
+<u n="405" who="S0514" trans="overlap" whoConfidence="low">if you make it you have</u>
+<u n="406" who="S0511" trans="overlap">you're not having sour cream with yours</u>
+<u n="407" who="S0514" whoConfidence="low">if you make it</u>
+<u n="408" who="S0513" trans="overlap" whoConfidence="low">just</u>
+<u n="409" who="S0514" whoConfidence="low">you have some control</u>
+<u n="410" who="S0513" trans="overlap" whoConfidence="low">not very nice</u>
+<u n="411" who="S0514" trans="overlap" whoConfidence="low">over it and you can get rid of the worst bits</u>
+<u n="412" who="S0511">what the so the sour cream bits yeah?</u>
+<u n="413" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="414" who="S0513" whoConfidence="low">yeah mm</u>
+<u n="415" who="S0511"><vocal desc="laugh"/> mm <unclear/> there was an unused bay leaf in a little bag saying bay leaf</u>
+<u n="416" who="S0513" whoConfidence="low">yeah I just got one from the garden</u>
+<u n="417" who="S0511">yeah and I said oh you <trunc>wa</trunc> from the garden yeah I don't know though I sort of wonder with bay leaves if the drying process kind of intensifies the flavour?</u>
+<u n="418" who="S0513" whoConfidence="low">could be</u>
+<u n="419" who="S0511">there's some things</u>
+<u n="420" who="S0513" trans="overlap" whoConfidence="low">I dunno</u>
+<u n="421" who="S0511">yeah <pause dur="short"/> but you know good cooking all round these last three days well done guys</u>
+<u n="422" who="S0512"><unclear/> were exceptionally nice <pause dur="short"/> all of all of all of</u>
+<u n="423" who="S0511" trans="overlap">the meat in yours was really nice</u>
+<u n="424" who="S0512">yeah the meat was but it all in all</u>
+<u n="425" who="S0511">no I don't think when we get these cos they always tend to be a bit posh the recipes er I think you tend to not you know you're like a bit of a one meal though you don't tend to like the whole <pause dur="short"/> do you?</u>
+<u n="426" who="S0514" whoConfidence="low">if <anon type="name" nameType="m"/> carries on like this the new favourite word for Britain is going to be rolls dice</u>
+<u n="427" who="S0512"><vocal desc="laugh"/></u>
+<u n="428" who="S0511"><vocal desc="laugh"/> well cos of the noise like you can imagine they're</u>
+<u n="429" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="430" who="S0511">putting it in square brackets rolls dice drops dice has dice flung at him by mother that kind of thing</u>
+<u n="431" who="S0512">and an or <trunc>li</trunc></u>
+<u n="432" who="S0511" trans="overlap"><unclear/></u>
+<u n="433" who="S0512">has <trunc>d</trunc>dice stuck up arse</u>
+<u n="434" who="S0511"><anon type="name" nameType="m"/> don't be rude erm after you left us</u>
+<u n="435" who="S0512" trans="overlap"><vocal desc="laugh"/></u>
+<u n="436" who="S0511" trans="overlap">in <anon type="place"/> earlier <anon type="name" nameType="m"/> erm I erm came across er</u>
+<u n="437" who="S0513" trans="overlap" whoConfidence="low">you mean after you abandoned me in an unknown place?</u>
+<u n="438" who="S0511">no I I</u>
+<u n="439" who="S0514" trans="overlap" whoConfidence="low"><unclear>you wanted to go</unclear></u>
+<u n="440" who="S0511" trans="overlap">gave you a map to walk to the train station with which you complete disregarded</u>
+<u n="441" who="S0513" trans="overlap" whoConfidence="low">you drew a map</u>
+<u n="442" who="S0514" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="443" who="S0513" whoConfidence="low">which was utterly shit <vocal desc="laugh"/></u>
+<u n="444" who="S0512">it wasn't</u>
+<u n="445" who="S0511">it wasn't</u>
+<u n="446" who="S0512">and I have the <unclear/></u>
+<u n="447" who="S0514" trans="overlap" whoConfidence="low">do you still have the map?</u>
+<u n="448" who="S0513" whoConfidence="low">yes it's in the kitchen I think</u>
+<u n="449" who="S0514" whoConfidence="low">right</u>
+<u n="450" who="S0511">it's just but it's perfect er yeah I I said to the others that I'd get a map of <anon type="place"/> and overlay so you can see how perfect it is <pause dur="short"/> I mean yeah I just don't know what you did but once you went wrong to begin with then you were <trunc>ab</trunc> anyway after you <trunc>li</trunc> after we separated erm I discovered that er er that that perhaps my refusal to use violence all these years was a bad idea because er <anon type="name" nameType="m"/> was saying</u>
+<u n="451" who="S0514" trans="overlap" whoConfidence="low">you <unclear>did</unclear>?</u>
+<u n="452" who="S0511" trans="overlap">something and it was annoying so I hit him over the head with a roll of newspaper and he stopped</u>
+<u n="453" who="S0512"><vocal desc="laugh"/></u>
+<u n="454" who="S0513" whoConfidence="low">mm</u>
+<u n="455" who="S0514" whoConfidence="low">temporarily</u>
+<u n="456" who="S0513" whoConfidence="low">oh you're a genius mum</u>
+<u n="457" who="S0511">yeah it was you know and it was also remarkably satisfying</u>
+<u n="458" who="S0512"><vocal desc="laugh"/></u>
+<u n="459" who="S0513" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="460" who="S0511">but then not very long afterwards erm <anon type="name" nameType="m"/> looked like he might be going to hit me and then I realised that modelling was not role modelling was not good</u>
+<u n="461" who="S0512"><vocal desc="laugh"/></u>
+<u n="462" who="S0513" whoConfidence="low">I reckon you <unclear/></u>
+<u n="463" who="S0514" whoConfidence="low">that's really gonna confuse them</u>
+<u n="464" who="S0512" trans="overlap">what this? <vocal desc="laugh"/></u>
+<u n="465" who="S0511" trans="overlap">yeah <anon type="name" nameType="m"/> stop it luvvy</u>
+<u n="466" who="S0512"><vocal desc="misc"/></u>
+<u n="467" who="S0511">well I think that was a <trunc>s</trunc> <trunc>c</trunc> a success</u>
+<u n="468" who="S0513" whoConfidence="low">mm</u>
+<u n="469" who="S0511">and tomorrow you're back to daddy's</u>
+<u n="470" who="S0513" whoConfidence="low">right</u>
+<u n="471" who="S0512">erm</u>
+<u n="472" who="S0511">er</u>
+<u n="473" who="S0512">aren't we like going erm sorry yeah <trunc>n</trunc></u>
+<u n="474" who="S0511"><unclear/></u>
+<u n="475" who="S0512" trans="overlap">we've been going for thirteen minutes</u>
+<u n="476" who="S0513" whoConfidence="low">and?</u>
+<u n="477" who="S0511">we <vocal desc="laugh"/> we're still having supper</u>
+<u n="478" who="S0513" trans="overlap" whoConfidence="low">what were you saying?</u>
+<u n="479" who="S0511">I was saying er so we will go over to daddy's at about four if that's alright</u>
+<u n="480" who="S0513" whoConfidence="low">yeah</u>
+<u n="481" who="S0511">and we'll take erm as much as we can towards your packing for camping</u>
+<u n="482" who="S0513" whoConfidence="low">mm</u>
+<u n="483" who="S0511" trans="overlap">and the rest hopefully is over there</u>
+<u n="484" who="S0513" whoConfidence="low">uhu we can use those <vocal desc="laugh"/></u>
+<u n="485" who="S0511">what do you mean there's er</u>
+<u n="486" who="S0514" trans="overlap" whoConfidence="low">and I'm gonna be dry <vocal desc="laugh"/></u>
+<u n="487" who="S0511"><vocal desc="laugh"/></u>
+<u n="488" who="S0513" whoConfidence="low">yes but <unclear>bored</unclear></u>
+<u n="489" who="S0513" whoConfidence="low">mm I doubt it <vocal desc="laugh"/></u>
+<u n="490" who="S0511">well we'll see <anon type="name" nameType="m"/> luvvy would you just put that down please</u>
+<u n="491" who="S0513" trans="overlap" whoConfidence="low">I can do this again and again</u>
+<u n="492" who="S0511" trans="overlap">and not pick it up again at all?</u>
+<u n="493" who="S0513" whoConfidence="low"><unclear/></u>
+<u n="494" who="S0511" trans="overlap">thank you erm and <trunc>li</trunc> cos I've got to go to London tomorrow night cos I've got to be at a breakfast thing on Monday morning</u>
+<u n="495" who="S0513" whoConfidence="low">oh right</u>
+<u n="496" who="S0514" trans="overlap" whoConfidence="low">breakfast thing?</u>
+<u n="497" who="S0511" trans="overlap">I know why do business people have fucking breakfast things? christ knows at least there will be some food I've checked that there really is</u>
+<u n="498" who="S0514" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="499" who="S0511">sometimes they just do things early in the morning and don't give you food</u>
+<u n="500" who="S0513" whoConfidence="low"><vocal desc="laugh"/> just calling it breakfast</u>
+<u n="501" who="S0511" trans="overlap">yeah <vocal desc="laugh"/> exactly call it a breakfast meeting but don't include any breakfast exactly erm <pause dur="short"/> so er and then I've got like back to back meetings all day and I'll be back late Monday night</u>
+<u n="502" who="S0512"><unclear>fun</unclear></u>
+<u n="503" who="S0511">right does anybody has anyone looked in the fridge since granny was here?</u>
+<u n="504" who="S0514" trans="overlap" whoConfidence="low">oh there's Pots of Joy in the</u>
+<u n="505" who="S0513" trans="overlap" whoConfidence="low">no</u>
+<u n="506" who="S0514" whoConfidence="low">fridge</u>
+<u n="507" who="S0512" trans="overlap">no I'll have a look</u>
+<u n="508" who="S0514" trans="overlap" whoConfidence="low">and some other stuff</u>
+<u n="509" who="S0511">oh there are Pots of Joy I thought cos granny has</u>
+<u n="510" who="S0514" trans="overlap" whoConfidence="low">oh</u>
+<u n="511" who="S0511" trans="overlap">been here is there anything in the pink cupboard?</u>
+<u n="512" who="S0514" whoConfidence="low">yeah I dunno</u>
+<u n="513" who="S0512">er I'll go and check if you want</u>
+<u n="514" who="S0514" trans="overlap" whoConfidence="low">I've no idea</u>
+<u n="515" who="S0511">yeah okay why don't you check? and take a couple of these plates out?</u>
+<u n="516" who="S0514" trans="overlap">I'll take the plates</u>
+<u n="517" who="S0511">oh okay</u>
+<u n="518" who="S0514" whoConfidence="low">just <unclear/></u>
+<u n="519" who="S0511" trans="overlap">thank you</u>
+<u n="520" who="S0512" trans="overlap">er <shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="521" who="S0511" trans="overlap"><anon type="name" nameType="m"/> doesn't have to do anything because he <event desc="sound of plates"/></u>
+<u n="522" who="S0512"><unclear/></u>
+<u n="523" who="S0511">I'm looking forward to seeing what there is</u>
+<u n="524" who="S0514" whoConfidence="low">yeah</u>
+<u n="525" who="S0511"><vocal desc="cough"/></u>
+<u n="526" who="S0514" trans="overlap" whoConfidence="low"><trunc>obvious</trunc> well and <anon type="name" nameType="m"/> has to keep talking</u>
+<u n="527" who="S0511">yeah exactly otherwise there won't be a conversation</u>
+<u n="528" who="S0514" whoConfidence="low">ta-da a work of art</u>
+<u n="529" who="S0511">what? the</u>
+<u n="530" who="S0514" trans="overlap" whoConfidence="low">er er er</u>
+<u n="531" who="S0511" trans="overlap">dice in the box?</u>
+<u n="532" who="S0514" whoConfidence="low">no no because you see on the</u>
+<u n="533" who="S0512">what have you done?</u>
+<u n="534" who="S0514" whoConfidence="low">erm hold on I just</u>
+<u n="535" who="S0511">oh you've put them all in</u>
+<u n="536" who="S0514" trans="overlap" whoConfidence="low">one will go there</u>
+<u n="537" who="S0511" trans="overlap">the same way round?</u>
+<u n="538" who="S0514" whoConfidence="low"><unclear>and two yeah</unclear></u>
+<u n="539" who="S0511">let me see <pause dur="long"/> well why haven't you done them all exactly the same? I don't understand</u>
+<u n="540" who="S0514" whoConfidence="low">they are all exactly the same</u>
+<u n="541" who="S0511">well they're not I mean</u>
+<u n="542" who="S0514" trans="overlap" whoConfidence="low">aren't they?</u>
+<u n="543" who="S0511" trans="overlap">this one's got a three here</u>
+<u n="544" who="S0514" whoConfidence="low">oh bollocks</u>
+<u n="545" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="546" who="S0511"><vocal desc="laugh"/> for instance</u>
+<u n="547" who="S0514" whoConfidence="low">that's oh</u>
+<u n="548" who="S0511">oh are there are there er yogurt Corners? can I have a yogurt Corner please?</u>
+<u n="549" who="S0514" whoConfidence="low">yeah</u>
+<u n="550" who="S0511">and ask if <anon type="name" nameType="n"/> wants a Pot of Joy</u>
+<u n="551" who="S0512" trans="overlap"><unclear/></u>
+<u n="552" who="S0511">thanks</u>
+<u n="553" who="S0512"><unclear/></u>
+<u n="554" who="S0513" trans="overlap" whoConfidence="low">hey</u>
+<u n="555" who="S0511" trans="overlap">thanks <anon type="name" nameType="m"/> luvvy <anon type="name" nameType="m"/> are you seeing <anon type="name" nameType="f"/> tomorrow?</u>
+<u n="556" who="S0513">erm Monday oh the the can't there's I can't get to it <vocal desc="laugh"/></u>
+<u n="557" who="S0514">oh</u>
+<u n="558" who="S0511" trans="overlap">oh yeah</u>
+<u n="559" who="S0514" whoConfidence="low">yeah</u>
+<u n="560" who="S0511" trans="overlap">should be more careful when you're putting it together I thought that that one was because er</u>
+<u n="561" who="S0513" trans="overlap" whoConfidence="low">yeah</u>
+<u n="562" who="S0511" trans="overlap">you were being artistic</u>
+<u n="563" who="S0514" whoConfidence="low">really you should have done that first time</u>
+<u n="564" who="S0513" trans="overlap" whoConfidence="low">I know well</u>
+<u n="565" who="S0511">oh really you should have been able to achieve this first time I'm with I'm <anon type="name" nameType="m"/> on this <pause dur="short"/> can I just have a teeny teeny tiny taste of your chocolate?</u>
+<u n="566" who="S0513" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="567" who="S0511">I always er <pause dur="short"/> they are nice</u>
+<u n="568" who="S0513" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="569" who="S0511">on Monday</u>
+<u n="570" who="S0512">defenestrate</u>
+<u n="571" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="572" who="S0513" whoConfidence="low">okay?</u>
+<u n="573" who="S0512"><vocal desc="laugh"/> <event desc="sound of cutlery"/></u>
+<u n="574" who="S0514" whoConfidence="low">sometimes</u>
+<u n="575" who="S0511" trans="overlap">oops</u>
+<u n="576" who="S0514" trans="overlap" whoConfidence="low">people use defenestrate for uninstall Windows</u>
+<u n="577" who="S0512">well fenestrate or <trunc>some</trunc></u>
+<u n="578" who="S0511"><trunc>r</trunc> do they? who told you that?</u>
+<u n="579" who="S0514" whoConfidence="low">er internet would be that will be un-Windowed soon</u>
+<u n="580" who="S0511">that yeah that would be uninstalled what like throwing them out a window which I guess it might be how you'd go about getting rid of a window like if it was an upstairs window you'd like</u>
+<u n="581" who="S0514" whoConfidence="low">as in computer Windows</u>
+<u n="582" who="S0511">oh I see sorry <vocal desc="laugh"/></u>
+<u n="583" who="S0514" trans="overlap" whoConfidence="low">yeah doh</u>
+<u n="584" who="S0511"><vocal desc="laugh"/> sorry I just I thought well installing windows I didn't think of it as being Windows</u>
+<u n="585" who="S0514" whoConfidence="low">oh my god <vocal desc="laugh"/></u>
+<u n="586" who="S0511">I'm not <vocal desc="laugh"/> when I think of a window I don't automatically think of bloody computers</u>
+<u n="587" who="S0513" whoConfidence="low"><trunc>ye</trunc> when you</u>
+<u n="588" who="S0514" trans="overlap" whoConfidence="low">neither do we</u>
+<u n="589" who="S0513" trans="overlap" whoConfidence="low">use the word uninstall <vocal desc="laugh"/></u>
+<u n="590" who="S0511">well yeah you install windows like you know</u>
+<u n="591" who="S0514" whoConfidence="low">true</u>
+<u n="592" who="S0511"><vocal desc="laugh"/></u>
+<u n="593" who="S0513" whoConfidence="low">yeah well</u>
+<u n="594" who="S0511" trans="overlap">it's like these words did exist prior to computing you know</u>
+<u n="595" who="S0512">I wish I could defenestrate or uninstall windows out of the window</u>
+<u n="596" who="S0511">you <trunc>cou</trunc> chuck your computer out the window</u>
+<u n="597" who="S0512" trans="overlap">yeah it would be fun I mean like</u>
+<u n="598" who="S0511" trans="overlap">so erm but that's still</u>
+<u n="599" who="S0513" trans="overlap" whoConfidence="low">yeah</u>
+<u n="600" who="S0511"><trunc>i</trunc>inaccurate cos to do</u>
+<u n="601" who="S0513" whoConfidence="low">yeah <unclear>internet</unclear></u>
+<u n="602" who="S0514" whoConfidence="low">yeah</u>
+<u n="603" who="S0511" trans="overlap">no so it's kind of still</u>
+<u n="604" who="S0513" trans="overlap" whoConfidence="low">yeah it's like the</u>
+<u n="605" who="S0511" trans="overlap">kind of sweet I was like in my twenties before I first came across that word</u>
+<u n="606" who="S0512">defenestrate?</u>
+<u n="607" who="S0511">mm</u>
+<u n="608" who="S0512">I'm gonna the exact dictionary definition</u>
+<u n="609" who="S0511">what is the exact dictionary definition?</u>
+<u n="610" who="S0512">the act of throwing someone or something out of a window</u>
+<u n="611" who="S0511">very good</u>
+<u n="612" who="S0513" trans="overlap" whoConfidence="low">which <trunc>di</trunc> which dictionary?</u>
+<u n="613" who="S0511">yeah</u>
+<u n="614" who="S0514" trans="overlap" whoConfidence="low">yeah look it up that's not the exact dictionary definition</u>
+<u n="615" who="S0511">well I bet they're the well it sounds like they could be</u>
+<u n="616" who="S0513" trans="overlap" whoConfidence="low">there is no exact dictionary definition in which case</u>
+<u n="617" who="S0511">I bet they</u>
+<u n="618" who="S0513" trans="overlap" whoConfidence="low">what are you looking in?</u>
+<u n="619" who="S0511">that's probably an an exact <trunc>defin</trunc> a dictionary definition I remember the it was in an email when somebody first used to me I can't remember what it was about but I don't think it was a threat as far as I know</u>
+<u n="620" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="621" who="S0512">in David <trunc>Edd</trunc> David Eddings books it's used three times</u>
+<u n="622" who="S0511">David Eddings?</u>
+<u n="623" who="S0512" trans="overlap">and</u>
+<u n="624" who="S0513" whoConfidence="low">really?</u>
+<u n="625" who="S0512">yeah in three different</u>
+<u n="626" who="S0513" trans="overlap" whoConfidence="low">he wrote the Lord of the Rings rip-offs</u>
+<u n="627" who="S0511">oh there's</u>
+<u n="628" who="S0514" trans="overlap" whoConfidence="low">I'm not quite sure about</u>
+<u n="629" who="S0511" trans="overlap">The Belgariad</u>
+<u n="630" who="S0514" trans="overlap" whoConfidence="low">that but</u>
+<u n="631" who="S0512">The Belgariad and Malloreon erm</u>
+<u n="632" who="S0511">well they use the word defenestrate?</u>
+<u n="633" who="S0512">yeah three times</u>
+<u n="634" who="S0513" whoConfidence="low">three times</u>
+<u n="635" who="S0511">and this is talking about</u>
+<u n="636" who="S0514" trans="overlap" whoConfidence="low"><unclear>he's talking about</unclear></u>
+<u n="637" who="S0511" trans="overlap">windows or computers?</u>
+<u n="638" who="S0512"><trunc>windo</trunc> <vocal desc="laugh"/></u>
+<u n="639" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="640" who="S0512">oh yeah mm</u>
+<u n="641" who="S0513" whoConfidence="low">I've never read them are they any good?</u>
+<u n="642" who="S0512">they're really good but you don't like <unclear/> so</u>
+<u n="643" who="S0511">they might</u>
+<u n="644" who="S0512" trans="overlap">then they do</u>
+<u n="645" who="S0511">predate Lord of the Rings</u>
+<u n="646" who="S0514" trans="overlap" whoConfidence="low">mm when you reread them it turns out they're not actually that good</u>
+<u n="647" who="S0513" whoConfidence="low">no</u>
+<u n="648" who="S0511">well daddy used to say they were brilliant</u>
+<u n="649" who="S0514" trans="overlap" whoConfidence="low">most if it's ripped off out <trunc>o</trunc> out of other books</u>
+<u n="650" who="S0511">but <trunc>i</trunc>is it ripped or there's are aren't they really quite old?</u>
+<u n="651" who="S0514" trans="overlap" whoConfidence="low"><trunc>s</trunc> well</u>
+<u n="652" who="S0513" trans="overlap" whoConfidence="low">well Lord of the Rings</u>
+<u n="653" who="S0514" trans="overlap" whoConfidence="low">I dunno and like Game of Thrones I mean it wasn't written for another twenty years <vocal desc="laugh"/></u>
+<u n="654" who="S0511" trans="overlap">they are quite it might be he</u>
+<u n="655" who="S0514" trans="overlap" whoConfidence="low">but he sometimes <unclear/> there's also plot mistakes</u>
+<u n="656" who="S0511" trans="overlap"><anon type="name" nameType="m"/> where are you going love?</u>
+<u n="657" who="S0513" whoConfidence="low">getting <unclear>another one</unclear></u>
+<u n="658" who="S0512">like</u>
+<u n="659" who="S0511" trans="overlap">mm</u>
+<u n="660" who="S0512">what kind of books like</u>
+<u n="661" who="S0514" whoConfidence="low">there is no normal way in <trunc>t</trunc>to erm</u>
+<u n="662" who="S0512">oh yeah good point</u>
+<u n="663" who="S0514" trans="overlap" whoConfidence="low">the city on the mountain</u>
+<u n="664" who="S0512">that one</u>
+<u n="665" who="S0514" whoConfidence="low">also there's</u>
+<u n="666" who="S0512" trans="overlap"><unclear/></u>
+<u n="667" who="S0514" whoConfidence="low">mm there's</u>
+<u n="668" who="S0512" trans="overlap">that would be</u>
+<u n="669" who="S0514" trans="overlap" whoConfidence="low">there's</u>
+<u n="670" who="S0512" trans="overlap">an interesting one for the record</u>
+<u n="671" who="S0514" trans="overlap" whoConfidence="low">no one agrees how many people it takes to summon a ghost</u>
+<u n="672" who="S0511">well there you go that's a complete narrative glitch <pause dur="short"/> maybe <pause dur="short"/> erm what were we talking about oh I was about to tell <anon type="name" nameType="m"/> about that thing we learnt today at the session we were at <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> <anon type="name" nameType="m"/></u>
+<u n="673" who="S0513" trans="overlap" whoConfidence="low"><unclear/> er?</u>
+<u n="674" who="S0511">erm <trunc>t</trunc> the session we went to after you left</u>
+<u n="675" who="S0513" whoConfidence="low">mm?</u>
+<u n="676" who="S0511">mm was talking about how</u>
+<u n="677" who="S0512" trans="overlap"><unclear>he just said that</unclear></u>
+<u n="678" who="S0511" trans="overlap">rather than doing like personality tests and stuff they can tell so much about people from their erm er Facebook likes and stuff just</u>
+<u n="679" who="S0513" trans="overlap" whoConfidence="low">uhu</u>
+<u n="680" who="S0511">really quite unbelievable actually that</u>
+<u n="681" who="S0512" trans="overlap">with three hundreds likes</u>
+<u n="682" who="S0511">mm</u>
+<u n="683" who="S0512" trans="overlap">sorry they er can more accurately tell what you'll do than your <unclear/></u>
+<u n="684" who="S0511">yeah but with ten likes they can more accurately predict what you'll do than your work colleagues with ten</u>
+<u n="685" who="S0512" trans="overlap">mm</u>
+<u n="686" who="S0511"><trunc>li</trunc> I don't you know I don't think I've ever liked ten things on Facebook but just ten</u>
+<u n="687" who="S0514" trans="overlap" whoConfidence="low">anyway erm <unclear/> doing tonight?</u>
+<u n="688" who="S0511" trans="overlap">and hang on no I no I'm trying to tell you something and the other thing at this thing</u>
+<u n="689" who="S0512" trans="overlap">anyway</u>
+<u n="690" who="S0511">they said with four credit card transactions they could identify you did you get that that? that</u>
+<u n="691" who="S0514" trans="overlap" whoConfidence="low">I think it was four pieces of data surrounding a credit card transaction</u>
+<u n="692" who="S0511">okay that they would literally be able to find you</u>
+<u n="693" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="694" who="S0511">not</u>
+<u n="695" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="696" who="S0511"><trunc>y</trunc> so so knowing</u>
+<u n="697" who="S0514" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="698" who="S0511" trans="overlap">this is somebody who's shopping</u>
+<u n="699" who="S0514" trans="overlap" whoConfidence="low">they'd be able to find</u>
+<u n="700" who="S0513" trans="overlap" whoConfidence="low"><unclear>okay</unclear></u>
+<u n="701" who="S0514" whoConfidence="low">your house</u>
+<u n="702" who="S0511">not from the</u>
+<u n="703" who="S0514" trans="overlap" whoConfidence="low">no your name</u>
+<u n="704" who="S0511">if <trunc>w</trunc></u>
+<u n="705" who="S0514" trans="overlap" whoConfidence="low">erm your from your name probably your house</u>
+<u n="706" who="S0511">so who the the <trunc>d</trunc> various <unclear/> would buy an archery kit and</u>
+<u n="707" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="708" who="S0511">also some <unclear>magnesium</unclear></u>
+<u n="709" who="S0514" whoConfidence="low">that's all</u>
+<u n="710" who="S0511" trans="overlap">or whatever <vocal desc="laugh"/> you're the only person who would meet that criteria but anyway they had this list of things about how you can also separate people on intelligence</u>
+<u n="711" who="S0513" trans="overlap" whoConfidence="low">but what if the four things were milk eggs butter and bread?</u>
+<u n="712" who="S0511"><vocal desc="laugh"/></u>
+<u n="713" who="S0514" whoConfidence="low">yeah I'm not sure it's four things they bought it's stuff like <pause dur="short"/> I dunno maybe</u>
+<u n="714" who="S0511" trans="overlap">the time that you bought the milk?</u>
+<u n="715" who="S0514" whoConfidence="low">yeah</u>
+<u n="716" who="S0511">is that what you mean?</u>
+<u n="717" who="S0514" whoConfidence="low">or</u>
+<u n="718" who="S0511">where you bought the milk</u>
+<u n="719" who="S0514" whoConfidence="low">the last four digits of your credit card number they'll be <unclear>leaks</unclear> lifts</u>
+<u n="720" who="S0511">oh no I don't think it was that sort of identifier</u>
+<u n="721" who="S0514" trans="overlap" whoConfidence="low"><unclear>sort of thing</unclear></u>
+<u n="722" who="S0511" trans="overlap">I don't think it was they could find you online I think it was that yeah er you know somebody buy</u>
+<u n="723" who="S0514" trans="overlap" whoConfidence="low">yeah</u>
+<u n="724" who="S0511">if the person buys milk</u>
+<u n="725" who="S0514" trans="overlap" whoConfidence="low">the</u>
+<u n="726" who="S0511">at night</u>
+<u n="727" who="S0514" whoConfidence="low">yeah</u>
+<u n="728" who="S0513" whoConfidence="low"><unclear/></u>
+<u n="729" who="S0514" trans="overlap" whoConfidence="low">they take a set of data and compare it with other databases and see where it overlaps</u>
+<u n="730" who="S0511">mm</u>
+<u n="731" who="S0513" trans="overlap" whoConfidence="low">yeah but anyone can do that if they had all the data</u>
+<u n="732" who="S0514" whoConfidence="low">well the point is</u>
+<u n="733" who="S0513" trans="overlap" whoConfidence="low">you need the data to do like all the data</u>
+<u n="734" who="S0514" trans="overlap" whoConfidence="low">we do have all the data most of this</u>
+<u n="735" who="S0511" trans="overlap">yeah</u>
+<u n="736" who="S0514" trans="overlap" whoConfidence="low">is an open database this</u>
+<u n="737" who="S0513" trans="overlap" whoConfidence="low">oh you're right the yeah the supermarket</u>
+<u n="738" who="S0511" trans="overlap">yeah</u>
+<u n="739" who="S0514" whoConfidence="low">doesn't doesn't it</u>
+<u n="740" who="S0511">so and they also have these two lists of like things that basically clever people are interested in and</u>
+<u n="741" who="S0513" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="742" who="S0511">things that stupid people are interested in <pause dur="short"/> and some of it wasn't very surprising</u>
+<u n="743" who="S0514" trans="overlap" whoConfidence="low">in terms of IQ</u>
+<u n="744" who="S0511">in terms of IQ yeah so similar so Mozart was</u>
+<u n="745" who="S0514" whoConfidence="low">mm</u>
+<u n="746" who="S0511">erm on the clever people one and erm The Godfather which is actually a series of films that I've never seen but I've been meaning to</u>
+<u n="747" who="S0513" trans="overlap" whoConfidence="low">apparently whenever an orange appears in The Godfather someone's about to die</u>
+<u n="748" who="S0511">is that right? we have we should look in Amazon Prime what what the fuck it is we've got and see</u>
+<u n="749" who="S0512" trans="overlap">yeah Amazon film</u>
+<u n="750" who="S0511" trans="overlap">if we can anyway so and also bizarrely thunderstorms</u>
+<u n="751" who="S0514" whoConfidence="low">what about them?</u>
+<u n="752" who="S0511">clever people like <pause dur="short"/> right? <vocal desc="laugh"/> and then the stupid people's list there were ten words er one of which was Harley-Davidsons and the other nine of which I have no idea what they even were <vocal desc="laugh"/></u>
+<u n="753" who="S0514" whoConfidence="low">what like what were some of them?</u>
+<u n="754" who="S0511">er well I</u>
+<event desc="unintelligible"/>
+<u n="755" who="S0512">well I didn't know who either the first two were names which I didn't recognise</u>
+<u n="756" who="S0511"><trunc>s</trunc> <vocal desc="laugh"/></u>
+<u n="757" who="S0513" whoConfidence="low">you're useless <vocal desc="laugh"/></u>
+<u n="758" who="S0511"><vocal desc="laugh"/> well though it's kind of it's kind of revealing that we didn't like just had no idea what these things were</u>
+<u n="759" who="S0512">five days and</u>
+<u n="760" who="S0513" trans="overlap" whoConfidence="low">yeah it's cos you're unaware of like what happens around you</u>
+<u n="761" who="S0511" trans="overlap">five days</u>
+<u n="762" who="S0512">ten days and nine quid each</u>
+<u n="763" who="S0513" whoConfidence="low">whatever</u>
+<u n="764" who="S0511">what are you saying?</u>
+<u n="765" who="S0513" whoConfidence="low">he's working out <unclear/></u>
+<u n="766" who="S0511" trans="overlap">oh</u>
+<u n="767" who="S0513" trans="overlap" whoConfidence="low">he's thinking about the money <unclear/></u>
+<u n="768" who="S0512">I am I'm thinking of you</u>
+<u n="769" who="S0511" trans="overlap">it er if you do that then the person won't be able to hear you bloody idiot</u>
+<u n="770" who="S0513" trans="overlap" whoConfidence="low">bloody bloody</u>
+<u n="771" who="S0511">right</u>
+<u n="772" who="S0512">bloody</u>
+<u n="773" who="S0511">erm yes <anon type="name" nameType="m"/> Doctor Who's on the telly tonight</u>
+<u n="774" who="S0513" whoConfidence="low">cool</u>
+<u n="775" who="S0512">at ten past</u>
+<u n="776" who="S0513" trans="overlap" whoConfidence="low">yeah great I can't wait to watch that</u>
+<u n="777" who="S0511">and hopefully you'll like he'll join in and not be a miserable git</u>
+<u n="778" who="S0512">I think it's quarter to eight so</u>
+<u n="779" who="S0511">is it already quarter to eight?</u>
+<u n="780" who="S0512">yeah</u>
+<u n="781" who="S0511">see what you mean <anon type="name" nameType="m"/> about how the when it says it'll take you forty minutes to cook how <pause dur="short"/> well what did it <trunc>c</trunc> er it took you</u>
+<u n="782" who="S0513" trans="overlap" whoConfidence="low">yeah well it's just</u>
+<u n="783" who="S0511" trans="overlap">an hour and half</u>
+<u n="784" who="S0513" trans="overlap" whoConfidence="low">lying <vocal desc="laugh"/></u>
+<u n="785" who="S0511">no it's just because er you are actually genuinely slower than a grown up would be at cooking <pause dur="short"/> takes you</u>
+<u n="786" who="S0513" trans="overlap" whoConfidence="low">I don't see how I can be slower</u>
+<u n="787" who="S0511" trans="overlap">forever to chop it's unbelievable how slowly you chop things <vocal desc="laugh"/> all of you not just you it's just</u>
+<u n="788" who="S0513" whoConfidence="low">mm</u>
+<u n="789" who="S0511">it's just like <event desc="sound of cutlery"/></u>
+<u n="790" who="S0511">I guess</u>
+<u n="791" who="S0513" trans="overlap" whoConfidence="low">yeah</u>
+<u n="792" who="S0511">I remember when you did macaroni cheese once years ago and it was just the grating the cheese</u>
+<u n="793" who="S0513" trans="overlap" whoConfidence="low">I do chop oh yeah</u>
+<u n="794" who="S0511">yeah grating the cheese went on and on</u>
+<u n="795" who="S0512" trans="overlap">yeah I remember that</u>
+<u n="796" who="S0511"><vocal desc="laugh"/> oh no cos you needed a lot of the grated cheese yeah exactly <pause dur="short"/> okay alright so shall I light the fire?</u>
+<u n="797" who="S0514" whoConfidence="low">okay cool</u>
+<u n="798" who="S0511">excellent alright let me stop this recording</u>
+<u n="799" who="S0514" trans="overlap" whoConfidence="low"><anon type="name" nameType="m"/> stop hitting things with the spoon</u>
+<u n="800" who="S0511">yeah <anon type="name" nameType="m"/> can stop hitting things with a spoon okay</u>
+	
+	</body>
+</text>

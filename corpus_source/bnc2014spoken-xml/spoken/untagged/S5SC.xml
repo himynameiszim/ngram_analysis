@@ -1,0 +1,1961 @@
+<text id="S5SC">
+	<header>
+		<rec_length>1:05:40</rec_length>
+		<rec_date>2016-03-22</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0492 S0493 S0603 S0604 S0605</list_speakers>
+		<rec_loc>HOLIDAY COTTAGE, HEREFORD, ENGLAND</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>GAME DYNAMIC </topics>
+		<activity>FAMILY PLAYING PANDEMIC</activity>
+		<conv_type>Discussing, explaining, inquiring, anecdote telling, making arrangements, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0492">
+				<exactage>33</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cape Town</birthplace>
+				<birthcountry>South Africa</birthcountry>
+				<l1>English</l1>
+				<lingorig>British</lingorig>
+				<dialect_rep>Neutral English</dialect_rep>
+				<hab_city>Valencia</hab_city>
+				<hab_country>Spain</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0493">
+				<exactage>31</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff, Wales</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>South Wales</dialect_rep>
+				<hab_city>Valencia</hab_city>
+				<hab_country>Spain</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0603">
+				<exactage>33</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bristol</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Bristolian</dialect_rep>
+				<hab_city>Bristol</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>33</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>southwest</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Chef</occupation>
+				<socgrade>C2</socgrade>
+				<nssec>5</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0604">
+				<exactage>34</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>34 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0605">
+				<exactage>60</exactage>
+				<age1994>60plus</age1994>
+				<agerange>60_69</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Singapore</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh (south)</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>58 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Charity worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0603">yeah it</u>
+<u n="2" who="S0604" trans="overlap"><trunc>ou</trunc> well er had an outbreak</u>
+<u n="3" who="S0603">what and what about can you pick up scars if cities have the</u>
+<event desc="begin overlap"/>
+<u n="4" who="S0493" trans="overlap">recording okay alright love?</u>
+<u n="5" who="S0492">yeah</u>
+<event desc="end overlap"/>
+<u n="6" who="S0603">if you start a city with a faded figure? in a city with a faded figure</u>
+<u n="7" who="S0604">yeah</u>
+<u n="8" who="S0603">so if say if he's in anywhere in the Middle East</u>
+<u n="9" who="S0604">or it's not <trunc>ju</trunc> sorry it's not just a scare it's any sort of outbreak of a blue you know you're just in a city with an outbreak</u>
+<u n="10" who="S0603">er so yeah so you can</u>
+<u n="11" who="S0604" trans="overlap">it's not just a zombie</u>
+<u n="12" who="S0603">but you can you can avoid the erm the cities that look like they're gonna outbreak just don't go near them but if he's in the Middle East and say I he's in Karachi there's no faded figures on there but then suddenly someone draws Karachi</u>
+<u n="13" who="S0604">yeah</u>
+<u n="14" who="S0603">then he's gotta get out of Karachi before his next go</u>
+<u n="15" who="S0604">yeah</u>
+<u n="16" who="S0603">so that might be handy to have the dispatcher to look after Ollie to get him out of cities</u>
+<u n="17" who="S0493">but like if he obviously <vocal desc="sigh"/> obviously we don't want him to die for future games either do we?</u>
+<u n="18" who="S0603">mm</u>
+<u n="19" who="S0493">but like it's not like he's out <trunc>ou</trunc> he'd be out of the game I'll have a civilian which can help a bit <pause dur="short"/> but if there's if we've got four and and we've got three good ones and we wanted the backup that's fine if</u>
+<u n="20" who="S0603" trans="overlap">so either well it's either have the dispatcher who can move him but I think <unclear/></u>
+<u n="21" who="S0493" trans="overlap">but then so we're worrying a lot about one</u>
+<u n="22" who="S0604">mm yeah and I think Jackie's more useful</u>
+<u n="23" who="S0603">uhu so <trunc>sh</trunc> do you wanna take</u>
+<u n="24" who="S0604" trans="overlap">well er that's like a like an an attacking game with <anon type="name" nameType="f"/> and you're going for the defence</u>
+<u n="25" who="S0493" trans="overlap">no</u>
+<u n="26" who="S0604">if you <unclear/></u>
+<u n="27" who="S0493" trans="overlap">not just that</u>
+<u n="28" who="S0604" trans="overlap"><unclear/> play aren't we?</u>
+<u n="29" who="S0493">I think I think Jackie's pretty good as relationships go and her ability's pretty good and we've got the backup of doing that and there's no we can <trunc>elim</trunc> eradicate cos <pause dur="short"/> you've gotta be a bit luck to eradicate something really haven't you? you've gotta cure it and be there</u>
+<u n="30" who="S0603" trans="overlap">and <unclear/></u>
+<u n="31" who="S0493" trans="overlap">and there not to be</u>
+<u n="32" who="S0603" trans="overlap">yeah yeah</u>
+<u n="33" who="S0493" trans="overlap">many cubes close together so that's a good backup and it's good to have Jackie for that</u>
+<u n="34" who="S0603">but <pause dur="short"/> if he goes he goes</u>
+<u n="35" who="S0493">yeah the he died like a hero</u>
+<u n="36" who="S0604">and has a two-year-old</u>
+<u n="37" who="S0605">so why is he going then tell me?</u>
+<u n="38" who="S0493">well he's got</u>
+<u n="39" who="S0603" trans="overlap">he can't take any more scars and so if he gets another one</u>
+<u n="40" who="S0604" trans="overlap">yeah</u>
+<u n="41" who="S0603">he's gone erm</u>
+<u n="42" who="S0493">but hang on a second do not gain a scar when you're in a city when it outbreaks</u>
+<u n="43" who="S0603">but that doesn't account for scars which are counted when you're a faded figure because then it</u>
+<u n="44" who="S0493">so just avoid I wouldn't I wouldn't be in black anyway apart from to put one one research one</u>
+<u n="45" who="S0603" trans="overlap">so</u>
+<u n="46" who="S0493" trans="overlap">medical</u>
+<u n="47" who="S0603">so just don't go anywhere near the black</u>
+<u n="48" who="S0604">yeah</u>
+<u n="49" who="S0603">yeah</u>
+<u n="50" who="S0493">and I wanna avoid Asia anyway because I get one less turn if I start my turn in Asia</u>
+<u n="51" who="S0603">right so you're gonna be limited <unclear/></u>
+<u n="52" who="S0493" trans="overlap">so I can completely stay out of black anyway because Europe has already got so it's not colours Europe's already got a military base so that's fine I can go anywhere in Africa to put one down and I can go in the red part of Asia which fine I'll lose a go by staying here but I'm I don't have to even touch black</u>
+<u n="53" who="S0603">uhu uhu okay yeah so so we don't need the new assignment role</u>
+<u n="54" who="S0604">so we're going for one quiet night</u>
+<u n="55" who="S0603">yeah</u>
+<u n="56" who="S0604">erm and we've got four to choose did you want the research station the military station?</u>
+<u n="57" who="S0605" trans="overlap">I thought you wanted the research one</u>
+<u n="58" who="S0604">well I think that it means both it I think you get to choose whether it's a military</u>
+<u n="59" who="S0493" trans="overlap">but this is a military base yeah so I would say</u>
+<u n="60" who="S0604" trans="overlap">oh</u>
+<u n="61" who="S0493">when it says research station</u>
+<u n="62" who="S0604" trans="overlap">okay</u>
+<u n="63" who="S0493" trans="overlap">it's a research station</u>
+<u n="64" who="S0605">don't you boys like the</u>
+<u n="65" who="S0603" trans="overlap">oh that's a research station that's</u>
+<u n="66" who="S0604" trans="overlap">okay</u>
+<u n="67" who="S0603" trans="overlap">that's less than five there</u>
+<u n="68" who="S0603">take the last six cards of the deck for</u>
+<u n="69" who="S0493" trans="overlap">forecast cards? yeah that's</u>
+<u n="70" who="S0603" trans="overlap">yeah forecast is really good erm this quarantine marker on any two cities could be helpful</u>
+<u n="71" who="S0493">yeah cos for Jackie's B plan B</u>
+<u n="72" who="S0603">so</u>
+<u n="73" who="S0604">forecasts er initiative one quiet night</u>
+<u n="74" who="S0493" trans="overlap">one quiet night</u>
+<u n="75" who="S0604">forecast and what one did you want?</u>
+<u n="76" who="S0493">two extra actions are pretty good two <trunc>remo</trunc> two disease cubes removed</u>
+<u n="77" who="S0603">that that could be useful if but like only if you're trying to like outbreaks</u>
+<u n="78" who="S0493" trans="overlap">that could be good for <trunc>eradicatio</trunc> for eradicating</u>
+<u n="79" who="S0603">yeah</u>
+<u n="80" who="S0604">okay</u>
+<u n="81" who="S0603">it's not er we haven't got the medical erm the</u>
+<u n="82" who="S0605"><vocal desc="cough"/></u>
+<u n="83" who="S0603">there's quite a handy one where once you've cured a disease you can</u>
+<u n="84" who="S0605"><vocal desc="cough"/></u>
+<u n="85" who="S0603">you can right you can take five cubes that are from a connecting city</u>
+<u n="86" who="S0493">oh yeah?</u>
+<u n="87" who="S0603" trans="overlap">that's like a mobile a mobile hospital? I don't know if that's in this one yet</u>
+<u n="88" who="S0604">right</u>
+<u n="89" who="S0603">so I think we've got a <trunc>m</trunc> I think when you do take these it's an action it's gotta be classed as an action</u>
+<u n="90" who="S0604" trans="overlap">I don't</u>
+<u n="91" who="S0493">I would guess so it's on the action</u>
+<u n="92" who="S0603">yeah</u>
+<u n="93" who="S0493" trans="overlap">but then you'd want it</u>
+<u n="94" who="S0604" trans="overlap">I would</u>
+<u n="95" who="S0603" trans="overlap">cos otherwise they wouldn't</u>
+<u n="96" who="S0493" trans="overlap">even if it wasn't</u>
+<u n="97" who="S0603">stick it on the action</u>
+<u n="98" who="S0605" trans="overlap">but you</u>
+<u n="99" who="S0493" trans="overlap">but even if it wasn't an action that you took if they wanted to remind <trunc>y</trunc>you that it's an option you can take they would want you to have it in front of you on a card right?</u>
+<u n="100" who="S0604">but as you say <trunc>i</trunc>it says <trunc>ac</trunc> you know spend and action spend and action doesn't say that</u>
+<u n="101" who="S0603">but it it's an action to equip <pause dur="short"/> it's like equip that's an action</u>
+<u n="102" who="S0604">but it says you know not an action not an action</u>
+<u n="103" who="S0603" trans="overlap">oh right</u>
+<u n="104" who="S0604">so it's not an action to use</u>
+<u n="105" who="S0603">so it's not an action to use the <trunc>c</trunc></u>
+<u n="106" who="S0493" trans="overlap">with <pause dur="short"/> okay if we went online</u>
+<u n="107" who="S0604" trans="overlap">can you are you looking that up dad? <pause dur="short"/> <vocal desc="laugh"/> it's what not</u>
+<u n="108" who="S0603" trans="overlap">where are they from?</u>
+<u n="109" who="S0603">that's that's our house my mate's just</u>
+<u n="110" who="S0603">is it just outside the house?</u>
+<u n="111" who="S0493"><vocal desc="laugh"/></u>
+<u n="112" who="S0603">why? is he checking in?</u>
+<u n="113" who="S0603">last time well tell him what he did</u>
+<u n="114" who="S0604">oh he pretended to inject my er dad with insulin while he was driving to kill him</u>
+<u n="115" who="S0603">fucking hell is he diabetic?</u>
+<u n="116" who="S0604">yeah</u>
+<u n="117" who="S0603">he is yeah</u>
+<u n="118" who="S0603">and he thought it would be a laugh</u>
+<u n="119" who="S0604" trans="overlap">and he went</u>
+<u n="120" who="S0493"><vocal desc="laugh"/></u>
+<u n="121" who="S0603">to pretend to inject you?</u>
+<u n="122" who="S0605">he's mental he look at him take putting the key in the front door</u>
+<u n="123" who="S0604"><vocal desc="laugh"/></u>
+<u n="124" who="S0603">but he's taken those pictures for it though</u>
+<u n="125" who="S0604">yeah</u>
+<u n="126" who="S0603">he's got an accomplice <pause dur="short"/> where am I? <pause dur="short"/> has he parked his car on your drive?</u>
+<u n="127" who="S0605">yeah</u>
+<u n="128" who="S0603">what a weirdo <vocal desc="laugh"/> what's he doing out he he's just around the corner</u>
+<u n="129" who="S0604">it's what you do when you're retired</u>
+<u n="130" who="S0603" trans="overlap">where does he live?</u>
+<u n="131" who="S0605" trans="overlap">need I say</u>
+<u n="132" who="S0603" trans="overlap">where does he live?</u>
+<u n="133" who="S0605">he</u>
+<u n="134" who="S0604" trans="overlap"><anon type="place"/> and and he's driven</u>
+<u n="135" who="S0603" trans="overlap">he lives about he lives thirty-five miles away from the house</u>
+<u n="136" who="S0604"><vocal desc="laugh"/></u>
+<u n="137" who="S0493">is it five infection cards?</u>
+<u n="138" who="S0604">yeah I always play with all of them</u>
+<u n="139" who="S0493">er?</u>
+<u n="140" who="S0604">I always play with all of them yeah</u>
+<u n="141" who="S0493">with five?</u>
+<u n="142" who="S0604">mm</u>
+<u n="143" who="S0493">I I dunno</u>
+<u n="144" who="S0492"><vocal desc="gasp"/> what is he doing?</u>
+<u n="145" who="S0604"><vocal desc="laugh"/></u>
+<u n="146" who="S0492">oh</u>
+<u n="147" who="S0493">gonna get on the <unclear/></u>
+<u n="148" who="S0603" trans="overlap">how does he know it?</u>
+<u n="149" who="S0492">no</u>
+<u n="150" who="S0604">can you bring my erm</u>
+<u n="151" who="S0603">there's a</u>
+<u n="152" who="S0604" trans="overlap">Ipad up and I'll look for this</u>
+<u n="153" who="S0603" trans="overlap">there's a glass of <trunc>wa</trunc> there's a glass of cider there I don't know whose it is</u>
+<u n="154" who="S0493" trans="overlap">yeah it's mine</u>
+<u n="155" who="S0603" trans="overlap">so I don't wanna drink it cos everyone's diseased</u>
+<u n="156" who="S0604">well you've caught it now</u>
+<u n="157" who="S0603">so you're saying <pause dur="short"/> that</u>
+<u n="158" who="S0604" trans="overlap">well we're gonna get <anon type="name" nameType="m"/> to double-check but</u>
+<u n="159" who="S0603" trans="overlap">no to to add</u>
+<u n="160" who="S0604" trans="overlap">it looks to me</u>
+<u n="161" who="S0603">to equip isn't a isn't an action I can definitely confirm that spending using those cards is not an action but it might it might make sense to actually equip and it initially would be an action or it could just be like we're giving you these</u>
+<u n="162" who="S0604" trans="overlap">mm</u>
+<u n="163" who="S0603">as we you've got one two three four five six seven eight you've got nine freebies put them on whenever you want</u>
+<u n="164" who="S0604">yeah</u>
+<u n="165" who="S0603">cos once you've stuck them on there they're stuck aren't they? <pause dur="long"/></u>
+<event desc="begin overlap"/>
+<u n="166" who="S0492">no in the utility room</u>
+<u n="167" who="S0493">oh <pause dur="long"/> <unclear/></u>
+<u n="168" who="S0492">the cider? <unclear/></u>
+<u n="169" who="S0493"><unclear/></u>
+<u n="170" who="S0492">oh did you? was it nicer that coffee?</u>
+<u n="171" who="S0493"><unclear/></u>
+<u n="172" who="S0492"><unclear/></u>
+<event desc="end overlap"/>
+<u n="173" who="S0604">what's the soldier's</u>
+<u n="174" who="S0603">so he can reuse any card that's any of these</u>
+<u n="175" who="S0604">mm <pause dur="long"/></u>
+<u n="176" who="S0603">so the soldier's basically just he can it doesn't say that you can only do that once as well <pause dur="long"/> we haven't named er so nobody's used any of these</u>
+<u n="177" who="S0605">I tell you I've got <unclear/></u>
+<u n="178" who="S0493"><unclear/> it went <unclear/></u>
+<u n="179" who="S0605">no there was one it it was called AWOL was that it?</u>
+<u n="180" who="S0603">well I picked I've got another</u>
+<u n="181" who="S0493" trans="overlap"><unclear/> this one</u>
+<u n="182" who="S0603">I've got another ale as well erm I dunno what one</u>
+<u n="183" who="S0493">do you wanna do any of you want anything?</u>
+<u n="184" who="S0605">well I got ale specifically for the erm Withnail and I quote</u>
+<u n="185" who="S0493">did you?</u>
+<u n="186" who="S0605">which is what?</u>
+<u n="187" who="S0493">ales ales</u>
+<u n="188" who="S0605">yeah</u>
+<u n="189" who="S0493" trans="overlap">I've just had ales</u>
+<u n="190" who="S0605">no <trunc>a</trunc>actually</u>
+<u n="191" who="S0604" trans="overlap">I've only had a few ales officer</u>
+<u n="192" who="S0605" trans="overlap">I've only had a few ales officer</u>
+<u n="193" who="S0493"><vocal desc="laugh"/></u>
+<u n="194" who="S0605">when he gets stopped in the car on the way there</u>
+<u n="195" who="S0493" trans="overlap">did you know he never he's a teetotal</u>
+<u n="196" who="S0604">yeah</u>
+<u n="197" who="S0493">he's allergic to it</u>
+<u n="198" who="S0605">I didn't know that Bruce</u>
+<u n="199" who="S0493">they made him get drunk once</u>
+<u n="200" who="S0604" trans="overlap">yeah it killed him I think</u>
+<u n="201" who="S0603">jesus</u>
+<u n="202" who="S0604">okay yeah</u>
+<u n="203" who="S0493" trans="overlap">right it's not it's not clear</u>
+<u n="204" who="S0493">do you want some of the cider I got from the farm?</u>
+<u n="205" who="S0603">yeah I'll try some <unclear>pokey</unclear> yeah</u>
+<u n="206" who="S0493" trans="overlap">yeah?</u>
+<u n="207" who="S0493">do you want dry or sweet?</u>
+<u n="208" who="S0603">I'll start on the sweet stuff <pause dur="long"/></u>
+<u n="209" who="S0603">are we recording still? are we still getting paid for that?</u>
+<u n="210" who="S0493">erm I think you're not meant to acknowledge that it's in the room it's like when you've got a wolf indoors don't ever acknowledge that it's there</u>
+<u n="211" who="S0604">or a <unclear/></u>
+<u n="212" who="S0603">or an elephant</u>
+<u n="213" who="S0493">or an elephant <unclear>naturally</unclear></u>
+<u n="214" who="S0603">easy tiger now</u>
+<u n="215" who="S0604" trans="overlap">oh keep it calm keep it <unclear>session</unclear></u>
+<u n="216" who="S0603">cheers</u>
+<u n="217" who="S0604">cheers</u>
+<u n="218" who="S0603">to saving the world</u>
+<u n="219" who="S0604">to see I mean that that alone took forty-five minutes</u>
+<u n="220" who="S0493">did it?</u>
+<u n="221" who="S0604">yeah</u>
+<u n="222" who="S0493"><vocal desc="sigh"/></u>
+<u n="223" who="S0603">yeah but</u>
+<u n="224" who="S0493" trans="overlap">I really think it pays just to <trunc>d</trunc> if this was a fortnightly thing</u>
+<u n="225" who="S0604">or <trunc>n</trunc> or not</u>
+<u n="226" who="S0603">but the</u>
+<u n="227" who="S0493" trans="overlap">just two sessions</u>
+<u n="228" who="S0603" trans="overlap">but but the thing is that I I I'm not up to speed I I was only</u>
+<u n="229" who="S0493" trans="overlap">no</u>
+<u n="230" who="S0603">so that's why</u>
+<u n="231" who="S0493">but I <trunc>d</trunc> we're not that au fait with the roadblocks things the quarantines we are</u>
+<u n="232" who="S0603">with the well so the roadblocks have only be bought in one <trunc>r</trunc> one</u>
+<u n="233" who="S0604" trans="overlap">two two months</u>
+<u n="234" who="S0493" trans="overlap">two or <trunc>thr</trunc> yeah one</u>
+<u n="235" who="S0604" trans="overlap">I'd say</u>
+<u n="236" who="S0493">so quarantine it's basically like a minus one for the <trunc>infectio</trunc> for</u>
+<u n="237" who="S0605">uhu</u>
+<u n="238" who="S0493">the the disease cubes</u>
+<u n="239" who="S0493">is that music <anon type="name" nameType="m"/>?</u>
+<u n="240" who="S0604">yeah</u>
+<u n="241" who="S0493">I think erm</u>
+<u n="242" who="S0604" trans="overlap">oh sorry okay hold on</u>
+<u n="243" who="S0603">I thought those birds are on that</u>
+<u n="244" who="S0493" trans="overlap">but it's <pause dur="short"/> it's that's but I was in the countryside you've got <trunc>tha</trunc> it's all animals</u>
+<u n="245" who="S0603">is he gonna take pictures of sheep?</u>
+<u n="246" who="S0493">yeah</u>
+<u n="247" who="S0604" trans="overlap">yeah <vocal desc="laugh"/></u>
+<u n="248" who="S0493">in compromising positions <pause dur="short"/> so</u>
+<u n="249" who="S0603" trans="overlap">well I I wanna be</u>
+<u n="250" who="S0493" trans="overlap">I don't really think we can do that and that's a big thing</u>
+<u n="251" who="S0603" trans="overlap">I wanna be</u>
+<u n="252" who="S0493">cos we could have just gone look quarantine's not working eradicate</u>
+<u n="253" who="S0604">there's a lot of things we could just <trunc>m</trunc> look I'm I'd really like to play this game <unclear>again</unclear></u>
+<u n="254" who="S0603" trans="overlap">that's why I'm here that's</u>
+<u n="255" who="S0493" trans="overlap">give it <trunc>fi</trunc> give it five years</u>
+<u n="256" who="S0604">yeah</u>
+<u n="257" who="S0603">I can get a I think I can get another box</u>
+<u n="258" who="S0604">yeah?</u>
+<u n="259" who="S0603">yeah first</u>
+<u n="260" who="S0493" trans="overlap">they'll do <trunc>se</trunc></u>
+<u n="261" who="S0603" trans="overlap">season</u>
+<u n="262" who="S0493">they'll do series two</u>
+<u n="263" who="S0603">yeah it's the <anon type="name" nameType="m"/> talked to a guy about it and they're they're coming out but</u>
+<u n="264" who="S0604">talked to a guy?</u>
+<u n="265" who="S0603">yeah a guy about a dog and</u>
+<u n="266" who="S0493">but is er</u>
+<u n="267" who="S0603" trans="overlap"><unclear>talking about tents</unclear></u>
+<u n="268" who="S0493">Cthulhu I don't what is that? is that's like what's that world from?</u>
+<u n="269" who="S0603" trans="overlap">there's like a Sherlock Holmes and Cthulhu thing</u>
+<u n="270" who="S0493" trans="overlap">Lovecraft no but for <trunc>Pan</trunc> for Pandemic</u>
+<u n="271" who="S0603">well you can have</u>
+<u n="272" who="S0493" trans="overlap">is Pandemic Cthulhu?</u>
+<u n="273" who="S0604">oh somebody's home</u>
+<u n="274" who="S0493">no no it's no it got released</u>
+<u n="275" who="S0604">what?</u>
+<u n="276" who="S0493">yeah yeah yeah</u>
+<u n="277" who="S0603">an expansion</u>
+<u n="278" who="S0493" trans="overlap">and if the world doesn't look like the world</u>
+<u n="279" who="S0604">oh</u>
+<u n="280" who="S0493">and you know whatever what is it? it's Lovecraft isn't it?</u>
+<u n="281" who="S0603">yeah</u>
+<u n="282" who="S0493" trans="overlap">or tentacles are coming up and what have you</u>
+<u n="283" who="S0604">oh right</u>
+<u n="284" who="S0493">do you know The Cure? not the band from the eighties Pandemic The Cure with the dice the dice game?</u>
+<u n="285" who="S0603" trans="overlap">yeah er oh no I've <trunc>s</trunc> no I haven't played it</u>
+<u n="286" who="S0493" trans="overlap">thinking of yeah</u>
+<u n="287" who="S0603" trans="overlap">yeah</u>
+<u n="288" who="S0493">so really <unclear>always wanted</unclear> just wanted to wanted to buy it for a year</u>
+<u n="289" who="S0603" trans="overlap">or it's just <trunc>d</trunc> it's a dice cos it does combine dice</u>
+<u n="290" who="S0493">yeah</u>
+<u n="291" who="S0603">with the game</u>
+<u n="292" who="S0493">yeah it looks pretty cool</u>
+<u n="293" who="S0603">I but I really like it's such a it's such a fun game and this one is taking it to the extreme</u>
+<u n="294" who="S0493" trans="overlap">do you think you could go back to just <trunc>n</trunc> regular</u>
+<u n="295" who="S0603">yeah I'd play that cos you can</u>
+<u n="296" who="S0493" trans="overlap">really?</u>
+<u n="297" who="S0603" trans="overlap">just play that just every now and again you just like oh yeah let's just play <trunc>Pa</trunc>Pandemic</u>
+<u n="298" who="S0493" trans="overlap">not with no expansions even?</u>
+<u n="299" who="S0603">oh no not with any I'd I no I'd have to have in the lab no</u>
+<u n="300" who="S0493" trans="overlap">which one's that?</u>
+<u n="301" who="S0603">bioterrorist I'd have to have the bioterrorist one</u>
+<u n="302" who="S0604">not the <trunc>v</trunc>virology one where the</u>
+<u n="303" who="S0603">I haven't even succeeded</u>
+<u n="304" who="S0604">really?</u>
+<u n="305" who="S0603">yeah with the actual</u>
+<u n="306" who="S0604" trans="overlap">not with the purple cube but with the extra sort of</u>
+<u n="307" who="S0603">well you have</u>
+<u n="308" who="S0604" trans="overlap">the virulent strain one you know?</u>
+<u n="309" who="S0603">yeah the virulent strain that's the bioterrorist one</u>
+<u n="310" who="S0604">no no</u>
+<u n="311" who="S0493">no but he means it's from the box that had the bioterrorist</u>
+<u n="312" who="S0604" trans="overlap">oh it's</u>
+<u n="313" who="S0603">oh yeah</u>
+<u n="314" who="S0604" trans="overlap">in the <trunc>la</trunc></u>
+<u n="315" who="S0603" trans="overlap">yeah yeah yeah so cos in the lab is the one with that additional curing process</u>
+<u n="316" who="S0493">yeah</u>
+<u n="317" who="S0604">yeah</u>
+<u n="318" who="S0603">and I didn't get my head around that granted I only played that</u>
+<u n="319" who="S0493" trans="overlap">it makes it different but it is it's it is good but</u>
+<u n="320" who="S0603" trans="overlap">yeah</u>
+<u n="321" who="S0493" trans="overlap">it does make it a different game</u>
+<u n="322" who="S0603" trans="overlap">so no I think the most accessible is</u>
+<u n="323" who="S0493">yeah</u>
+<u n="324" who="S0604" trans="overlap">mm</u>
+<u n="325" who="S0493">for sure</u>
+<u n="326" who="S0604">yeah</u>
+<u n="327" who="S0603">and it just takes it up to that cos you can control how many outbreak cards you have</u>
+<u n="328" who="S0493" trans="overlap">right</u>
+<u n="329" who="S0603">and the the the variation on the erm epidemic cards is quite</u>
+<u n="330" who="S0493" trans="overlap">yeah yeah when you get the lab working it's pretty like you'll go for what the best option is then for the board but what's the best option for your little lab to move around and that's does change things</u>
+<u n="331" who="S0603" trans="overlap">right yeah cos I think the time I tried that it was over <unclear>Skype</unclear></u>
+<u n="332" who="S0493">yeah</u>
+<u n="333" who="S0603">and I was</u>
+<u n="334" who="S0493" trans="overlap">yeah</u>
+<u n="335" who="S0603">just looking at it and thinking</u>
+<u n="336" who="S0493">mm</u>
+<u n="337" who="S0603">I don't understand</u>
+<u n="338" who="S0604">yeah</u>
+<u n="339" who="S0603">might have been <unclear>drunk</unclear> but</u>
+<u n="340" who="S0493">and also you've gotta remember then there's less cubes in those petri-dishes there to put on the <trunc>boa</trunc> so you can <trunc>r</trunc> <trunc>eas</trunc> really easily run out and die that way</u>
+<u n="341" who="S0603">cos you're chucking all your things in the lab</u>
+<u n="342" who="S0493">and do you die out if you've got no more fallens? what do you do?</u>
+<u n="343" who="S0604">yeah</u>
+<u n="344" who="S0603" trans="overlap">yeah</u>
+<u n="345" who="S0604">yeah</u>
+<u n="346" who="S0603">same principle right? I really wanna be gung-ho and be a soldier</u>
+<u n="347" who="S0604">well I've just I've just looked on on here for things and somebody er a couple of people said how good the soldier is and how they saved him so I</u>
+<u n="348" who="S0493">cos I think we're a bit reluctant to add new people in and it's a bit of a catch twenty-two you don't play them because they haven't got any good upgrades</u>
+<u n="349" who="S0604" trans="overlap">yeah</u>
+<u n="350" who="S0493">at the end with they</u>
+<u n="351" who="S0603" trans="overlap">I think <anon type="name" nameType="m"/> should come into the game <pause dur="short"/> so <trunc>wha</trunc> but but at the sake of</u>
+<u n="352" who="S0604" trans="overlap">but <pause dur="short"/> but you know this is <trunc>t</trunc> <trunc>th</trunc> you know Dana Scully is tailor made to eradicate disease Jackie Brown is you know to eradicate disease medically he's just really really powerful now we've</u>
+<u n="353" who="S0493" trans="overlap"><unclear>let's put two</unclear></u>
+<u n="354" who="S0604" trans="overlap"><trunc>giv</trunc>given him two er two upgrades and who <trunc>wha</trunc> and you know Ollie's been building which is which is <unclear/></u>
+<u n="355" who="S0493" trans="overlap">it's just that's an easy win it's just an easy star</u>
+<u n="356" who="S0604" trans="overlap">yeah</u>
+<u n="357" who="S0493" trans="overlap">to get</u>
+<u n="358" who="S0603">shall I keep Ollie? cure do we keep Scully?</u>
+<u n="359" who="S0604">well <unclear/></u>
+<u n="360" who="S0603" trans="overlap">if you <trunc>eradica</trunc></u>
+<u n="361" who="S0604">yeah but there's nothing else</u>
+<u n="362" who="S0493">what's what's the bonus she's got?</u>
+<u n="363" who="S0603">what does she do? she has great hair</u>
+<u n="364" who="S0604">for an action discard a card to draw the card with the same colour when from the player <unclear>discount</unclear> pile</u>
+<u n="365" who="S0603">mm that's shit</u>
+<u n="366" who="S0493">erm if she's got three reds and there's a red there</u>
+<u n="367" who="S0603">alright <vocal desc="cough"/> <pause dur="short"/> it's not</u>
+<u n="368" who="S0493">right to eradicate the</u>
+<u n="369" who="S0603" trans="overlap">it's er but I mean looking at these kind of <trunc>pl</trunc> add-ons</u>
+<u n="370" who="S0493" whoConfidence="low"><vocal desc="yawn"/></u>
+<u n="371" who="S0603">it would only be I think this soldier guy would be good combined with the <trunc>resear</trunc> <vocal desc="cough"/> the researcher so that he could like keep these in circulation so you can</u>
+<u n="372" who="S0493" trans="overlap">yeah</u>
+<u n="373" who="S0603">I you can get them out of the</u>
+<u n="374" who="S0604" trans="overlap">mm</u>
+<u n="375" who="S0603"><unclear>disc card</unclear> and then to the researcher</u>
+<u n="376" who="S0604">yeah</u>
+<u n="377" who="S0603">and then the researcher can get them out to people</u>
+<u n="378" who="S0493">it's a bit like Van Damme he should be Jean-Claude</u>
+<u n="379" who="S0603">Jean-Claude not</u>
+<u n="380" who="S0493" trans="overlap">yeah</u>
+<u n="381" who="S0603">Johnny Cage JC there you go</u>
+<u n="382" who="S0493">and what about you know in memory of Brussels?</u>
+<u n="383" who="S0604">yeah</u>
+<u n="384" who="S0603">right</u>
+<u n="385" who="S0493">and our trip there?</u>
+<u n="386" who="S0603">yeah yeah</u>
+<u n="387" who="S0493">see there's that too</u>
+<u n="388" who="S0603" trans="overlap">I thought it was a bit I thought it was a bit sketchy when we went</u>
+<u n="389" who="S0493">yeah <unclear>don't know it's</unclear> brilliant <pause dur="short"/> I mean your racist graffiti probably only intensified <unclear/> to the city</u>
+<u n="390" who="S0603">what what are you talking about?</u>
+<u n="391" who="S0604" trans="overlap">I think it's two</u>
+<u n="392" who="S0493">what out of four?</u>
+<u n="393" who="S0603">yeah</u>
+<u n="394" who="S0493">I think with four players you're mm you'd be better off always</u>
+<u n="395" who="S0603">so you're saying if I pull over a black now <pause dur="short"/> it goes straight on there?</u>
+<u n="396" who="S0493">yeah</u>
+<u n="397" who="S0603">or is that <unclear/></u>
+<u n="398" who="S0493" trans="overlap">driving without a licence</u>
+<u n="399" who="S0604" trans="overlap">I wouldn't have given you that authority</u>
+<u n="400" who="S0493">pull out a black from player deck</u>
+<u n="401" who="S0603">er</u>
+<u n="402" who="S0493">it's er fallen</u>
+<u n="403" who="S0603" trans="overlap">but like not from yeah but not from starter</u>
+<u n="404" who="S0493">I would guess I would say so</u>
+<u n="405" who="S0604">oh no</u>
+<u n="406" who="S0603">erm</u>
+<u n="407" who="S0604">no I've well the I've done that I</u>
+<u n="408" who="S0603">that's pretty harsh so that means if we've got two four like <trunc>si</trunc> eight blacks in now already</u>
+<u n="409" who="S0493">and remember being you <anon type="name" nameType="m"/> a family member so whoever goes first for me and you has an extra action because we can start in Atlanta</u>
+<u n="410" who="S0603">uhu <pause dur="short"/> yeah</u>
+<u n="411" who="S0604" trans="overlap"><unclear>too sweet</unclear></u>
+<u n="412" who="S0603">no you and you can't be anywhere near <unclear/></u>
+<u n="413" who="S0493">mm no</u>
+<u n="414" who="S0603" trans="overlap">because if you pick up another scar you're done</u>
+<u n="415" who="S0604">er do you wanna have a a think about as well naming the diseases? cos we haven't done that yet and there's space for disease names here</u>
+<u n="416" who="S0603">at what point does it say you should name them then?</u>
+<u n="417" who="S0604">it says like that you can do it at the start</u>
+<u n="418" who="S0603">uhu uhu</u>
+<u n="419" who="S0604">well we just forgot I just noticed it</u>
+<u n="420" who="S0493">yeah</u>
+<u n="421" who="S0604">and then er</u>
+<u n="422" who="S0493">what did <anon type="name" nameType="f"/> say that disease was in South <trunc>Af</trunc> South America? <trunc>m</trunc> <trunc>c</trunc>Cortez's revenge or something</u>
+<u n="423" who="S0603">it's quite cool</u>
+<u n="424" who="S0604">Cortez's revenge yeah</u>
+<u n="425" who="S0492" trans="overlap">Montezuma's</u>
+<u n="426" who="S0493"><trunc>Montezu</trunc>Montezuma's revenge</u>
+<u n="427" who="S0604" trans="overlap">revenge for South America</u>
+<u n="428" who="S0493">well for the yellow</u>
+<u n="429" who="S0604">yeah</u>
+<u n="430" who="S0493">black should be something to do with the zombies shouldn't it?</u>
+<u n="431" who="S0603">yeah erm</u>
+<u n="432" who="S0604">a zed there is is that?</u>
+<u n="433" who="S0603">the virus</u>
+<u n="434" who="S0604">the virus</u>
+<u n="435" who="S0603">yeah</u>
+<u n="436" who="S0604"><unclear/></u>
+<u n="437" who="S0493">virus brackets zed</u>
+<u n="438" who="S0603" trans="overlap">zed</u>
+<u n="439" who="S0604">er okay we've got blue</u>
+<u n="440" who="S0603" trans="overlap">capitalism can be</u>
+<u n="441" who="S0604"><vocal desc="laugh"/> yeah</u>
+<u n="442" who="S0603">you know</u>
+<u n="443" who="S0493">greed</u>
+<u n="444" who="S0603">yeah <vocal desc="laugh"/></u>
+<u n="445" who="S0604">greed</u>
+<u n="446" who="S0603">greed has taken hold</u>
+<u n="447" who="S0604">greed is North America</u>
+<u n="448" who="S0603">yeah</u>
+<u n="449" who="S0493">greed is very cool and then red</u>
+<u n="450" who="S0603">swine no the bird flu isn't it they've avian bird flu</u>
+<u n="451" who="S0493">or avian swine flu a dreadful combination of the two worst elements</u>
+<event desc="unintelligible"/>
+<u n="452" who="S0604">so much greater with the <unclear/></u>
+<u n="453" who="S0603" trans="overlap">what's the one er what's the one that gets Matt Damon in er</u>
+<u n="454" who="S0604">in Contagion?</u>
+<u n="455" who="S0603">yeah no wait is it Contagion? or my</u>
+<u n="456" who="S0604" trans="overlap">yeah</u>
+<u n="457" who="S0603">it's where Gwyneth Paltrow dies Gwyneth Paltrow's revenge</u>
+<u n="458" who="S0493">the bottle of Britain</u>
+<u n="459" who="S0603">mm <pause dur="short"/> it's nice nice drinks but I</u>
+<u n="460" who="S0493">never had it before actually</u>
+<u n="461" who="S0603">have you not?</u>
+<u n="462" who="S0493">won't buy anything with the Union Jack on <anon type="name" nameType="m"/></u>
+<u n="463" who="S0603">did I buy that?</u>
+<u n="464" who="S0493">no I just <unclear/> from the shop</u>
+<u n="465" who="S0603">oh right yeah it's erm</u>
+<u n="466" who="S0493">Kentish</u>
+<u n="467" who="S0603">it's a good it's a good session</u>
+<u n="468" who="S0493" trans="overlap">yeah</u>
+<u n="469" who="S0603"><unclear>I won't say cos</unclear></u>
+<u n="470" who="S0604" trans="overlap">is it session ale?</u>
+<u n="471" who="S0603">Bristol Beer no four point five is probably not but I guess then about</u>
+<u n="472" who="S0493" trans="overlap">top end innit top end</u>
+<u n="473" who="S0603" trans="overlap">yeah you want a you want a <unclear>set it lower about</unclear> three point eight</u>
+<u n="474" who="S0604">to keep it session</u>
+<u n="475" who="S0603">yeah</u>
+<u n="476" who="S0604">yeah</u>
+<u n="477" who="S0603">erm</u>
+<u n="478" who="S0604">he</u>
+<u n="479" who="S0603" trans="overlap">I went to the Bristol Beer festival</u>
+<u n="480" who="S0493">oh yeah?</u>
+<u n="481" who="S0603">a couple well <unclear/></u>
+<u n="482" who="S0493">oh</u>
+<u n="483" who="S0603" trans="overlap">a couple of weeks ago wait what's the date today?</u>
+<u n="484" who="S0493">don't know</u>
+<u n="485" who="S0603" trans="overlap">twenty-third?</u>
+<u n="486" who="S0493">yeah</u>
+<u n="487" who="S0603">two weeks ago twenty er like the twelfth or something eleventh yeah</u>
+<u n="488" who="S0604">does it matter?</u>
+<u n="489" who="S0603">no</u>
+<u n="490" who="S0493"><vocal desc="laugh"/></u>
+<u n="491" who="S0603">just trying to correlate time</u>
+<u n="492" who="S0604">keep it accurate</u>
+<u n="493" who="S0603">yeah and it was yeah bloody good a lot of</u>
+<u n="494" who="S0604" trans="overlap">yeah?</u>
+<u n="495" who="S0603">yeah it's such good value</u>
+<u n="496" who="S0493">do you get a do you pay and get your glass but you can keep the pint glass?</u>
+<u n="497" who="S0603">you they don't have pint glasses now and</u>
+<u n="498" who="S0493" trans="overlap">oh</u>
+<u n="499" who="S0603">two years now they've gone down to half glasses</u>
+<u n="500" who="S0493">why? too much lewd behaviour</u>
+<u n="501" who="S0603">er because when you go in to get your your ales you you either buy a third or a half you don't</u>
+<u n="502" who="S0493" trans="overlap">right cos you're tasting them</u>
+<u n="503" who="S0603">yeah so you</u>
+<u n="504" who="S0493" trans="overlap">you're allowed to swallow though aren't you?</u>
+<u n="505" who="S0603" trans="overlap"><trunc>previo</trunc>previously yeah they you <trunc>ha</trunc> you could have had a third a half or a whole pint</u>
+<u n="506" who="S0493">yeah</u>
+<u n="507" who="S0603">but now they've gone down to the half pints</u>
+<u n="508" who="S0493">yeah</u>
+<u n="509" who="S0603">so you just get a third or a half and normally you're drinking thirds</u>
+<u n="510" who="S0493">really?</u>
+<u n="511" who="S0604">really?</u>
+<u n="512" who="S0603">yeah so you pay ten pound for a for a ticket</u>
+<u n="513" who="S0604">yeah</u>
+<u n="514" who="S0603">and then when you turn up you get five pounds worth of vouchers</u>
+<u n="515" who="S0493">yeah</u>
+<u n="516" who="S0604">oh so</u>
+<u n="517" who="S0603" trans="overlap">and a glass</u>
+<u n="518" who="S0493">yeah yeah yeah it's not bad</u>
+<u n="519" who="S0603" trans="overlap">so you basically it's free entry</u>
+<u n="520" who="S0493">yeah <trunc>d</trunc> are you queuing up a long time just to get a half though?</u>
+<u n="521" who="S0603">no no you don't</u>
+<u n="522" who="S0493" trans="overlap">oh well</u>
+<u n="523" who="S0603">queue at all to get served</u>
+<u n="524" who="S0493" trans="overlap">really?</u>
+<u n="525" who="S0604">the only thing I I would find it difficult I guess you know a pint is a good unit of measurement of what you're drinking</u>
+<u n="526" who="S0493">yeah</u>
+<u n="527" who="S0604" trans="overlap">if if if there was a <trunc>th</trunc> if I'm drinking a third</u>
+<u n="528" who="S0603">uhu</u>
+<u n="529" who="S0604">I would <unclear/></u>
+<u n="530" who="S0493" trans="overlap"><unclear/></u>
+<u n="531" who="S0604">just one or one erm</u>
+<u n="532" who="S0603" trans="overlap">just gotta come in threes yeah</u>
+<u n="533" who="S0493"><vocal desc="laugh"/></u>
+<u n="534" who="S0603">but erm you yeah this and it's fair enough but you're you're actually cos you're sat around a table the only thing you need to do is get there early enough to get a table so your doors are at six thirty you wanna be queuing at like five forty-five</u>
+<u n="535" who="S0493">really?</u>
+<u n="536" who="S0603">so you can get a table</u>
+<u n="537" who="S0493" trans="overlap">did you make take a notebook?</u>
+<u n="538" who="S0604" trans="overlap">can you find me a pen please dad?</u>
+<u n="539" who="S0603">you get you get given a guide</u>
+<u n="540" who="S0493">do you?</u>
+<u n="541" who="S0603">and then there's a there's a</u>
+<u n="542" who="S0493">comment section</u>
+<u n="543" who="S0603" trans="overlap">there's a description</u>
+<u n="544" who="S0493">notes</u>
+<u n="545" who="S0603">and then you get a little box this size to write your score in it</u>
+<u n="546" who="S0493">yeah but not write like a</u>
+<u n="547" who="S0603">and then well you write</u>
+<u n="548" who="S0493" trans="overlap">poetic description</u>
+<u n="549" who="S0603">you write <trunc>cr</trunc> descriptions</u>
+<u n="550" who="S0605" trans="overlap">it did work some of them don't work <unclear/></u>
+<u n="551" who="S0493">yeah yeah</u>
+<u n="552" who="S0603">on and around</u>
+<u n="553" who="S0493">yeah</u>
+<u n="554" who="S0603">and then er it's quite funny reading it back to see how progressively you get drunk more drunk</u>
+<u n="555" who="S0604" trans="overlap">is it virus zed or zed virus?</u>
+<u n="556" who="S0603">virus brackets zed</u>
+<u n="557" who="S0604"><vocal desc="laugh"/></u>
+<u n="558" who="S0493">I <trunc>dou</trunc> check it you just need to check how you spell Montezuma</u>
+<u n="559" who="S0604">yeah</u>
+<u n="560" who="S0603">erm well yeah you it's it's funny you just you do get tanked cos it starts</u>
+<u n="561" who="S0493" trans="overlap">yeah I bet</u>
+<u n="562" who="S0603" trans="overlap">at six and it ends at eleven</u>
+<u n="563" who="S0493" trans="overlap">yeah</u>
+<u n="564" who="S0604">well we'll each take turns writing them <pause dur="short"/> we'll get we're gonna name our viruses now</u>
+<u n="565" who="S0605">have you got</u>
+<u n="566" who="S0604" trans="overlap"><trunc>z</trunc>zombie virus virus zed what do you think? er we <trunc>th</trunc> we <trunc>th</trunc> <anon type="name" nameType="f"/> said a good one <trunc>li</trunc> yesterday for apparently in the Aztecs erm or you know South Americans whenever the white people sneeze it's Montenegro's <trunc>re</trunc> erm</u>
+<u n="567" who="S0605">Montezuma's <trunc>reser</trunc> revenge</u>
+<u n="568" who="S0604">yeah</u>
+<u n="569" who="S0493">which is pretty good</u>
+<u n="570" who="S0605">yeah very good actually a man flu</u>
+<u n="571" who="S0604"><vocal desc="laugh"/> a particularly virulent strain of man flu wanna write down erm greed for <pause dur="long"/></u>
+<u n="572" who="S0493">there's a video game on the Atari called Montezuma's Revenge <pause dur="short"/> nineteen eighty-four <pause dur="long"/></u>
+<u n="573" who="S0605">have you seen Mephisto? a really interesting film made by erm who was the mentalist who started on on Jews and all that? and got</u>
+<u n="574" who="S0493" trans="overlap">Gibson</u>
+<u n="575" who="S0604"><vocal desc="laugh"/> Mel Gibson</u>
+<u n="576" who="S0605">genuinely it</u>
+<u n="577" who="S0493" trans="overlap">not Apocalypto?</u>
+<u n="578" who="S0604">Mephisto <vocal desc="laugh"/></u>
+<u n="579" who="S0605"><unclear/></u>
+<u n="580" who="S0493">well yeah Apocalypto's</u>
+<u n="581" who="S0604" trans="overlap">that's a great film</u>
+<u n="582" who="S0493" trans="overlap">it's very good yeah amazing film</u>
+<u n="583" who="S0605" trans="overlap">it is a great film yeah</u>
+<u n="584" who="S0493" trans="overlap">it's in a language spoken by about twenty people in the world or something isn't it?</u>
+<u n="585" who="S0605">what's <unclear/></u>
+<u n="586" who="S0603" trans="overlap">are you playing er <trunc>Monte</trunc>Montezum thingy's revenge?</u>
+<u n="587" who="S0604" trans="overlap">well these this character in erm</u>
+<u n="588" who="S0493">basically a precursor to Indiana Jones</u>
+<u n="589" who="S0604" trans="overlap">you know the</u>
+<u n="590" who="S0493"><vocal desc="misc"/></u>
+<u n="591" who="S0604" trans="overlap">Faust isn't he?</u>
+<u n="592" who="S0605">oh yeah</u>
+<u n="593" who="S0604" trans="overlap"><unclear/> Faust</u>
+<u n="594" who="S0605" trans="overlap">yes no isn't it a good film genuinely though</u>
+<u n="595" who="S0604">yeah it's amazing</u>
+<u n="596" who="S0493" trans="overlap">mm mm</u>
+<u n="597" who="S0604"><unclear/></u>
+<u n="598" who="S0603">you know the spelling right?</u>
+<u n="599" who="S0604">Montezuma <unclear>juice</unclear> mountain oh I dunno that's not right is it?</u>
+<u n="600" who="S0603">the <unclear>juice</unclear> juice mountain</u>
+<u n="601" who="S0493">the <unclear>juice</unclear> mountain</u>
+<u n="602" who="S0604">the <unclear>Jews</unclear> mountain</u>
+<u n="603" who="S0603">mountain <unclear>Jews</unclear> mountain</u>
+<u n="604" who="S0604">not saying that</u>
+<u n="605" who="S0603">mountain Jew</u>
+<u n="606" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="607" who="S0603">this is quite nice this er sweet one</u>
+<u n="608" who="S0493">mm but the dry oh no that's the <unclear/></u>
+<u n="609" who="S0605">have you had the strawberry one?</u>
+<u n="610" who="S0604">oh yeah the strawberry's nice</u>
+<u n="611" who="S0603">but that's er that's really quite mild</u>
+<u n="612" who="S0492" trans="overlap">you can try the strawberry one</u>
+<u n="613" who="S0603">thank you</u>
+<u n="614" who="S0604">yeah I mean this is like <trunc>pro</trunc> you know this is high level stuff you <trunc>kn</trunc> the this takes it to the next level like when you can have an actual discussion before the game starts for about forty-five minutes of want to do</u>
+<u n="615" who="S0603">yeah I I want to bring Jean-Claude Van Damme to the party</u>
+<u n="616" who="S0604" whoConfidence="low">alright if you wanna do that I'll I'll be Jackie Brown</u>
+<u n="617" who="S0603">instead of <unclear>the curo</unclear> oh no</u>
+<u n="618" who="S0604" trans="overlap">yeah</u>
+<u n="619" who="S0603">she's too good <pause dur="short"/> she's Scully's too too powerful</u>
+<u n="620" who="S0493">I don't think she is</u>
+<u n="621" who="S0604" trans="overlap">I don't think she's that powerful</u>
+<u n="622" who="S0493" trans="overlap">I don't think she's that good</u>
+<u n="623" who="S0604">well look how powerful Jackie is right? she can do this the quarantine thing she's got the relationships and she's got</u>
+<u n="624" who="S0493" trans="overlap">two relationships with two <trunc>play</trunc> no with or with only one player</u>
+<u n="625" who="S0603" trans="overlap">yeah so I think maybe coming in bringing levelling up the soldier straight away and turning him into a super soldier get him now in June by December</u>
+<event desc="unintelligible"/>
+<u n="626" who="S0603">he could be the he could be</u>
+<u n="627" who="S0493" trans="overlap">or some sort of special soldier <unclear/></u>
+<u n="628" who="S0603" trans="overlap">check this out so he comes into the game with Jean-Claude Van Damme in June by December he's the universal soldier</u>
+<u n="629" who="S0604">are you just gonna have <unclear/></u>
+<u n="630" who="S0603" trans="overlap">the unstoppable machine</u>
+<u n="631" who="S0493">do you have another pen? <pause dur="long"/></u>
+<u n="632" who="S0603">and he can hang around in erm the Middle East like a good soldier without picking up scars</u>
+<u n="633" who="S0605">you call him er Svejk the</u>
+<u n="634" who="S0604" trans="overlap"><unclear/> force that one</u>
+<u n="635" who="S0605">there's a a great er book called The Good Soldier Švejk</u>
+<u n="636" who="S0604">oh</u>
+<u n="637" who="S0603">but <trunc>D</trunc> is it Dostoevsky? <unclear/></u>
+<u n="638" who="S0603">but then we are</u>
+<u n="639" who="S0604" trans="overlap"><unclear>there it is</unclear></u>
+<u n="640" who="S0603">we are cos we don't have basically the the <trunc>p</trunc> the power of the scientist is to cure all of the diseases right? but we've got we don't have to cure the virus</u>
+<u n="641" who="S0604">no no mm?</u>
+<u n="642" who="S0603">you don't have to cure the virus</u>
+<u n="643" who="S0493" trans="overlap">you can't cure it you can't cure</u>
+<u n="644" who="S0603" trans="overlap">so you can't cure it so you're only trying to cure three</u>
+<u n="645" who="S0604">yeah</u>
+<u n="646" who="S0493">but it does help with the elimination <pause dur="long"/></u>
+<u n="647" who="S0604">okay dad?</u>
+<u n="648" who="S0605">you don't you don't like man flu do you?</u>
+<u n="649" who="S0604">for for red?</u>
+<u n="650" who="S0605">too lighthearted</u>
+<u n="651" who="S0604">what were we gonna er we haven't decided on a</u>
+<u n="652" who="S0603" trans="overlap">well we were talking of</u>
+<u n="653" who="S0493">avian swine?</u>
+<u n="654" who="S0603" trans="overlap">avian swine <vocal desc="laugh"/></u>
+<u n="655" who="S0493"><vocal desc="laugh"/></u>
+<u n="656" who="S0604">avian <trunc>swi</trunc></u>
+<u n="657" who="S0603" trans="overlap">avian swine flu so <unclear/></u>
+<u n="658" who="S0493" trans="overlap">it's their biggest fear</u>
+<u n="659" who="S0603">or alcoholism <vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="660" who="S0493">have we decided if you get a black in your hand whether it's counts?</u>
+<u n="661" who="S0603">I don't think from the start I think that's harsh</u>
+<u n="662" who="S0493">that's handy isn't it?</u>
+<u n="663" who="S0604"><vocal desc="laugh"/></u>
+<u n="664" who="S0603">I haven't checked but I'm guessing</u>
+<u n="665" who="S0604">yeah I've got I got a black</u>
+<u n="666" who="S0603">yeah</u>
+<u n="667" who="S0604">I got <unclear/></u>
+<u n="668" who="S0493" trans="overlap">well you want blacks then don't you? <pause dur="long"/></u>
+<u n="669" who="S0605">avian swine flu <pause dur="long"/></u>
+<u n="670" who="S0603">AKA man flu <vocal desc="laugh"/></u>
+<u n="671" who="S0605">yeah</u>
+<u n="672" who="S0603">man bird man bird big</u>
+<u n="673" who="S0493" trans="overlap">man bird pig flu</u>
+<u n="674" who="S0603"><vocal desc="laugh"/> man <trunc>bir</trunc> man bird pig flu</u>
+<u n="675" who="S0493" whoConfidence="low">okay dad why don't you tell <anon type="name" nameType="m"/> erm what what you'll medically do cos he's <unclear/></u>
+<u n="676" who="S0603" trans="overlap">oh yeah what's his credentials?</u>
+<u n="677" who="S0605">once per turn I can treat disease in any city that's connected to my city</u>
+<u n="678" who="S0603">nice</u>
+<u n="679" who="S0493">or reach</u>
+<u n="680" who="S0604">that's pretty good isn't it?</u>
+<u n="681" who="S0603">go go gadget</u>
+<u n="682" who="S0605">and this one called pilot is I don't have to discard a card when I'm taking a direct flight to a particular city</u>
+<u n="683" who="S0603">do you just fly anywhere?</u>
+<u n="684" who="S0493">yeah he's</u>
+<u n="685" who="S0603">super medic</u>
+<u n="686" who="S0605">so I show the card and then</u>
+<u n="687" who="S0603" trans="overlap">to so that so <trunc>y</trunc>you you still need to have possess the card</u>
+<u n="688" who="S0605" trans="overlap">you need to have it but yeah sorry yeah</u>
+<u n="689" who="S0603" trans="overlap">but you don't but you can keep it wow</u>
+<u n="690" who="S0605">and then you return it to</u>
+<u n="691" who="S0603" trans="overlap">yeah yeah</u>
+<u n="692" who="S0605" trans="overlap"><unclear/> but you have to show it yeah</u>
+<u n="693" who="S0604">yeah because <trunc>i</trunc> almost sort of have to okay what's your executive decision? are you are you gone JC?</u>
+<u n="694" who="S0603">I think bringing him to the party</u>
+<u n="695" who="S0493">Jean-Claude and are you going the scientist or Jackie?</u>
+<u n="696" who="S0604" trans="overlap">no I'll go Jackie <pause dur="short"/> put her back in her</u>
+<u n="697" who="S0493">back in your box</u>
+<u n="698" who="S0604" trans="overlap">in the in the lab in the lab box</u>
+<u n="699" who="S0493">have you got a <pause dur="long"/> got an action card?</u>
+<u n="700" who="S0603">I have there's one here as well</u>
+<u n="701" who="S0604">okay guys do you wanna shuffle those?</u>
+<u n="702" who="S0493">yeah</u>
+<u n="703" who="S0604" trans="overlap">and <pause dur="long"/></u>
+<u n="704" who="S0493">so you do you get a scar if you're in a city when the fallen come?</u>
+<u n="705" who="S0603">yeah</u>
+<u n="706" who="S0605">yeah</u>
+<u n="707" who="S0604" trans="overlap">yes</u>
+<u n="708" who="S0493">that's the only way I can die then?</u>
+<u n="709" who="S0603">yeah that's that was the concern</u>
+<u n="710" who="S0605" trans="overlap">why's that the only way you can die?</u>
+<u n="711" who="S0493">because I've got if I get another scar I'm dead but I've got a bumper that says I don't any scar if it's an inner city when it when it <pause dur="short"/> when I when it outbreaks you get a scar</u>
+<u n="712" who="S0604">yeah</u>
+<u n="713" who="S0493">or is it when it or <unclear/></u>
+<u n="714" who="S0604" trans="overlap">oh <unclear/></u>
+<u n="715" who="S0603" trans="overlap">no but if you start yeah cos like if if you begin your turn in a city with faded figures so it sounds like <pause dur="short"/> yeah if if you're you're in Karachi and there's nothing there and then <unclear/></u>
+<u n="716" who="S0493" trans="overlap">and they get to <unclear>favourite</unclear> cities I'm dead</u>
+<u n="717" who="S0603">then you turn then you start your turn so it's like the first thing that happens is you get a scar I I'd just like maybe some clarity on that but</u>
+<u n="718" who="S0493">right I'm just gonna try and not go there really isn't it? and then Jakarta's on five right? so that means discard one more card two</u>
+<u n="719" who="S0603" trans="overlap">two</u>
+<u n="720" who="S0493">in total of the city's</u>
+<u n="721" who="S0603" trans="overlap">city's colour</u>
+<u n="722" who="S0493">colour</u>
+<u n="723" who="S0603">to drive <unclear/> into it</u>
+<u n="724" who="S0493">so basically</u>
+<u n="725" who="S0603">don't go anywhere near that</u>
+<u n="726" who="S0493" trans="overlap">you won't go to Jakarta</u>
+<u n="727" who="S0603">that's fair</u>
+<u n="728" who="S0493">you've gotta discard two reds to get in there</u>
+<u n="729" who="S0603">and then what about getting out? you can get out fine right?</u>
+<u n="730" who="S0493">yeah cos there's into there</u>
+<u n="731" who="S0603">uhu</u>
+<u n="732" who="S0493">so then we haven't got I don't think we've got any fours have we? we've got two threes</u>
+<u n="733" who="S0603">uhu mm</u>
+<u n="734" who="S0493">so that's just rioting no direct flights or charter flights in or out but you can <trunc>g</trunc>go there overland existing research stations destroyed</u>
+<u n="735" who="S0603">uhu</u>
+<u n="736" who="S0493">no new research stations to be built <pause dur="short"/> okay and then what colour were you then <anon type="name" nameType="m"/>? brown?</u>
+<u n="737" who="S0603">yeah</u>
+<u n="738" who="S0493">it would make er thematic sense</u>
+<u n="739" who="S0603">yeah</u>
+<u n="740" who="S0493">dad what colour are you?</u>
+<u n="741" who="S0605">in the past I've been</u>
+<u n="742" who="S0493">blue</u>
+<u n="743" who="S0605">I've</u>
+<u n="744" who="S0493">okay yeah well you've got the blue then and <anon type="name" nameType="m"/>'s white then is it?</u>
+<u n="745" who="S0604">uhu</u>
+<u n="746" who="S0493">okay</u>
+<u n="747" who="S0603">right what what</u>
+<u n="748" who="S0493" trans="overlap">who's got the biggest city?</u>
+<u n="749" who="S0603">I've er drawn a</u>
+<u n="750" who="S0605" trans="overlap"><unclear/></u>
+<u n="751" who="S0603" trans="overlap">drawn a forecast card</u>
+<u n="752" who="S0493">right</u>
+<u n="753" who="S0603">that's nice</u>
+<u n="754" who="S0605">oh there you go there you go then</u>
+<u n="755" who="S0603">erm</u>
+<u n="756" who="S0493">we've gotta infect your board as well</u>
+<u n="757" who="S0603">I've got Lagos which is pretty big</u>
+<u n="758" who="S0493">I've got Manila and São Paulo</u>
+<u n="759" who="S0603">I'd say São Paulo was bigger</u>
+<u n="760" who="S0493">twenty mil</u>
+<u n="761" who="S0603">yeah</u>
+<u n="762" who="S0493">Manila twenty point seven</u>
+<u n="763" who="S0605">I've only got San Fran and Riyadh</u>
+<u n="764" who="S0493">okay <pause dur="short"/> confident quietly confident</u>
+<u n="765" who="S0603">I'm hoping Jean-Claude doesn't fail us</u>
+<u n="766" who="S0605">I think I had I hadn't realised that the scared ones go I think it's possible that those two could go today</u>
+<u n="767" who="S0493">this would only be if I was in a <trunc>th</trunc> I can't I can't get an outbreak I can't get a scar by getting an outbreak like everyone else cos I've got a bump that stops that happening this was only if I go in the black area which I will try to avoid <pause dur="long"/></u>
+<u n="768" who="S0603">right oh shall we see what he's got or? <pause dur="long"/></u>
+<u n="769" who="S0605">my friend who was down there just said hey you've got good neighbours the guy opposite me er asked me what I was doing taking photos I told him I was from a letting agency looking to place immigrants throughout the area</u>
+<u n="770" who="S0604"><vocal desc="laugh"/></u>
+<u n="771" who="S0605">he closed his door</u>
+<u n="772" who="S0604"><vocal desc="laugh"/></u>
+<u n="773" who="S0605"><vocal desc="laugh"/></u>
+<u n="774" who="S0604">oh my god</u>
+<u n="775" who="S0493"><vocal desc="cough"/> <pause dur="long"/></u>
+<u n="776" who="S0603">uhu erm so with the fallen figures</u>
+<u n="777" who="S0493">mm</u>
+<u n="778" who="S0603">they add scars immediately</u>
+<u n="779" who="S0493">if you're in there</u>
+<u n="780" who="S0603">mm</u>
+<u n="781" who="S0493">but again cos Jackie Brown can do it remotely</u>
+<u n="782" who="S0603">mm</u>
+<u n="783" who="S0493">there's no need for her to go in there</u>
+<u n="784" who="S0603">uhu the so this soldier can run around in there?</u>
+<u n="785" who="S0493">yeah</u>
+<u n="786" who="S0603">so he's</u>
+<u n="787" who="S0493">so you're alright in there but</u>
+<u n="788" who="S0603" trans="overlap">yeah</u>
+<u n="789" who="S0493">yeah but also you can't cure it anyway so <pause dur="short"/> yeah I dunno how much we have to apart from you you have to physically be in there to</u>
+<u n="790" who="S0604">get infected</u>
+<u n="791" who="S0603">yeah I forgot that he can't discover a cure but</u>
+<u n="792" who="S0493">yeah but there's other people for that</u>
+<u n="793" who="S0493">okay</u>
+<u n="794" who="S0603" trans="overlap">okay what have you got?</u>
+<u n="795" who="S0493">we <trunc>wan</trunc> you wanna have black</u>
+<u n="796" who="S0603" trans="overlap">Jackie</u>
+<u n="797" who="S0493">okay</u>
+<u n="798" who="S0603">and what's that one?</u>
+<u n="799" who="S0604">er and I can remove one disease cube at anywhere on the board at any time</u>
+<u n="800" who="S0603">and then you've just got that card yeah?</u>
+<u n="801" who="S0604">er no it's just erm an <unclear/></u>
+<u n="802" who="S0493" trans="overlap">you'll have it but if you</u>
+<u n="803" who="S0604">yeah</u>
+<u n="804" who="S0493">if he plays it without using it then</u>
+<u n="805" who="S0603">yeah</u>
+<u n="806" who="S0493">obviously would okay then infecting then dad <pause dur="short"/> bangkok three <pause dur="short"/> algiers</u>
+<u n="807" who="S0604">I've forgotten do we want fallen to be <pause dur="short"/> what was best?</u>
+<u n="808" who="S0603">so already Bangkok's on a three so if it goes up again then it's collapsing</u>
+<u n="809" who="S0493">yeah</u>
+<u n="810" who="S0604">okay</u>
+<u n="811" who="S0605">so do we put a roadblock on that if we can?</u>
+<u n="812" who="S0604">yeah we yeah</u>
+<u n="813" who="S0493">how many people in Istanbul <unclear/>?</u>
+<u n="814" who="S0604">thirteen million</u>
+<u n="815" who="S0493">Manila</u>
+<u n="816" who="S0603"><vocal desc="misc"/> that man flu</u>
+<u n="817" who="S0493">okay two</u>
+<u n="818" who="S0603">man</u>
+<u n="819" who="S0493">Essen <pause dur="short"/> lima <pause dur="short"/> delhi <pause dur="long"/> Los Angeles one <trunc>ye</trunc> <pause dur="short"/> kinshasa one <pause dur="short"/> and Beijing <pause dur="long"/> okey-doke</u>
+<u n="820" who="S0604">alright then</u>
+<u n="821" who="S0603">so also because you're in a medical a research centre</u>
+<u n="822" who="S0493">are we saying that's an action? or not?</u>
+<u n="823" who="S0604">not an action to use an action to pick it up</u>
+<u n="824" who="S0603">an action to to take it and just stick it on a card I think that's gotta be an action if you're taking some and putting it on a card</u>
+<u n="825" who="S0604">yeah no but to use it isn't</u>
+<u n="826" who="S0603" trans="overlap">an action no but to actually equip it</u>
+<u n="827" who="S0604">okay</u>
+<u n="828" who="S0603">cos initially it it's an equipping equipping it is the action isn't it?</u>
+<u n="829" who="S0604">yeah okay</u>
+<u n="830" who="S0493">so</u>
+<u n="831" who="S0603">so you can either take the card can be used as a city card of any colour</u>
+<u n="832" who="S0493">I won't take that because I can do that if I'm in a research station anyway</u>
+<u n="833" who="S0603">uhu cool</u>
+<u n="834" who="S0493">right anything else?</u>
+<u n="835" who="S0603">er a hazmat discard this card when you're starting your turn in a city containing faded figures so that's the that's</u>
+<u n="836" who="S0493" trans="overlap">I'm not gonna be there anyway</u>
+<u n="837" who="S0603">but <trunc>th</trunc>that I mean</u>
+<u n="838" who="S0604">yeah</u>
+<u n="839" who="S0603">but yeah that would be a good that would give</u>
+<u n="840" who="S0493" trans="overlap">that will block me</u>
+<u n="841" who="S0603" trans="overlap">give give him give him a hazmat and then he's safe</u>
+<u n="842" who="S0493">okay then he's</u>
+<u n="843" who="S0603" trans="overlap">but</u>
+<u n="844" who="S0493" trans="overlap">definitely safe</u>
+<u n="845" who="S0603">yeah</u>
+<u n="846" who="S0493">and then field hospital</u>
+<u n="847" who="S0603" trans="overlap">field hostel discard to add a research station to your city regardless of the panic level</u>
+<u n="848" who="S0604"><unclear/></u>
+<u n="849" who="S0493" trans="overlap">so I leave that because I'm military based</u>
+<u n="850" who="S0603">yeah</u>
+<u n="851" who="S0493">shall I take a hazmat suit? cos there's more of them as well now</u>
+<u n="852" who="S0603">mm</u>
+<u n="853" who="S0604">is it your go first then is it?</u>
+<u n="854" who="S0493">yeah</u>
+<u n="855" who="S0603" trans="overlap">mm</u>
+<u n="856" who="S0493">and I've got five actions anyway</u>
+<u n="857" who="S0604">well yeah don't and don't forget you erm you wanna be building one right?</u>
+<u n="858" who="S0493">this turn yeah</u>
+<u n="859" who="S0604">yeah</u>
+<u n="860" who="S0493">maybe even in</u>
+<u n="861" who="S0603">so I think yeah take a hazmat suit put it on er <pause dur="short"/> mm which one's easier to get to?</u>
+<u n="862" who="S0493" trans="overlap">but hang on no if I put that on a city then I've gotta keep that city card with me</u>
+<u n="863" who="S0603">no cos I can take it back but</u>
+<u n="864" who="S0493">yeah but then you're using it but anyway I've only got this as long as I've got a city card</u>
+<u n="865" who="S0603">yeah yeah</u>
+<u n="866" who="S0604" trans="overlap">uhu</u>
+<u n="867" who="S0493">okay well I might keep Manila I might use Manila cos erm I I'm thinking of going there so shall I just keep São Paulo then?</u>
+<u n="868" who="S0604">okay</u>
+<u n="869" who="S0493">put it on São Paulo</u>
+<u n="870" who="S0604">uhu</u>
+<u n="871" who="S0605">and that's good for now but in the next game</u>
+<u n="872" who="S0603">it it sticks with it it stays with it</u>
+<u n="873" who="S0604" trans="overlap">yeah</u>
+<u n="874" who="S0603">yeah</u>
+<u n="875" who="S0605" trans="overlap">that's what I'm saying but it could be it could be good for us it makes that a good card</u>
+<u n="876" who="S0604">yeah</u>
+<u n="877" who="S0603">yeah</u>
+<u n="878" who="S0605">it makes that a much better card than</u>
+<u n="879" who="S0493">okay so one I've got five actions I can look at the top two infection cards</u>
+<u n="880" who="S0603">you can do that every go can't you?</u>
+<u n="881" who="S0493">yeah Jakarta New York one</u>
+<u n="882" who="S0603"><trunc>Jaka</trunc> I mean do we let <trunc>Jaka</trunc> burn anyway because it's on fireball do you wanna put a <trunc>roa</trunc> do you wanna put a roadblock on Jakarta?</u>
+<u n="883" who="S0604">yeah I mean <trunc>Jakar</trunc> can't get any worse</u>
+<u n="884" who="S0493">yeah okay so I've got four actions shall I build a military base there? cos then that's North America sorted</u>
+<u n="885" who="S0604">yeah</u>
+<u n="886" who="S0603">green?</u>
+<u n="887" who="S0493">two and I would say fly to here and I could maybe sort out <unclear>here</unclear> Beijing <trunc>so</trunc></u>
+<u n="888" who="S0604" trans="overlap">or you could leave <anon type="name" nameType="m"/> you leave that to dad cos he can do it</u>
+<u n="889" who="S0493" trans="overlap">I <trunc>rea</trunc> I wanna put a military station in Asia and then</u>
+<u n="890" who="S0604" trans="overlap">and then get out</u>
+<u n="891" who="S0493" trans="overlap">get out of Asia</u>
+<u n="892" who="S0604" trans="overlap">okay</u>
+<u n="893" who="S0493">one two</u>
+<u n="894" who="S0603">that's three actually</u>
+<u n="895" who="S0493">so this'll be three won't it?</u>
+<u n="896" who="S0603">that'll be four</u>
+<u n="897" who="S0493">no so hazmat one</u>
+<u n="898" who="S0604">that doesn't count as an action looking</u>
+<u n="899" who="S0493">two</u>
+<u n="900" who="S0603">oh it doesn't count as an action?</u>
+<u n="901" who="S0604">no</u>
+<u n="902" who="S0603">oh wow</u>
+<u n="903" who="S0493">three</u>
+<u n="904" who="S0603">yeah</u>
+<u n="905" who="S0493">build and then go to Manila</u>
+<u n="906" who="S0603">okay <pause dur="long"/> wow that's so that's not an action oh</u>
+<u n="907" who="S0493">four</u>
+<u n="908" who="S0603">well maybe don't go to Manila in case there's a problem for some reason</u>
+<u n="909" who="S0604">well er he's <unclear/></u>
+<u n="910" who="S0493" trans="overlap">I am safe so</u>
+<u n="911" who="S0603">okay</u>
+<u n="912" who="S0493">er if I</u>
+<u n="913" who="S0603" trans="overlap">okay</u>
+<u n="914" who="S0493">go to <trunc>ho</trunc> Ho Chi Minh I could</u>
+<u n="915" who="S0603">skip between them?</u>
+<u n="916" who="S0493">what do you think?</u>
+<u n="917" who="S0604">I mean why are you going to Manila?</u>
+<u n="918" who="S0493">cos I've gotta get out of Asia otherwise I lose a turn</u>
+<u n="919" who="S0604">okay yeah yeah yeah you yeah stay there cos <trunc>y</trunc>you know you now nothing's coming up</u>
+<u n="920" who="S0493" trans="overlap">okay alright then</u>
+<u n="921" who="S0604">and you've got a hazard suit <unclear/></u>
+<u n="922" who="S0603" trans="overlap">Ho Chi Minh er so you could go zip over and come back quicker</u>
+<u n="923" who="S0493">yeah okay okay <trunc>th</trunc> infect two now</u>
+<u n="924" who="S0603">er the card first right?</u>
+<u n="925" who="S0493" trans="overlap">is that right yeah</u>
+<u n="926" who="S0603">yeah</u>
+<u n="927" who="S0493"><trunc>Mon</trunc></u>
+<u n="928" who="S0603" trans="overlap">wow <vocal desc="laugh"/></u>
+<u n="929" who="S0493">treal</u>
+<u n="930" who="S0603">he was in Delhi wasn't he?</u>
+<u n="931" who="S0493">yeah</u>
+<u n="932" who="S0605">yeah</u>
+<u n="933" who="S0493">Ho Chi Minh okey-doke</u>
+<u n="934" who="S0603">uhu</u>
+<u n="935" who="S0493">infect two</u>
+<u n="936" who="S0603">mm</u>
+<u n="937" who="S0493">Jakarta New York</u>
+<u n="938" who="S0605">so Jakarta's out there anyway</u>
+<u n="939" who="S0604">yeah so we'll er <unclear/></u>
+<u n="940" who="S0603">you built a military base so that means we can pick up a grenade belt which</u>
+<u n="941" who="S0604" trans="overlap">well yeah yeah</u>
+<u n="942" who="S0603">er discard at any time to remove one faded figure from the city you're in</u>
+<u n="943" who="S0493">you and you're gonna be in faded zones where mm no one else really is gonna be in there</u>
+<u n="944" who="S0603">uhu and</u>
+<u n="945" who="S0604">it's a really good one isn't it?</u>
+<u n="946" who="S0603">that one yeah</u>
+<u n="947" who="S0604">yeah</u>
+<u n="948" who="S0603">so you can use just</u>
+<u n="949" who="S0604" trans="overlap">that you can't do that but</u>
+<u n="950" who="S0603" trans="overlap">no no</u>
+<u n="951" who="S0604" trans="overlap">I can</u>
+<u n="952" who="S0603">er drone escort so discard this card when you drive into a collapsing or fallen city</u>
+<u n="953" who="S0604">so the only <trunc>collap</trunc> the only collapsed one we're up to is Jakarta</u>
+<u n="954" who="S0603">uhu</u>
+<u n="955" who="S0604">is on five but erm</u>
+<u n="956" who="S0603" trans="overlap">uhu erm</u>
+<u n="957" who="S0493">you can get in there for free basically it's saying</u>
+<u n="958" who="S0604">yeah</u>
+<u n="959" who="S0603">yeah</u>
+<u n="960" who="S0493">so <unclear>discard it</unclear></u>
+<u n="961" who="S0604" trans="overlap">so we haven't got any four we haven't got any fours</u>
+<u n="962" who="S0603" trans="overlap">we don't need the so we don't need those just now</u>
+<u n="963" who="S0493" trans="overlap">no</u>
+<u n="964" who="S0603">so don't don't equip anything for now</u>
+<u n="965" who="S0604">but when didn't you want a grenade belt?</u>
+<u n="966" who="S0603">yeah that might be fun</u>
+<u n="967" who="S0605" trans="overlap">what does that do?</u>
+<u n="968" who="S0603">you can erm remove er one faded figure</u>
+<u n="969" who="S0604" trans="overlap">one fallen one <trunc>f</trunc></u>
+<u n="970" who="S0603" trans="overlap">one faded fallen figure as a and then you discard the card so it's like you just drop a grenade in the city</u>
+<u n="971" who="S0605">oh good</u>
+<u n="972" who="S0493">Jean-Claude will that like that won't he?</u>
+<u n="973" who="S0603">yeah</u>
+<u n="974" who="S0493">so that's one</u>
+<u n="975" who="S0603">so Lagos is now a grenade city</u>
+<u n="976" who="S0604">uhu</u>
+<u n="977" who="S0603">erm</u>
+<u n="978" who="S0605">and after we've finished putting these on</u>
+<u n="979" who="S0604">have you got two</u>
+<u n="980" who="S0605" trans="overlap">wouldn't that make the next game sort of a lot easier but I guess there's other things that <unclear/></u>
+<u n="981" who="S0603" trans="overlap">yeah yeah</u>
+<u n="982" who="S0493" trans="overlap">yeah games getting yeah</u>
+<u n="983" who="S0603">so does anybody want erm take a can I give <unclear/> oh no cos I need to be I haven't got a connection to anybody have I?</u>
+<u n="984" who="S0604">no</u>
+<u n="985" who="S0603">move from a city with a military base to another military base</u>
+<u n="986" who="S0493">so Hong Kong or Paris</u>
+<u n="987" who="S0603" trans="overlap">so I'll go to Paris <pause dur="short"/> er</u>
+<u n="988" who="S0493">two</u>
+<u n="989" who="S0603" trans="overlap">two three and <trunc>f</trunc>four take one off</u>
+<u n="990" who="S0605">leave that one on here</u>
+<u n="991" who="S0493">or put a quarantine on it so that</u>
+<u n="992" who="S0605" trans="overlap"><unclear>it's only</unclear> for military people</u>
+<u n="993" who="S0493">yep so that's so your medical and the and the rest of us are military</u>
+<u n="994" who="S0605">oh yeah</u>
+<u n="995" who="S0604" trans="overlap">mm er well yeah you can yeah you can put a quarantine on it er you can roadblock it erm</u>
+<u n="996" who="S0493">quarantine helps with that objective</u>
+<u n="997" who="S0604">yeah</u>
+<u n="998" who="S0603" trans="overlap">yeah</u>
+<u n="999" who="S0604">you <trunc>cou</trunc> or you can <trunc>s</trunc></u>
+<u n="1000" who="S0603" trans="overlap">do you <trunc>kn</trunc> and I mean</u>
+<u n="1001" who="S0604" trans="overlap">or you can sort out Essen</u>
+<u n="1002" who="S0603">and do I need to be in in that city to quarantine it?</u>
+<u n="1003" who="S0604">yeah</u>
+<u n="1004" who="S0493">yeah <anon type="name" nameType="m"/> doesn't but you do</u>
+<u n="1005" who="S0603">right</u>
+<u n="1006" who="S0604">another thing we didn't know when when this infects Madrid</u>
+<u n="1007" who="S0493">yeah</u>
+<u n="1008" who="S0604">when Madrid comes up if it comes up</u>
+<u n="1009" who="S0603">it gets one of each</u>
+<u n="1010" who="S0604">er no instead of blues coming it's just more</u>
+<u n="1011" who="S0493">right are you gonna so <unclear>don't know</unclear></u>
+<u n="1012" who="S0604" trans="overlap"><unclear>whether</unclear> it's the zombies yeah</u>
+<u n="1013" who="S0603">as one's blue so one's <unclear/></u>
+<u n="1014" who="S0493" trans="overlap">so roadblock the roadblock around Algiers isn't bad thing cos it protects Madrid but then a quarantine is part of that objective</u>
+<u n="1015" who="S0604">yeah <pause dur="short"/> yes</u>
+<u n="1016" who="S0603" trans="overlap">cos the quarantine gives that an extra life</u>
+<u n="1017" who="S0493">mm</u>
+<u n="1018" who="S0604" trans="overlap">yeah</u>
+<u n="1019" who="S0603">erm</u>
+<u n="1020" who="S0493" trans="overlap">and it gives us one out of seven</u>
+<u n="1021" who="S0603">yeah er</u>
+<u n="1022" who="S0493" trans="overlap"><unclear/></u>
+<u n="1023" who="S0603">but a roadblock would <trunc>preve</trunc> would protect one two</u>
+<u n="1024" who="S0493">but</u>
+<u n="1025" who="S0603">three four</u>
+<u n="1026" who="S0493">but if you've got a quarantine it's not gonna have an outbreak to</u>
+<u n="1027" who="S0603" trans="overlap">mm</u>
+<u n="1028" who="S0493">Madrid anyway</u>
+<u n="1029" who="S0603" trans="overlap">yeah but I need to be in it in order to deliver</u>
+<u n="1030" who="S0604">well it well the thing is right the the difference between them is quarantine is temporary</u>
+<u n="1031" who="S0493">yeah</u>
+<u n="1032" who="S0604">okay? quarantine takes the big hit</u>
+<u n="1033" who="S0493" trans="overlap">I know the yeah</u>
+<u n="1034" who="S0604">but but the roadblock is is</u>
+<u n="1035" who="S0493" trans="overlap">and actually</u>
+<u n="1036" who="S0604" trans="overlap"><unclear/></u>
+<u n="1037" who="S0493">that's stopping Algiers really more or less will stop you going into Europe stop the faded going into Europe</u>
+<u n="1038" who="S0603">uhu</u>
+<u n="1039" who="S0604">yeah</u>
+<u n="1040" who="S0603">so does a roadblock is consistent? it doesn't get back</u>
+<u n="1041" who="S0493" trans="overlap">a roadblock stays</u>
+<u n="1042" who="S0603">uhu</u>
+<u n="1043" who="S0493">but as say er is <anon type="name" nameType="m"/> if <anon type="name" nameType="m"/> goes over with the faded it just bounces out and he</u>
+<u n="1044" who="S0603">uhu</u>
+<u n="1045" who="S0493">you know it's</u>
+<u n="1046" who="S0603" trans="overlap">so a roadblock</u>
+<u n="1047" who="S0493" trans="overlap">it counts as not as not</u>
+<u n="1048" who="S0603">it can't</u>
+<u n="1049" who="S0493" trans="overlap">doing it with the quarantine</u>
+<u n="1050" who="S0603" trans="overlap">can't be broken</u>
+<u n="1051" who="S0493">but <trunc>quar</trunc> you set up a roadblock</u>
+<u n="1052" who="S0603" trans="overlap">so if Algiers was to outbreak</u>
+<u n="1053" who="S0604">mm</u>
+<u n="1054" who="S0603">and it tried to go to a roadblock</u>
+<u n="1055" who="S0604" trans="overlap">it doesn't</u>
+<u n="1056" who="S0603">would it break down the roadblock?</u>
+<u n="1057" who="S0493">no no the roadblock stays</u>
+<u n="1058" who="S0603">well let's go roadblock on this</u>
+<u n="1059" who="S0493">but then you're not you're not getting one of your <trunc>seve</trunc> you're not</u>
+<u n="1060" who="S0604" trans="overlap">well yeah okay but you know I've got my ability</u>
+<u n="1061" who="S0603">does it matter what colour they are? black or</u>
+<u n="1062" who="S0493">oh hang on</u>
+<u n="1063" who="S0604" trans="overlap">and you put it you put it put it in the middle</u>
+<u n="1064" who="S0605" trans="overlap">and it stays in the middle I think</u>
+<u n="1065" who="S0493" trans="overlap">so you've gotta go there and you've got that that that and that</u>
+<u n="1066" who="S0604">and I think <vocal desc="sigh"/> <pause dur="short"/> you know maybe we we lost the the games cos <trunc>w</trunc> <vocal desc="sigh"/> the <trunc>qua</trunc>the quarantines were coming from the bleed outs as well they weren't just <pause dur="short"/> and if you know this does contain them</u>
+<u n="1067" who="S0603" trans="overlap">and on my next go I can put a quarantine on</u>
+<u n="1068" who="S0493" trans="overlap">and you could discard Lagos now if you wanted and take one guy off anyway <pause dur="short"/> using that if you wanted</u>
+<u n="1069" who="S0603">mm oh I could save that for next go and take</u>
+<u n="1070" who="S0493">and it's not yeah</u>
+<u n="1071" who="S0603" trans="overlap">all three</u>
+<u n="1072" who="S0604">yeah yeah you <unclear/></u>
+<u n="1073" who="S0493" trans="overlap">it's not an action either</u>
+<u n="1074" who="S0604">yeah</u>
+<u n="1075" who="S0493">yeah</u>
+<u n="1076" who="S0603">mm do I need Lagos?</u>
+<u n="1077" who="S0604">no keep it for the moment you dunno how things are going</u>
+<u n="1078" who="S0603">okay so that's my five right?</u>
+<u n="1079" who="UNKMALE" whoConfidence="low">is there any reason why these are two different colours?</u>
+<u n="1080" who="S0603">five four sorry</u>
+<u n="1081" who="UNKMALE" whoConfidence="low">they're just blue and black</u>
+<u n="1082" who="S0604" trans="overlap">no <unclear>I think</unclear> they're just <unclear/></u>
+<u n="1083" who="S0603">right okay so Atlanta and one quiet night <unclear/></u>
+<u n="1084" who="S0493"><unclear>sorry</unclear> this final thing about the fact that that blacks are there we know we think now Algiers is safe cos we need an epidemic <unclear>and new</unclear> shuffle and blah blah blah but obviously Algiers could be the next card</u>
+<u n="1085" who="S0603">yeah</u>
+<u n="1086" who="S0493" trans="overlap">at the top so that's why you either need the quarantine roadblock or whatever you can't leave something on three so now okay actually they're fine because they're not black a black three is always dangerous and</u>
+<u n="1087" who="S0603">so because Algiers could no no cos you said if Algiers come up from here it doesn't go to an outbreak</u>
+<u n="1088" who="S0493">it won't trigger an outbreak</u>
+<u n="1089" who="S0603" trans="overlap">it won't trigger</u>
+<u n="1090" who="S0493">actually yeah</u>
+<u n="1091" who="S0604" trans="overlap">doesn't trigger</u>
+<u n="1092" who="S0603">right infect</u>
+<u n="1093" who="S0493">okay two Lagos <pause dur="short"/> chennai</u>
+<u n="1094" who="S0603">is that er black</u>
+<u n="1095" who="S0493" trans="overlap"><unclear/> faded</u>
+<u n="1096" who="S0603">yeah</u>
+<u n="1097" who="S0604">you've not put <unclear>a little zombie on</unclear></u>
+<u n="1098" who="S0603">well I didn't like em <pause dur="short"/> <unclear/> zombie <unclear/></u>
+<u n="1099" who="S0604"><unclear/></u>
+<u n="1100" who="S0493">right okay <unclear/></u>
+<u n="1101" who="S0603">so you can quarantine from afar right?</u>
+<u n="1102" who="S0604">I can quarantine from afar so I'm probably gonna go Delhi <pause dur="short"/> erm <pause dur="short"/> and so her her her thing is yeah I can put it anywhere on the board but if I'm say in Delhi and there's a quarantine thing and it's hit the quarantine stays</u>
+<u n="1103" who="S0603">right</u>
+<u n="1104" who="S0604" trans="overlap"><unclear/></u>
+<u n="1105" who="S0603">right what if you're connected to it?</u>
+<u n="1106" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="1107" who="S0604">and I can share knowledge with Rachel</u>
+<u n="1108" who="S0603">who's not here</u>
+<u n="1109" who="S0604">and</u>
+<u n="1110" who="S0603">you've <unclear/></u>
+<u n="1111" who="S0605" trans="overlap"><vocal desc="sneeze"/> start with <anon type="name" nameType="m"/> <vocal desc="cough"/></u>
+<u n="1112" who="S0603">mm <trunc>s</trunc></u>
+<u n="1113" who="S0604">but that's no good</u>
+<u n="1114" who="S0603">cos he's yeah you've left the city</u>
+<u n="1115" who="UNKMALE" whoConfidence="low">yeah</u>
+<u n="1116" who="S0604">okay so I've got <pause dur="short"/> three moves left</u>
+<u n="1117" who="S0603"><vocal desc="misc"/> <unclear>what have you done</unclear>?</u>
+<u n="1118" who="S0493"><unclear/> it's not an action for me to build a base</u>
+<u n="1119" who="S0603">so you've got an additional move</u>
+<u n="1120" who="S0604"><unclear>yeah you add an extra move</unclear></u>
+<u n="1121" who="S0493">can just do it now</u>
+<u n="1122" who="S0604">yeah go on then</u>
+<u n="1123" who="S0493">so no I've got two extra moves</u>
+<u n="1124" who="S0604">oh yeah</u>
+<u n="1125" who="S0493">so</u>
+<u n="1126" who="S0604">and <unclear>fly out</unclear> <unclear/></u>
+<u n="1127" who="S0493" trans="overlap">that one one no Manila's safe I could build even a research station now in in Manila</u>
+<u n="1128" who="S0605"><unclear/></u>
+<u n="1129" who="S0493"><unclear/> <unclear>Asian</unclear></u>
+<u n="1130" who="S0603" trans="overlap">it is</u>
+<u n="1131" who="S0493"><unclear/></u>
+<u n="1132" who="S0603" trans="overlap">I think you can only do that once per turn though</u>
+<u n="1133" who="S0493">no that's once per turn move from any city <unclear>containing a</unclear> structure but discard another card <pause dur="short"/> sorry that's not true</u>
+<u n="1134" who="S0603">so you can only er it is an action to build?</u>
+<u n="1135" who="S0493" trans="overlap">it's not it's as an action but I don't need the city card</u>
+<u n="1136" who="S0603">yeah</u>
+<u n="1137" who="S0493">sorry</u>
+<u n="1138" who="S0603">so you can</u>
+<u n="1139" who="S0493" trans="overlap">so</u>
+<u n="1140" who="S0603" trans="overlap">so building is an action</u>
+<u n="1141" who="S0493" trans="overlap">that's ignore all that</u>
+<u n="1142" who="S0603">yeah cool cool</u>
+<u n="1143" who="S0604">okay so I've got three moves left erm what what are we thinking? looking at eradicating blue? er greed? to keep an eye on it</u>
+<u n="1144" who="S0493">it's not close to being cured though either is it?</u>
+<u n="1145" who="S0604"><unclear>mm <trunc>n</trunc></unclear></u>
+<u n="1146" who="S0493"><unclear/></u>
+<u n="1147" who="S0604">no but I mean just keep on top of it right I mean</u>
+<u n="1148" who="S0603" trans="overlap">mm mm mm yeah I mean</u>
+<u n="1149" who="S0493">because Algiers can come out is it worth putting a quarantine on Algiers cos it can come out from there?</u>
+<u n="1150" who="S0603" trans="overlap">it er that it wouldn't go to an outbreak if it came out from there</u>
+<u n="1151" who="S0493"><unclear>oh right</unclear></u>
+<u n="1152" who="S0603">yeah</u>
+<u n="1153" who="S0604">yeah I <trunc>th</trunc>I think I'm gonna go to New York and <trunc>c</trunc> just cure New York it's not too much</u>
+<u n="1154" who="S0603">do you wanna pick up any er a drone? <unclear>street</unclear> escort? we haven't got enough fallen cities</u>
+<u n="1155" who="S0493" trans="overlap">oh okay</u>
+<u n="1156" who="S0603">unless you want a grenade belt</u>
+<u n="1157" who="S0604">oh shall I <pause dur="short"/> shall I pick up the erm this card can be used as a city card of any colour when finding a cure?</u>
+<u n="1158" who="S0603">no cos you need to be a <trunc>mili</trunc> erm a medical person to do that</u>
+<u n="1159" who="S0604">no you need to be at a medical station</u>
+<u n="1160" who="S0493">no I think it's</u>
+<u n="1161" who="S0604" trans="overlap">oh okay it's only medical people</u>
+<u n="1162" who="S0603">yeah out of</u>
+<u n="1163" who="S0493">oh no if you look at the actions though it just says</u>
+<u n="1164" who="S0604" trans="overlap">yeah it says add a medical equipment sticker if you're at a research station you don't have to be</u>
+<u n="1165" who="S0603" trans="overlap">oh no you're right yeah</u>
+<u n="1166" who="S0493">yeah because I took a hazmat suit and I'm</u>
+<u n="1167" who="S0603">yeah</u>
+<u n="1168" who="S0604" trans="overlap">yeah</u>
+<u n="1169" who="S0603">but you still need to be either yeah got it that's cool</u>
+<u n="1170" who="S0493">okay <pause dur="long"/> is that how many <unclear/>?</u>
+<u n="1171" who="S0604">so one two <pause dur="short"/> three <pause dur="short"/> mm</u>
+<u n="1172" who="S0603">four</u>
+<u n="1173" who="S0604">four <pause dur="short"/> yeah?</u>
+<u n="1174" who="S0493"><unclear>so er</unclear> we're not worrying too much about getting <unclear>certain</unclear> quarantines then?</u>
+<u n="1175" who="S0604">I'll you know I'll yeah I'll move over there and see</u>
+<u n="1176" who="S0603">and I'm in there as well so I can do it</u>
+<u n="1177" who="S0493" trans="overlap">yeah</u>
+<u n="1178" who="S0603">yeah</u>
+<u n="1179" who="S0493">mm</u>
+<u n="1180" who="S0604">see <trunc>h</trunc> I'm hoping for blues now</u>
+<u n="1181" who="S0605">yeah we want to er do we want to eradicate blue? that's <unclear/></u>
+<u n="1182" who="S0604" trans="overlap">well that's I'm <unclear>going</unclear> for yeah</u>
+<u n="1183" who="S0493">okay yeah</u>
+<u n="1184" who="S0604">one</u>
+<u n="1185" who="S0603">Mumbai</u>
+<u n="1186" who="S0604" trans="overlap">okay so now Mumbai gets hit</u>
+<u n="1187" who="S0603"><unclear>man</unclear> that's horrible that you just draw one</u>
+<u n="1188" who="S0493">yeah and infect São Paulo <pause dur="short"/> tokyo</u>
+<u n="1189" who="S0604">okay there you go <vocal desc="sigh"/></u>
+<u n="1190" who="S0493"><unclear>okay then dad</unclear></u>
+<u n="1191" who="S0605"><vocal desc="sigh"/> well what do you suggest? do I wanna hit try and hit the red boys? or?</u>
+<u n="1192" who="S0603"><unclear>yeah</unclear> awesome you can do anything you want</u>
+<u n="1193" who="S0605"><vocal desc="laugh"/> well what would you say? er how dangerous</u>
+<u n="1194" who="S0604" trans="overlap">mm</u>
+<u n="1195" who="S0605">are the reds? <unclear/></u>
+<u n="1196" who="S0604" trans="overlap">yeah</u>
+<u n="1197" who="S0603">how much of a benefit do we get from eradicating <unclear>blue</unclear> completely?</u>
+<u n="1198" who="S0604">well I can do that sort of on my on my sort of next go and</u>
+<u n="1199" who="S0493" trans="overlap">can you block things going into your city?</u>
+<u n="1200" who="S0603">if yeah if she's</u>
+<u n="1201" who="S0604" trans="overlap">no oh no only if I'm er got my quarantine it's not like oh it's not all Jackie Brown</u>
+<u n="1202" who="S0603">oh it's not all Jackie Brown</u>
+<u n="1203" who="S0604">no <unclear/></u>
+<u n="1204" who="S0603" trans="overlap">it's like Jackie Brown mark two</u>
+<u n="1205" who="S0605">then what do you say then?</u>
+<u n="1206" who="S0603"><vocal desc="sigh"/> well you could continue you could go to South America that way we've got somebody in every corner</u>
+<u n="1207" who="S0493">but these one two three</u>
+<u n="1208" who="S0603">mm that's <unclear>nice</unclear></u>
+<u n="1209" who="S0604" trans="overlap">er well no cos dad dad's got the remote thing right?</u>
+<u n="1210" who="S0493">one two three</u>
+<u n="1211" who="S0604">you can only really use the remote thing once</u>
+<u n="1212" who="S0605">you can only use the remote things once <pause dur="short"/> once per turn</u>
+<u n="1213" who="S0604">mm</u>
+<u n="1214" who="S0605">and they treat disease in the city connected to your city</u>
+<u n="1215" who="S0493">one two three</u>
+<u n="1216" who="S0604">four</u>
+<u n="1217" who="S0603" trans="overlap">four and that's from the <trunc>s</trunc> oh yeah of course cos the medic just cures</u>
+<u n="1218" who="S0605" trans="overlap">cos the medic <unclear>station</unclear></u>
+<u n="1219" who="S0603" trans="overlap">cures one cures cures all yeah that that</u>
+<u n="1220" who="S0604">yeah</u>
+<u n="1221" who="S0603"><unclear>no sensible</unclear></u>
+<u n="1222" who="S0605"><vocal desc="cough"/> okay one <pause dur="short"/> and then two</u>
+<u n="1223" who="S0603">uhu</u>
+<u n="1224" who="S0493" trans="overlap">uhu</u>
+<u n="1225" who="S0605">and then three</u>
+<u n="1226" who="S0604">mm</u>
+<u n="1227" who="S0493">no you <unclear/></u>
+<event desc="unintelligible"/>
+<u n="1228" who="S0605" trans="overlap">you can't go move to it</u>
+<u n="1229" who="S0603">yeah</u>
+<u n="1230" who="S0605">three</u>
+<u n="1231" who="S0603">yeah</u>
+<u n="1232" who="S0605">four</u>
+<u n="1233" who="S0603">that's</u>
+<u n="1234" who="S0493">that's very powerful</u>
+<u n="1235" who="S0604" trans="overlap">very good</u>
+<u n="1236" who="S0605">right</u>
+<u n="1237" who="S0603">wow</u>
+<u n="1238" who="S0605">that's alright</u>
+<u n="1239" who="S0604">er try that Yarlington really nice</u>
+<u n="1240" who="S0605" trans="overlap">uhu</u>
+<u n="1241" who="S0603">and I wanna get what you got</u>
+<u n="1242" who="S0605">I've got one more</u>
+<u n="1243" who="S0604" trans="overlap">hay fever gardening</u>
+<u n="1244" who="S0493">hang on a sec</u>
+<u n="1245" who="S0603" trans="overlap">is that is are you are you serious?</u>
+<u n="1246" who="S0604">no I think I'm <trunc>allergi</trunc> I think there's feathered pillows</u>
+<u n="1247" who="S0493" trans="overlap">so remember you can fly directly to any city in the</u>
+<u n="1248" who="S0605" trans="overlap">if I had the card</u>
+<u n="1249" who="S0493">no if you've got any if you've got the card you</u>
+<u n="1250" who="S0604" trans="overlap" whoConfidence="low"><unclear>this is a</unclear></u>
+<u n="1251" who="S0493">you can fly there and you don't discard it like you would have to do</u>
+<u n="1252" who="S0603" trans="overlap">that's that's nice</u>
+<u n="1253" who="S0605">but you've got to have the card</u>
+<u n="1254" who="S0493">yeah</u>
+<u n="1255" who="S0605">to do it and fly to any city</u>
+<u n="1256" who="S0603" trans="overlap">that is nice</u>
+<u n="1257" who="S0493">yeah</u>
+<u n="1258" who="S0605">yeah okay so I've taken four</u>
+<u n="1259" who="S0493">yeah you've got a really good card there</u>
+<u n="1260" who="S0603">mm</u>
+<u n="1261" who="S0605">so is there one more or is that it?</u>
+<u n="1262" who="S0493">no that's it</u>
+<u n="1263" who="S0603" trans="overlap">no four yeah</u>
+<u n="1264" who="S0493" trans="overlap">it's four actions each so then you'd take two</u>
+<event desc="unintelligible"/>
+<u n="1265" who="S0603">oh we we <vocal desc="laugh"/> always do that last time we played</u>
+<u n="1266" who="S0493" trans="overlap">woo woo</u>
+<u n="1267" who="S0493">alright so three goes to</u>
+<u n="1268" who="S0605"><vocal desc="cough"/></u>
+<u n="1269" who="S0493">we don't want a black</u>
+<u n="1270" who="S0604">mm</u>
+<u n="1271" who="S0493" trans="overlap">that's Moscow did not want that</u>
+<u n="1272" who="S0604"><vocal desc="cough"/></u>
+<u n="1273" who="S0493">I wanna see and Moscow comes out</u>
+<u n="1274" who="S0604">yeah</u>
+<u n="1275" who="S0493">have you got things to we could look at the six</u>
+<u n="1276" who="S0604">I I can I can remove a disease cube anywhere on the board right now</u>
+<u n="1277" who="S0493">I would say is that a disease cube?</u>
+<u n="1278" who="S0604">yeah yeah</u>
+<u n="1279" who="S0603">oh</u>
+<u n="1280" who="S0493" trans="overlap">is it though?</u>
+<u n="1281" who="S0604" trans="overlap">yes</u>
+<u n="1282" who="S0603">yeah I think they're I think they are classed as disease as disease cubes</u>
+<u n="1283" who="S0493">I suppose they wouldn't wanna spoil it and put</u>
+<u n="1284" who="S0604">yeah</u>
+<u n="1285" who="S0493" trans="overlap">brackets <unclear>all</unclear> zombies</u>
+<u n="1286" who="S0603">yeah <vocal desc="laugh"/></u>
+<u n="1287" who="S0493">cos</u>
+<u n="1288" who="S0603"><vocal desc="laugh"/> <pause dur="short"/> hey</u>
+<u n="1289" who="S0493">do you have to discard Istanbul for that?</u>
+<u n="1290" who="S0603">yeah</u>
+<u n="1291" who="S0493">yeah but I'm not chasing</u>
+<u n="1292" who="S0603">you can't cure that anyway</u>
+<u n="1293" who="S0493">no I'm just saying</u>
+<u n="1294" who="S0604" trans="overlap">oh no I don't have to discard it no</u>
+<u n="1295" who="S0493">but it that's <unclear/></u>
+<u n="1296" who="S0604">yeah</u>
+<u n="1297" who="S0603">I are you sure? cos it's like an event card</u>
+<u n="1298" who="S0604">yeah no it's an upgrade where if you win a game you've got these upgrades erm</u>
+<u n="1299" who="S0603">but it what it just gives you bonus event cards?</u>
+<u n="1300" who="S0604">well you choose yeah where's the</u>
+<u n="1301" who="S0603">but I I'm pretty sure you'd have to discard it to use it</u>
+<u n="1302" who="S0604">we can have a look</u>
+<u n="1303" who="S0603">so so you've shuffled it</u>
+<u n="1304" who="S0493">do you wanna take your</u>
+<u n="1305" who="S0605">there's a</u>
+<u n="1306" who="S0493" trans="overlap">second card?</u>
+<u n="1307" who="S0605" trans="overlap">another epidemic</u>
+<u n="1308" who="S0493">yep</u>
+<u n="1309" who="S0605">Moscow</u>
+<u n="1310" who="S0603">doesn't affect it cos it's already got three and it can't outbreak</u>
+<u n="1311" who="S0493" trans="overlap">did <anon type="name" nameType="m"/> just take one off anywhere with that?</u>
+<u n="1312" who="S0604">no</u>
+<u n="1313" who="S0603" trans="overlap">no</u>
+<u n="1314" who="S0493">but you were going to weren't you?</u>
+<u n="1315" who="S0604">well no I was looking if I could</u>
+<u n="1316" who="S0493">but you can use it anyway it's just whether you discard it or not</u>
+<u n="1317" who="S0604">er yeah</u>
+<u n="1318" who="S0603">but if you draw from the player this card pile it can't</u>
+<u n="1319" who="S0604">it <unclear/></u>
+<u n="1320" who="S0603" trans="overlap">create an outbreak</u>
+<u n="1321" who="S0604">yeah</u>
+<u n="1322" who="S0603">it can only put it to the <unclear>break</unclear></u>
+<u n="1323" who="S0493">so what does it do?</u>
+<u n="1324" who="S0604">it just</u>
+<u n="1325" who="S0603" trans="overlap">nothing</u>
+<u n="1326" who="S0605" trans="overlap">no it just</u>
+<u n="1327" who="S0493" trans="overlap">so we want that to happen in a way</u>
+<u n="1328" who="S0604">yeah</u>
+<u n="1329" who="S0603">yeah so that's great</u>
+<u n="1330" who="S0605">yeah</u>
+<u n="1331" who="S0603">that's the best time to draw Moscow</u>
+<u n="1332" who="S0605" trans="overlap">and where does this</u>
+<u n="1333" who="S0493">this is yours</u>
+<u n="1334" who="S0603" trans="overlap">so you keep it in your deck you keep it in your hand</u>
+<u n="1335" who="S0605">oh okay</u>
+<u n="1336" who="S0604">yeah</u>
+<u n="1337" who="S0493" trans="overlap">and remember you can fly there now as well</u>
+<u n="1338" who="S0605" trans="overlap">so I can fly there now and do routes yeah</u>
+<u n="1339" who="S0493" trans="overlap">and take three off with one action</u>
+<u n="1340" who="S0605">yes I could do that next time</u>
+<u n="1341" who="S0603">erm but now er</u>
+<u n="1342" who="S0493" trans="overlap">infect two</u>
+<u n="1343" who="S0605">you get er two</u>
+<u n="1344" who="S0603">yeah</u>
+<u n="1345" who="S0493">no?</u>
+<u n="1346" who="S0603">yeah</u>
+<u n="1347" who="S0493">so that infects two then</u>
+<u n="1348" who="S0605">Tokyo</u>
+<u n="1349" who="S0604">one</u>
+<u n="1350" who="S0605">Manila</u>
+<u n="1351" who="S0493">mm <pause dur="short"/> good job that you were</u>
+<u n="1352" who="S0605">yeah</u>
+<u n="1353" who="S0604" trans="overlap">yeah</u>
+<u n="1354" who="S0493"><unclear>you were there</unclear></u>
+<u n="1355" who="S0605">that would have gone <unclear/></u>
+<u n="1356" who="S0603" trans="overlap">yeah right would have gone</u>
+<u n="1357" who="S0604" trans="overlap">yeah that would have gone</u>
+<u n="1358" who="S0605" trans="overlap"><unclear/> and I can get that next turn</u>
+<u n="1359" who="S0603"><vocal desc="misc"/></u>
+<u n="1360" who="S0605">and I can get up there maybe</u>
+<u n="1361" who="S0493">alright then</u>
+<u n="1362" who="S0605">it's only me now</u>
+<u n="1363" who="S0604">yeah so</u>
+<u n="1364" who="S0603" trans="overlap">it</u>
+<u n="1365" who="S0604">yeah you're right but you when you see these stickers you you can choose to either play it as a city card</u>
+<u n="1366" who="S0603">or as an event</u>
+<u n="1367" who="S0604" trans="overlap">or you can play it as an event card</u>
+<u n="1368" who="S0603">yeah</u>
+<u n="1369" who="S0604" trans="overlap">if there's an <trunc>out</trunc>outbreak</u>
+<u n="1370" who="S0493">if you had gone to Montreal I could have flown to Montreal in one <pause dur="short"/> and connect <unclear>you</unclear></u>
+<u n="1371" who="S0604">I couldn't have got there oh yeah yeah</u>
+<u n="1372" who="S0603">I've got a <unclear/></u>
+<u n="1373" who="S0604" trans="overlap">well you can still give it to me</u>
+<u n="1374" who="S0603">if you hang out over in like if you</u>
+<u n="1375" who="S0493" trans="overlap">I can end er I can end in Montreal</u>
+<u n="1376" who="S0603">yeah and I've got Atlanta as well so I can get back to Atlanta</u>
+<u n="1377" who="S0604">and and <anon type="name" nameType="m"/> if you end in Montreal</u>
+<u n="1378" who="S0493">yeah and take it off the</u>
+<u n="1379" who="S0604" trans="overlap">I get no but I get an extra action cos we're</u>
+<u n="1380" who="S0493" trans="overlap">yep yep yep</u>
+<u n="1381" who="S0603" trans="overlap">and we'll end I'll end in Atlanta <unclear/></u>
+<u n="1382" who="S0604" trans="overlap">alright then</u>
+<u n="1383" who="S0603">yeah</u>
+<u n="1384" who="S0493">well shall I build <pause dur="short"/> one in Ho Chi Minh?</u>
+<u n="1385" who="S0603">uhu</u>
+<u n="1386" who="S0604">well</u>
+<u n="1387" who="S0493">it needs in the Pacific Rim needs a</u>
+<u n="1388" who="S0604">oh does it? where's the <trunc>cu</trunc></u>
+<u n="1389" who="S0605" trans="overlap">yes</u>
+<u n="1390" who="S0604">where's the cut off of Asia? oh okay</u>
+<u n="1391" who="S0493">one I can fly anywhere if I discard</u>
+<u n="1392" who="S0603">in <trunc>m</trunc> Ho Ho Chi Minh yeah</u>
+<u n="1393" who="S0493">I wanna discard São Paulo really don't I?</u>
+<u n="1394" who="S0604">yeah</u>
+<u n="1395" who="S0603">what's that one do? <pause dur="short"/> your hazmat suit that's kind of</u>
+<u n="1396" who="S0493">but I I've given in Montreal and</u>
+<u n="1397" who="S0603">mm</u>
+<u n="1398" who="S0493" trans="overlap">I've got two reds</u>
+<u n="1399" who="S0604">yeah so this has to be</u>
+<u n="1400" who="S0493">has to be what? São Paulo?</u>
+<u n="1401" who="S0604">yeah</u>
+<u n="1402" who="S0493">I cos I've done my black there <anon type="name" nameType="m"/></u>
+<u n="1403" who="S0603">mm</u>
+<u n="1404" who="S0493">haven't I? I've cos I've I've put it in</u>
+<u n="1405" who="S0603" trans="overlap">yeah</u>
+<u n="1406" who="S0493">Hong Kong so I'm</u>
+<u n="1407" who="S0603" trans="overlap">yeah</u>
+<u n="1408" who="S0493">really not gonna go back there</u>
+<u n="1409" who="S0603">no</u>
+<u n="1410" who="S0493">so</u>
+<u n="1411" who="S0603" trans="overlap">but you can just travel direct via Atlanta</u>
+<u n="1412" who="S0605"><vocal desc="cough"/></u>
+<u n="1413" who="S0493">yeah what else would I be able to do if I</u>
+<u n="1414" who="S0604" trans="overlap">or Paris</u>
+<u n="1415" who="S0493" trans="overlap">if I didn't?</u>
+<u n="1416" who="S0493">so one</u>
+<u n="1417" who="S0603">uhu</u>
+<u n="1418" who="S0493">two three four no one two three four and end in Montreal</u>
+<u n="1419" who="S0603">uhu</u>
+<u n="1420" who="S0493">or I discard and I've got two more actions which wouldn't be anything would it?</u>
+<u n="1421" who="S0604">oh <anon type="name" nameType="m"/></u>
+<u n="1422" who="S0493" trans="overlap">so it keep São Paulo then</u>
+<u n="1423" who="S0604">hang on <anon type="name" nameType="m"/> don't forget flip your two</u>
+<u n="1424" who="S0493">oh yeah</u>
+<u n="1425" who="S0603" trans="overlap">yeah it's yours coming yeah</u>
+<u n="1426" who="S0493">good point Chennai</u>
+<u n="1427" who="S0604">oh he's got one yeah</u>
+<u n="1428" who="S0493">Lagos okay not too bad so with my if I if I burn São Paulo I'll get two extra actions basically won't I?</u>
+<u n="1429" who="S0604" trans="overlap">uhu</u>
+<u n="1430" who="S0603">and I can <unclear>break that up</unclear></u>
+<u n="1431" who="S0493" trans="overlap">but I don't think I'm doing anything with those actions am I?</u>
+<u n="1432" who="S0603">no</u>
+<u n="1433" who="S0493">so I've gotta end in Montreal</u>
+<u n="1434" who="S0604">you can pick up you can</u>
+<u n="1435" who="S0493" trans="overlap">I can go to New York</u>
+<u n="1436" who="S0603">to pick up</u>
+<u n="1437" who="S0493" trans="overlap">pick up one so you don't have to and then</u>
+<u n="1438" who="S0604" trans="overlap">yeah</u>
+<u n="1439" who="S0493">go to Montreal</u>
+<u n="1440" who="S0604">you can also pick up equipment <pause dur="short"/> if you want</u>
+<u n="1441" who="S0493">mm what could I pick up? I'm quite overpowered so I would say let don't take some of like <anon type="name" nameType="m"/> could take for example</u>
+<u n="1442" who="S0604">let's see look it er if I was I know I did this before I got a second blue that I could have chosen to put it on you know another</u>
+<u n="1443" who="S0603" trans="overlap">a different colour?</u>
+<u n="1444" who="S0604" trans="overlap">yeah yeah</u>
+<u n="1445" who="S0603">yeah yeah but I can pull him out <pause dur="short"/> I can pick up an equipment card</u>
+<u n="1446" who="S0604" trans="overlap">yeah yeah</u>
+<u n="1447" who="S0603">in the <unclear/> so if you use São Paulo again I can like if you use the hazmat so that I can bring it out again</u>
+<u n="1448" who="S0493">how do you mean?</u>
+<u n="1449" who="S0603">but I can draw I can pick up</u>
+<u n="1450" who="S0604">that's <unclear>one of his perks</unclear></u>
+<u n="1451" who="S0493" trans="overlap">right okay</u>
+<u n="1452" who="S0603">I can pick up this card and equipment</u>
+<u n="1453" who="S0493" trans="overlap">so I should use it?</u>
+<u n="1454" who="S0604">yeah</u>
+<u n="1455" who="S0603" trans="overlap">yeah</u>
+<u n="1456" who="S0493">okay I'll keep that face up then is it?</u>
+<u n="1457" who="S0603">uhu <pause dur="short"/> and if I</u>
+<u n="1458" who="S0493" trans="overlap">one <pause dur="short"/> two <pause dur="short"/> three <pause dur="short"/> four</u>
+<u n="1459" who="S0603">uhu</u>
+<u n="1460" who="S0493">end of turn</u>
+<u n="1461" who="S0603">and we've got a Lagos and Chennai coming up right?</u>
+<u n="1462" who="S0493">so</u>
+<u n="1463" who="S0603">nice <pause dur="short"/> ah</u>
+<u n="1464" who="S0604">that's</u>
+<event desc="unintelligible"/>
+<u n="1465" who="S0493">okay</u>
+<u n="1466" who="S0605">at least at least they're at</u>
+<u n="1467" who="S0603">mm</u>
+<u n="1468" who="S0493">am I gonna get three? not on a black San Fran</u>
+<u n="1469" who="S0604">mm</u>
+<u n="1470" who="S0493">yeah it's so</u>
+<u n="1471" who="S0604" trans="overlap">that that means you can't fly there doesn't it?</u>
+<u n="1472" who="S0605">yeah</u>
+<u n="1473" who="S0493">two of <trunc>tho</trunc> why?</u>
+<u n="1474" who="S0604">you can fly there</u>
+<u n="1475" who="S0605">I I think if if <unclear/></u>
+<u n="1476" who="S0604" trans="overlap">cos you've got this super power</u>
+<u n="1477" who="S0605" trans="overlap">I can I can get there</u>
+<u n="1478" who="S0603">without discarding it?</u>
+<u n="1479" who="S0604">yeah</u>
+<u n="1480" who="S0605">without even checking <unclear/></u>
+<u n="1481" who="S0493" trans="overlap">yes that's good</u>
+<u n="1482" who="S0603">erm</u>
+<u n="1483" who="S0493">but two are gonna come out of the three</u>
+<u n="1484" who="S0605"><vocal desc="cough"/></u>
+<u n="1485" who="S0603">two of the three so that</u>
+<u n="1486" who="S0493" trans="overlap">so <anon type="name" nameType="m"/> could use hasn't got <anon type="name" nameType="m"/> got something that good?</u>
+<u n="1487" who="S0603">so</u>
+<u n="1488" who="S0604" trans="overlap">yeah I can remove one of these cube</u>
+<u n="1489" who="S0603" trans="overlap">San Francisco's gonna come out and what was the other ones?</u>
+<u n="1490" who="S0493">Tokyo and Manila I would say</u>
+<u n="1491" who="S0603">just take one off of San Francisco</u>
+<u n="1492" who="S0493" trans="overlap">take one off San Francisco</u>
+<u n="1493" who="S0603">yeah</u>
+<u n="1494" who="S0493">okay okay?</u>
+<u n="1495" who="S0603">uhu I can take that again right? oh no cos it's not <unclear>an equipment</unclear></u>
+<u n="1496" who="S0604" trans="overlap">no no it's not erm</u>
+<u n="1497" who="S0603">yeah</u>
+<u n="1498" who="S0493">no special card</u>
+<u n="1499" who="S0603">no do you wanna take your second one?</u>
+<u n="1500" who="S0604" trans="overlap">what does it say an <trunc>equi</trunc></u>
+<u n="1501" who="S0603" trans="overlap">oh wait that was your second one</u>
+<u n="1502" who="S0493">no it was my first yes it was</u>
+<u n="1503" who="S0603">yeah</u>
+<u n="1504" who="S0493">Tokyo</u>
+<u n="1505" who="S0603" trans="overlap">Tokyo</u>
+<u n="1506" who="S0493">San Fran</u>
+<u n="1507" who="S0603">okay</u>
+<u n="1508" who="S0493">want more on San Fran then</u>
+<u n="1509" who="S0603">blimey</u>
+<u n="1510" who="S0493">that's it</u>
+<u n="1511" who="S0605">oh I keep forgetting that so that can that goes to Tokyo</u>
+<u n="1512" who="S0604">yeah</u>
+<u n="1513" who="S0603">mm</u>
+<u n="1514" who="S0493" trans="overlap">and Manila</u>
+<u n="1515" who="S0605" trans="overlap">and Manila</u>
+<u n="1516" who="S0604">so where are you dad are you in Manila now?</u>
+<u n="1517" who="S0605">no</u>
+<u n="1518" who="S0604">oh no</u>
+<u n="1519" who="S0603" trans="overlap">yeah</u>
+<u n="1520" who="S0604">oh yeah you're</u>
+<u n="1521" who="S0605" trans="overlap">oh sorry</u>
+<u n="1522" who="S0603" trans="overlap">yeah yeah you are in Manila</u>
+<u n="1523" who="S0604" trans="overlap">yeah so you can go</u>
+<u n="1524" who="S0605">yeah I keep forgetting that</u>
+<u n="1525" who="S0603">yeah</u>
+<u n="1526" who="S0604" trans="overlap">yeah you don't even need to fly but it's fine you know</u>
+<u n="1527" who="S0493">won't make a difference</u>
+<u n="1528" who="S0605">no</u>
+<u n="1529" who="S0604">your <trunc>s</trunc> hang on dad you can even do it remotely</u>
+<u n="1530" who="S0603">yeah cos you're you don't need to go to it you you can just reach across</u>
+<u n="1531" who="S0605" trans="overlap">oh cos I've got San Fran yes</u>
+<u n="1532" who="S0604">yeah</u>
+<u n="1533" who="S0603">oh no and because you because you've got that special power to reach across your connections</u>
+<u n="1534" who="S0493">across the oceans</u>
+<u n="1535" who="S0604">yeah</u>
+<u n="1536" who="S0603">that's a long arm</u>
+<u n="1537" who="S0493" trans="overlap">so you can go to Tokyo</u>
+<u n="1538" who="S0604" trans="overlap"><unclear>hands</unclear> across the world</u>
+<u n="1539" who="S0493" trans="overlap">you</u>
+<u n="1540" who="S0603">mm</u>
+<u n="1541" who="S0493">you could go to Tokyo could you?</u>
+<u n="1542" who="S0603">well <trunc>n</trunc> er yeah well yeah you could move to Manila</u>
+<u n="1543" who="S0493" trans="overlap">one two</u>
+<u n="1544" who="S0603" trans="overlap">oh sorry</u>
+<u n="1545" who="S0604">no you could</u>
+<u n="1546" who="S0493">three</u>
+<u n="1547" who="S0603" trans="overlap">he could go</u>
+<u n="1548" who="S0604">sorry so</u>
+<u n="1549" who="S0603" trans="overlap">he could go to San Francisco</u>
+<u n="1550" who="S0604">and then</u>
+<u n="1551" who="S0603" trans="overlap">cure it</u>
+<u n="1552" who="S0605" trans="overlap">yeah <vocal desc="laugh"/></u>
+<u n="1553" who="S0604">and then</u>
+<u n="1554" who="S0603" trans="overlap">and then reach across to Tokyo <vocal desc="laugh"/></u>
+<u n="1555" who="S0493" trans="overlap">that was amazing</u>
+<u n="1556" who="S0605">that we've never done that before</u>
+<u n="1557" who="S0604">no</u>
+<u n="1558" who="S0603">that's <vocal desc="laugh"/></u>
+<u n="1559" who="S0605">we've never used that before</u>
+<u n="1560" who="S0493" trans="overlap">nobody's done that before</u>
+<u n="1561" who="S0603">nobody in the whole history of the world</u>
+<u n="1562" who="S0493" trans="overlap">that's cool alright then</u>
+<u n="1563" who="S0603" trans="overlap">has done that before right so that's handy</u>
+<u n="1564" who="S0605">alright would it wouldn't this be great if this was a ball</u>
+<u n="1565" who="S0604">yeah</u>
+<u n="1566" who="S0605">right?</u>
+<u n="1567" who="S0493" trans="overlap">right</u>
+<u n="1568" who="S0493"><vocal desc="misc"/></u>
+<u n="1569" who="S0603"><vocal desc="laugh"/></u>
+<u n="1570" who="S0493"><unclear>would it</unclear> work?</u>
+<u n="1571" who="S0603">so I'm definitely gonna</u>
+<u n="1572" who="S0604">alright</u>
+<u n="1573" who="S0603">take one off of there</u>
+<u n="1574" who="S0493">I'll quarantine then</u>
+<u n="1575" who="S0603">er well we're supposed to be</u>
+<u n="1576" who="S0604" trans="overlap">well well why why wouldn't</u>
+<u n="1577" who="S0493" trans="overlap">have you got a three because if</u>
+<u n="1578" who="S0604" trans="overlap">why would you do that? because it's</u>
+<u n="1579" who="S0603">it's not going anywhere</u>
+<u n="1580" who="S0604">it's not going anywhere</u>
+<u n="1581" who="S0603">so that as an action instead instead of a cure one shall I take this card back?</u>
+<u n="1582" who="S0493">yeah cos you've got two yellows then anyway</u>
+<u n="1583" who="S0603">but I can't cure <trunc>anythi</trunc> I can't discover a cure though</u>
+<u n="1584" who="S0493" trans="overlap">oh right yeah</u>
+<u n="1585" who="S0603">but I could give this to somebody or I can <trunc>fl</trunc> at least I can fly there</u>
+<u n="1586" who="S0493">yeah</u>
+<u n="1587" who="S0603">erm so that's two <pause dur="short"/> erm <pause dur="short"/> and then I go three four yeah so I'm in Atlanta then you can come back</u>
+<u n="1588" who="S0493">yeah</u>
+<u n="1589" who="S0604">okay good yeah</u>
+<u n="1590" who="S0603" trans="overlap">that's good</u>
+<u n="1591" who="S0603">Khartoum and</u>
+<u n="1592" who="S0604">oh event card <unclear>Charlie</unclear> over there</u>
+<u n="1593" who="S0603" trans="overlap">er remote treatment remove two disease cubes from the board</u>
+<u n="1594" who="S0605">oh that's good</u>
+<u n="1595" who="S0604" trans="overlap">how many have you got now?</u>
+<u n="1596" who="S0603">one two three</u>
+<u n="1597" who="S0605">is that all of them?</u>
+<u n="1598" who="S0603">four five six seven</u>
+<u n="1599" who="S0604">okay</u>
+<u n="1600" who="S0603">one more</u>
+<u n="1601" who="S0493">one more we it you're good to get those out early as well on the event cards</u>
+<u n="1602" who="S0603">Manila? <pause dur="short"/> wow <pause dur="short"/> chennai</u>
+<u n="1603" who="S0493" trans="overlap">Chennai is on two <pause dur="long"/></u>
+<u n="1604" who="S0605">well we could almost eradicate the reds</u>
+<u n="1605" who="S0603">well then cure it yeah <unclear/></u>
+<u n="1606" who="S0605" trans="overlap"><unclear/></u>
+<u n="1607" who="S0493">er dad yeah one two <pause dur="short"/> you can take it from you we could end in your <trunc>s</trunc></u>
+<u n="1608" who="S0603" trans="overlap">no I can give it on my next go right?</u>
+<u n="1609" who="S0493">but <trunc>th</trunc>then you're not yeah you're not getting an extra action for me but there you are</u>
+<u n="1610" who="S0605">if I go to San Fran</u>
+<u n="1611" who="S0604">yeah if dad goes to San Fran</u>
+<u n="1612" who="S0605" trans="overlap">I can er</u>
+<u n="1613" who="S0604" trans="overlap">I can</u>
+<u n="1614" who="S0605">give it to you</u>
+<u n="1615" who="S0604">yeah</u>
+<u n="1616" who="S0493">yeah</u>
+<u n="1617" who="S0604" trans="overlap">shall we do that?</u>
+<u n="1618" who="S0493">but hang on</u>
+<u n="1619" who="S0604" trans="overlap">so what</u>
+<u n="1620" who="S0493" trans="overlap">but hang on hang on though because dad can do something dad can go one two three four remotely if he doesn't give you</u>
+<u n="1621" who="S0604" trans="overlap">and just clean up yeah</u>
+<u n="1622" who="S0493" trans="overlap">if he doesn't give you San Fran</u>
+<u n="1623" who="S0603">but</u>
+<u n="1624" who="S0604">you</u>
+<u n="1625" who="S0603">if you get San Francisco this round you can get Atlanta off me next round no you can't cos you need to be</u>
+<u n="1626" who="S0604" trans="overlap">no cos dad's and dad's using the</u>
+<u n="1627" who="S0603" trans="overlap">yeah he <trunc>doe</trunc> no he does</u>
+<u n="1628" who="S0493" trans="overlap">dad doesn't need to use it</u>
+<u n="1629" who="S0603" trans="overlap">he doesn't spend San he doesn't need to spend San Francisco</u>
+<u n="1630" who="S0493">but if he</u>
+<u n="1631" who="S0604" trans="overlap">no</u>
+<u n="1632" who="S0493" trans="overlap">uses as an action</u>
+<u n="1633" who="S0604" trans="overlap">no but</u>
+<u n="1634" who="S0493">he can't</u>
+<u n="1635" who="S0603" trans="overlap">yeah</u>
+<u n="1636" who="S0493">do a really good turn</u>
+<u n="1637" who="S0604" trans="overlap">he can't do the so</u>
+<u n="1638" who="S0493" trans="overlap">and</u>
+<u n="1639" who="S0604">so I'll take it from you <anon type="name" nameType="m"/> or you know I'll be in the right place</u>
+<u n="1640" who="S0603">yeah</u>
+<u n="1641" who="S0493">you just lose an action</u>
+<u n="1642" who="S0604">yeah and I'll come and get it after for dad's</u>
+<u n="1643" who="S0605">uhu</u>
+<u n="1644" who="S0604">but the only thing I'm not putting the er a thing down</u>
+<u n="1645" who="S0493">not really</u>
+<u n="1646" who="S0604">yeah</u>
+<u n="1647" who="S0493" trans="overlap">gone for that though at the moment</u>
+<u n="1648" who="S0603">we still need to <trunc>con</trunc> so we can either so yeah erm have a military base in each of the six</u>
+<u n="1649" who="S0493" trans="overlap">perfect perfect</u>
+<u n="1650" who="S0604">yeah</u>
+<u n="1651" who="S0603">we have we got a military base in every in everywhere apart from</u>
+<u n="1652" who="S0493" trans="overlap">not yet</u>
+<u n="1653" who="S0603">South America?</u>
+<u n="1654" who="S0493">and <trunc>Af</trunc>Africa</u>
+<u n="1655" who="S0603">Lagos two</u>
+<u n="1656" who="S0493">São Paulo</u>
+<u n="1657" who="S0603">São Paulo okay</u>
+<u n="1658" who="S0604" trans="overlap">okay let's not forget about</u>
+<u n="1659" who="S0605">no</u>
+<u n="1660" who="S0604"><unclear>joining</unclear> South American</u>
+<u n="1661" who="S0603">the the rising it is actually rising</u>
+<u n="1662" who="S0604">yeah</u>
+<u n="1663" who="S0603">right do your <trunc>ma</trunc></u>
+<u n="1664" who="S0493" trans="overlap">okay dad super moves</u>
+<u n="1665" who="S0603" trans="overlap">do your <trunc>ma</trunc></u>
+<u n="1666" who="S0605" trans="overlap"><unclear/></u>
+<u n="1667" who="S0603" trans="overlap">magical powers</u>
+<u n="1668" who="S0605" trans="overlap"><unclear/></u>
+<u n="1669" who="S0603">so you've moved</u>
+<u n="1670" who="S0493">you can take two from Manila first couldn't he?</u>
+<u n="1671" who="S0603" trans="overlap">cure yeah cure Manila</u>
+<u n="1672" who="S0605">so one</u>
+<u n="1673" who="S0603">yeah travel round the globe</u>
+<u n="1674" who="S0605">and the only</u>
+<event desc="sound of scraping"/>
+<u n="1675" who="UNKMULTI" whoConfidence="low"><vocal desc="whistle"/></u>
+<u n="1676" who="S0605"><unclear/></u>
+<u n="1677" who="S0603">no it's definitely physically correct</u>
+<u n="1678" who="S0493">two</u>
+<u n="1679" who="S0605">three</u>
+<u n="1680" who="S0603">yeah</u>
+<u n="1681" who="S0493" trans="overlap">three <pause dur="short"/> and then that arm's reach</u>
+<u n="1682" who="S0604">oh it's a <unclear/></u>
+<u n="1683" who="S0603" trans="overlap"><vocal desc="laugh"/> oh from from San Francisco</u>
+<u n="1684" who="S0604">to Tokyo</u>
+<u n="1685" who="S0603">to Tokyo <vocal desc="laugh"/></u>
+<u n="1686" who="S0605">see that's the bit I don't understand</u>
+<u n="1687" who="S0604">no no you can't stay there</u>
+<u n="1688" who="S0493" trans="overlap">so you you can't could you could do it remotely</u>
+<u n="1689" who="S0603">because of your</u>
+<u n="1690" who="S0493" trans="overlap">but you have special power there</u>
+<u n="1691" who="S0605" trans="overlap">oh I <trunc>st</trunc> I stay there</u>
+<u n="1692" who="S0603">yeah cos you've got those really long arms</u>
+<u n="1693" who="S0493">that I reckon we've never taken more cubes off in one move</u>
+<u n="1694" who="S0604">no</u>
+<u n="1695" who="S0603">three six</u>
+<u n="1696" who="S0604">yeah so that's</u>
+<u n="1697" who="S0493">eight</u>
+<u n="1698" who="S0603">eight cubes in one</u>
+<u n="1699" who="S0605" trans="overlap">and we've never gone sorry we never gone from</u>
+<u n="1700" who="S0604">no</u>
+<u n="1701" who="S0493">no that's good stuff we're all in the same place as well for er</u>
+<u n="1702" who="S0604">yeah yeah</u>
+<u n="1703" who="S0493" trans="overlap">taking cards or whatever</u>
+<u n="1704" who="S0605">what haven't we got? we've got a research er in every one</u>
+<u n="1705" who="S0493">so we need</u>
+<u n="1706" who="S0604" trans="overlap">mm</u>
+<u n="1707" who="S0493">we're lacking a military base in Africa and South America we are one away from blues we're two away from reds and we're nowhere on yellows cos Chris can't cure yellows and we're mm only got one out of seven</u>
+<u n="1708" who="S0604">yeah</u>
+<u n="1709" who="S0493">quarantines</u>
+<u n="1710" who="S0603">but we only need to do</u>
+<u n="1711" who="S0493" trans="overlap">I mean</u>
+<u n="1712" who="S0603">two of these three we only needed to do</u>
+<u n="1713" who="S0493">and if <anon type="name" nameType="m"/> <trunc>eradi</trunc> if <anon type="name" nameType="m"/> eradicates on his next turn even if we get a couple of blues like we probably should</u>
+<u n="1714" who="S0604" trans="overlap">yeah</u>
+<u n="1715" who="S0493">do it really</u>
+<u n="1716" who="S0605">or we'll or there's only two blue cubes and <trunc>t</trunc></u>
+<u n="1717" who="S0493" trans="overlap">and two reds yeah</u>
+<u n="1718" who="S0604" trans="overlap">two reds</u>
+<u n="1719" who="S0493"><trunc>cl</trunc> bit closer to blue than red at the moment</u>
+<u n="1720" who="S0605">okay shall I do this then?</u>
+<u n="1721" who="S0493">uhu</u>
+<u n="1722" who="S0604" trans="overlap">mm</u>
+<u n="1723" who="S0605">New York</u>
+<u n="1724" who="S0604">right unique New York</u>
+<u n="1725" who="S0605">Cairo</u>
+<u n="1726" who="UNKMULTI" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="1727" who="S0493">Cairo</u>
+<u n="1728" who="S0603" trans="overlap">it's really is</u>
+<u n="1729" who="S0604" trans="overlap">you don't you don't you don't like that route do you?</u>
+<u n="1730" who="S0603">it's really really</u>
+<u n="1731" who="S0493" trans="overlap">no it's harsh</u>
+<u n="1732" who="S0603" trans="overlap">harsh</u>
+<u n="1733" who="S0493">it's good that you can't</u>
+<u n="1734" who="S0604">you can't relax</u>
+<u n="1735" who="S0603">yeah</u>
+<u n="1736" who="S0493">right</u>
+<u n="1737" who="S0605">Delhi</u>
+<u n="1738" who="S0603">jesus</u>
+<u n="1739" who="S0493">that is no that loses</u>
+<u n="1740" who="S0605"><vocal desc="cough"/></u>
+<u n="1741" who="S0493">the quarantine then</u>
+<u n="1742" who="S0604" trans="overlap">yeah</u>
+<u n="1743" who="S0603">okay okay er</u>
+<u n="1744" who="S0605">Jakarta <vocal desc="cough"/></u>
+<u n="1745" who="S0604">fine</u>
+<u n="1746" who="S0493">yeah although you're not gonna <trunc>eradi</trunc></u>
+<u n="1747" who="S0605"><vocal desc="cough"/></u>
+<u n="1748" who="S0493">not gonna eradicate the reds</u>
+<u n="1749" who="S0604">yeah yeah well you know you might</u>
+<u n="1750" who="S0605">well don't feel like <unclear>it no</unclear></u>
+<u n="1751" who="S0493" trans="overlap">no because you can't how are you gonna go in there unless dad does it?</u>
+<u n="1752" who="S0604">yeah</u>
+<u n="1753" who="S0493">or you use the event cards alright then</u>
+<u n="1754" who="S0604">okay then what can you do?</u>
+<u n="1755" who="S0493">but really I have to do <pause dur="short"/> much with all of you really is it or look at two cards New York is coming so</u>
+<u n="1756" who="S0604">yeah it's not ideal cos we've gotta</u>
+<u n="1757" who="S0493" trans="overlap">Kinshasa</u>
+<u n="1758" who="S0605"><vocal desc="sigh"/></u>
+<u n="1759" who="S0493">one two</u>
+<u n="1760" who="S0604">yeah</u>
+<u n="1761" who="S0493">three for South America or</u>
+<u n="1762" who="S0603">you've got six moves though right? no you're not in the same city are you</u>
+<u n="1763" who="S0604">so how many of them there's four</u>
+<u n="1764" who="S0493">yeah</u>
+<u n="1765" who="S0604" trans="overlap">that's right</u>
+<u n="1766" who="S0493">it's not great but anyway</u>
+<u n="1767" who="S0604" trans="overlap">but you can build in São Paulo right?</u>
+<u n="1768" who="S0493">yeah <vocal desc="misc"/></u>
+<u n="1769" who="S0605">yeah <pause dur="short"/> that's gonna come in useful <unclear>okay</unclear></u>
+<u n="1770" who="S0493">and then São Paulo is easier to get to to Lagos isn't it?</u>
+<u n="1771" who="S0604" trans="overlap">yeah</u>
+<u n="1772" who="S0493">one two three <pause dur="long"/> four</u>
+<u n="1773" who="S0603">uhu there's nothing to say that you can't have a military and a</u>
+<u n="1774" who="S0493">no</u>
+<u n="1775" who="S0603">thing in the same city?</u>
+<u n="1776" who="S0604">no no it's</u>
+<u n="1777" who="S0603" trans="overlap">right cool</u>
+<u n="1778" who="S0604">no</u>
+<u n="1779" who="S0493">reds <vocal desc="misc"/></u>
+<u n="1780" who="S0603">black</u>
+<u n="1781" who="S0493">okay so one other red there</u>
+<u n="1782" who="S0604" trans="overlap">oh so sorry just to remember I don't think we've done it but you can't build a research station if the city is rioting so you can't build on one two and two and threes</u>
+<u n="1783" who="S0603" trans="overlap">yeah yeah okay</u>
+<u n="1784" who="S0493" trans="overlap">research or military?</u>
+<u n="1785" who="S0604">yeah</u>
+<u n="1786" who="S0603">we <trunc>ha</trunc> yeah we haven't done that</u>
+<u n="1787" who="S0604" trans="overlap">or it doesn't say military but</u>
+<u n="1788" who="S0603">I'm sure you can't build</u>
+<u n="1789" who="S0604">yeah</u>
+<u n="1790" who="S0603" trans="overlap">build means build yeah</u>
+<u n="1791" who="S0493">okay and then infect New York and Kinshasa</u>
+<u n="1792" who="S0603">just going to the toilet</u>
+<u n="1793" who="S0604">toilet break</u>
+<u n="1794" who="S0603">toilet break?</u>
+<u n="1795" who="S0605"><vocal desc="misc"/> <pause dur="long"/></u>
+<u n="1796" who="S0493">let's let's pause this whole thing then</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

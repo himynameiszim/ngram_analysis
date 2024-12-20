@@ -1,0 +1,595 @@
+<text id="SYTL">
+	<header>
+		<rec_length>0:27:45</rec_length>
+		<rec_date>2015-09-25</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q3</rec_period>
+		<n_speakers>3</n_speakers>
+		<list_speakers>S0416 S0417 S0418</list_speakers>
+		<rec_loc> Ballincollig, Cork, Ireland,  home.</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Dinner and food, reading and graphic novels, visiting relations, talking about brother, plans with visiting Granny, ice cream, ideas for a kids book,  </topics>
+		<activity>Dinner conversation about visiting relations, ice cream and writing a kids story.</activity>
+		<conv_type>Discussing, making arrangements</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T15</transcriber>
+		<speakerInfo>
+			<speaker id="S0416">
+				<exactage>12</exactage>
+				<age1994>0_14</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bristol, England</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern England</dialect_rep>
+				<hab_city>Cork</hab_city>
+				<hab_country>Ireland</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>9_unknown</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0417">
+				<exactage>45</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>London</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern England</dialect_rep>
+				<hab_city>Cork</hab_city>
+				<hab_country>Ireland</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>9_unknown</edqual>
+				<occupation>not currently working, caring for toddler</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls>some French -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0418">
+				<exactage>2</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>M</gender>
+				<nat>Irish</nat>
+				<birthplace>Cork, Ireland</birthplace>
+				<birthcountry>Ireland</birthcountry>
+				<l1>English</l1>
+				<lingorig></lingorig>
+				<dialect_rep>English/Irish (only just talking)</dialect_rep>
+				<hab_city>Cork</hab_city>
+				<hab_country>Ireland</hab_country>
+				<hab_dur>2 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>9_unknown</edqual>
+				<occupation>toddler</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0418"><unclear>crisp</unclear></u>
+<u n="2" who="S0417">is that nice?</u>
+<u n="3" who="S0418">mm</u>
+<u n="4" who="S0417">yummy</u>
+<u n="5" who="S0416" whoConfidence="low"><unclear/></u>
+<u n="6" who="S0417" whoConfidence="low"><unclear>that's it</unclear></u>
+<u n="7" who="S0416" whoConfidence="low"><unclear>not quite sure</unclear></u>
+<u n="8" who="S0417"><unclear>we're about to eat</unclear> too much pasta <pause dur="short"/> don't <unclear>don't do that</unclear> too much <unclear>cos I want to</unclear> <pause dur="short"/> <unclear>put it down there</unclear></u>
+<u n="9" who="S0416">okay</u>
+<u n="10" who="S0418"><unclear>see</unclear> <pause dur="long"/></u>
+<u n="11" who="S0418"><trunc>s</trunc> <trunc>ne</trunc> <pause dur="short"/> oh <pause dur="long"/></u>
+<u n="12" who="S0417">so you gonna start? you've started revising yet?</u>
+<u n="13" who="S0417" whoConfidence="low"><unclear>I haven't <pause dur="short"/> put the</unclear></u>
+<u n="14" who="S0416">no not yet</u>
+<u n="15" who="S0418">mm</u>
+<u n="16" who="S0417"><unclear>can you move</unclear> those <unclear>clouds</unclear> and put them on your bed?</u>
+<u n="17" who="S0416">mm</u>
+<u n="18" who="S0416" whoConfidence="low">oh yeah <pause dur="long"/></u>
+<u n="19" who="S0417"><anon type="name" nameType="m"/> is that nice?</u>
+<u n="20" who="S0418">mm</u>
+<u n="21" who="S0417">yummy? is it yummy? <pause dur="short"/> is it? is it yummy <anon type="name" nameType="m"/>? <pause dur="long"/> try and sit at the table and stay at the table <anon type="name" nameType="m"/>?</u>
+<u n="22" who="S0418"><unclear>yes <pause dur="short"/> yes <pause dur="short"/> be <trunc>ge</trunc>good <pause dur="short"/> that? <pause dur="short"/> <trunc>g</trunc> it is good <pause dur="short"/> mm</unclear> <pause dur="long"/></u>
+<event desc="sound of bang"/>
+<u n="23" who="S0417"><anon type="name" nameType="m"/> don't you want your pizza? <pause dur="long"/> can you talk to him <anon type="name" nameType="m"/>?</u>
+<u n="24" who="S0416"><anon type="name" nameType="m"/>? <pause dur="short"/> will you eat your pizza? <pause dur="short"/> yum</u>
+<u n="25" who="S0418">mm</u>
+<u n="26" who="S0416">yummy <pause dur="short"/> mm <pause dur="short"/> <anon type="name" nameType="m"/> <pause dur="short"/> do you want to stay up?</u>
+<u n="27" who="S0418"><unclear>no tea</unclear> <pause dur="short"/> up <pause dur="long"/> <trunc>ba</trunc> <pause dur="short"/> num <pause dur="short"/> num <pause dur="short"/> <trunc>na</trunc> <pause dur="long"/> <vocal desc="misc"/></u>
+<u n="28" who="S0416">mm <pause dur="long"/> do you like it?</u>
+<u n="29" who="S0418"><unclear>I do</unclear></u>
+<u n="30" who="S0416">mm</u>
+<u n="31" who="S0418"><unclear>yum</unclear> <pause dur="short"/> mm mm <pause dur="short"/> <unclear>find that <pause dur="short"/> go well <pause dur="short"/> and</unclear></u>
+<u n="32" who="S0417">stop stop <pause dur="short"/> don't do that <pause dur="short"/> <unclear>hit things</unclear> <pause dur="short"/> <anon type="name" nameType="m"/> stop it <pause dur="long"/></u>
+<u n="33" who="S0418">oh</u>
+<u n="34" who="S0417">mm <pause dur="short"/> yummy <pause dur="short"/> do you want some more pizza <anon type="name" nameType="m"/>?</u>
+<u n="35" who="S0416">yes please?</u>
+<u n="36" who="S0417">was it alright <pause dur="short"/> that pizza?</u>
+<u n="37" who="S0416">mm</u>
+<u n="38" who="S0417">if you can just grab some from <pause dur="short"/> over there</u>
+<u n="39" who="S0416">okay <pause dur="long"/></u>
+<event desc="sound of bang"/>
+<u n="40" who="S0417">stop <unclear>no</unclear></u>
+<u n="41" who="S0418">one <pause dur="short"/> two <pause dur="short"/> one two three four five six <trunc>se</trunc> <pause dur="short"/> mummy</u>
+<u n="42" who="S0417">yes?</u>
+<u n="43" who="S0418">mummy? <unclear><anon type="name" nameType="m"/></unclear></u>
+<u n="44" who="S0416">mm</u>
+<u n="45" who="S0417"><anon type="name" nameType="m"/>?</u>
+<u n="46" who="S0418">one <pause dur="short"/> two</u>
+<u n="47" who="S0417">no <pause dur="short"/> no we don't play games we <pause dur="short"/> we eat up like</u>
+<u n="48" who="S0418">one two</u>
+<u n="49" who="S0417" trans="overlap">yummy <pause dur="short"/> we're eating if you're ready</u>
+<u n="50" who="S0418">ooh</u>
+<u n="51" who="S0417">yummy</u>
+<u n="52" who="S0416">mm <pause dur="short"/> yum</u>
+<u n="53" who="S0418">ah <pause dur="short"/> <unclear>where is it?</unclear> <pause dur="short"/> ooh spotty <pause dur="short"/> eat up <pause dur="long"/></u>
+<u n="54" who="S0417"><vocal desc="laugh"/> you're eating the tomato at the top</u>
+<u n="55" who="S0418">mm</u>
+<u n="56" who="S0417"><vocal desc="sigh"/> ah <anon type="name" nameType="m"/></u>
+<u n="57" who="S0418">mm?</u>
+<u n="58" who="S0417"><unclear>not the top</unclear></u>
+<u n="59" who="S0418">ooh <pause dur="short"/> two <pause dur="short"/> two <unclear>burger <pause dur="short"/> here</unclear></u>
+<u n="60" who="S0417" whoConfidence="low">and?</u>
+<u n="61" who="S0418">two <pause dur="short"/> <unclear>bun</unclear> <pause dur="short"/> two <pause dur="short"/> <unclear>food them</unclear></u>
+<u n="62" who="S0417" trans="overlap">can you put your er? <pause dur="short"/> er <pause dur="short"/> I just sorted out just many <unclear/> and <pause dur="short"/> he had a book <pause dur="short"/> one of the bags</u>
+<u n="63" who="S0418">mm <pause dur="short"/> two <pause dur="short"/> two <unclear>bears</unclear></u>
+<u n="64" who="S0416">what book?</u>
+<u n="65" who="S0417">can't remember</u>
+<u n="66" who="S0418">two <unclear>men</unclear></u>
+<u n="67" who="S0416">mm</u>
+<u n="68" who="S0417" whoConfidence="low">like a reading book?</u>
+<u n="69" who="S0418"><unclear>bad men</unclear></u>
+<u n="70" who="S0417">was it when you went to your dad's?</u>
+<u n="71" who="S0416">may've been</u>
+<u n="72" who="S0418">mm <pause dur="short"/> mm</u>
+<u n="73" who="S0417">do you read much at all <pause dur="short"/> nowadays?</u>
+<u n="74" who="S0418">mm <pause dur="short"/> two</u>
+<u n="75" who="S0416">erm</u>
+<u n="76" who="S0418">two <unclear>men</unclear></u>
+<u n="77" who="S0416">I'm not really big into</u>
+<u n="78" who="S0418" trans="overlap">mm <pause dur="short"/> mm</u>
+<u n="79" who="S0416">reading <pause dur="short"/> the kind of</u>
+<u n="80" who="S0418">one <pause dur="short"/> two <pause dur="short"/> three</u>
+<u n="81" who="S0416" trans="overlap">if you know what I mean <pause dur="short"/> normal book</u>
+<u n="82" who="S0418">three <unclear>corns</unclear></u>
+<u n="83" who="S0416">but I like reading graphic novels</u>
+<u n="84" who="S0418">uhu</u>
+<u n="85" who="S0416">I think they're called <pause dur="short"/> they're like comics</u>
+<u n="86" who="S0417">yeah <pause dur="long"/></u>
+<u n="87" who="S0418">mummy</u>
+<u n="88" who="S0417">yeah they have quite a lot of them in the library</u>
+<u n="89" who="S0418" trans="overlap"><anon type="name" nameType="m"/> <pause dur="short"/> mummy</u>
+<u n="90" who="S0417" trans="overlap">graphic novels</u>
+<u n="91" who="S0418"><anon type="name" nameType="m"/></u>
+<u n="92" who="S0417" trans="overlap">yes? <pause dur="short"/> yes <anon type="name" nameType="m"/>?</u>
+<u n="93" who="S0418"><anon type="name" nameType="m"/></u>
+<u n="94" who="S0416" whoConfidence="low">mm?</u>
+<u n="95" who="S0418"><unclear/></u>
+<u n="96" who="S0416" whoConfidence="low">yeah</u>
+<u n="97" who="S0417" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="98" who="S0417">yeah it is nice that he says our names now <vocal desc="laugh"/></u>
+<u n="99" who="S0416">yeah <pause dur="short"/> yeah I read some graphic novels at school</u>
+<u n="100" who="S0417">er from their library? do they have a good library there?</u>
+<u n="101" who="S0416">it's okay</u>
+<u n="102" who="S0417">do many people use it?</u>
+<u n="103" who="S0416">they have a good <pause dur="short"/> library for <pause dur="short"/> other things <pause dur="short"/> but don't have many graphic novels</u>
+<u n="104" who="S0418" trans="overlap">one <pause dur="short"/> two <pause dur="short"/> one</u>
+<u n="105" who="S0417">have you tried reading any of <anon type="name" nameType="m"/>'s graphic novels? maybe you should they're quite good</u>
+<u n="106" who="S0418"><unclear>two bun</unclear></u>
+<u n="107" who="S0416" trans="overlap">mm</u>
+<u n="108" who="S0417">they're all adult ones</u>
+<u n="109" who="S0418" trans="overlap" whoConfidence="low">mm</u>
+<u n="110" who="S0418">one</u>
+<u n="111" who="S0417">The Watchman's good</u>
+<u n="112" who="S0418" trans="overlap">two <pause dur="short"/> three <pause dur="short"/> two</u>
+<u n="113" who="S0416">mm <pause dur="short"/> one that I really liked in the library</u>
+<u n="114" who="S0418">mm</u>
+<u n="115" who="S0417" trans="overlap">mm</u>
+<u n="116" who="S0416">is that erm <pause dur="short"/> <anon type="name" nameType="n"/> was <pause dur="short"/> he was always trying to get me to read Cherub <pause dur="short"/> that's like <pause dur="short"/> a spy force of kids</u>
+<u n="117" who="S0417">er er er no <pause dur="long"/> a spy film?</u>
+<u n="118" who="S0416">yeah like a <trunc>CI</trunc></u>
+<u n="119" who="S0418">mm</u>
+<u n="120" who="S0416">it's like a CIA except for for kids</u>
+<u n="121" who="S0417">uhu</u>
+<u n="122" who="S0416"><anon type="name" nameType="m"/></u>
+<u n="123" who="S0417">careful of your head</u>
+<u n="124" who="S0418">oh <pause dur="short"/> he he</u>
+<u n="125" who="S0417" trans="overlap">what are you doing <anon type="name" nameType="m"/>?</u>
+<u n="126" who="S0416">just kind of curled up</u>
+<u n="127" who="S0417"><anon type="name" nameType="m"/> <vocal desc="laugh"/> <pause dur="short"/> I'll get him some raisins <pause dur="short"/> do you want some raisins?</u>
+<u n="128" who="S0416">mm raisins <pause dur="short"/> <vocal desc="gasp"/> <pause dur="short"/> mm</u>
+<u n="129" who="S0417" trans="overlap">oh actually mum likes them <pause dur="short"/> <unclear>she gave one to me</unclear></u>
+<u n="130" who="S0418" trans="overlap">mm <pause dur="short"/> mm <pause dur="short"/> <unclear>stop</unclear></u>
+<u n="131" who="S0417"><anon type="name" nameType="m"/>? do you want some <unclear/>? <pause dur="long"/></u>
+<u n="132" who="S0418">mm <pause dur="short"/> ow <pause dur="short"/> corn <pause dur="short"/> <trunc>psu</trunc>lakes</u>
+<u n="133" who="S0417" trans="overlap">oh look look <pause dur="short"/> flakies <pause dur="short"/> cornflakes <vocal desc="laugh"/></u>
+<u n="134" who="S0418">ow</u>
+<u n="135" who="S0417"><vocal desc="laugh"/> jeez hardly any left in here</u>
+<u n="136" who="S0416"><anon type="name" nameType="m"/>?</u>
+<u n="137" who="S0418">ah</u>
+<u n="138" who="S0417"><anon type="name" nameType="m"/> look <pause dur="short"/> look <pause dur="short"/> look do you want to try some of these now?</u>
+<u n="139" who="S0418">oh</u>
+<u n="140" who="S0417">look <pause dur="short"/> try</u>
+<u n="141" who="S0418">no</u>
+<u n="142" who="S0417">no? you don't like trying anything <pause dur="short"/> very new do you?</u>
+<u n="143" who="S0416">did you not like cornflakes before?</u>
+<u n="144" who="S0417">he eats it with <anon type="name" nameType="m"/> when <anon type="name" nameType="m"/> eats cornflakes he gives her some <vocal desc="laugh"/></u>
+<u n="145" who="S0416">oh yeah <pause dur="short"/> like</u>
+<u n="146" who="S0417" trans="overlap">but that's with that's with milk</u>
+<u n="147" who="S0416">yeah</u>
+<u n="148" who="S0417">you still love Rice Krispies <pause dur="short"/> and it be good practice <unclear>for me to give her some</unclear></u>
+<u n="149" who="S0418" trans="overlap">okay</u>
+<u n="150" who="S0417">oh</u>
+<u n="151" who="S0416">mm <pause dur="short"/> mm <pause dur="short"/> yummy</u>
+<u n="152" who="S0418"><unclear>stop</unclear></u>
+<u n="153" who="S0416">mm <pause dur="short"/> mm</u>
+<u n="154" who="S0418"><unclear>milk</unclear> <pause dur="short"/> oh yeah I will <pause dur="short"/> mummy?</u>
+<u n="155" who="S0417">mm?</u>
+<u n="156" who="S0418"><unclear>I'm trying it</unclear></u>
+<u n="157" who="S0417">mm yummy</u>
+<u n="158" who="S0418"><unclear>okay <pause dur="short"/> like</unclear> <pause dur="short"/> yum?</u>
+<u n="159" who="S0417">I see you like them</u>
+<u n="160" who="S0418" trans="overlap">mm <pause dur="short"/> mm</u>
+<u n="161" who="S0417"><vocal desc="laugh"/> <pause dur="short"/> yeah it's <anon type="name" nameType="m"/>'s birthday <pause dur="short"/> next Friday</u>
+<u n="162" who="S0416">mm</u>
+<u n="163" who="S0417">need to get him a little present</u>
+<u n="164" who="S0416">come soon</u>
+<u n="165" who="S0417">I know</u>
+<u n="166" who="S0418"><unclear>there you are daddy <pause dur="short"/> can now let see soon</unclear></u>
+<u n="167" who="S0417" trans="overlap">mm <pause dur="short"/> see you soon</u>
+<u n="168" who="S0418"><unclear>in the living room</unclear></u>
+<u n="169" who="S0418" whoConfidence="low">mm</u>
+<u n="170" who="S0418"><unclear>bye <pause dur="short"/> yeah</unclear></u>
+<u n="171" who="S0417">yeah can you believe it's been three years three whole years?</u>
+<u n="172" who="S0418" trans="overlap"><vocal desc="misc"/> oh <unclear/></u>
+<u n="173" who="S0417" trans="overlap">can you remember when he was born? was he what you thought how you thought he'd be? what do you think he'd be like as your brother?</u>
+<u n="174" who="S0416">oh I imagined <pause dur="short"/> I imagined an older <pause dur="short"/> version of him <pause dur="short"/> I imagined him when he was very young <pause dur="short"/> and <pause dur="short"/> when when he was able to talk <pause dur="short"/> I imagined him <pause dur="short"/> being a bit like <anon type="name" nameType="m"/></u>
+<u n="175" who="S0418"><vocal desc="misc"/></u>
+<u n="176" who="S0417">yeah</u>
+<u n="177" who="S0416">cos I can't I don't really know any other</u>
+<u n="178" who="S0417">younger boys</u>
+<u n="179" who="S0416" trans="overlap"><unclear/> <pause dur="short"/> little boys</u>
+<u n="180" who="S0417">don't think he'll be like <anon type="name" nameType="m"/></u>
+<u n="181" who="S0416">mm?</u>
+<u n="182" who="S0417"><anon type="name" nameType="m"/> was kind of strange wasn't he when we saw him?</u>
+<u n="183" who="S0418"><vocal desc="misc"/></u>
+<u n="184" who="S0416">was he?</u>
+<u n="185" who="S0417">he was just doing his Lego</u>
+<u n="186" who="S0416">oh yeah <pause dur="long"/></u>
+<u n="187" who="S0418"><vocal desc="misc"/></u>
+<u n="188" who="S0416"><unclear/> strange that he didn't come with us</u>
+<u n="189" who="S0418"><vocal desc="misc"/></u>
+<u n="190" who="S0417">mm</u>
+<u n="191" who="S0416">I thought he would definitely come</u>
+<u n="192" who="S0417">mm <pause dur="long"/> do you want some more pizza?</u>
+<u n="193" who="S0416">mm? <unclear>no thank you</unclear></u>
+<u n="194" who="S0418" trans="overlap"><unclear>no no no no no</unclear></u>
+<u n="195" who="S0417">you can have a bit of ice cream if you like <pause dur="long"/> <anon type="name" nameType="m"/> <pause dur="short"/> you want to try just sitting down? and staying there? good boy <pause dur="short"/> good boy</u>
+<u n="196" who="S0418"><anon type="name" nameType="m"/>? <anon type="name" nameType="m"/>?</u>
+<u n="197" who="S0416">mm?</u>
+<u n="198" who="S0418"><anon type="name" nameType="m"/>?</u>
+<u n="199" who="S0416">yeah</u>
+<u n="200" who="S0418"><anon type="name" nameType="m"/> <pause dur="short"/> <unclear>where go?</unclear></u>
+<u n="201" who="S0417">where is he? where's he gone?</u>
+<u n="202" who="S0418"><vocal desc="misc"/></u>
+<u n="203" who="S0416">I'm here</u>
+<u n="204" who="S0418"><unclear>there</unclear></u>
+<u n="205" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="206" who="S0418">mm <unclear>where you can see</unclear>?</u>
+<u n="207" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="208" who="S0418">yeah <pause dur="short"/> <vocal desc="laugh"/> <pause dur="short"/> <unclear>good</unclear> <pause dur="short"/> no <pause dur="short"/> <unclear>doodle doodle doo</unclear></u>
+<u n="209" who="S0416"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="210" who="S0418">I <pause dur="short"/> I</u>
+<u n="211" who="S0417"><anon type="name" nameType="m"/> you're supposed to be sitting down <vocal desc="laugh"/></u>
+<u n="212" who="S0418"><unclear>yeah</unclear> <pause dur="long"/></u>
+<u n="213" who="S0417">they're cutting down the trees again at the back I think</u>
+<u n="214" who="S0418">mm</u>
+<u n="215" who="S0416">our trees?</u>
+<u n="216" who="S0417">erm <pause dur="short"/> I dunno about our trees <pause dur="short"/> <trunc>mayb</trunc>maybe they are trimming them a bit</u>
+<u n="217" who="S0416">mm cos it'll look pretty hideous <pause dur="short"/> if they cut down our trees</u>
+<u n="218" who="S0417">they gotta cut down the one in the middle though <pause dur="short"/> cos it's full of erm</u>
+<u n="219" who="S0416">ammonia <pause dur="short"/> fungus isn't it?</u>
+<u n="220" who="S0418">ah</u>
+<u n="221" who="S0417">like</u>
+<u n="222" who="S0418">there's a birdie <pause dur="short"/> it's a birdie</u>
+<u n="223" who="S0417" trans="overlap"><unclear>waste</unclear> beetle or something I don't know</u>
+<u n="224" who="S0418">there's a birdie</u>
+<u n="225" who="S0417">those are birdies</u>
+<u n="226" who="S0418" trans="overlap">in there</u>
+<u n="227" who="S0417">it's the birdies is it? the birdies <pause dur="short"/> one two two birdies</u>
+<u n="228" who="S0418">one two <pause dur="short"/> two <trunc>bird</trunc></u>
+<u n="229" who="S0417">very good <event desc="sound of applause"/> great job</u>
+<u n="230" who="S0416" trans="overlap">good job</u>
+<u n="231" who="S0418">good</u>
+<u n="232" who="S0417">two birds</u>
+<u n="233" who="S0418">two birdie</u>
+<u n="234" who="S0417">that's what <pause dur="short"/> we need more</u>
+<u n="235" who="S0418" trans="overlap">look</u>
+<u n="236" who="S0417">more conversation like that <anon type="name" nameType="m"/></u>
+<u n="237" who="S0418">one two <unclear><trunc>l</trunc> two say birdie birdie</unclear> <pause dur="short"/> it's one <pause dur="short"/> two <pause dur="short"/> two <pause dur="short"/> three <pause dur="short"/> <unclear>it's one</unclear></u>
+<u n="238" who="S0417" trans="overlap">what shall we do with granny when she's here?</u>
+<u n="239" who="S0418"><unclear>more aliens</unclear></u>
+<u n="240" who="S0417">I suppose she quite likes hanging around here didn't she?</u>
+<u n="241" who="S0418" trans="overlap"><unclear>this one see</unclear></u>
+<u n="242" who="S0416">yeah</u>
+<u n="243" who="S0418" trans="overlap"><unclear>where that?</unclear></u>
+<u n="244" who="S0416">I dunno <pause dur="short"/> I dunno <pause dur="short"/> whatever she wants really?</u>
+<u n="245" who="S0417">mm?</u>
+<u n="246" who="S0416">whatever she wants</u>
+<u n="247" who="S0417">if she can come</u>
+<u n="248" who="S0416">ah <pause dur="short"/> is it like? is it like a maybe?</u>
+<u n="249" who="S0417">yeah it's a maybe because <pause dur="short"/> erm <pause dur="short"/> <anon type="name" nameType="m"/>'s still having his treatment and <pause dur="short"/> he kind of needs somebody to keep an eye on him really</u>
+<u n="250" who="S0416">yeah</u>
+<u n="251" who="S0417">but <anon type="name" nameType="m"/> <pause dur="short"/> his son you know <anon type="name" nameType="m"/>?</u>
+<u n="252" who="S0416">yeah</u>
+<u n="253" who="S0417" trans="overlap">do you know <anon type="name" nameType="m"/>? <pause dur="short"/> he's kind of coincidentally going to be there at the same time <pause dur="short"/> as she's supposed to be going away so that's why she think she's going so we've just gotta wait and see if that's</u>
+<u n="254" who="S0418" trans="overlap"><unclear>what's? there's two <pause dur="short"/> and three <pause dur="short"/> that's it <pause dur="short"/> that's it</unclear></u>
+<u n="255" who="S0417">er you know if he doesn't come or if he didn't come the last minute that she can't go</u>
+<u n="256" who="S0416">yeah</u>
+<u n="257" who="S0417">yeah</u>
+<u n="258" who="S0418"><anon type="name" nameType="f"/>?</u>
+<u n="259" who="S0417">yeah?</u>
+<u n="260" who="S0418">little tree</u>
+<u n="261" who="S0417">I'm gonna go out dancing tonight</u>
+<u n="262" who="S0416">okay</u>
+<u n="263" who="S0417">dance class</u>
+<u n="264" who="S0416">will <anon type="name" nameType="m"/> be back?</u>
+<u n="265" who="S0417">yeah</u>
+<u n="266" who="S0416">okay</u>
+<u n="267" who="S0417">yeah <anon type="name" nameType="m"/> will be back <pause dur="long"/></u>
+<u n="268" who="S0418">mm mm mm</u>
+<u n="269" who="S0417" trans="overlap"><unclear/> <vocal desc="laugh"/></u>
+<u n="270" who="S0416">I did <pause dur="short"/> oh <pause dur="short"/> you're asking?</u>
+<u n="271" who="S0417">no no I said I should think that's probably enough maybe <pause dur="short"/> I'm actually gonna</u>
+<u n="272" who="S0418" trans="overlap">mm mm</u>
+<u n="273" who="S0416"><unclear>I didn't take all the</unclear></u>
+<u n="274" who="S0417">no <pause dur="short"/> <unclear/></u>
+<u n="275" who="S0416" trans="overlap">I had some <pause dur="short"/> had some <pause dur="short"/> yeah <pause dur="long"/></u>
+<u n="276" who="S0417"><vocal desc="laugh"/></u>
+<u n="277" who="S0416">it's good that <anon type="name" nameType="m"/>'s sitting up</u>
+<u n="278" who="S0417">yeah well he didn't stay there though that's the only thing</u>
+<u n="279" who="S0416">mm</u>
+<u n="280" who="S0417">cos while he's stepped in he kind of has to stay there till he's finished</u>
+<u n="281" who="S0416">mm</u>
+<u n="282" who="S0417">so he started to just eat really long time <pause dur="short"/> that's gonna be bad habit I think</u>
+<u n="283" who="S0416">yeah</u>
+<u n="284" who="S0417" trans="overlap">and he's started biting his fingernails</u>
+<u n="285" who="S0416">has he?</u>
+<u n="286" who="S0417">yeah <pause dur="short"/> do you still bite your fingernails?</u>
+<u n="287" who="S0416">not often</u>
+<u n="288" who="S0417"><anon type="name" nameType="m"/> does <pause dur="short"/> <anon type="name" nameType="m"/> does I wonder whether he's copying them</u>
+<u n="289" who="S0416">but I don't remember doing it often <pause dur="short"/> might be a subconscious thing</u>
+<u n="290" who="S0417">yeah</u>
+<u n="291" who="S0416">yeah <pause dur="short"/> yeah I don't think so <pause dur="short"/> I can't recall doing it</u>
+<u n="292" who="S0417">yeah <pause dur="long"/> do you like that better than Ben and Jenny Jerry's?</u>
+<u n="293" who="S0416">yeah</u>
+<u n="294" who="S0417">really?</u>
+<u n="295" who="S0416">yeah it's because</u>
+<u n="296" who="S0417">is it softer?</u>
+<u n="297" who="S0416">Ben and Jerry's <pause dur="short"/> has better chocolate ice cream</u>
+<u n="298" who="S0417">mm</u>
+<u n="299" who="S0416">but <pause dur="short"/> they just <pause dur="short"/> put in so much stuff</u>
+<u n="300" who="S0417">yeah <pause dur="short"/> they do</u>
+<u n="301" who="S0416" trans="overlap">like here's layers of caramel with bricks of brownie and</u>
+<u n="302" who="S0417">yeah</u>
+<u n="303" who="S0416">other things and <pause dur="short"/> you don't <trunc>rea</trunc> you're not really eating ice cream <pause dur="short"/> you're just kind of eating lots of brownies</u>
+<u n="304" who="S0417">mm</u>
+<u n="305" who="S0416">with just a little bit of <pause dur="short"/> cream in them</u>
+<u n="306" who="S0417">I can't believe that <anon type="name" nameType="f"/> didn't get chocolate <pause dur="short"/> I was like <vocal desc="gasp"/> I was gutted</u>
+<u n="307" who="S0416">yeah</u>
+<u n="308" who="S0417">I was trying to be like oh it's so nice it's filling and everything I don't really like <pause dur="short"/> any <trunc>e</trunc>thing else apart from chocolate really</u>
+<u n="309" who="S0416">yeah <pause dur="short"/> I didn't really like it either</u>
+<u n="310" who="S0417">yeah I know <vocal desc="laugh"/> what made her think of it <pause dur="short"/> maybe all like <pause dur="short"/> the other stuff</u>
+<u n="311" who="S0416">yeah</u>
+<u n="312" who="S0417">cookie dough</u>
+<u n="313" who="S0416">yeah I think all the kids like cookie dough</u>
+<u n="314" who="S0417">yeah</u>
+<u n="315" who="S0416">I'm not a big fan <pause dur="short"/> it tastes a bit too sugary for me</u>
+<u n="316" who="S0418">why</u>
+<u n="317" who="S0417">yeah it's not my favourite either <pause dur="short"/> I just I just had to try and be nice</u>
+<u n="318" who="S0416" trans="overlap">I like things yeah I like things with sugar in <pause dur="short"/> but I don't like things that taste too sugary</u>
+<u n="319" who="S0417">mm</u>
+<u n="320" who="S0416">but I like sour things</u>
+<u n="321" who="S0417">yeah you like sour things right</u>
+<u n="322" who="S0416" trans="overlap">which which doesn't really make sense <pause dur="short"/> it's just if I can if I can taste the sweet sugar <pause dur="short"/> which <unclear>damn it</unclear> is nice <pause dur="short"/> I <trunc>c</trunc> I hate <pause dur="short"/> I hate cereal <pause dur="short"/> sugar</u>
+<u n="323" who="S0417">really?</u>
+<u n="324" who="S0416">I hate it <pause dur="short"/> yeah <pause dur="short"/> my dad likes cereal sugar <pause dur="short"/> I don't <pause dur="short"/> at all</u>
+<u n="325" who="S0417">mm <pause dur="short"/> yeah but you like <pause dur="short"/> when you <trunc>s</trunc> you don't actually have porridge any more <pause dur="short"/> porridge is really good for you</u>
+<u n="326" who="S0416">mm</u>
+<u n="327" who="S0417">but you could only eat that with sugar really</u>
+<u n="328" who="S0416">mm</u>
+<u n="329" who="S0417">but then that's <pause dur="short"/> that kind of needs sugar doesn't it? it's very like</u>
+<u n="330" who="S0418" trans="overlap"><unclear>mum</unclear></u>
+<u n="331" who="S0416" trans="overlap">yeah</u>
+<u n="332" who="S0417">it's just sticky and <unclear>salty</unclear> otherwise <pause dur="short"/> could <trunc>i</trunc> eaten all his pizza</u>
+<u n="333" who="S0416" trans="overlap">cos cereal is already <pause dur="short"/> quite sugary</u>
+<u n="334" who="S0417">yeah</u>
+<u n="335" who="S0416">mm</u>
+<u n="336" who="S0417">I'm tired <pause dur="short"/> I'm gonna try finish my book <pause dur="short"/> do some other things <pause dur="short"/> today <pause dur="short"/> still don't know what a good name is for the cat <pause dur="short"/> maybe Percy the Penguin that's too bit too obvious as well <pause dur="short"/> loads of Percy the Penguins around</u>
+<u n="337" who="S0416">mm</u>
+<u n="338" who="S0417">Patrick the Penguin</u>
+<u n="339" who="S0416">mm</u>
+<u n="340" who="S0417">no</u>
+<u n="341" who="S0416">long names aren't really</u>
+<u n="342" who="S0416">what do you think a good name for penguin and the cat? <pause dur="short"/> or maybe it should be the pig that's <pause dur="short"/> who do you think should go away with the balloon? <pause dur="short"/> the pig? <pause dur="short"/> or the cat? <pause dur="short"/> or the penguin?</u>
+<u n="343" who="S0416">penguin</u>
+<u n="344" who="S0417">yeah that would be better</u>
+<u n="345" who="S0416">penguin's small <pause dur="short"/> and more cute</u>
+<u n="346" who="S0417">and he's gonna erm <pause dur="short"/> he's got a <pause dur="short"/> one of the ways he's gonna be saved is by grabbing on to the bunny's ears <pause dur="short"/> to Barry's ears <pause dur="short"/> he'll jump up and he'll grab hold of Barry's ears cos they're so <pause dur="short"/> big and tall <pause dur="short"/> do you think the penguin would be able to grab hold of his ears? <pause dur="short"/> with his flippers</u>
+<u n="347" who="S0416">no not in real life but <pause dur="short"/> I think in a kid's book it'd be alright</u>
+<u n="348" who="S0417">so shall I just mention the penguin? <pause dur="short"/> not mention any other <pause dur="short"/> of the children's names? <pause dur="short"/> cos I'm trying to make it nice and simple but</u>
+<u n="349" who="S0416">yeah <pause dur="short"/> you just don't mention like the cats' names <pause dur="short"/> there's no real <pause dur="short"/> need</u>
+<u n="350" who="S0417">so <pause dur="short"/> the penguin <pause dur="short"/> what would his name be? <pause dur="short"/> barry? <pause dur="short"/> rescues</u>
+<u n="351" who="S0416">I dunno <pause dur="short"/> I like Percy but <pause dur="short"/> I don't think it'd matter to a kid I think Percy'd be amazing for a kid <pause dur="short"/> but in the adults' eyes I can see how</u>
+<u n="352" who="S0417"><anon type="name" nameType="m"/>?</u>
+<u n="353" who="S0416"><anon type="name" nameType="m"/> would work I think it would</u>
+<u n="354" who="S0417"><anon type="name" nameType="m"/> The Penguin <pause dur="short"/> even though we know an annoying <anon type="name" nameType="m"/> don't we? <pause dur="short"/> erm</u>
+<u n="355" who="S0416">do we?</u>
+<u n="356" who="S0417">yeah <pause dur="short"/> <anon type="name" nameType="n"/>'s friend</u>
+<u n="357" who="S0416">oh that <anon type="name" nameType="m"/></u>
+<u n="358" who="S0417">that's a long <pause dur="short"/> that's long name though</u>
+<u n="359" who="S0416">yeah <pause dur="short"/> I dunno</u>
+<u n="360" who="S0417" trans="overlap">Jim Jimmy?</u>
+<u n="361" who="S0416">I dunno I'm I'm I wouldn't I'm not feeling Jimmy <pause dur="short"/> but I dunno</u>
+<u n="362" who="S0417">erm</u>
+<u n="363" who="S0416">I don't know if I'm the best advisor but</u>
+<u n="364" who="S0417">Barry and <trunc>s</trunc> and Wesley Stanley</u>
+<u n="365" who="S0416">Steve?</u>
+<u n="366" who="S0417">Steve I don't like Steve</u>
+<u n="367" who="S0416">Steve wouldn't really be good for erm</u>
+<u n="368" who="S0417">a penguin?</u>
+<u n="369" who="S0416">yeah</u>
+<u n="370" who="S0417">maybe he should have like an un-penguin-like name <pause dur="short"/> like <pause dur="short"/> rocky <pause dur="short"/> erm <pause dur="short"/> william no that's too <pause dur="short"/> pompous <pause dur="short"/> charlie? <pause dur="short"/> <anon type="name" nameType="m"/></u>
+<u n="371" who="S0416">I don't think think kids would like <anon type="name" nameType="m"/> <pause dur="short"/> they're like <pause dur="short"/> what's that?</u>
+<u n="372" who="S0417">yeah</u>
+<u n="373" who="S0416">what does that mean? <pause dur="short"/> a name that's common enough I think would be good <pause dur="short"/> or maybe</u>
+<u n="374" who="S0417">Jude</u>
+<u n="375" who="S0416">yeah <pause dur="short"/> mm</u>
+<u n="376" who="S0417">no</u>
+<u n="377" who="S0416">not common enough</u>
+<u n="378" who="S0417">I dunno about Charlie either for a penguin I don't know <pause dur="short"/> barry's gotta be the name isn't he cos he's the main man?</u>
+<u n="379" who="S0416">yeah <pause dur="long"/></u>
+<u n="380" who="S0417">yeah so he's got <trunc>w</trunc> like one mate the penguin</u>
+<u n="381" who="S0416">he's got more mates</u>
+<u n="382" who="S0417">well yeah <pause dur="short"/> but that's his main mate <pause dur="short"/> don't scrape the <unclear>bar one</unclear></u>
+<u n="383" who="S0416">sorry <pause dur="short"/> since when?</u>
+<u n="384" who="S0417">well just one <trunc>ma</trunc>mate that we actually say so it looks like he's kind of <pause dur="short"/> I think it might be confusing if we talk too much about the other ones <pause dur="short"/> it's only a short book</u>
+<u n="385" who="S0418" trans="overlap"><unclear>one</unclear></u>
+<u n="386" who="S0416">mm <pause dur="long"/></u>
+<u n="387" who="S0417">do you think it's a bit confusing that he can hear <pause dur="short"/> the bit about him hearing <pause dur="short"/> animals in the night? is that a bit weird? about him having his ears tied up as a baby do you think that's a bit weird? bit odd</u>
+<u n="388" who="S0416">yeah I don't really understand why</u>
+<u n="389" who="S0417">cos <pause dur="short"/> they were trailing along the floor</u>
+<u n="390" who="S0416"><unclear>think so <pause dur="short"/> I quite like this idea</unclear></u>
+<u n="391" who="S0417">but not <trunc>r</trunc> yeah?</u>
+<u n="392" who="S0416">well I think if it was an adult's book there wouldn't really be <pause dur="short"/> <unclear>a penguin in it</unclear></u>
+<u n="393" who="S0417">if you were gonna do a children's book what would you do?</u>
+<u n="394" who="S0417">why you lookin at the ceiling? <pause dur="short"/> ah</u>
+<u n="395" who="S0416">mm</u>
+<u n="396" who="S0417">okay <pause dur="short"/> what if you were gonna do a children's book well</u>
+<u n="397" who="S0416">how</u>
+<u n="398" who="S0417">what would you do?</u>
+<u n="399" who="S0416">I dunno I don't know where I'd start</u>
+<u n="400" who="S0417">you can make a story about a robot</u>
+<u n="401" who="S0416">mm</u>
+<u n="402" who="S0417" trans="overlap">a robot dog</u>
+<u n="403" who="S0416">I'd do a <unclear>train</unclear></u>
+<u n="404" who="S0417">what about a robot dog? who nobody thinks needs love but he does?</u>
+<u n="405" who="S0416" trans="overlap"><unclear>well I've got to think</unclear></u>
+<u n="406" who="S0418"><vocal desc="laugh"/></u>
+<u n="407" who="S0417">you've got Teddy? oh no let's be <pause dur="short"/> kind to Teddy <pause dur="short"/> no <pause dur="short"/> come on hello Teddy</u>
+<u n="408" who="S0418"><vocal desc="laugh"/></u>
+<u n="409" who="S0417">hello <pause dur="short"/> it's cuddles for Teddy <pause dur="short"/> and how are you today? I'm okay</u>
+<u n="410" who="S0418"><vocal desc="laugh"/></u>
+<u n="411" who="S0417">would you like something to eat you?</u>
+<u n="412" who="S0418"><vocal desc="laugh"/></u>
+<u n="413" who="S0417">would you like some of yours?</u>
+<u n="414" who="S0418" trans="overlap"><trunc>e</trunc> <pause dur="short"/> bit</u>
+<u n="415" who="S0417">you feeding? <pause dur="short"/> I want some of this <pause dur="short"/> mm</u>
+<u n="416" who="S0418" trans="overlap"><trunc>ra</trunc></u>
+<u n="417" who="S0417">ah would you like something to drink? <pause dur="short"/> look <anon type="name" nameType="m"/>?</u>
+<u n="418" who="S0418">here</u>
+<u n="419" who="S0417">thank you he says thank you</u>
+<u n="420" who="S0418" trans="overlap">yes <pause dur="short"/> one</u>
+<u n="421" who="S0417">you just wanna chuck him on the floor I see</u>
+<u n="422" who="S0416">I was just saying <pause dur="short"/> train a monkey</u>
+<u n="423" who="S0417"><vocal desc="laugh"/> monkeys to get like? maybe</u>
+<u n="424" who="S0418" trans="overlap"><vocal desc="laugh"/></u>
+<u n="425" who="S0417">slung around and <pause dur="short"/> and then drawed all over</u>
+<u n="426" who="S0416">yeeah</u>
+<u n="427" who="S0417">oh</u>
+<u n="428" who="S0416">and then erm I melted his bum</u>
+<u n="429" who="S0417">oh yeah that's quite dangerous</u>
+<u n="430" who="S0418" trans="overlap">mm mm</u>
+<u n="431" who="S0417">very lucky that <pause dur="short"/> <anon type="name" nameType="m"/> noticed that we could've had a fire</u>
+<u n="432" who="S0418" trans="overlap">mm mm</u>
+<u n="433" who="S0416" whoConfidence="low">could you?</u>
+<u n="434" who="S0418">yeah yeah</u>
+<u n="435" who="S0417">gonna have to you gonna start to use the lamp again can you be careful cos sometimes your pillow's half on it</u>
+<u n="436" who="S0416">mm?</u>
+<u n="437" who="S0417">yeah</u>
+<u n="438" who="S0416">mm</u>
+<u n="439" who="S0417">I'm just wondering whether you should use it really</u>
+<u n="440" who="S0416">okay <pause dur="short"/> <anon type="name" nameType="m"/> told me to use it <pause dur="short"/> I only use it because the light bulb's <pause dur="short"/> gone</u>
+<u n="441" who="S0417">oh <pause dur="short"/> the light bulb's gone in your room has it?</u>
+<u n="442" who="S0416">yeah</u>
+<u n="443" who="S0417">okay well can you just <pause dur="short"/> maybe <pause dur="short"/> clear the cushions next to it and just not?</u>
+<u n="444" who="S0416">mm</u>
+<u n="445" who="S0417">cos you kind of fall asleep with it on and then <pause dur="short"/> one day that cushion's gonna lie on top like the monkey <pause dur="short"/> by mistake <pause dur="short"/> possibly <pause dur="short"/> or it will make it</u>
+<u n="446" who="S0418" trans="overlap"><unclear>thank you</unclear></u>
+<u n="447" who="S0417">or it'll make it fall over and go on it</u>
+<u n="448" who="S0418">mum? mummy?</u>
+<u n="449" who="S0416">yeah the only thing is when I sleep I move around a lot</u>
+<u n="450" who="S0418" trans="overlap">mummy? mummy? mummy?</u>
+<u n="451" who="S0417">I think but can you try and turn it off? before you go to sleep?</u>
+<u n="452" who="S0416">yeah <pause dur="short"/> yeah I did</u>
+<u n="453" who="S0417">yeah you turn it off because the</u>
+<u n="454" who="S0418" trans="overlap">down down down</u>
+<u n="455" who="S0417">so what you gonna do as a children's book?</u>
+<u n="456" who="S0416">erm <pause dur="short"/> I'd do a train that's going around</u>
+<u n="457" who="S0417">oh yeah?</u>
+<u n="458" who="S0416">and it picks up all the people <pause dur="short"/> and that's the end</u>
+<u n="459" who="S0417">it's a good idea</u>
+<u n="460" who="S0416">not really</u>
+<u n="461" who="S0417">different people or different animals?</u>
+<u n="462" who="S0418" trans="overlap">mm mm <pause dur="short"/> mm <pause dur="short"/> mm no</u>
+<u n="463" who="S0416">animals <pause dur="short"/> would be best</u>
+<u n="464" who="S0418">that's not a bad idea</u>
+<u n="465" who="S0416"><unclear>just a kid's story then</unclear></u>
+<u n="466" who="S0418">ow man good</u>
+<u n="467" who="S0417" trans="overlap">yes cos they can go <pause dur="short"/> is it every time they they can go <unclear>see things</unclear></u>
+<u n="468" who="S0418" trans="overlap">ow</u>
+<u n="469" who="S0417">ah</u>
+<u n="470" who="S0416">and it's actually already been done but never mind</u>
+<u n="471" who="S0418"><unclear>next</unclear></u>
+<u n="472" who="S0416">it's already been done</u>
+<u n="473" who="S0417">mm?</u>
+<u n="474" who="S0418">a bit</u>
+<u n="475" who="S0416">yeah <anon type="name" nameType="m"/> has a show</u>
+<u n="476" who="S0418"><unclear>it makes</unclear></u>
+<u n="477" who="S0416">where that's what happens</u>
+<u n="478" who="S0418" trans="overlap"><unclear>one shoe</unclear></u>
+<u n="479" who="S0416">train goes round in a circle</u>
+<u n="480" who="S0418" trans="overlap"><unclear>and this</unclear></u>
+<u n="481" who="S0416">on the same track with the same music</u>
+<u n="482" who="S0418" trans="overlap">one <unclear>bit</unclear> <pause dur="short"/> mm mm</u>
+<u n="483" who="S0416">and they pick pick up an animal <pause dur="short"/> each time they go <pause dur="short"/> and first they pick up one animal then two three then four then five</u>
+<u n="484" who="S0417">yeah but <trunc>n</trunc> sometimes simple things are the best</u>
+<u n="485" who="S0416">mm mm</u>
+<u n="486" who="S0417"><unclear>everywhere</unclear> <pause dur="short"/> lots of stories have been done <pause dur="short"/> similarly <pause dur="short"/> I'm sure there's probably been a bunny rabbit story before</u>
+<u n="487" who="S0416">mm</u>
+<u n="488" who="S0417">right <vocal desc="sigh"/> <pause dur="short"/> we're off the table <anon type="name" nameType="m"/> cos you like take a million years to finish by <pause dur="short"/> leaving the table all the time</u>
+<u n="489" who="S0417" whoConfidence="low"><unclear>that's it</unclear></u>
+<u n="490" who="S0418">mm mm</u>
+<u n="491" who="S0417">so are you gonna do some revision? <pause dur="short"/> how you gonna do it?</u>
+	
+	</body>
+</text>

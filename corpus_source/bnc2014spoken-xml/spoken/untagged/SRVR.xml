@@ -1,0 +1,556 @@
+<text id="SRVR">
+	<header>
+		<rec_length>0:30:32</rec_length>
+		<rec_date>2014-08-26</rec_date>
+		<rec_year>2014</rec_year>
+		<rec_period>2014_Q3</rec_period>
+		<n_speakers>2</n_speakers>
+		<list_speakers>S0192 S0227</list_speakers>
+		<rec_loc>In father's car between Bedford and Northamptonshire</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Arrangements, extended family, mortgages, sickness, English, food, finance, movies, memories</topics>
+		<activity>Driving from Mum's to Dad's for the last time before moving</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, anecdote telling, making arrangements, apologizing</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T12</transcriber>
+		<speakerInfo>
+			<speaker id="S0192">
+				<exactage>28</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bedford</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>RP</dialect_rep>
+				<hab_city></hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>22</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>English Language Instructor</occupation>
+				<socgrade>C1</socgrade>
+				<nssec>3</nssec>
+				<l2>Spanish</l2>
+				<fls>Korean -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0227">
+				<exactage>54</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Crayford, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>None indicated</dialect_rep>
+				<hab_city></hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>9</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>customer services agent</occupation>
+				<socgrade>C1</socgrade>
+				<nssec>3</nssec>
+				<l2></l2>
+				<fls>French -- intermediate; Spanish -- intermediate</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0192">how are you today?</u>
+<u n="2" who="S0227">yeah not so bad yourself?</u>
+<u n="3" who="S0192">yeah I'm good</u>
+<u n="4" who="S0227">so I'm dropping you at the <trunc>sta</trunc> ah train station tomorrow?</u>
+<u n="5" who="S0192">yes yeah if you can</u>
+<u n="6" who="S0227" trans="overlap"><unclear>right yeah</unclear></u>
+<u n="7" who="S0192" trans="overlap">what time do you normally get into Bedford?</u>
+<u n="8" who="S0227">well I I'll leave I get up at <pause dur="short"/> about twenty-five past seven I'll leave probably at I normally <trunc>le</trunc>leave at seven forty-seven if everything's gone to plan</u>
+<u n="9" who="S0192">so hang on you get up at half past and you leave at seven forty-seven</u>
+<u n="10" who="S0227" trans="overlap">seven twenty-five <unclear/></u>
+<u n="11" who="S0192" trans="overlap">seven twenty-five so you only have like twenty minutes to get ready</u>
+<u n="12" who="S0227">yeah <pause dur="short"/> and I've fed the cat and I've had breakfast and <pause dur="short"/> <unclear/></u>
+<u n="13" who="S0192" trans="overlap">yeah cos I haven't had breakfast the last couple of times</u>
+<u n="14" who="S0227" trans="overlap">no I move quite quickly too if you wanna get up earlier if you want</u>
+<u n="15" who="S0192" trans="overlap">yeah I'm gonna have to I'm gonna have to</u>
+<u n="16" who="S0227" trans="overlap">can set you have you got your phone's got an alarm on it I should imagine</u>
+<u n="17" who="S0192" trans="overlap">I think so I've never used it <anon type="name" nameType="f"/> always sets hers</u>
+<u n="18" who="S0227">mm</u>
+<u n="19" who="S0192">erm sounds good okay so what time do you normally get in to Bedford so we'll leave at quarter to <trunc>n</trunc> eight</u>
+<u n="20" who="S0227" trans="overlap">yeah we'll get in about oh probably about five to <trunc>t</trunc>ten past eight</u>
+<u n="21" who="S0192">oh wow early</u>
+<u n="22" who="S0227">yeah</u>
+<u n="23" who="S0192">yeah my train's not for another hour</u>
+<u n="24" who="S0227"><unclear>you can sit and er</unclear> <pause dur="short"/> <unclear>there's a I start</unclear> <pause dur="short"/> unfortunately I'm ah my I had much more freedom before I could come in and just go in straight out to site but um</u>
+<u n="25" who="S0192">can't do that anymore</u>
+<u n="26" who="S0227" trans="overlap">no not really no</u>
+<u n="27" who="S0192">do you start at half eight then</u>
+<u n="28" who="S0227">well I start <trunc>a</trunc>at um as soon as I get there I I finish at</u>
+<u n="29" who="S0192"><unclear>just under eight hours</unclear></u>
+<u n="30" who="S0227" trans="overlap">do thirty-seven hours a week but I don't have a lunch break very seldom have one of those I just work all the way through that's the job <pause dur="short"/></u>
+<u n="31" who="S0192">I'll just wait at the train station I might wake up at seven so I've got time to eat shower go to the toilet that would be good</u>
+<u n="32" who="S0227" trans="overlap">yeah yeah that would give you time to do that and I'll be up at seven twenty-five <pause dur="short"/></u>
+<u n="33" who="S0192">how was your weekend? <anon type="name" nameType="m"/>'s move</u>
+<u n="34" who="S0227">yeah he's gone he's gone yeah that went <trunc>th</trunc> fine erm <pause dur="short"/></u>
+<u n="35" who="S0192">anyone around today or is it just the <unclear>three of us</unclear>?</u>
+<u n="36" who="S0227" trans="overlap">no just <anon type="name" nameType="f"/> erm started decorating his bedroom erm it was worse than we thought it was gonna be paint <pause dur="short"/> has gone very yellow and we only decorated just over two years ago</u>
+<u n="37" who="S0192">why's it gone so discoloured?</u>
+<u n="38" who="S0227">er there was a batch of paint they erm load of people took a load of <unclear>pink</unclear> paint erm <unclear>the pink</unclear> ones I think cos it's er <pause dur="short"/> being eco-friendly and that erm <pause dur="short"/> there was some it didn't last you know the white didn't last very long it faded became yellow-y so that was and we didn't we never took any paint back but er I think that that's probably a consequence of it</u>
+<u n="39" who="S0192"><unclear>claim which is so good</unclear></u>
+<u n="40" who="S0227" trans="overlap">so er and some of the wallpaper had come off so we're repairing some of that wallpaper that we needed <anon type="name" nameType="f"/> keeps hold of these things so <unclear/> gonna be repairing the room we started yesterday cos there was absolutely bugger all to do</u>
+<u n="41" who="S0192">yeah</u>
+<u n="42" who="S0227">and it was raining all day didn't stop till about midday today</u>
+<u n="43" who="S0192">it was terrible weather wasn't it?</u>
+<u n="44" who="S0227" trans="overlap"><unclear>yeah it wasn't yeah any good at all for erm</unclear></u>
+<u n="45" who="S0192">yeah I saw <anon type="name" nameType="n"/> and <anon type="name" nameType="f"/> yesterday</u>
+<u n="46" who="S0227">okay</u>
+<u n="47" who="S0192">they came over</u>
+<u n="48" who="S0227">right</u>
+<u n="49" who="S0192">erm it was good to see them</u>
+<u n="50" who="S0227">have they changed at all?</u>
+<u n="51" who="S0192">ah everyone's getting older aren't they?</u>
+<u n="52" who="S0227">yes do you notice these things when you don't see them</u>
+<u n="53" who="S0192">yeah</u>
+<u n="54" who="S0227">for a while</u>
+<u n="55" who="S0192">they always enquire after you and I I say that you enquire after them</u>
+<u n="56" who="S0227">yeah it's all small talk isn't it really it's just the standard stuff <vocal desc="laugh"/></u>
+<u n="57" who="S0192">yeah <pause dur="short"/></u>
+<u n="58" who="S0227"><unclear>how many</unclear> has <anon type="name" nameType="f"/> got any children?</u>
+<u n="59" who="S0192">no no no I don't know if she will she's uncertain as to whether she will or not</u>
+<u n="60" who="S0227" trans="overlap">so it's so it's er yeah well I don't blame her really er <anon type="name" nameType="f"/>'s got two hasn't she?</u>
+<u n="61" who="S0192"><anon type="name" nameType="f"/>'s got two and <anon type="name" nameType="m"/> has got one</u>
+<u n="62" who="S0227">yes what has <anon type="name" nameType="f"/> got boy and a girl or two girls or what</u>
+<u n="63" who="S0192" trans="overlap">boy and a girl yeah <trunc>sh</trunc><trunc>sh</trunc></u>
+<u n="64" who="S0227" trans="overlap">oh right so that's good that means</u>
+<u n="65" who="S0192" trans="overlap">she doesn't want anymore</u>
+<u n="66" who="S0227">well she's got what she needs</u>
+<u n="67" who="S0192">mm</u>
+<u n="68" who="S0227" trans="overlap">she doesn't need to have any more unless they cos once you've got a boy and a girl you think well do we need another one where if you've had a few of one sex you <unclear>are kind've more</unclear> inclined if you wanted one to have another go at <trunc>thr</trunc> at throwing the die</u>
+<u n="69" who="S0192">yeah</u>
+<u n="70" who="S0227">see what it turns up but once you've got boy and a girl you think that's it it's perfect family <trunc>p</trunc>perfect unit brother <trunc>an</trunc> brother for the name girl for <trunc>th</trunc>the woman erm and <trunc>l</trunc> daddy's little girl <trunc>ye</trunc> all the boxes are ticked so it's a erm unless you are really in to unless you're Catholic or really in to big families you wouldn't think <pause dur="short"/> well</u>
+<u n="71" who="S0192" trans="overlap">that's enough</u>
+<u n="72" who="S0227">why do I need that all that</u>
+<u n="73" who="S0192" trans="overlap">yeah</u>
+<u n="74" who="S0227">all that extra tiredness money that needs to be earned to put food on the table and all that malarky so yeah</u>
+<u n="75" who="S0192" trans="overlap">did you er help <anon type="name" nameType="m"/> move? was it fairly straightforward?</u>
+<u n="76" who="S0227" trans="overlap">yeah no I I <trunc>f</trunc> he <trunc>f</trunc> moved on the Friday erm <anon type="name" nameType="f"/> was there er from about eleven so she'd <anon type="name" nameType="m"/> came over and she <trunc>f</trunc> <anon type="name" nameType="n"/> that's <anon type="name" nameType="f"/>'s that's erm <anon type="name" nameType="f"/>'s sister's eldest daughter <anon type="name" nameType="f"/> I think you've met her before</u>
+<u n="77" who="S0192" trans="overlap">yeah yeah she was in to drama or something</u>
+<u n="78" who="S0227" trans="overlap">but er <anon type="name" nameType="n"/> yeah <anon type="name" nameType="n"/> er <anon type="name" nameType="n"/> came over we er <pause dur="short"/> we helped move <trunc>sh</trunc>she had fed them a lunch and then I finished I got home a bit early I was home by about two and I erm went straight over and I helped do a bit erm basically drying up cos <anon type="name" nameType="f"/> was washing</u>
+<u n="79" who="S0192">yeah</u>
+<u n="80" who="S0227">yeah that was an <unclear>important event</unclear></u>
+<u n="81" who="S0192">so they're pleased to have moved in? <unclear>presumably</unclear></u>
+<u n="82" who="S0227" trans="overlap">oh yeah they're er all all ensconced in their new <trunc>sp</trunc> in their new place and er it's got quite a sizeable back garden it's not bad at all</u>
+<u n="83" who="S0192">oh nice</u>
+<u n="84" who="S0227">as a first home it's it's three bedrooms they'll only use two they'll use one as a man cave and one as <unclear/></u>
+<u n="85" who="S0192" trans="overlap">and is this a mortgage?</u>
+<u n="86" who="S0227">oh yeah</u>
+<u n="87" who="S0192">oh</u>
+<u n="88" who="S0227">the er</u>
+<u n="89" who="S0192">how long <trunc>h</trunc> what kind of mortgage do you have on a property then?</u>
+<u n="90" who="S0227" trans="overlap">I would imagine they've got thirty years or thirty-five maybe</u>
+<u n="91" who="S0192"><unclear>brilliant</unclear></u>
+<u n="92" who="S0227">something like that erm erm they had a bit of a deposit but <unclear/> after these first-time buyer schemes that the Government are er are doing at the moment <pause dur="short"/></u>
+<u n="93" who="S0192">what's the benefits of that scheme?</u>
+<u n="94" who="S0227">well <trunc>th</trunc>they get a a reduced rate for a number of years I've never really looked into it because I've never needed it</u>
+<u n="95" who="S0192">yeah</u>
+<u n="96" who="S0227" trans="overlap">myself so I haven't really bothered finding out what it's all about but it's a erm it's a the Government doing erm <pause dur="short"/> do lend themselves to these er these schemes to try and get first-time buyers on the on the market</u>
+<u n="97" who="S0192">mm</u>
+<u n="98" who="S0227">so yeah so they're up and running and er <pause dur="short"/> it won't be easy for them to him to come back this time like it was last time as he was just paying rent <unclear/> one would assume that means the relationship is over if that was the case</u>
+<u n="99" who="S0192">yeah</u>
+<u n="100" who="S0227">and if either way it would cost them money cos I think there's a deal they're at now with house-buying that erm you have to pay some kind of penalty if it's if you <trunc>s</trunc> if you selling up</u>
+<u n="101" who="S0192">change your mind</u>
+<u n="102" who="S0227">you know in a couple of years or something</u>
+<u n="103" who="S0192" trans="overlap">so this is quite a big move for them then?</u>
+<u n="104" who="S0227">well yeah <pause dur="short"/> yeah it's a big move and so <trunc>a</trunc>and also erm with a mortgage and that you know erm you a lot of people found that erm house prices dropped <pause dur="short"/> and they were living with straddled with negative equity the loan was worth more than the house</u>
+<u n="105" who="S0192">yeah</u>
+<u n="106" who="S0227">so if you tried to sell it you'd still owe money rather than you know if you were lucky we we sold we <trunc>s</trunc> we we paid off on our debt <pause dur="short"/> you went one way I went the other and there was nothing left absolutely nothing to show for it erm or <pause dur="short"/> or we've gotta hold on to this house because like it or not if we sell this we're <trunc>s</trunc> ten grand short</u>
+<u n="107" who="S0192">yeah</u>
+<u n="108" who="S0227" trans="overlap">we still gotta owe the mortgage company ten grand but we don't have nothing to show for it you know so it's a so <trunc>h</trunc><trunc>h</trunc>house prices going up is good but <trunc>ha</trunc> erm but harder for</u>
+<u n="109" who="S0192">first-time buyers</u>
+<u n="110" who="S0227" trans="overlap">first-time buyers but house prices dropping is good for first-time buyers but not good for people who've erm got very little equity in their property</u>
+<u n="111" who="S0192">yeah</u>
+<u n="112" who="S0227"><unclear>that's all a</unclear> <pause dur="short"/></u>
+<u n="113" who="S0192">and is <anon type="name" nameType="f"/> cool with <anon type="name" nameType="m"/> moving out?</u>
+<u n="114" who="S0227"><trunc>s</trunc> well <trunc>i</trunc> yeah he's a man he's twenty-five</u>
+<u n="115" who="S0192">it's gonna be quiet in the house</u>
+<u n="116" who="S0227">quieter yeah definitely yeah definitely yeah it'll be <trunc>s</trunc>strange we've had it before we had it for six months last time before they decided to move back it does erm feel a little strange I don't miss his shoes the man loves shoes loads of shoes</u>
+<u n="117" who="S0192" trans="overlap">does he leave them lying around?</u>
+<u n="118" who="S0227">a lot of the time yeah</u>
+<u n="119" who="S0192">yeah</u>
+<u n="120" who="S0227">mm <pause dur="short"/></u>
+<u n="121" who="S0192">cheers for playing that game the other day I'm <trunc>s</trunc> I feel terrible that I gave <anon type="name" nameType="f"/> that card</u>
+<u n="122" who="S0227">it happens doesn't matter</u>
+<u n="123" who="S0192">yeah it's erm</u>
+<u n="124" who="S0227">she's kind've reminded constantly <unclear/></u>
+<u n="125" who="S0192" trans="overlap">quite insensitive of me that I didn't</u>
+<u n="126" who="S0227">well you don't no you're not <trunc>thin</trunc>thing is you're not you know <trunc>y</trunc><trunc>y</trunc>you shouldn't walk on eggshells it's just that erm you know otherwise you wouldn't know what to say without fear of offence</u>
+<u n="127" who="S0192">should I apologise to her?</u>
+<u n="128" who="S0227">no</u>
+<u n="129" who="S0192">you sure?</u>
+<u n="130" who="S0227">yes</u>
+<u n="131" who="S0192">okay</u>
+<u n="132" who="S0227"><unclear/> it wasn't something you did with <trunc>ma</trunc> with maliciously it wasn't intent</u>
+<u n="133" who="S0192">no</u>
+<u n="134" who="S0227">you just <trunc>d</trunc> it was a <trunc>som</trunc> it was something that you only thought about afterwards because you er you know you realised that it cos you can forget it easily you just forget</u>
+<u n="135" who="S0192" trans="overlap">yeah</u>
+<u n="136" who="S0227" trans="overlap">the situation <pause dur="short"/></u>
+<u n="137" who="S0192">I just felt terrible it was like the worst card I could could've given her</u>
+<u n="138" who="S0227">yeah well it happens <pause dur="short"/> as I said I don't think for a moment she thought it was something you did <unclear>with intent you just might</unclear></u>
+<u n="139" who="S0192" trans="overlap">well you know her best so</u>
+<u n="140" who="S0227">yeah</u>
+<u n="141" who="S0192"><trunc>sh</trunc> I'm sure she'd have said something to you if she was offended or erm</u>
+<u n="142" who="S0227">yeah no <unclear/> you're bombarded with erm stuff on TV about the subject so</u>
+<u n="143" who="S0192">yeah <unclear>that would be tough</unclear></u>
+<u n="144" who="S0227">it's not so <trunc>t</trunc> such a taboo subject anymore although er <trunc>f</trunc> I tend to find think that they go the opposite way and try to belittle it and <trunc>l</trunc> <trunc>an</trunc> trivialise it and it's not something that you <trunc>sh</trunc> you know that erm there's adverts on the radio erm I gave you my mum's given you a bit of a spanking cancer and all that sort of stuff it's a sort of er condition that erm er er that a lot of people survive cancer but erm er <pause dur="short"/> a lot of people die from it as well</u>
+<u n="145" who="S0192">yeah <pause dur="short"/></u>
+<u n="146" who="S0227">some cancers they <trunc>d</trunc> have made no little or no progress er pancreatic cancer being one of them</u>
+<u n="147" who="S0192">well I apologise anyway</u>
+<u n="148" who="S0227">no there's nothing to apologise for you <trunc>d</trunc>dealt a card it happened to be on there that was it really</u>
+<u n="149" who="S0192"><unclear>it's just</unclear> terrible</u>
+<u n="150" who="S0227" trans="overlap">it happens sometimes don't worry about it</u>
+<u n="151" who="S0192">it was the <trunc>stro</trunc> I was giving her cos it was the strongest character <unclear>remaining</unclear></u>
+<u n="152" who="S0227" trans="overlap">yes</u>
+<u n="153" who="S0192">I thought you played it all well it made for an interesting recording</u>
+<u n="154" who="S0227">yeah</u>
+<u n="155" who="S0192">it was about three and a half hours</u>
+<u n="156" who="S0227">oh yeah probably yeah well you don't listen back to these things do you?</u>
+<u n="157" who="S0192">I have to yeah</u>
+<u n="158" who="S0227">oh right so</u>
+<u n="159" who="S0192" trans="overlap">I have to go back and just</u>
+<u n="160" who="S0227" trans="overlap">what edit it if necessary</u>
+<u n="161" who="S0192" trans="overlap">edit it if there's any big gaps of silence or any too loud noise or anything like that</u>
+<u n="162" who="S0227" trans="overlap">oh <trunc>ri</trunc> oh right er profanity?</u>
+<u n="163" who="S0192" trans="overlap">and I think yeah I think you turned on the TV at one point so</u>
+<u n="164" who="S0227" trans="overlap">oh right</u>
+<u n="165" who="S0192" trans="overlap">like and you and <anon type="name" nameType="m"/> weren't talking so I had to go back and just cut it cut that out</u>
+<u n="166" who="S0227" trans="overlap">right</u>
+<u n="167" who="S0192">I think profanity's okay</u>
+<u n="168" who="S0227">right</u>
+<u n="169" who="S0192">I mean they want natural conversation and people</u>
+<u n="170" who="S0227">yeah</u>
+<u n="171" who="S0192">swear so</u>
+<u n="172" who="S0227" trans="overlap">yeah well</u>
+<u n="173" who="S0192">I hope that's okay</u>
+<u n="174" who="S0227">well it's a dumbing down of the language other than a new it's not enriching any</u>
+<u n="175" who="S0192" trans="overlap">no of course but I mean people do that all the time when they use modifiers such as very <trunc>pe</trunc>people often say it's very hot instead of it's scorching</u>
+<u n="176" who="S0227">yeah</u>
+<u n="177" who="S0192" trans="overlap">which is a <trunc>dow</trunc> dumbing down of the language also</u>
+<u n="178" who="S0227" trans="overlap">yes yeah</u>
+<u n="179" who="S0192">it's very very common <pause dur="short"/> erm</u>
+<u n="180" who="S0227">I was watching I <trunc>th</trunc> erm the erm Game of Thrones at <trunc>th</trunc><trunc>th</trunc>the erm <pause dur="short"/> <event desc="sound of car"/> oh she's died <pause dur="short"/> <event desc="sound of ignition"/> erm</u>
+<u n="181" who="S0192" trans="overlap">what's that?</u>
+<u n="182" who="S0227">I I slowed down <trunc>t</trunc> sometimes if I slow down fast the thing stalls</u>
+<u n="183" who="S0192">oh</u>
+<u n="184" who="S0227">I could've bump started it but I didn't <unclear>want to here</unclear></u>
+<u n="185" who="S0192" trans="overlap">no</u>
+<u n="186" who="S0227" trans="overlap"><unclear>cos there was cos there was</unclear> a change in surface there there was a ramp</u>
+<u n="187" who="S0192">this road's recently been done</u>
+<u n="188" who="S0227" trans="overlap">yeah <trunc>th</trunc>they've no they've scraped off the top with</u>
+<u n="189" who="S0192" trans="overlap">the surface</u>
+<u n="190" who="S0227" trans="overlap">hence the metal covers and everything look high</u>
+<u n="191" who="S0192">yeah</u>
+<u n="192" who="S0227" trans="overlap">they're that the correct level and they've gotta take it back to it erm <pause dur="short"/></u>
+<u n="193" who="S0192">Game of Thrones</u>
+<u n="194" who="S0227" trans="overlap">the Game of Thrones erm trial <pause dur="short"/> the way erm the actor who plays Tyrion Lannister speaks</u>
+<u n="195" who="S0192">Peter Dinklage</u>
+<u n="196" who="S0227">you would yes you would think he was English and quite well spoken he's not he's American</u>
+<u n="197" who="S0192">yeah</u>
+<u n="198" who="S0227">he's got a very good English accent</u>
+<u n="199" who="S0192">yeah</u>
+<u n="200" who="S0227">good enough to fool me I thought he was English</u>
+<u n="201" who="S0192">no yeah me too</u>
+<u n="202" who="S0227">and and like you said English well spoken English he drop <trunc>h</trunc>he doesn't drop his aitches <trunc>re</trunc> erm pronounces his tees and all er he completes his words</u>
+<u n="203" who="S0192">yeah <pause dur="short"/> which a lot of us don't do</u>
+<u n="204" who="S0227" trans="overlap">very no so erm he erm speaks very English very well <pause dur="short"/> and erm especially for an American there's no accent that I can detect</u>
+<u n="205" who="S0192" trans="overlap">yeah discern</u>
+<u n="206" who="S0227">at all <pause dur="short"/></u>
+<u n="207" who="S0192">yeah he's quite good that guy</u>
+<u n="208" who="S0227">yeah he is he is good yeah</u>
+<u n="209" who="S0192">he's in the new X-Men film as well</u>
+<u n="210" who="S0227" trans="overlap">yes I I hear he is yeah</u>
+<u n="211" who="S0192" trans="overlap">I haven't seen it</u>
+<u n="212" who="S0227" trans="overlap">I haven't seen that either no</u>
+<u n="213" who="S0192" trans="overlap"><unclear/> I heard <pause dur="short"/> what's for dinner tonight then dad do you know?</u>
+<u n="214" who="S0227">pass I don't I'm hungry actually I've been hungry for about the last couple of hours</u>
+<u n="215" who="S0192">mm is <anon type="name" nameType="f"/> making it?</u>
+<u n="216" who="S0227">yeah she'll be making it tonight I don't think I'll be cooking it tonight I made ratatouille last night which was quite nice <unclear/></u>
+<u n="217" who="S0192" trans="overlap">what is ratatouille?</u>
+<u n="218" who="S0227">It's a French erm dish I haven't actually had it since I was at <trunc>s</trunc> at at home and going back there as a man and getting it from erm Marks and Spencers</u>
+<u n="219" who="S0192">yeah</u>
+<u n="220" who="S0227">it's erm it's got aubergines in I'm not a great lover of aubergines and we didn't have any handy so I didn't use those <trunc>courge</trunc>courgettes onion tomato garlic basil peppers</u>
+<u n="221" who="S0192">you're using all the English words</u>
+<u n="222" who="S0227">yes</u>
+<u n="223" who="S0192" trans="overlap">where's the basil and the</u>
+<u n="224" who="S0227" trans="overlap">yes no basil</u>
+<u n="225" who="S0192" trans="overlap">and the zucchini and the eggplant</u>
+<u n="226" who="S0227" trans="overlap">zucchini yes no basil</u>
+<u n="227" who="S0192"><vocal desc="laugh"/></u>
+<u n="228" who="S0227">erm <pause dur="short"/> all these things erm I can grow myself I've apart from courgettes which I will grow next <trunc>y</trunc>year so all the ingredients bar the erm the basil and the erm zucchini or er the courgette erm I <trunc>s</trunc> was grown from the garden next year the courgette</u>
+<u n="229" who="S0192">will also</u>
+<u n="230" who="S0227" trans="overlap">and the basil will also be I do grow basil</u>
+<u n="231" who="S0192" trans="overlap">that's pretty good isn't it?</u>
+<u n="232" who="S0227" trans="overlap">but I've never grown courgettes before</u>
+<u n="233" who="S0192">do you find it tastes better?</u>
+<u n="234" who="S0227">than</u>
+<u n="235" who="S0192">than shop-bought produce?</u>
+<u n="236" who="S0227" trans="overlap"><trunc>w</trunc>what if you yeah yeah yes yeah</u>
+<u n="237" who="S0192" trans="overlap">it does</u>
+<u n="238" who="S0227">erm yeah it's nice if you throw some <unclear>in that's quite good</unclear></u>
+<u n="239" who="S0192">mm good stuff</u>
+<u n="240" who="S0227">so yeah <anon type="name" nameType="f"/> should be cooking tonight</u>
+<u n="241" who="S0192">can I take a collection of erm <pause dur="short"/> kaffir limes obviously when you bring them up?</u>
+<u n="242" who="S0227">I'll bring them down er when</u>
+<u n="243" who="S0192" trans="overlap">yeah</u>
+<u n="244" who="S0227">I'll put them in a cool box in a bag you'll have to then put that bag in to the erm</u>
+<u n="245" who="S0192">freezer</u>
+<u n="246" who="S0227">in to the freezer</u>
+<u n="247" who="S0192">yeah I will do that'll be great <pause dur="short"/> and you've got a lemon grass for me and my cacti cactus</u>
+<u n="248" who="S0227" trans="overlap">yes the other lemon grass is is starting to grow but <trunc>i</trunc><trunc>i</trunc>it's too soon to be taking it</u>
+<u n="249" who="S0192" trans="overlap">no yeah</u>
+<u n="250" who="S0227" trans="overlap">but you'll see you might see a difference in it that even over a few days it's it's done something</u>
+<u n="251" who="S0192" trans="overlap">starting to root</u>
+<u n="252" who="S0227" trans="overlap">I it's shown me that it's doing it it's getting it it looks like it's got potential to take it can still die</u>
+<u n="253" who="S0192">yeah</u>
+<u n="254" who="S0227">but it it has actually started to do something where normally if they're not gonna do if they're gonna die they don't they're already dead and they're not doing anything</u>
+<u n="255" who="S0192">yeah</u>
+<u n="256" who="S0227"><trunc>s</trunc> I've only had one <trunc>l</trunc>loss where it started to do something and then I it didn't work</u>
+<u n="257" who="S0192" trans="overlap">and then it didn't no</u>
+<u n="258" who="S0227">no</u>
+<u n="259" who="S0192">fingers crossed it'll be alright then</u>
+<u n="260" who="S0227">yeah</u>
+<u n="261" who="S0192" trans="overlap">do you do that every time then you buy three and you pot one</u>
+<u n="262" who="S0227">yes I put one in the two in the pot and one or two aside depending on I might just use one stick</u>
+<u n="263" who="S0192">yeah</u>
+<u n="264" who="S0227">and put them to see if I can grow them</u>
+<u n="265" who="S0192">that's good</u>
+<u n="266" who="S0227">I get quite a high success rate but it's also time of year as well I wouldn't trying growing one in winter not enough light</u>
+<u n="267" who="S0192">yeah I feel like summer's royally over isn't it it's just</u>
+<u n="268" who="S0227" trans="overlap">yeah it does give that impression yeah</u>
+<u n="269" who="S0192" trans="overlap">it's just getting the weather's just gonna get colder and wetter and darker and</u>
+<u n="270" who="S0227" trans="overlap">yes you you've got that to come</u>
+<u n="271" who="S0192">feel like yeah I can look forward to the nice weather next year</u>
+<u n="272" who="S0227" trans="overlap">yeah well hopefully we'll get some summer but erm</u>
+<u n="273" who="S0192" trans="overlap">no guarantee</u>
+<u n="274" who="S0227">your course</u>
+<u n="275" who="S0192" trans="overlap"><unclear>we've already had a summer haven't we</unclear></u>
+<u n="276" who="S0227">yeah your course finishes in September is that right?</u>
+<u n="277" who="S0192">of the following year yeah</u>
+<u n="278" who="S0227">yes so you got basically it's <pause dur="short"/> you got a year from now</u>
+<u n="279" who="S0192">yeah</u>
+<u n="280" who="S0227" trans="overlap"><unclear>at worst we're worst</unclear> in September</u>
+<u n="281" who="S0192">but I mean come May I'll have actually finished with my tuition it'll simply be erm me working on my dissertation my thesis</u>
+<u n="282" who="S0227">right</u>
+<u n="283" who="S0192">up until September so I've got like four months pretty much</u>
+<u n="284" who="S0227" trans="overlap">right right</u>
+<u n="285" who="S0192" trans="overlap">May June July August yeah four months where I could potentially enjoy the summer provided I'm on top of my my dissertation</u>
+<u n="286" who="S0227" trans="overlap"><unclear/> yeah <pause dur="short"/> what's <anon type="name" nameType="m"/> been doing?</u>
+<u n="287" who="S0192">waking up late playing on his computer chatting to his missus <pause dur="short"/> he's cooked with me a couple of times and we've like eaten <pause dur="short"/></u>
+<u n="288" who="S0227">ah he said he could've got himself he said he could've</u>
+<u n="289" who="S0192" trans="overlap">not too much</u>
+<u n="290" who="S0227" trans="overlap">tried <unclear>to sell</unclear> himself to a job but I thought well I'm not gonna interfere</u>
+<u n="291" who="S0192">I think he said he tried it's just that they just didn't have work for him or something so <pause dur="short"/> don't know how hard he tried</u>
+<u n="292" who="S0227">no I think that he's willing to go a little bit but for <unclear/> not not really apply himself but <pause dur="short"/> I'm sure he's costed this all out and he will strap himself to a debt</u>
+<u n="293" who="S0192">yeah</u>
+<u n="294" who="S0227">he'll transfer a little money in September mum has helped him I said don't expect mum to be doing the same because she's helped you in a different way</u>
+<u n="295" who="S0192">yeah</u>
+<u n="296" who="S0227">but I didn't want him to try and make a comparison that cos I've given him money she should I said no erm you moved back in that was her way of helping you it helped her too but it helped you so I don't erm</u>
+<u n="297" who="S0192" trans="overlap">I can't say it helped her that much I mean maybe someone to babysit for <anon type="name" nameType="m"/> but</u>
+<u n="298" who="S0227" trans="overlap">babysit yes <trunc>th</trunc>that's it that's to the extent</u>
+<u n="299" who="S0192" trans="overlap">which is free pretty often</u>
+<u n="300" who="S0227">yes</u>
+<u n="301" who="S0192">erm</u>
+<u n="302" who="S0227">that's that's the help for her but</u>
+<u n="303" who="S0192" trans="overlap">his rent's ridiculously low</u>
+<u n="304" who="S0227">yes</u>
+<u n="305" who="S0192">it's a hundred pounds a month</u>
+<u n="306" who="S0227">yes</u>
+<u n="307" who="S0192">probably doesn't even cover</u>
+<u n="308" who="S0227"><trunc>h</trunc>he did when he first erm erm the last year of his payment well it was supposed to end at eighteen but she had one of her her well-meaning friends informed her that erm I should actually have to pay until he was nineteen cos he was going in to further education</u>
+<u n="309" who="S0192">yeah</u>
+<u n="310" who="S0227">I didn't know this at the time so I said well I'll get back to you on that one so I rang back and said you appear to be correct I then did something that was cheeky and I knew that by how quick she responded er I I knew that she was it was a <trunc>t</trunc> it <trunc>i</trunc> <trunc>w</trunc> a lot of what she was saying was tongue-in-cheek with that thing because although it was a legal thing she couldn't enforce <anon type="name" nameType="m"/> would have had to've if I refused point blank to pay it <anon type="name" nameType="m"/> would have to take me to court for it and</u>
+<u n="311" who="S0192">it's not gonna happen</u>
+<u n="312" who="S0227" trans="overlap">not many children would actually have done that</u>
+<u n="313" who="S0192">no</u>
+<u n="314" who="S0227">I knew that I knew that she probably knew that so I said as quick as a flash I said right you do appear to be right cos I stopped you know eighteen he's a man <unclear/> I said I wanna payment er I wanna payment break I don't wanna pay for the first month done she said and I thought the speed that you did that you knew you had you were <trunc>f</trunc> you were it was a bit tongue-in-cheek that you were gonna get anything anyway that if I'd just said no stick it up your arse you wouldn't have got anything but the fact that I said well okay er accepted but I'm gonna have one month off agreed with the alacrity that she responded I knew that er she had chanced her arm and I played along I then <pause dur="short"/> er erm seized the initiative and er probably to her angst said to <anon type="name" nameType="m"/> I'm going to give you the money because you have majority I've considered that you should be responsible for your own money I shouldn't be giving it to your mummy</u>
+<u n="315" who="S0192">I'm sure that fixed it</u>
+<u n="316" who="S0227">yeah I'm sure it did er he said well how much should I I pay her? I said that's between you <trunc>n</trunc> and your mother I said I can't <trunc>inf</trunc> I can't influence you in this regard I said <pause dur="short"/> the only advice I can give you is that if your an imbecile you'll give her all of it if you're very astute and cunning you'll give her nothing you will give her something in between I I couldn't manipulate the situation it was up for him and her to <trunc>de</trunc> to arrange</u>
+<u n="317" who="S0192" trans="overlap">how much was it that you were giving him?</u>
+<u n="318" who="S0227" trans="overlap">oh something like about a hundred and thirty?</u>
+<u n="319" who="S0192">a month</u>
+<u n="320" who="S0227" trans="overlap">hundred and forty a month? <pause dur="short"/> because it had been frozen in time I'd done a clever little erm thing when it first when I <trunc>f</trunc> cos we came out the CSA <trunc>th</trunc> idiots had had not erm had not been taking it from my account and paying her so I never realised a <trunc>tru</trunc> about four months later cos <trunc>y</trunc>you probably agree with me <trunc>th</trunc> in this when you study your bank account you study the money going in not the money going out</u>
+<u n="321" who="S0192">mm</u>
+<u n="322" who="S0227">but when it's on a direct debit you don't worry about it because it's set up</u>
+<u n="323" who="S0192">yeah</u>
+<u n="324" who="S0227">so I I was set up to pay the money <pause dur="short"/> it didn't it didn't erm it didn't happen erm it did initially and then erm for some reason the idiots <trunc>t</trunc> uncoupled it and it and <trunc>w</trunc> and <trunc>nev</trunc> and never happened I never <pause dur="short"/> noticed this and she didn't notice it for about three or four months always too <pause dur="short"/> frightened to ask for it that much I doubt very much so when's she's <unclear/> I haven't received anything <pause dur="short"/> er for about the last three or four months I said <pause dur="short"/> er she said are you aware? I said I don't really look at what's you know going out only what's coming in <pause dur="short"/> so I said let me make a check on that I'll get back to you so I got back to her and said <pause dur="short"/> you're right er it hasn't I said let me write a cheque cos <anon type="name" nameType="m"/> was coming over I said I'll write <anon type="name" nameType="m"/> a cheque he'll take it back with you when he comes back tonight tomorrow</u>
+<u n="325" who="S0192">yeah</u>
+<u n="326" who="S0227">so I did that and I said tell the CSA this is what I've done er I then got a call from them about a week later saying er er how do you fancy coming out of this arrangement? er I said well that depends on what <pause dur="short"/> your mother er she's quite happy for that I said fine we'll do it that way but I'd given her a false <trunc>imp</trunc> I'd given a false impression anyway because er when it came for the snapshot of the CSA er cos I knew your mum had set them on me erm I was doing all my overtimes but I wasn't claiming them</u>
+<u n="327" who="S0192">mm</u>
+<u n="328" who="S0227">so when it took a <trunc>sn</trunc> a photograph I knew it was a snapshot in time <pause dur="short"/> and they would work with the figures that were available to them once I knew they'd been in I then posthumously started claiming my overtimes <vocal desc="laugh"/></u>
+<u n="329" who="S0192">yeah</u>
+<u n="330" who="S0227"><vocal desc="laugh"/> well why shouldn't I? I <trunc>was</trunc> I wasn't the one who'd left her for someone else</u>
+<u n="331" who="S0192">no of course</u>
+<u n="332" who="S0227" trans="overlap">so I was vindicated in my own mind doing that now if I had've left her for someone else that would be a real bastard thing to do but erm the way I looked at it was erm you're getting rewarded for everything here you take my kids away from me and then er I have to pay you for a <unclear>bread</unclear> for each of you <vocal desc="laugh"/> so I'm going to manipulate it if I can and I did</u>
+<u n="333" who="S0192">yeah</u>
+<u n="334" who="S0227" trans="overlap">so that was that but so erm erm <anon type="name" nameType="m"/> negotiated a a rate with her that's been paid <pause dur="short"/> but like I said I couldn't say to him no you should only pay ten pounds a month or some stupid arbitrary figure because it was down to them to <trunc>t</trunc><trunc>t</trunc>to thrash out not me er if I was making it if I was treating him like a man then he had to be a man <trunc>t</trunc><trunc>t</trunc>to resolve this with his mum not say oh dad what should I do how much should I pay but</u>
+<u n="335" who="S0192" trans="overlap">but he hasn't erm he hasn't had this since he was nineteen then I take it that stopped</u>
+<u n="336" who="S0227">no it ended</u>
+<u n="337" who="S0192">yeah</u>
+<u n="338" who="S0227">yes he <trunc>w</trunc>when it ended yeah it <trunc>y</trunc>yeah</u>
+<u n="339" who="S0192" trans="overlap">cos he's twenty-four now <unclear/></u>
+<u n="340" who="S0227">yeah <pause dur="short"/> so it ended at <trunc>a</trunc> on his nineteenth birthday but</u>
+<u n="341" who="S0192"><unclear>was it? yeah</unclear></u>
+<u n="342" who="S0227">job done but it was this little <trunc>wha</trunc> erm thing that obviously her one of her little friends had told her this thing I was I was a bit miffed cos I thought bloody hell he's eighteen years old he's a man why am I paying you</u>
+<u n="343" who="S0192"><vocal desc="laugh"/> we do that in our culture don't we once you get to eighteen you're out on your own after that it's not the same most of the world isn't the same</u>
+<u n="344" who="S0227" trans="overlap">yeah yeah but not if you're in further <trunc>ed</trunc> yeah but not if you're in further education he does it because if if he'd've been if if his <trunc>b</trunc>birthday had fallen a bit differently I'd've had to've paid it for another bloody year</u>
+<u n="345" who="S0192">yeah yeah</u>
+<u n="346" who="S0227" trans="overlap"><vocal desc="laugh"/> so I was going like what? but you</u>
+<u n="347" who="S0192" trans="overlap">in Korea the parents pay for uni pretty much for all like I'd say ninety percent of the people that go to uni and then <trunc>nine</trunc> about ninety percent of people go to uni</u>
+<u n="348" who="S0227" trans="overlap">yeah</u>
+<u n="349" who="S0192">so it's pretty high</u>
+<u n="350" who="S0227">I mean Italians erm <anon type="name" nameType="f"/>'s <anon type="name" nameType="f"/> was a benefactor of this erm in Italy not here the parents buy the children homes</u>
+<u n="351" who="S0192">yeah</u>
+<u n="352" who="S0227">how the hell can they afford that I no wonder they had to come to England to work</u>
+<u n="353" who="S0192">yeah</u>
+<u n="354" who="S0227" trans="overlap">to get money but yes he bought them homes in <trunc>It</trunc>Italy they're not worth nothing like they were here</u>
+<u n="355" who="S0192" trans="overlap">as cultures go</u>
+<u n="356" who="S0227">yeah</u>
+<u n="357" who="S0192">with regarding the independence of our children we're fairly cold I think</u>
+<u n="358" who="S0227" trans="overlap">yeah yeah</u>
+<u n="359" who="S0192">there's not too many cultures that er treat our children more independently</u>
+<u n="360" who="S0227" trans="overlap">no no no probably <unclear>not</unclear> probably <unclear/></u>
+<u n="361" who="S0192" trans="overlap">my students couldn't believe me when I told them that I was living on my own from like seventeen onwards</u>
+<u n="362" who="S0227">yes</u>
+<u n="363" who="S0192" trans="overlap">they're just like er? I don't believe you then</u>
+<u n="364" who="S0227">yes</u>
+<u n="365" who="S0192">I'm twenty-seven and I still live with my parents</u>
+<u n="366" who="S0227">yes</u>
+<u n="367" who="S0192">not</u>
+<u n="368" who="S0227">but I would imagine divorce is probably not as high there as it is here</u>
+<u n="369" who="S0192" trans="overlap">no it's swept under the carpet</u>
+<u n="370" who="S0227">yeah</u>
+<u n="371" who="S0192" trans="overlap">quite a lot yeah it does happen</u>
+<u n="372" who="S0227">I'm sure them their husbands have their concubines and stuff like that <unclear>probably for whenever</unclear></u>
+<u n="373" who="S0192" trans="overlap">yeah <vocal desc="yawn"/> a small harem</u>
+<u n="374" who="S0227">yeah <pause dur="short"/> well I've got <trunc>s</trunc> er stuff erm together for you erm for you</u>
+<u n="375" who="S0192" trans="overlap">cool so it's all ready to go</u>
+<u n="376" who="S0227">yeah so I'll have to pack <unclear>they're saying</unclear> it's not gonna be a problem for me to pack this <unclear/> the problem might be your bed but I'm hoping that</u>
+<u n="377" who="S0192">oh <anon type="name" nameType="m"/> will help</u>
+<u n="378" who="S0227" trans="overlap"><trunc>i</trunc>it it er oh yeah good god no I'm on about not picking that up cos I gotta get it out that garage</u>
+<u n="379" who="S0192">getting it in</u>
+<u n="380" who="S0227">but getting it in</u>
+<u n="381" who="S0192">yeah</u>
+<u n="382" who="S0227">it's two point one <trunc>f</trunc>five metres you said?</u>
+<u n="383" who="S0192">yeah</u>
+<u n="384" who="S0227">and I think the van which is the one I think I'm getting is two point three</u>
+<u n="385" who="S0192">yeah</u>
+<u n="386" who="S0227">even if it's tight it might be able to put it in at a a hypotenuse which means that it will fit but</u>
+<u n="387" who="S0192">well if you can't get it in you can't get it in we'll just have a mattress on the floor</u>
+<u n="388" who="S0227" trans="overlap">no but if we can't if we can't we've got everything else in that's for sure</u>
+<u n="389" who="S0192">yeah</u>
+<u n="390" who="S0227">everything else is in</u>
+<u n="391" who="S0192">good stuff <pause dur="short"/> er are we watching anything tonight?</u>
+<u n="392" who="S0227">er yeah something I <trunc>don</trunc> that what I don't honestly know yet I'll have to see what <unclear/></u>
+<u n="393" who="S0192" trans="overlap">you got any better films than that last one you showed me?</u>
+<u n="394" who="S0227">what was that?</u>
+<u n="395" who="S0192"><vocal desc="laugh"/> the Arnold Schwarzenegger and Sylvester Stallone one</u>
+<u n="396" who="S0227" trans="overlap">oh I didn't find <trunc>th</trunc><trunc>th</trunc>that wasn't a <trunc>g</trunc></u>
+<u n="397" who="S0192" trans="overlap">it was okay</u>
+<u n="398" who="S0227" trans="overlap">reasonable action film</u>
+<u n="399" who="S0192">but I'm not really in to action films so much</u>
+<u n="400" who="S0227" trans="overlap">no I've got I've got</u>
+<u n="401" who="S0192" trans="overlap">if you've got any more of a thinking film then</u>
+<u n="402" who="S0227" trans="overlap">well I've got Twelve Years A Slave if you want to watch that?</u>
+<u n="403" who="S0192">yeah I mean I've heard it's good yeah</u>
+<u n="404" who="S0227" trans="overlap">yeah well it won a few Oscars</u>
+<u n="405" who="S0192">yeah how long is it?</u>
+<u n="406" who="S0227">it's probably about two and a half hours</u>
+<u n="407" who="S0192" trans="overlap">probably like two and a half hour three hour <unclear/></u>
+<u n="408" who="S0227" trans="overlap">no it's not three hours <unclear/></u>
+<u n="409" who="S0192">films seem to be <trunc>g</trunc> longer nowadays <unclear>consistently</unclear></u>
+<u n="410" who="S0227" trans="overlap">yeah they're trying to compress twelve years in to</u>
+<u n="411" who="S0192">yeah yeah</u>
+<u n="412" who="S0227" trans="overlap">in to a timescale</u>
+<u n="413" who="S0192"><pause dur="short"/> could just turn it in to a series</u>
+<u n="414" who="S0227">yeah <pause dur="short"/> it wasn't a bad film</u>
+<u n="415" who="S0192">yeah anything just maybe a bit less action</u>
+<u n="416" who="S0227" trans="overlap">yeah you've seen Elysium</u>
+<u n="417" who="S0192">I like action but not like <unclear>just yes</unclear> all out action</u>
+<u n="418" who="S0227" trans="overlap">you've seen Elysium and you've seen World War Z so</u>
+<u n="419" who="S0192">I haven't seen Elysium</u>
+<u n="420" who="S0227">I thought you had</u>
+<u n="421" who="S0192">no is that where Matt Damon's in a suit or something?</u>
+<u n="422" who="S0227" trans="overlap">yeah yeah</u>
+<u n="423" who="S0192">no I haven't seen that</u>
+<u n="424" who="S0227">well I've got that if you want to watch that</u>
+<u n="425" who="S0192">yeah ah maybe I quite like sci-fi films so</u>
+<u n="426" who="S0227">yeah that's a sci-fi film</u>
+<u n="427" who="S0192">erm yeah maybe that one might be a bit quicker than the other one</u>
+<u n="428" who="S0227">er <pause dur="short"/></u>
+<u n="429" who="S0192">or is it still two and a half hours?</u>
+<u n="430" who="S0227">er no it's probably not as long as that erm what was I gonna say to you?</u>
+<u n="431" who="S0192"><anon type="name" nameType="m"/> said he didn't like World War Z I didn't really like it either</u>
+<u n="432" who="S0227" trans="overlap">it <trunc>w</trunc> <trunc>d</trunc> I didn't mind it but the zombies were a lot more animated they er <trunc>w</trunc> <trunc>r</trunc> they were a bit like in <trunc>t</trunc> <trunc>d</trunc> er Twenty-Eight Days they were like</u>
+<u n="433" who="S0192" trans="overlap">yeah yeah yeah running around</u>
+<u n="434" who="S0227" trans="overlap"><unclear><trunc>t</trunc> if</unclear> zombies could run</u>
+<u n="435" who="S0192">I was so disappointed how dissimilar it was to the book</u>
+<u n="436" who="S0227">yeah</u>
+<u n="437" who="S0192">completely different they just destroyed the book basically why don't you just release the name <trunc>th</trunc>the film name under something entirely different</u>
+<u n="438" who="S0227" trans="overlap">yes</u>
+<u n="439" who="S0192">it's just cheeky just get all the people that liked the book to go and see the film and then be like well this has nothing to do with the book</u>
+<u n="440" who="S0227" trans="overlap">oh dear yeah no did er</u>
+<u n="441" who="S0192" trans="overlap">literally had nothing to do with it</u>
+<u n="442" who="S0227">your <anon type="name" nameType="f"/>'s parents their van when are they <trunc>c</trunc> going down to</u>
+<u n="443" who="S0192">tomorrow</u>
+<u n="444" who="S0227">oh right <trunc>th</trunc><trunc>th</trunc>that could be a blessing in <unclear>disguise so</unclear> you're getting the mattress</u>
+<u n="445" who="S0192">yes</u>
+<u n="446" who="S0227">right <unclear/></u>
+<u n="447" who="S0192" trans="overlap">mattress sofa-bed erm washing machine</u>
+<u n="448" who="S0227" trans="overlap">Longmarsh <trunc>th</trunc><trunc>th</trunc> I'll always remember that that make of vehicle</u>
+<u n="449" who="S0192">why's that?</u>
+<u n="450" who="S0227">because er I was saying to <anon type="name" nameType="m"/> but I couldn't remember it ah I said that erm he couldn't hardly he could only slightly remember it I said that erm cos you were bouncing around and I said that erm it was erm why I remember it is because <trunc>w</trunc><trunc>w</trunc><trunc>w</trunc> I said do you remember that you're getting me and <anon type="name" nameType="m"/> do you remember <anon type="name" nameType="m"/>?</u>
+<u n="451" who="S0192">mm</u>
+<u n="452" who="S0227">to eat those your bitter lemon sweets and more than one and <unclear>putting them in our mouths</unclear> as we were driving down there and it was really bitter and I said and also <trunc>w</trunc>we a pigeon hit the windshield and obviously died and you had a print of where it got hit he goes I do <trunc>re</trunc> vaguely remember that I said yes I said I have a bit of a bad memory around it because we went and I said maybe mum might have too I said because we went down to your nan's at Devon <trunc>a</trunc>and <anon type="name" nameType="m"/> came with us</u>
+<u n="453" who="S0192">mm</u>
+<u n="454" who="S0227" trans="overlap">there was just us three but she couldn't <trunc>c</trunc> go you were you'd gone you'd gone somewhere you were staying somewhere you were out of the house I said she said that she had to go to work at <anon type="place"/> which obviously <trunc>w</trunc>when I realised later was a lie it was like ah here's a window of opportunity <trunc>f</trunc>for <anon type="name" nameType="m"/> to come round</u>
+<u n="455" who="S0192">mm</u>
+<u n="456" who="S0227">and I'd taken <anon type="name" nameType="m"/> with me I said but I wonder if <trunc>obv</trunc>obviously ah nan er mum didn't have much more <trunc>r</trunc> mileage left after that <trunc>w</trunc> if she'd regretted not going down that time rather than having a bit of hanky-panky with <anon type="name" nameType="m"/></u>
+<u n="457" who="S0192" trans="overlap">mm</u>
+<u n="458" who="S0227">while I'm going down to get her furniture for her <vocal desc="laugh"/></u>
+<u n="459" who="S0192"><vocal desc="laugh"/></u>
+<u n="460" who="S0227" trans="overlap">bloody <unclear/> I was completely none the none the wiser</u>
+<u n="461" who="S0192" trans="overlap">none the wiser</u>
+<u n="462" who="S0227" trans="overlap">you know so it was a like erm er and it was a Longmarsh was the name of the <trunc>c</trunc> hire company that I used to hire the vehicle</u>
+<u n="463" who="S0192">which is why that's</u>
+<u n="464" who="S0227" trans="overlap">so <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> said yeah I'll come down see my dad and I'll you know I'm going <trunc>w</trunc>we're getting all this furniture there was a settee and stuff like that and she said oh I <trunc>c</trunc> I can't come cos er I've got some work so I said <unclear>fine</unclear> not a problem <unclear>oh you know</unclear> <anon type="name" nameType="m"/> will come with us and we'll stay the night as we did and it was a it was a perfect</u>
+<u n="465" who="S0192">yeah alibi <vocal desc="laugh"/></u>
+<u n="466" who="S0227" trans="overlap">yeah it was engineered for that I didn't know it at the time but er</u>
+<u n="467" who="S0192" trans="overlap">terrible</u>
+<u n="468" who="S0227">yeah</u>
+<u n="469" who="S0192"><unclear/> good</u>
+<u n="470" who="S0227">but <unclear>he mention</unclear> remember things like the Longmarsh hire hire company</u>
+<u n="471" who="S0192" trans="overlap">yeah things stick out in your memory don't they <pause dur="long"/> do we open this thing out?</u>
+<u n="472" who="S0227">yeah you just <unclear/></u>
+<u n="473" who="S0192" trans="overlap">I do need my stuff in I'll have to stick it back in in the</u>
+<u n="474" who="S0227" trans="overlap">yes you've gotta grab that down tomorrow</u>
+<u n="475" who="S0192">yep yep yep <pause dur="short"/></u>
+<u n="476" who="S0227">if you can once you're there see if there's what the <trunc>park</trunc> well you're gonna know what the parking's like cos to try and get this van the first van there</u>
+<u n="477" who="S0192" trans="overlap">yeah er I'm gonna have to have a look around on Friday see what I can</u>
+<u n="478" who="S0227">so <trunc>th</trunc>the van's coming over tomorrow?</u>
+<u n="479" who="S0192">yeah that one's really heavy dad I'll grab it that's my lunch for tomorrow</u>
+<u n="480" who="S0227">oh right</u>
+	
+	</body>
+</text>

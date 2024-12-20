@@ -1,0 +1,518 @@
+<text id="SJ2E">
+	<header>
+		<rec_length>0:20:53</rec_length>
+		<rec_date>2016-01-12</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>3</n_speakers>
+		<list_speakers>S0653 S0654 S0655</list_speakers>
+		<rec_loc>Home kitchen, Comberton</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Gingerbread, Assembly, day trips out, tap dancing</topics>
+		<activity>Family talking about school assembly and day trips out</activity>
+		<conv_type>Discussing, explaining, anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T04</transcriber>
+		<speakerInfo>
+			<speaker id="S0653">
+				<exactage>39</exactage>
+				<age1994>35_44</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Dartford, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0654">
+				<exactage>7</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Norwich</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>1_primary</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0655">
+				<exactage>9</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bury St Edmunds</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>1_primary</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0653">I'm your bestie</u>
+<u n="2" who="S0654">mummy is my best mummy is the best</u>
+<u n="3" who="S0653" trans="overlap">there you go</u>
+<u n="4" who="S0654">mummy is the best best best friend <shift new="singing"/> yeah <shift new="normal"/> mama</u>
+<u n="5" who="S0655"><unclear/> of the lights upstairs</u>
+<u n="6" who="S0653"><anon type="name" nameType="m"/> just come and have breakfast</u>
+<u n="7" who="S0654" trans="overlap">you're the best mum in the whole entire universe <unclear>the best in</unclear> the world dib dab dum and all the world da and all the universe and you are amazing and are some huh</u>
+<u n="8" who="S0653">thank you</u>
+<u n="9" who="S0654">thank you</u>
+<u n="10" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="11" who="S0653">you're pretty good yourself you know?</u>
+<u n="12" who="S0654">do you think? <pause dur="short"/> I can have gingerbread in my lunchbox</u>
+<u n="13" who="S0653">yes good idea</u>
+<u n="14" who="S0654">because I don't want it to go to waste</u>
+<u n="15" who="S0653">this bit?</u>
+<u n="16" who="S0654">yeah</u>
+<u n="17" who="S0653">yeah I know well I could try and freeze it but we do make ethically huge gingerbread things for your birthday</u>
+<u n="18" who="S0654">and <anon type="name" nameType="m"/> hasn't even tasted it <pause dur="short"/></u>
+<u n="19" who="S0653">what?</u>
+<u n="20" who="S0654">has <anon type="name" nameType="m"/> tasted it?</u>
+<u n="21" who="S0653">yeah</u>
+<u n="22" who="S0654">I want <anon type="name" nameType="m"/></u>
+<u n="23" who="S0653">I know but he's very poorly today you're gonna see him at the weekend though</u>
+<u n="24" who="S0654">yeah <pause dur="short"/></u>
+<u n="25" who="S0653">come on <anon type="name" nameType="m"/> <pause dur="short"/> eat your breakfast please <anon type="name" nameType="f"/></u>
+<u n="26" who="S0654">okay mummy</u>
+<u n="27" who="S0653">so we're gonna have to have an early tea and I guess drive to the village hall</u>
+<u n="28" who="S0654">yeah</u>
+<u n="29" who="S0653">for your first Brownies woo <pause dur="long"/> so have you done any more on any composers like Vaughan Williams at school?</u>
+<u n="30" who="S0654">no that was just a bit of music that we did</u>
+<u n="31" who="S0653" trans="overlap">oh okay <pause dur="short"/> how long do you think it's gonna take you to do the kinda <unclear>wren</unclear> model <anon type="name" nameType="m"/>?</u>
+<u n="32" who="S0655">erm about three weeks</u>
+<u n="33" who="S0653">about three weeks? oh that'll be good <pause dur="short"/></u>
+<u n="34" who="S0654"><anon type="name" nameType="m"/>?</u>
+<u n="35" who="S0655">yeah</u>
+<u n="36" who="S0654">I don't think you noticed but I put my hand up for the Lego models and I said really softly I builded an ice <trunc>pa</trunc> a Frozen ice palace and I said</u>
+<u n="37" who="S0653" trans="overlap">was this in assembly? what happened in assembly?</u>
+<u n="38" who="S0654">well she asked us what we what</u>
+<u n="39" who="S0653" trans="overlap">who the headteacher?</u>
+<u n="40" who="S0654">how many Lego the headteacher asked us how many people like Lego and and loads of people shot their hands up</u>
+<u n="41" who="S0653">yeah</u>
+<u n="42" who="S0654">and and I don't think you remember the but I <trunc>a</trunc> and I told the headteacher and</u>
+<u n="43" who="S0653">what did they ask how many? <vocal desc="sneeze"/></u>
+<u n="44" who="S0653">bless you</u>
+<u n="45" who="S0654">they asked them what the Lego models were</u>
+<u n="46" who="S0653" trans="overlap">what you'd made yeah</u>
+<u n="47" who="S0654">yeah</u>
+<u n="48" who="S0653">did you put your hand up <anon type="name" nameType="m"/>?</u>
+<u n="49" who="S0654">some put their hands</u>
+<u n="50" who="S0655" trans="overlap">yeah</u>
+<u n="51" who="S0653">yeah</u>
+<u n="52" who="S0654">you can say something</u>
+<u n="53" who="S0655">why do I have the chance to say something?</u>
+<u n="54" who="S0653">well who did speak and what did they say?</u>
+<u n="55" who="S0654" trans="overlap">I I spoke I spoke</u>
+<u n="56" who="S0653">what you did speak?</u>
+<u n="57" who="S0654">yeah</u>
+<u n="58" who="S0653">but you just said that they might not have heard you?</u>
+<u n="59" who="S0654">yeah <pause dur="short"/> I spoke and I said I ice palace</u>
+<u n="60" who="S0653">yeah what what else were people saying?</u>
+<u n="61" who="S0654">like a Lego house or</u>
+<u n="62" who="S0655" trans="overlap">a space station a Jedi starfighter</u>
+<u n="63" who="S0653">mm</u>
+<u n="64" who="S0655">it was mostly Star Wars Star Wars was basically the thing</u>
+<u n="65" who="S0653"><vocal desc="laugh"/></u>
+<u n="66" who="S0654">and someone even made a Lego house</u>
+<u n="67" who="S0653">what just of their own design?</u>
+<u n="68" who="S0654">I don't think so</u>
+<u n="69" who="S0653">oh</u>
+<u n="70" who="S0655">yeah I would probably have said either Poe Dameron's X-Wing Fighter</u>
+<u n="71" who="S0653">mm</u>
+<u n="72" who="S0655">or a Clone or the Clone Base or a Clone Base</u>
+<u n="73" who="S0653">do you want some gingerbread in your packed lunch?</u>
+<u n="74" who="S0654">yeah <pause dur="short"/> I wasn't <unclear/></u>
+<u n="75" who="S0653">has someone eaten their giant chocolate gold coin?</u>
+<u n="76" who="S0654">no</u>
+<u n="77" who="S0655">no</u>
+<u n="78" who="S0653">but there's only one there though</u>
+<u n="79" who="S0655"><unclear>I dunno then</unclear></u>
+<u n="80" who="S0653">well where's yours is yours in your secret stash</u>
+<u n="81" who="S0654">no</u>
+<u n="82" who="S0653">in your bedroom? no?</u>
+<u n="83" who="S0654"><unclear/></u>
+<u n="84" who="S0653">oh no it is here it's stuck to the bottom</u>
+<u n="85" who="S0654">mummy I know I I know why it is I was like mum I was like thinking mum it's stuck to the bottom</u>
+<u n="86" who="S0653"><vocal desc="laugh"/> <pause dur="short"/> would you like to choose your gingerbread for lunchtime <anon type="name" nameType="m"/>?</u>
+<u n="87" who="S0655" trans="overlap">erm</u>
+<u n="88" who="S0653">or shall I just put a bit in?</u>
+<u n="89" who="S0655">just put it in I don't really mind</u>
+<u n="90" who="S0654"><vocal desc="misc"/></u>
+<u n="91" who="S0653">do you want a a stained glass window?</u>
+<u n="92" who="S0654">mm mm</u>
+<u n="93" who="S0653">no?</u>
+<u n="94" who="S0654">no too much sugar</u>
+<u n="95" who="S0653">you guys haven't eaten the sugar mice yet either</u>
+<u n="96" who="S0655">no I had it I I had one from a party once and I didn't like it although <anon type="name" nameType="f"/> loved it</u>
+<u n="97" who="S0653">you've had one when?</u>
+<u n="98" who="S0655">I had one from a party but I didn't like it but <anon type="name" nameType="f"/> loved it she snaffled it in about a minute</u>
+<u n="99" who="S0653">well they might be different anyway <pause dur="short"/> shall I pop a sugar mice in your thing <anon type="name" nameType="f"/> or is that for later?</u>
+<u n="100" who="S0654">that's for later</u>
+<u n="101" who="S0653">okay</u>
+<u n="102" who="S0654">I think I'll have it at <unclear>four o'clock tea</unclear> as part of a <unclear/> tea</u>
+<u n="103" who="S0653">yeah <pause dur="short"/> and I bet <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> probably walk to the village hall for Brownies <unclear/></u>
+<u n="104" who="S0654"><unclear/></u>
+<u n="105" who="S0653">it is cold and dark and I and I would rather not do that I don't think</u>
+<u n="106" who="S0655">neither would I</u>
+<u n="107" who="S0653">especially the walk back <pause dur="long"/> I think the walk back is the worst bit right there's a little collection of Bear yoyo cards in your packed lunchbox <anon type="name" nameType="m"/></u>
+<u n="108" who="S0655">I've never had any</u>
+<u n="109" who="S0653">are you not are you not eating them for snacks are you?</u>
+<u n="110" who="S0655" trans="overlap">they were hidden and I couldn't find them at all</u>
+<u n="111" who="S0653">are you kidding there's three there did you not eat a snack yesterday?</u>
+<u n="112" who="S0655">no I couldn't find one</u>
+<u n="113" who="S0653">well do you know do you know how big your bag is? and how reasonably sized they are? come on you can definitely find them</u>
+<u n="114" who="S0655">okay</u>
+<u n="115" who="S0653">good grief</u>
+<u n="116" who="S0654">mm <vocal desc="gasp"/></u>
+<u n="117" who="S0653">stop that awful screeching</u>
+<u n="118" who="S0654">it's cute <anon type="name" nameType="m"/> likes it so I do it yeah end of story <pause dur="short"/></u>
+<u n="119" who="S0653">you think that's cute do you?</u>
+<u n="120" who="S0654">yeah</u>
+<u n="121" who="S0653">right</u>
+<u n="122" who="S0654"><vocal desc="gasp"/></u>
+<u n="123" who="S0653">don't forget your vitamin please thank you squeaker</u>
+<u n="124" who="S0654">I think <vocal desc="nonsense"/></u>
+<u n="125" who="S0653" trans="overlap">what would you like me to do with your Christmas chocolate should I put it away in a cupboard somewhere shall I leave it out there?</u>
+<u n="126" who="S0654">leave it</u>
+<u n="127" who="S0655">don't leave it out because then my friends will snaffle it</u>
+<u n="128" who="S0653">who will snaffle it?</u>
+<u n="129" who="S0655">my friends</u>
+<u n="130" who="S0653">your friends well no it's just there in the basket isn't it?</u>
+<u n="131" who="S0654">I think we should probably I probably should keep it there until my birthday and like put it in a cupboard somewhere so they don't get like jealous</u>
+<u n="132" who="S0653">say that again?</u>
+<u n="133" who="S0655"><anon type="name" nameType="m"/> is definitely gonna try and sneak some of it <unclear/></u>
+<u n="134" who="S0653">but <anon type="name" nameType="m"/> isn't really your friend so he's never gonna come around here is he?</u>
+<u n="135" who="S0654"><unclear/></u>
+<u n="136" who="S0655" trans="overlap">I'm inviting him to my party</u>
+<u n="137" who="S0653">the party in September you're talking about</u>
+<u n="138" who="S0655" trans="overlap">yeah</u>
+<u n="139" who="S0653">in nine months' time?</u>
+<u n="140" who="S0655">yeah to my party</u>
+<u n="141" who="S0653">well you should have eaten your Easter your Christmas chocolate by then</u>
+<u n="142" who="S0654"><anon type="name" nameType="m"/> please don't do <anon type="name" nameType="m"/> well if you do I'm gonna <trunc>t</trunc>to if well <anon type="name" nameType="m"/> wants me to do pranks on <anon type="name" nameType="m"/> like <unclear>chucking</unclear></u>
+<u n="143" who="S0655" trans="overlap">yeah</u>
+<u n="144" who="S0654"><unclear/> bombs water balloons and throwing water balloons at him</u>
+<u n="145" who="S0653"><vocal desc="laugh"/></u>
+<u n="146" who="S0655">yep</u>
+<u n="147" who="S0653">right <anon type="name" nameType="m"/> can you sit down at the table and finish your breakfast please? thank you Jack-in-the-box</u>
+<u n="148" who="S0654"><vocal desc="nonsense"/></u>
+<u n="149" who="S0653">good grief</u>
+<u n="150" who="S0654"><vocal desc="laugh"/> I'm making an L-shape <pause dur="short"/> <unclear/></u>
+<u n="151" who="S0653" trans="overlap">well before then you need to choose a a family day out that we're gonna do in the middle in between your birthdays don't you?</u>
+<u n="152" who="S0654"><unclear/> or <anon type="place"/> zoo</u>
+<u n="153" who="S0653">yeah but it's up to <anon type="name" nameType="m"/> isn't it?</u>
+<u n="154" who="S0654"><vocal desc="nonsense"/> <vocal desc="laugh"/></u>
+<u n="155" who="S0653">why have you put your tablet on your tongue? nice</u>
+<u n="156" who="S0654"><unclear/></u>
+<u n="157" who="S0655">oh you put your Kindle on your tongue wow</u>
+<u n="158" who="S0654"><vocal desc="laugh"/></u>
+<u n="159" who="S0653">mm well it's fallen down now so is there anywhere you would like to go somewhere new? shall I make it a magical mystery tour?</u>
+<u n="160" who="S0654"><vocal desc="nonsense"/></u>
+<u n="161" who="S0653">it could be water-based or theme park-based</u>
+<u n="162" who="S0654" trans="overlap">huh oh oh oh I want</u>
+<u n="163" who="S0655">what?</u>
+<u n="164" who="S0654">Legoland</u>
+<u n="165" who="S0653">or we could go to Legoland then</u>
+<u n="166" who="S0654" trans="overlap">yes mama that's where I wanted to to that's <unclear>what I wrote on</unclear> something I wanted to do for</u>
+<u n="167" who="S0653" trans="overlap">but I think</u>
+<u n="168" who="S0654" trans="overlap"><unclear/></u>
+<u n="169" who="S0653">there is you know that last year we went on a Friday because the school was closed on a random Friday?</u>
+<u n="170" who="S0654" trans="overlap">yeah</u>
+<u n="171" who="S0653">the same thing is happening this summer on a on in June so I I do honestly think we should wait to don't tap the table I think we should wait to go to Legoland in</u>
+<u n="172" who="S0654" trans="overlap">yeah cos I'm</u>
+<u n="173" who="S0653">the summer cos it was nice wasn't it?</u>
+<u n="174" who="S0654">yeah</u>
+<u n="175" who="S0653">quiet and it was sunny and warm</u>
+<u n="176" who="S0655">quiet?</u>
+<u n="177" who="S0653">it it was a very quiet day compared to like a normal day at Legoland yes</u>
+<u n="178" who="S0655"><unclear/></u>
+<u n="179" who="S0654" trans="overlap">although let's not go to the waterpark again</u>
+<u n="180" who="S0653">why?</u>
+<u n="181" who="S0654">because I thought I'd lost you</u>
+<u n="182" who="S0653">you thought you'd lost me? can you eat your breakfast both of you?</u>
+<u n="183" who="S0654">I've got a</u>
+<u n="184" who="S0653">what a tooth?</u>
+<u n="185" who="S0654">a vitamin</u>
+<u n="186" who="S0653">a vitamin you thought you'd lost us in the waterpark? when did that happen?</u>
+<u n="187" who="S0654">erm when I think it must have been <unclear/> and forgot I wasn't with you and then came back</u>
+<u n="188" who="S0653">in the waterpark?</u>
+<u n="189" who="S0654">oh wait that was when I went to the little waterpark and <unclear>decided</unclear> to come back to the other one but you weren't there</u>
+<u n="190" who="S0653">I don't remember that</u>
+<u n="191" who="S0654">and then you were coming down to see me and then I and then I had</u>
+<u n="192" who="S0653" trans="overlap">so you didn't lose we were still in the tiny tiny waterpark of Legoland and it's not like I'd left you and gone off trekking for a couple of miles before I realised you weren't there</u>
+<u n="193" who="S0654">like going to like Spain or <foreign lang="spa">Español</foreign> if I <unclear/> <pause dur="short"/></u>
+<u n="194" who="S0653">like going to Spain what?</u>
+<u n="195" who="S0654">like going to Spain or <foreign lang="spa">Español</foreign> <foreign lang="spa">Español</foreign> is Spain in Spanish</u>
+<u n="196" who="S0653">yes I know</u>
+<u n="197" who="S0655"><foreign lang="spa">Español</foreign></u>
+<u n="198" who="S0653"><vocal desc="laugh"/></u>
+<u n="199" who="S0654"><shift new="singing"/> la la la la <shift new="normal"/></u>
+<u n="200" who="S0655" trans="overlap"><foreign lang="spa">Español</foreign> <anon type="name" nameType="f"/> that's Spanish in Spanish</u>
+<u n="201" who="S0654"><vocal desc="nonsense"/></u>
+<u n="202" who="S0655"><foreign lang="spa">España</foreign></u>
+<u n="203" who="S0653" trans="overlap">you say I speak <foreign lang="spa">Español</foreign></u>
+<u n="204" who="S0654" trans="overlap">I speak <foreign lang="spa">Español</foreign></u>
+<u n="205" who="S0653">or my country is <foreign lang="spa">España</foreign></u>
+<u n="206" who="S0654"><foreign lang="spa">España</foreign></u>
+<u n="207" who="S0653">I think you know more Spanish than I do <anon type="name" nameType="m"/></u>
+<u n="208" who="S0654">I don't know that much Spanish to be fair</u>
+<u n="209" who="S0654"><shift new="singing"/> la la tres uno dos tres uno dos tres uno dos tres <shift new="normal"/></u>
+<u n="210" who="S0655" trans="overlap"><foreign lang="spa">cuatro cinco seis siete ocho nueve?</foreign></u>
+<u n="211" who="S0653">so what about at some point and this has to be warm the wilder wood cos we didn't go last year?</u>
+<u n="212" who="S0654">I'm quite scared of what if the boat falls over and you'll go in the water?</u>
+<u n="213" who="S0653">has the boat ever fallen over?</u>
+<u n="214" who="S0654">yeah</u>
+<u n="215" who="S0653">when?</u>
+<u n="216" who="S0654">well one of my friends at school said that when they went to wilder wood the boat the boat fell over and they weren't in</u>
+<u n="217" who="S0653">they totally did not that's a complete lie isn't it?</u>
+<u n="218" who="S0655">does it I think <unclear/> boat</u>
+<u n="219" who="S0653" trans="overlap">isn't it? that's you making that up</u>
+<u n="220" who="S0654">but not I'm do they actually sail on the water?</u>
+<u n="221" who="S0653">mm</u>
+<u n="222" who="S0654">or do they have like things <unclear/></u>
+<u n="223" who="S0653" trans="overlap">they don't <trunc>s</trunc> don't sail they've got a motor but the boats are never known to capsize but even if they did it's a tiny lake and and you can swim and I will be with you but the boat has never capsized ever</u>
+<u n="224" who="S0654" trans="overlap"><unclear/></u>
+<u n="225" who="S0653">alright well don't do the water bit then don't do the river bit the lake bit you could do everything else can't you?</u>
+<u n="226" who="S0654">but how do we get across without doing the river bit?</u>
+<u n="227" who="S0653">we just walk</u>
+<u n="228" who="S0654">mm?</u>
+<u n="229" who="S0653">you know we go from the boat to erm a place where you dock the boat and then on the way back we always walk? so you don't think that bit can be used the other way?</u>
+<u n="230" who="S0654">oh yeah</u>
+<u n="231" who="S0653">oh yeah</u>
+<u n="232" who="S0655">yeah</u>
+<u n="233" who="S0654">mummy I like the broken bridge bit it's got glass</u>
+<u n="234" who="S0653">so you like the bit where you climb over a very high up bridge where they look like they're gaps but you don't want to sit in a tiny boat for a bit?</u>
+<u n="235" who="S0654"><vocal desc="laugh"/></u>
+<u n="236" who="S0653">okay <vocal desc="laugh"/></u>
+<u n="237" who="S0654">yeah it's just I I'm</u>
+<u n="238" who="S0655">oh that that erm backslide was great</u>
+<u n="239" who="S0654">not for me I fell down</u>
+<u n="240" who="S0653">did you?</u>
+<u n="241" who="S0654">yeah do you remember?</u>
+<u n="242" who="S0655">oh yeah I think she <trunc>sho</trunc> she shot off the slide</u>
+<u n="243" who="S0653">mm</u>
+<u n="244" who="S0655">she was like wee ah smack</u>
+<u n="245" who="S0653">that can happen you've got ten minutes <trunc>be</trunc>before breakfast needs to be eaten</u>
+<u n="246" who="S0654">I didn't like it at all</u>
+<u n="247" who="S0653">the back I don't like the backslide</u>
+<u n="248" who="S0655">the breakfast or the backslide?</u>
+<u n="249" who="S0654">the backslide</u>
+<u n="250" who="S0655"><unclear>okay</unclear></u>
+<u n="251" who="S0653">what about this place you went can you remember the theme park fairground place that we went to with <anon type="name" nameType="m"/>? was that for your birthday or just before your birthday?</u>
+<u n="252" who="S0655">I can't remember what it's called</u>
+<u n="253" who="S0654">I can't remember that one either</u>
+<u n="254" who="S0653">Wicksteed that's it</u>
+<u n="255" who="S0654">no just we <unclear/> some holidays</u>
+<u n="256" who="S0653">mm</u>
+<u n="257" who="S0655">oh yeah</u>
+<u n="258" who="S0653">that was quite fun</u>
+<u n="259" who="S0655">Wicksteed Park oh I liked that</u>
+<u n="260" who="S0654">I can't remember the park I can't remember much</u>
+<u n="261" who="S0653">we should go to back to Dry erm I always say Dry Drayton Drayton Manor which had the Thomas Land but also had the other bits as well</u>
+<u n="262" who="S0654">yeah that was quite nice</u>
+<u n="263" who="S0655">and strong force ten</u>
+<u n="264" who="S0653">mm</u>
+<u n="265" who="S0654">what's storm force?</u>
+<u n="266" who="S0653" trans="overlap">that's a Ben ten thing isn't it?</u>
+<u n="267" who="S0655">no strong force ten</u>
+<u n="268" who="S0654">what is strong force?</u>
+<u n="269" who="S0655">it's a humungous waterslide and it's really really big and you need to have waterproof stuff</u>
+<u n="270" who="S0653" trans="overlap">yeah</u>
+<u n="271" who="S0655">and and</u>
+<u n="272" who="S0653" trans="overlap">or go on a boiling hot day</u>
+<u n="273" who="S0654"><unclear/></u>
+<u n="274" who="S0655" trans="overlap">yeah and then you get into a big erm and you get into a big erm floating thing</u>
+<u n="275" who="S0653">mm</u>
+<u n="276" who="S0655">and then it's just and then you shoot down a kind of waterfall thing it's not a waterfall thing cos it's actually in the air it does have posts and sticking them up they're not and there's not much of them and then you go up and then you shoot into another thing that stops you and then you shoot down and go backwards</u>
+<u n="277" who="S0653" trans="overlap">mm</u>
+<u n="278" who="S0655">and then you go down and it real and then you go down super super super super super super super fast and then it ends</u>
+<u n="279" who="S0653">and then it ends</u>
+<u n="280" who="S0654">I don't want to do that is it with water splashing you?</u>
+<u n="281" who="S0655">erm well you are on a water thing so it's gonna be wet</u>
+<u n="282" who="S0653">you would get wet yeah</u>
+<u n="283" who="S0654">no way</u>
+<u n="284" who="S0653">no?</u>
+<u n="285" who="S0655">I didn't get very wet</u>
+<u n="286" who="S0653">there was one you could get wet in at Legoland wasn't there?</u>
+<u n="287" who="S0654">yeah</u>
+<u n="288" who="S0655">the log slide I think</u>
+<u n="289" who="S0654">yeah we went on something with <anon type="name" nameType="m"/> at Gulliver's</u>
+<u n="290" who="S0655">yeah</u>
+<u n="291" who="S0653" trans="overlap">this is one you've been to with dad? Gulliver's what is it Gulliver's Travels or something?</u>
+<u n="292" who="S0654">Gulliver's</u>
+<u n="293" who="S0653">mm</u>
+<u n="294" who="S0654">it's a theme park</u>
+<u n="295" who="S0653">mm</u>
+<u n="296" who="S0654">and there was this like water balloon and it was really real and I was wearing a summer dress</u>
+<u n="297" who="S0653">mm</u>
+<u n="298" who="S0654">and I got soaked</u>
+<u n="299" who="S0653">you see that was alright so it's nothing to do with Gulliver the story Gulliver it's just called Gulliver's?</u>
+<u n="300" who="S0654" trans="overlap">yeah</u>
+<u n="301" who="S0653">or has it got big things and little things?</u>
+<u n="302" who="S0654">it's got big things cos like and it there's something that you can go in and it has got a bit a picture of Gulliver with loads of like little</u>
+<u n="303" who="S0653">Lilliputians?</u>
+<u n="304" who="S0654">yeah</u>
+<u n="305" who="S0653">oh okay so it is based on <unclear/></u>
+<u n="306" who="S0654" trans="overlap">and dad took</u>
+<u n="307" who="S0655" trans="overlap">yeah although <unclear/> Gulliver <unclear/></u>
+<u n="308" who="S0654">and dad told me oh he and dad told me he weed Gulliver Gulliver he weed on the fire</u>
+<u n="309" who="S0653">what?</u>
+<u n="310" who="S0654">daddy told me that Gulliver weed on the fire</u>
+<u n="311" who="S0653"><vocal desc="laugh"/> and what happened?</u>
+<u n="312" who="S0654">it went out</u>
+<u n="313" who="S0655" trans="overlap">it went out</u>
+<u n="314" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="315" who="S0653">that's a useful tip</u>
+<u n="316" who="S0655" trans="overlap">and that that was on the small guys</u>
+<u n="317" who="S0653">okay</u>
+<u n="318" who="S0654">mummy there's this like thing which is like really huge and lots of really huge things</u>
+<u n="319" who="S0653">mm</u>
+<u n="320" who="S0654">and it's like you're a mouse and you're running around</u>
+<u n="321" who="S0653">in the land of giants?</u>
+<u n="322" who="S0654">you're in a house of a giant and there's a and there's this like cat</u>
+<u n="323" who="S0653">mm</u>
+<u n="324" who="S0654">not a real one and it and it pretends to swipe at you</u>
+<u n="325" who="S0653">yeah</u>
+<u n="326" who="S0654">so it's like you're here and the cat's here and it goes <unclear/> it's really and it's really fun</u>
+<u n="327" who="S0655">but anyway <anon type="name" nameType="f"/> found out she liked a rollercoaster she likes rollercoasters there</u>
+<u n="328" who="S0654">and there's also this python thing</u>
+<u n="329" who="S0655">yeah it's called the python and it's</u>
+<u n="330" who="S0653" trans="overlap">okay</u>
+<u n="331" who="S0655">a rollercoaster and it's really cool</u>
+<u n="332" who="S0653">mm</u>
+<u n="333" who="S0655">and it's really</u>
+<u n="334" who="S0654" trans="overlap">and it's small it makes your tummy flip it's really funny</u>
+<u n="335" who="S0653">oh I wouldn't like that</u>
+<u n="336" who="S0655">and this if you're sitting at the front it doesn't happen</u>
+<u n="337" who="S0653">really?</u>
+<u n="338" who="S0655">yeah but you're sitting down and I think you climb up and then you shoot down and if you're not sitting very near to the front your stomach really starts to go flip</u>
+<u n="339" who="S0653">oh I wouldn't like that at all</u>
+<u n="340" who="S0654" trans="overlap">I really like that bit when it flips</u>
+<u n="341" who="S0653">yikes</u>
+<u n="342" who="S0655">like <unclear>squeezes in</unclear></u>
+<u n="343" who="S0654">and mama</u>
+<u n="344" who="S0655">and it flips</u>
+<u n="345" who="S0653"><anon type="name" nameType="f"/></u>
+<u n="346" who="S0654">they're adding a new bit to it</u>
+<u n="347" who="S0653">are they?</u>
+<u n="348" who="S0654">it's dodgem cars in water</u>
+<u n="349" who="S0653">oh dodge dodgem cars in water?</u>
+<u n="350" who="S0654">yeah</u>
+<u n="351" who="S0653">oh</u>
+<u n="352" who="S0655">oh cool</u>
+<u n="353" who="S0654">they have like this thing where you're in a boat team and I think you're <trunc>dri</trunc> and you're driving around and it's like you're in a dodgem car and I think that you can bump into each other</u>
+<u n="354" who="S0655" trans="overlap">no <anon type="name" nameType="f"/> I think that's at a different place</u>
+<u n="355" who="S0654">no it's in Gulliver's Gulliver's</u>
+<u n="356" who="S0653">but was it quite a long way Gulliver's? you had to get up quite early didn't you?</u>
+<u n="357" who="S0655">yeah</u>
+<u n="358" who="S0653">yeah</u>
+<u n="359" who="S0654">mm but it was there</u>
+<u n="360" who="S0655"><unclear/> Spain</u>
+<u n="361" who="S0654">and and mama there's also got a waterpark next to it and something that <unclear/> and it like <trunc>ma</trunc> and it's like snowing inside it</u>
+<u n="362" who="S0653">really?</u>
+<u n="363" who="S0654">yeah</u>
+<u n="364" who="S0653">why so you can ski and things inside it?</u>
+<u n="365" who="S0654">yeah yeah you can actually do that</u>
+<u n="366" who="S0655">well it's not in Gulliver's it's really it's quite near though</u>
+<u n="367" who="S0654">it's actually next door to Gulliver's</u>
+<u n="368" who="S0653">so it's not part of it but it sort of is or?</u>
+<u n="369" who="S0654">it sort of is because there's all because at Gulliver's I mean their neighbour one of the neighbours is a waterpark</u>
+<u n="370" who="S0653">oh I see</u>
+<u n="371" who="S0654">that you that you can go there for birthdays</u>
+<u n="372" who="S0653">mm <pause dur="short"/> <unclear/></u>
+<u n="373" who="S0653">do you know if dad gave <anon type="name" nameType="n"/> the cheque for ballet?</u>
+<u n="374" who="S0654">he did</u>
+<u n="375" who="S0653">he did good <pause dur="short"/> this is going to be your cheque for your very exciting school trip when you're gonna go and do some filming</u>
+<u n="376" who="S0655"><unclear/> hopefully it'll be a good school trip</u>
+<u n="377" who="S0653">yeah it sounds very exciting</u>
+<u n="378" who="S0654"><vocal desc="laugh"/> <unclear/></u>
+<u n="379" who="S0653" trans="overlap">no <anon type="name" nameType="f"/> sit on your chair</u>
+<u n="380" who="S0654">I'm stuck</u>
+<u n="381" who="S0655"><unclear/></u>
+<u n="382" who="S0654"><vocal desc="nonsense"/> my favourite <unclear/></u>
+<u n="383" who="S0653">oh you guys are having a very nice hug</u>
+<u n="384" who="S0654">aha</u>
+<u n="385" who="S0655">mm I don't know how I'd survive without <anon type="name" nameType="f"/></u>
+<u n="386" who="S0653">well you don't have to survive without her cos you're brother and sister</u>
+<u n="387" who="S0655">yeah but I mean at school</u>
+<u n="388" who="S0653">yeah but then you get to see each other well next this September you'll be in the same playground</u>
+<u n="389" who="S0654">yay</u>
+<u n="390" who="S0653">again so that'll be nice</u>
+<u n="391" who="S0655">mm</u>
+<u n="392" who="S0653">for two years <pause dur="short"/> you know <anon type="name" nameType="f"/>'s older brother <anon type="name" nameType="m"/>? you know <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/>? I saw <anon type="name" nameType="m"/> at school yesterday at <anon type="place"/> and that was the first time I've actually seen him there so I was like hello and he was all trying to be very cool and just gave me a little like tiny wave hi</u>
+<u n="393" who="S0655" trans="overlap">yeah that's what that's what kids at the er college do</u>
+<u n="394" who="S0653">yeah I saw <anon type="name" nameType="f"/> as well the other day <pause dur="short"/> right <anon type="name" nameType="m"/> stop touching the chair <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> get on and eat your breakfast you've got two minutes before you need to sort yourself out put it no no no put it up on the top please</u>
+<u n="395" who="S0654"><unclear/> like</u>
+<u n="396" who="S0653">the plate needs to stay there and no <trunc>ju</trunc>just sit back down at the table</u>
+<u n="397" who="S0654"><vocal desc="nonsense"/></u>
+<u n="398" who="S0653"><vocal desc="laugh"/> <pause dur="short"/> nice tap dancing <anon type="name" nameType="f"/></u>
+<u n="399" who="S0654">I'm just dancing mum I need some shoes before I can do a tap dance</u>
+<u n="400" who="S0653">I was gonna <trunc>su</trunc> well you're doing Brownies now but <anon type="name" nameType="n"/> also does a tap dancing class so when you're a little bit</u>
+<u n="401" who="S0654" trans="overlap">it's after ballet</u>
+<u n="402" who="S0653">yes I know so when you're a bit older you maybe want to do that as well but we can't afford everything at the moment</u>
+<u n="403" who="S0655">she probably won't</u>
+<u n="404" who="S0653">I used to love tap dancing</u>
+<u n="405" who="S0655">well <anon type="name" nameType="f"/> like I think <anon type="name" nameType="f"/> is very happy with erm as <unclear/> with <unclear/> club</u>
+<u n="406" who="S0653" trans="overlap">hang on yes you need to stop talking because you've got an entire slice of toast erm why are you wearing</u>
+<u n="407" who="S0655" trans="overlap">I'm full</u>
+<u n="408" who="S0653">are you?</u>
+<u n="409" who="S0655">yeah</u>
+<u n="410" who="S0653">alright why are you wearing mismatching socks <anon type="name" nameType="f"/>?</u>
+<u n="411" who="S0654"><vocal desc="nonsense"/></u>
+<u n="412" who="S0653">I suppose we did have a <trunc>lo</trunc> er you had a big tea and lots of snacks last night didn't you?</u>
+<u n="413" who="S0655" trans="overlap">yeah I can't wear</u>
+<u n="414" who="S0653">and I think</u>
+<u n="415" who="S0655">I can't wear mismatching sock because I'm wearing long school socks</u>
+<u n="416" who="S0653">true right brushing teeth time in a <trunc>min</trunc></u>
+	
+	</body>
+</text>

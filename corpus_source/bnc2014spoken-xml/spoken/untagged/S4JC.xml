@@ -1,0 +1,755 @@
+<text id="S4JC">
+	<header>
+		<rec_length>0:15:25</rec_length>
+		<rec_date>2015-12-25</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q4</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0547 S0548 S0549 S0550 S0551</list_speakers>
+		<rec_loc>Home of ANON to ANON, High Lane, Stockport.</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>The tumble dryer, mum dropping her underpants style napkin, Daniel O’Donnel, seeing Caroline Aherne as Mrs Merton, the broken chair, ANON the hairdresser and her baby, Mum’s top, Christmas card from next door, the neighbours across the road, Christmas day traffic, pulling crackers, presents in crackers, napkins in the style of underpants, cracker jokes, ANON playing with the cracker toy – mini skittles, opening table presents, ANON's uni friend ANON, ANON's starter, warmth of plates.</topics>
+		<activity>Family talking over the starter of Christmas dinner.</activity>
+		<conv_type>Discussing, Explaining, Inquiring, complaining, anecdote telling, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T15</transcriber>
+		<speakerInfo>
+			<speaker id="S0547">
+				<exactage>16</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Stockport</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Stockport</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>16</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0548">
+				<exactage>46</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Macclesfield</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Stockport</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>40</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Senior supervisory support worker</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0549">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Stockport</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>19 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student at university</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0550">
+				<exactage>48</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Stockport</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Stockport</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>48</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Service Manager</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0551">
+				<exactage>66</exactage>
+				<age1994>60plus</age1994>
+				<agerange>60_69</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Macclesfield, Cheshire</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>Uk</hab_country>
+				<hab_dur>40 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Retired</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0547">just beep all the time</u>
+<u n="2" who="S0548">yeah it's just useless cos it beeps</u>
+<u n="3" who="S0549" trans="overlap">yeah</u>
+<u n="4" who="S0550">it'll go ting-a-ling-a-ling I'm ready</u>
+<u n="5" who="S0548" whoConfidence="low">mm</u>
+<u n="6" who="S0549">yeah well then it'll be annoying</u>
+<u n="7" who="S0551" trans="overlap"><vocal desc="laugh"/> won't be saying when you're clonked on the head with that bloody boxing glove</u>
+<u n="8" who="S0549">no <vocal desc="laugh"/></u>
+<u n="9" who="S0548"><vocal desc="laugh"/></u>
+<u n="10" who="S0548">oh I've <unclear>cracked</unclear> me underpants</u>
+<u n="11" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="12" who="S0549">have you now?</u>
+<u n="13" who="S0547"><vocal desc="laugh"/> again?</u>
+<u n="14" who="S0551"><vocal desc="laugh"/> like Jim Royle's</u>
+<u n="15" who="S0547">I know</u>
+<u n="16" who="S0551">fifty P</u>
+<u n="17" who="S0548" whoConfidence="low">well</u>
+<u n="18" who="S0551"><vocal desc="laugh"/></u>
+<u n="19" who="S0549">what were you watching the other day <anon type="name" nameType="m"/>? <pause dur="short"/> I said that was Denise and you went no</u>
+<u n="20" who="S0547">erm it was like Christmas</u>
+<u n="21" who="S0549">the Irish fella</u>
+<u n="22" who="S0547" trans="overlap">favourites</u>
+<u n="23" who="S0549">the Irish fella on <pause dur="short"/> strictly <pause dur="short"/> daniel O'Donnell we like</u>
+<u n="24" who="S0548" trans="overlap" whoConfidence="low">mm</u>
+<u n="25" who="S0548"><unclear>oh <pause dur="short"/> no</unclear></u>
+<u n="26" who="S0547" trans="overlap">he was singing a Christmas song</u>
+<u n="27" who="S0548">I don't bloody like him</u>
+<u n="28" who="S0549"><vocal desc="laugh"/> I know</u>
+<u n="29" who="S0551" trans="overlap">I don't</u>
+<u n="30" who="S0547">we all hate him</u>
+<u n="31" who="S0549" trans="overlap">he was</u>
+<u n="32" who="S0551" trans="overlap" whoConfidence="low"><anon type="name" nameType="m"/> loves him</u>
+<u n="33" who="S0549" trans="overlap">he was singing <pause dur="short"/> and it apparently Denise used to play a character <pause dur="short"/> and she used to she <trunc>u</trunc><trunc>u</trunc> she looked like</u>
+<u n="34" who="S0548" trans="overlap">Mrs Merton?</u>
+<u n="35" who="S0549">yeah</u>
+<u n="36" who="S0548">yeah</u>
+<u n="37" who="S0551">oh yeah she did</u>
+<u n="38" who="S0549" trans="overlap">and she she starred in his video but we looked at her and went <pause dur="short"/> I said that's <pause dur="short"/> cos they said her <trunc>na</trunc> what's her name? <pause dur="short"/> what's the actress's name?</u>
+<u n="39" who="S0547">Sally</u>
+<u n="40" who="S0548">no</u>
+<u n="41" who="S0549" trans="overlap">no</u>
+<u n="42" who="S0548">mm</u>
+<u n="43" who="S0549">Caroline</u>
+<u n="44" who="S0548">Caroline <pause dur="short"/> aherne</u>
+<u n="45" who="S0547" trans="overlap" whoConfidence="low">Aherne</u>
+<u n="46" who="S0551" whoConfidence="low">mm</u>
+<u n="47" who="S0549" trans="overlap">yeah <pause dur="short"/> so I said <unclear>dad</unclear> that's like that's that's Denise <pause dur="short"/> he went no it's not</u>
+<u n="48" who="S0551" trans="overlap" whoConfidence="low">mm</u>
+<u n="49" who="S0549">she's not <pause dur="short"/> old enough to be her <pause dur="short"/> she looks like an old woman on it</u>
+<u n="50" who="S0551">yeah <pause dur="short"/> mm that's how she was weren't she?</u>
+<u n="51" who="S0549" trans="overlap">mm</u>
+<u n="52" who="S0551">cos she used to be <unclear>the Parky</unclear></u>
+<u n="53" who="S0549">mm <pause dur="short"/> I never heard of her</u>
+<u n="54" who="S0551" trans="overlap">Mrs Merton</u>
+<u n="55" who="S0548">yeah</u>
+<u n="56" who="S0549">I never heard of her</u>
+<u n="57" who="S0551">and we nearly bought erm</u>
+<u n="58" who="S0548" trans="overlap"><unclear>do you know what this is?</unclear></u>
+<u n="59" who="S0551">Daniel O'Donnell's</u>
+<u n="60" who="S0547">mm</u>
+<u n="61" who="S0551"><trunc>LP</trunc> <trunc>LP</trunc> er CD didn't we for <anon type="name" nameType="m"/>? <pause dur="short"/> two ninety-nine</u>
+<u n="62" who="S0549">they were for mum weren't it?</u>
+<u n="63" who="S0551">mm <unclear>for</unclear> one of em</u>
+<u n="64" who="S0548">what you doing?</u>
+<u n="65" who="S0549">oh dear</u>
+<u n="66" who="S0550">well the back on the chair made a funny funny noise</u>
+<u n="67" who="S0547">he's breaking the chair that's what he's doing</u>
+<u n="68" who="S0550"><unclear>gone</unclear> <pause dur="short"/> something <trunc>u</trunc> Prosecco</u>
+<u n="69" who="S0548">mm mm</u>
+<u n="70" who="S0549">quite nice</u>
+<u n="71" who="S0550">mm get another one tomorrow if you're if you're out then</u>
+<u n="72" who="S0548">mm</u>
+<u n="73" who="S0549">oh is that the one from er erm <unclear>Sainsbury's</unclear>?</u>
+<u n="74" who="S0550">I think it's the one <anon type="name" nameType="m"/> has been sitting on <pause dur="short"/> and he's broken it now</u>
+<u n="75" who="S0547">no you can bugger right off</u>
+<u n="76" who="S0550"><vocal desc="laugh"/></u>
+<u n="77" who="S0547">cos I've never sat there</u>
+<u n="78" who="S0550">no you've just moved the chairs round</u>
+<u n="79" who="S0547">no I haven't</u>
+<u n="80" who="S0550"><unclear>what is it?</unclear></u>
+<u n="81" who="S0551">I wonder if <anon type="name" nameType="f"/> liked her blanket</u>
+<u n="82" who="S0549">mm</u>
+<u n="83" who="S0548">oh I bet she did</u>
+<u n="84" who="S0549">sure she did</u>
+<u n="85" who="S0548">mm</u>
+<u n="86" who="S0550">blanket?</u>
+<u n="87" who="S0548">bought her a baby's blanket</u>
+<u n="88" who="S0551"><unclear/></u>
+<u n="89" who="S0549" whoConfidence="low">mm</u>
+<u n="90" who="S0548">like a <unclear>pram's</unclear> <pause dur="short"/> <unclear>blanket</unclear></u>
+<u n="91" who="S0548" whoConfidence="low">mm</u>
+<u n="92" who="S0547">when's the baby due?</u>
+<u n="93" who="S0548">end of March</u>
+<u n="94" who="S0547">feel like <unclear>he's been <trunc>bor</trunc> here</unclear> a long time</u>
+<u n="95" who="S0548" trans="overlap">mm <pause dur="short"/></u>
+<u n="96" who="S0547" whoConfidence="low">mm</u>
+<u n="97" who="S0548">yes <pause dur="short"/> <unclear>it will do</unclear></u>
+<u n="98" who="S0549">you don't you don't see on <trunc>F</trunc> mm you do actually <pause dur="short"/> see it on Facebook</u>
+<u n="99" who="S0547">occasionally</u>
+<u n="100" who="S0549" trans="overlap"><unclear>they're <trunc>s</trunc></unclear> constantly going on about it</u>
+<u n="101" who="S0550">not <unclear>that</unclear> often</u>
+<u n="102" who="S0547">so essentially</u>
+<u n="103" who="S0548" whoConfidence="low">they're on it every day</u>
+<u n="104" who="S0550">don't at all</u>
+<u n="105" who="S0547">essentially they're gonna have three kids?</u>
+<u n="106" who="S0548">mm <pause dur="short"/> three boys</u>
+<u n="107" who="S0550">that we know of</u>
+<u n="108" who="S0548">mm</u>
+<u n="109" who="S0547">that we know of <pause dur="short"/> three kids that they're <unclear><trunc>ot</trunc></unclear> actively involved in</u>
+<u n="110" who="S0549" trans="overlap">do you not think it's <pause dur="short"/> do you not think it's a bit weird? <pause dur="short"/> like this is the third woman he'll've had a kid with</u>
+<u n="111" who="S0551" trans="overlap">mm</u>
+<u n="112" who="S0548">mm</u>
+<u n="113" who="S0551">mm</u>
+<u n="114" who="S0549">well why does she trust him?</u>
+<u n="115" who="S0551" trans="overlap">mm</u>
+<u n="116" who="S0549">why would he stay with her? <unclear>though <pause dur="short"/> not</unclear></u>
+<u n="117" who="S0551" trans="overlap">I don't know</u>
+<u n="118" who="S0549">not to sound <pause dur="short"/> pessimistic but</u>
+<u n="119" who="S0548" trans="overlap">speaks volumes don't it?</u>
+<u n="120" who="S0551">at least they've bought a house together</u>
+<u n="121" who="S0548">yeah he's</u>
+<u n="122" who="S0549">mm</u>
+<u n="123" who="S0548">committed to her more than he has the others</u>
+<u n="124" who="S0550">I think mum's hiding behind like that</u>
+<u n="125" who="S0547">I know</u>
+<u n="126" who="S0549" trans="overlap" whoConfidence="low">she is</u>
+<u n="127" who="S0550"><unclear>is that a new top on <anon type="name" nameType="f"/></unclear>?</u>
+<u n="128" who="S0551">nice that <pause dur="short"/> <unclear>is that a new top <anon type="name" nameType="f"/></unclear>?</u>
+<u n="129" who="S0549" trans="overlap">she wore <pause dur="short"/> no she wore it</u>
+<u n="130" who="S0548" trans="overlap">no <pause dur="short"/> I wore it last Christmas I think</u>
+<u n="131" who="S0549" trans="overlap">oh no you didn't</u>
+<u n="132" who="S0548" whoConfidence="low">no</u>
+<u n="133" who="S0549">I was gonna say you nearly wore it out last week</u>
+<u n="134" who="S0551" whoConfidence="low">I did</u>
+<u n="135" who="S0547"><unclear/>?</u>
+<u n="136" who="S0548" whoConfidence="low">yeah</u>
+<u n="137" who="S0551" whoConfidence="low">mm</u>
+<u n="138" who="S0550">did I tell you about the card from next door?</u>
+<u n="139" who="S0551">no</u>
+<u n="140" who="S0548" whoConfidence="low">no</u>
+<u n="141" who="S0550">to <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/></u>
+<u n="142" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="143" who="S0547">every year we <unclear/></u>
+<u n="144" who="S0551" trans="overlap">how long have you lived here? <pause dur="short"/> does she get a different name every year?</u>
+<u n="145" who="S0548">mm probably</u>
+<u n="146" who="S0550" whoConfidence="low">yeah</u>
+<u n="147" who="S0550">well we can't remember her name so every year we <unclear>know</unclear></u>
+<u n="148" who="S0549">it's <anon type="name" nameType="f"/> I knew it was <anon type="name" nameType="f"/> I said that</u>
+<u n="149" who="S0551" trans="overlap"><unclear/> <pause dur="short"/> on Facebook</u>
+<u n="150" who="S0547" trans="overlap"><unclear>it's <anon type="name" nameType="f"/></unclear></u>
+<u n="151" who="S0551">it's <anon type="name" nameType="f"/></u>
+<u n="152" who="S0549" trans="overlap">I said it was <anon type="name" nameType="f"/></u>
+<u n="153" who="S0548" trans="overlap" whoConfidence="low">mm</u>
+<u n="154" who="S0551"><anon type="name" nameType="f"/></u>
+<u n="155" who="S0548">mm</u>
+<u n="156" who="S0549" trans="overlap">yeah</u>
+<u n="157" who="S0551">do you remember? <pause dur="short"/> she that lady said to me I said oh <pause dur="short"/> what's your name? she says <anon type="name" nameType="f"/> <pause dur="short"/> <anon type="name" nameType="f"/> <anon type="name" nameType="f"/></u>
+<u n="158" who="S0549">oh</u>
+<u n="159" who="S0547">what's his name?</u>
+<u n="160" who="S0548"><anon type="name" nameType="m"/></u>
+<u n="161" who="S0549"><anon type="name" nameType="m"/></u>
+<u n="162" who="S0551" trans="overlap" whoConfidence="low">mm</u>
+<u n="163" who="S0547"><anon type="name" nameType="m"/> <unclear/></u>
+<u n="164" who="S0550" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="165" who="S0547" trans="overlap"><shift new="singing"/> doh re mi fa so la ti doh <shift new="normal"/></u>
+<u n="166" who="S0551" whoConfidence="low">they're a funny family</u>
+<u n="167" who="S0547" trans="overlap"><unclear/> <unclear>'s back</unclear></u>
+<u n="168" who="S0549">so lah ti dah <pause dur="short"/> <unclear>dunno</unclear></u>
+<u n="169" who="S0547" trans="overlap">who? who?</u>
+<u n="170" who="S0549" trans="overlap">who's <anon type="name" nameType="f"/> who's <anon type="name" nameType="f"/>?</u>
+<u n="171" who="S0547"><anon type="name" nameType="m"/> with a W</u>
+<u n="172" who="S0551" whoConfidence="low">where's he been?</u>
+<u n="173" who="S0549" trans="overlap">oh</u>
+<u n="174" who="S0548" whoConfidence="low">where's he been <anon type="name" nameType="m"/>?</u>
+<u n="175" who="S0547">I don't know you'd have to ask em</u>
+<u n="176" who="S0549" trans="overlap">they <trunc>l</trunc> <pause dur="short"/> but they set out in the blue car before</u>
+<u n="177" who="S0548">oh did they?</u>
+<u n="178" who="S0549">mm</u>
+<u n="179" who="S0548" whoConfidence="low">oh</u>
+<u n="180" who="S0548">well he came out to the black one earlier</u>
+<u n="181" who="S0551" trans="overlap">they have no children have they?</u>
+<u n="182" who="S0549">he has</u>
+<u n="183" who="S0551">oh has he?</u>
+<u n="184" who="S0548">mm</u>
+<u n="185" who="S0549">I was gonna say there are some kind of children involved aren't there?</u>
+<u n="186" who="S0548" trans="overlap">mm mm</u>
+<u n="187" who="S0547">I haven't heard them argue since the time <pause dur="short"/> when they <unclear>when it was</unclear></u>
+<u n="188" who="S0549" trans="overlap">no why would you?</u>
+<u n="189" who="S0548">we don't hear it though I don't think</u>
+<u n="190" who="S0549" trans="overlap">yeah why would you?</u>
+<u n="191" who="S0547" trans="overlap">think <pause dur="short"/> no one ever got arrested</u>
+<u n="192" who="S0548" whoConfidence="low">no</u>
+<u n="193" who="S0550" trans="overlap" whoConfidence="low">nearly</u>
+<u n="194" who="S0547">they didn't <pause dur="short"/> get arrested <pause dur="short"/> he just got told to leave the house</u>
+<u n="195" who="S0548">mm <pause dur="short"/> he did <pause dur="short"/> <unclear>though he probably</unclear> ended up <unclear>there</unclear></u>
+<u n="196" who="S0551">did he stay the night with <unclear><anon type="name" nameType="m"/></unclear>?</u>
+<u n="197" who="S0548" trans="overlap" whoConfidence="low"><unclear>mm</unclear></u>
+<u n="198" who="S0551">crikey</u>
+<u n="199" who="S0549">crikey blimey</u>
+<u n="200" who="S0548" trans="overlap" whoConfidence="low">yeah <pause dur="short"/> crikey blimey</u>
+<u n="201" who="S0551">I don't know what <anon type="name" nameType="m"/>'s <pause dur="short"/> proper name is</u>
+<u n="202" who="S0549"><anon type="name" nameType="f"/></u>
+<u n="203" who="S0548" trans="overlap"><anon type="name" nameType="f"/></u>
+<u n="204" who="S0551">is it?</u>
+<u n="205" who="S0548">mm</u>
+<u n="206" who="S0551">yeah it's funny cos she <trunc>s</trunc> she called the daughter <anon type="name" nameType="f"/> that's another man's name</u>
+<u n="207" who="S0548" trans="overlap">mm</u>
+<u n="208" who="S0547" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="209" who="S0550" trans="overlap">she signs her cards <anon type="name" nameType="f"/></u>
+<u n="210" who="S0548">yeah</u>
+<u n="211" who="S0551">yeah</u>
+<u n="212" who="S0548">but <anon type="name" nameType="f"/></u>
+<u n="213" who="S0551" trans="overlap">I know she's always been <anon type="name" nameType="f"/> to me</u>
+<u n="214" who="S0547" trans="overlap">she still drives you know?</u>
+<u n="215" who="S0548">yeah I know we said that</u>
+<u n="216" who="S0547">that man</u>
+<u n="217" who="S0551">she was driving today</u>
+<u n="218" who="S0547">made it up</u>
+<u n="219" who="S0548">mm</u>
+<u n="220" who="S0547">loads of people have been driving today <pause dur="short"/> roads were really busy</u>
+<u n="221" who="S0548" trans="overlap">it was busy</u>
+<u n="222" who="S0551" whoConfidence="low">was it?</u>
+<u n="223" who="S0547">and you were like oh you'll fly up there</u>
+<u n="224" who="S0551">sometimes it isn't isn't it on Christmas Day?</u>
+<u n="225" who="S0548" trans="overlap">no</u>
+<u n="226" who="S0551">mind you I <trunc>c</trunc> there was quite a lot of cars late on coming up <anon type="place"/> lane</u>
+<u n="227" who="S0547" trans="overlap">on the way not on the way back</u>
+<u n="228" who="S0549" trans="overlap">I was gonna say yeah it was on the way back it was more busy wasn't it?</u>
+<u n="229" who="S0551">shall we take these in the <pause dur="short"/> in the kitchen?</u>
+<u n="230" who="S0550" trans="overlap">let's do crackers first</u>
+<u n="231" who="S0548">oh I was going to say let's do presents <pause dur="short"/> but we'll do crackers if you want</u>
+<u n="232" who="S0550">let's do</u>
+<u n="233" who="S0551">here you go <anon type="name" nameType="m"/></u>
+<event desc="sound of christmas cracker"/>
+<u n="234" who="S0551">aren't these nice?</u>
+<u n="235" who="S0548" whoConfidence="low">mm</u>
+<u n="236" who="S0549">no wait wait you need to cross your arms <pause dur="short"/> cross your arms <pause dur="short"/> yeah</u>
+<u n="237" who="S0548">oh I don't like the sound of this</u>
+<u n="238" who="S0549" trans="overlap">and then you hold one <pause dur="short"/> this is what <unclear>oh</unclear> we had to do at uni I've never done this before <pause dur="short"/> right well you two have spread up cos you've already done one</u>
+<u n="239" who="S0547" trans="overlap"><unclear/> anyway</u>
+<u n="240" who="S0548" trans="overlap" whoConfidence="low">yeah</u>
+<u n="241" who="S0547"><unclear>but</unclear></u>
+<u n="242" who="S0548" whoConfidence="low"><unclear>have you got</unclear></u>
+<event desc="sound of christmas crackers"/>
+<u n="243" who="S0550">oh</u>
+<u n="244" who="S0548" whoConfidence="low">oh</u>
+<u n="245" who="S0550"><unclear>hello</unclear></u>
+<u n="246" who="S0549" whoConfidence="low"><unclear>not everyone</unclear></u>
+<u n="247" who="S0551" whoConfidence="low">no present</u>
+<u n="248" who="S0550" trans="overlap" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="249" who="S0548" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="250" who="S0547"><vocal desc="laugh"/> <unclear>that was only</unclear></u>
+<u n="251" who="S0549" trans="overlap">I win I've got a present</u>
+<u n="252" who="S0551" trans="overlap"><unclear/> there's no present <unclear>here</unclear></u>
+<u n="253" who="S0548">well why have you got two then? you need to hand them over</u>
+<u n="254" who="S0549" trans="overlap">cos I won yeah I know but I was just trying to think about where <unclear>the whole</unclear></u>
+<u n="255" who="S0551" trans="overlap"><unclear>I've seen</unclear> mine flying over the <trunc>ro</trunc></u>
+<u n="256" who="S0551" whoConfidence="low"><unclear>oh where me <trunc>u</trunc>? where's me underpants now</unclear></u>
+<u n="257" who="S0549" trans="overlap">over the road? <pause dur="short"/> <unclear/></u>
+<u n="258" who="S0548">I don't know I've lost mine as well <vocal desc="laugh"/></u>
+<u n="259" who="S0547" trans="overlap">here you go</u>
+<u n="260" who="S0548" trans="overlap" whoConfidence="low"><unclear>you what?</unclear></u>
+<u n="261" who="S0550" trans="overlap">oh look I've got a handy mirror</u>
+<u n="262" who="S0551" whoConfidence="low">oh</u>
+<u n="263" who="S0548">oh that's <unclear>dad</unclear></u>
+<u n="264" who="S0551">I bet you <pause dur="short"/> <anon type="name" nameType="m"/> you <unclear/> haven't you?</u>
+<u n="265" who="S0549" whoConfidence="low">I think <pause dur="short"/> that's mine</u>
+<u n="266" who="S0550" trans="overlap">mother can have that cos <unclear/></u>
+<u n="267" who="S0547" trans="overlap"><vocal desc="laugh"/></u>
+<u n="268" who="S0549" trans="overlap" whoConfidence="low">where was it?</u>
+<u n="269" who="S0547" trans="overlap"><unclear/> <pause dur="short"/> that's one that flew out now I've got</u>
+<u n="270" who="S0551" trans="overlap"><unclear>oh it's a little</unclear> yo-yo</u>
+<u n="271" who="S0549" trans="overlap">no I've got the one that flew out</u>
+<u n="272" who="S0551">half a yo-yo</u>
+<u n="273" who="S0549">I've got two</u>
+<u n="274" who="S0547">I've got nothing</u>
+<u n="275" who="S0548" trans="overlap"><unclear/></u>
+<u n="276" who="S0550" trans="overlap">I'll swap you for the I'll swap you for the mirror</u>
+<u n="277" who="S0551"><anon type="name" nameType="f"/> where's me <pause dur="short"/> oh they're there <pause dur="short"/> under your feet <anon type="name" nameType="m"/> er <anon type="name" nameType="m"/></u>
+<u n="278" who="S0549">are they not your underpants?</u>
+<u n="279" who="S0548" trans="overlap"><unclear>oh I don't know</unclear> <pause dur="short"/> well I don't know where mine are</u>
+<u n="280" who="S0551" trans="overlap">they're not my underpants</u>
+<u n="281" who="S0548"><vocal desc="laugh"/></u>
+<u n="282" who="S0551">they're your mother's underpants</u>
+<u n="283" who="S0548" trans="overlap">oh no they're mine</u>
+<u n="284" who="S0551"><vocal desc="laugh"/></u>
+<u n="285" who="S0548" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="286" who="S0547">you've lost your pants again?</u>
+<u n="287" who="S0548" trans="overlap" whoConfidence="low">oh</u>
+<u n="288" who="S0551">I bet they've got these at <anon type="name" nameType="m"/>'s</u>
+<u n="289" who="S0548">I bet they have</u>
+<u n="290" who="S0551" whoConfidence="low"><unclear>ah</unclear></u>
+<u n="291" who="S0548" whoConfidence="low"><unclear>ah</unclear></u>
+<u n="292" who="S0550" trans="overlap">alright <pause dur="short"/> let's have a look</u>
+<u n="293" who="S0547">I've got one</u>
+<u n="294" who="S0551">you've set the table beautiful <unclear>there</unclear></u>
+<u n="295" who="S0547" trans="overlap">skittles</u>
+<u n="296" who="S0549">oh they're so cool</u>
+<u n="297" who="S0551" whoConfidence="low"><unclear>I think</unclear></u>
+<u n="298" who="S0550" trans="overlap">how do you make an apple puff? <pause dur="short"/> chase it round the garden a few times</u>
+<u n="299" who="UNKMULTI" whoConfidence="low">oh</u>
+<u n="300" who="S0550">it's got a charade but I'm <unclear>not</unclear> gonna do the charade</u>
+<u n="301" who="S0548">charade?</u>
+<u n="302" who="S0550">charade</u>
+<u n="303" who="S0551" whoConfidence="low"><unclear>what?</unclear></u>
+<u n="304" who="S0549" whoConfidence="low"><unclear>who got are they your</unclear> earrings?</u>
+<u n="305" who="S0550" trans="overlap" whoConfidence="low">charade darling</u>
+<u n="306" who="S0548"><unclear>oh they're pink</unclear></u>
+<u n="307" who="S0551" trans="overlap"><unclear>no they're not no</unclear></u>
+<u n="308" who="S0549">can I play? <pause dur="short"/> why do barbers make good drivers?</u>
+<u n="309" who="UNKMULTI" whoConfidence="low">cos they know all the shortcuts hooray <event desc="sound of banging on table"/></u>
+<u n="310" who="S0551" whoConfidence="low"><unclear>of course</unclear> <vocal desc="laugh"/></u>
+<u n="311" who="S0548" whoConfidence="low">don't know where mine is</u>
+<u n="312" who="S0550"><unclear>in your cracker</unclear> <pause dur="short"/> here</u>
+<u n="313" who="S0549" trans="overlap">what? your cracker?</u>
+<u n="314" who="S0551">what's mine? <pause dur="short"/> <anon type="name" nameType="f"/> can't read it <pause dur="short"/> mama can't read <vocal desc="laugh"/></u>
+<u n="315" who="S0549" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="316" who="S0548">how do you stop a skunk smelling?</u>
+<u n="317" who="S0549">hold your nose?</u>
+<u n="318" who="S0548">hold its nose</u>
+<u n="319" who="S0551"><unclear>oh you do</unclear> very clever yes</u>
+<u n="320" who="S0549" trans="overlap" whoConfidence="low">bu-bum</u>
+<u n="321" who="S0549" trans="overlap">hold its nose <pause dur="short"/> <vocal desc="laugh"/> they did it on the Tweenies that joke</u>
+<u n="322" who="S0551">did they?</u>
+<u n="323" who="S0549"><unclear>about</unclear> Doodles</u>
+<u n="324" who="S0551" trans="overlap" whoConfidence="low"><unclear>did they?</unclear></u>
+<u n="325" who="S0548">which bear is white and smells of peppermint?</u>
+<u n="326" who="S0547">don't ruin the answer</u>
+<u n="327" who="S0549">polar?</u>
+<u n="328" who="S0548">a Polo bear</u>
+<u n="329" who="S0548" whoConfidence="low">Polo</u>
+<u n="330" who="S0549">Polo? <pause dur="short"/> polo bear</u>
+<u n="331" who="S0547">a Polo bear</u>
+<u n="332" who="S0548" trans="overlap"><unclear>shut up</unclear></u>
+<u n="333" who="S0551"><vocal desc="laugh"/></u>
+<u n="334" who="S0547">how do I do it?</u>
+<u n="335" who="S0548" whoConfidence="low"><vocal desc="sigh"/> oh dear</u>
+<u n="336" who="S0549" trans="overlap">flick it I guess do you want me to like? do you want do you want my?</u>
+<u n="337" who="S0550" trans="overlap">what've you got? <pause dur="short"/> golf tees?</u>
+<u n="338" who="S0548">oh</u>
+<event desc="sound of objects banging on table"/>
+<u n="339" who="S0548" whoConfidence="low">right <pause dur="short"/> <unclear/></u>
+<u n="340" who="S0547" trans="overlap"><unclear>look at this</unclear></u>
+<event desc="sound of game pieces"/>
+<u n="341" who="S0549">oh</u>
+<u n="342" who="S0551" whoConfidence="low"><unclear/></u>
+<u n="343" who="S0547">I got a one?</u>
+<u n="344" who="S0551" trans="overlap" whoConfidence="low"><unclear>what about mummy?</unclear></u>
+<u n="345" who="S0547" trans="overlap" whoConfidence="low"><unclear>that crossed over here</unclear></u>
+<u n="346" who="S0549" trans="overlap">after all that he got one?</u>
+<u n="347" who="S0550" trans="overlap"><unclear/> <pause dur="short"/> <unclear/> <anon type="name" nameType="m"/>'s present yet <pause dur="short"/> er joke yet</u>
+<u n="348" who="S0548">go on go on <anon type="name" nameType="m"/> where's your joke <unclear>lovely</unclear>?</u>
+<u n="349" who="S0549" trans="overlap">no we're still <pause dur="short"/> after two rounds <trunc>i</trunc> of tenpin bowling he's got <pause dur="short"/> four skittles</u>
+<u n="350" who="S0548">sounds about right for us lot</u>
+<event desc="sound of game pieces"/>
+<u n="351" who="S0547"><vocal desc="laugh"/></u>
+<u n="352" who="S0549">three ones</u>
+<u n="353" who="S0548" whoConfidence="low"><unclear><vocal desc="laugh"/></unclear></u>
+<u n="354" who="S0547"><unclear>so just the sides are okay</unclear> <vocal desc="laugh"/> <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="355" who="S0549" trans="overlap"><unclear/> the sides <unclear>are okay</unclear> or no bloody hope</u>
+<u n="356" who="S0551" trans="overlap">where are they from?</u>
+<u n="357" who="S0548"><unclear><anon type="place"/></unclear> <pause dur="short"/> mm</u>
+<u n="358" who="S0549" whoConfidence="low">oh</u>
+<u n="359" who="S0548" trans="overlap">in the sale last year</u>
+<u n="360" who="S0551">oh</u>
+<u n="361" who="S0548">fifty P <pause dur="short"/> weren't it? <pause dur="short"/> <unclear>crackers</unclear></u>
+<event desc="sound of game pieces"/>
+<u n="362" who="S0549">oh</u>
+<u n="363" who="S0551">you weren't robbed then were you?</u>
+<u n="364" who="S0548">no</u>
+<u n="365" who="S0551">oh <pause dur="short"/> <unclear>what is it now?</unclear></u>
+<event desc="sound of game pieces"/>
+<u n="366" who="S0548"><unclear>right we haven't opened</unclear> <unclear/> <unclear>yet</unclear></u>
+<u n="367" who="S0547" trans="overlap">there we go</u>
+<u n="368" who="S0551" trans="overlap"><unclear>love</unclear> you've got your hat on back to front</u>
+<u n="369" who="S0550">go on do your presents <unclear/></u>
+<u n="370" who="S0547" trans="overlap"><unclear/> hat</u>
+<u n="371" who="S0549" trans="overlap">is there a back and is there a front?</u>
+<u n="372" who="S0551">yes it's</u>
+<u n="373" who="S0549">why?</u>
+<u n="374" who="S0551">joined</u>
+<u n="375" who="S0549">oh</u>
+<u n="376" who="S0548"><unclear>don't</unclear> know where your seam is dear</u>
+<event desc="sound of opening presents"/>
+<u n="377" who="S0551"><unclear>caught me hands</unclear></u>
+<u n="378" who="S0549">least it's <unclear/></u>
+<u n="379" who="S0547" trans="overlap" whoConfidence="low">hold on</u>
+<u n="380" who="S0548" trans="overlap"><unclear/> <pause dur="short"/> oh no you're in the wrong you've got the wrong gifts</u>
+<u n="381" who="S0549">you said it don't matter where we sit</u>
+<u n="382" who="S0548" trans="overlap">swap your gift <pause dur="short"/> no I know</u>
+<u n="383" who="S0547">what's the fattest <pause dur="short"/> what is the <trunc>fa</trunc> <pause dur="short"/> no the fastest not the fattest <pause dur="short"/> what is the fastest fish in the world?</u>
+<u n="384" who="S0548" whoConfidence="low">dunno</u>
+<u n="385" who="S0547">a motor pike</u>
+<u n="386" who="UNKMULTI" whoConfidence="low">oh</u>
+<u n="387" who="S0547" trans="overlap">mm that's awful</u>
+<u n="388" who="S0548" trans="overlap">that's awful isn't it that?</u>
+<event desc="sound of opening presents"/>
+<u n="389" who="S0547">not for you</u>
+<u n="390" who="S0548">and nothing for you</u>
+<u n="391" who="S0547" trans="overlap"><unclear>cos</unclear></u>
+<u n="392" who="S0551">oh do you know I was looking then at that</u>
+<u n="393" who="S0547" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="394" who="S0551">nobody's brought me any <unclear>amarettis</unclear> this year</u>
+<u n="395" who="S0548" trans="overlap">well <pause dur="short"/> you wouldn't believe how hard they were to get</u>
+<u n="396" who="S0551" whoConfidence="low"><unclear/></u>
+<u n="397" who="S0548" trans="overlap">I had people in <anon type="place"/> in also</u>
+<u n="398" who="S0551" trans="overlap" whoConfidence="low">oh <pause dur="short"/> oh they're lovely <vocal desc="laugh"/></u>
+<u n="399" who="S0548" trans="overlap">oh nice</u>
+<u n="400" who="S0550" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="401" who="S0551" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="402" who="S0549">I couldn't believe it when she said <pause dur="short"/> I said oh I've heard that you like them she started laughing I went what? she well I bloody bought them for her</u>
+<u n="403" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="404" who="S0548" whoConfidence="low"><unclear>that one</unclear></u>
+<u n="405" who="S0550" whoConfidence="low"><unclear>what?</unclear></u>
+<u n="406" who="S0551" whoConfidence="low">oh lovely</u>
+<u n="407" who="S0549" trans="overlap">oh yes</u>
+<u n="408" who="S0550">what is it?</u>
+<u n="409" who="S0548"><anon type="name" nameType="f"/> they did my head in the other week</u>
+<u n="410" who="S0551" whoConfidence="low">mm</u>
+<u n="411" who="S0547">we did</u>
+<u n="412" who="S0548" trans="overlap"><trunc>pa</trunc> playing paper planes with stupid Galaxy wrappers</u>
+<u n="413" who="S0547" trans="overlap">with the Galaxy erm <pause dur="short"/> wrapper</u>
+<u n="414" who="S0549">what?</u>
+<u n="415" who="S0548" trans="overlap">oh they're lovely</u>
+<u n="416" who="S0550">what?</u>
+<u n="417" who="S0548">with the colour</u>
+<u n="418" who="S0550"><unclear>this?</unclear></u>
+<u n="419" who="S0549">who? dad and <anon type="name" nameType="m"/> did?</u>
+<u n="420" who="S0551">did our head in looking for them</u>
+<u n="421" who="S0548">we did <pause dur="short"/> yeah <pause dur="short"/> and then leaving them on the coach</u>
+<u n="422" who="S0551">yeah <vocal desc="laugh"/></u>
+<u n="423" who="S0548"><vocal desc="laugh"/></u>
+<u n="424" who="S0547">I think you did that purposefully</u>
+<u n="425" who="S0551">that's nice</u>
+<u n="426" who="S0547">oh <pause dur="short"/> it's got an R on it</u>
+<u n="427" who="S0549">what's on the other side?</u>
+<u n="428" who="S0547" trans="overlap"><anon type="name" nameType="m"/></u>
+<u n="429" who="S0550">big R little R</u>
+<u n="430" who="S0549">ah that's nice</u>
+<u n="431" who="S0550">ah thank you</u>
+<u n="432" who="S0548" whoConfidence="low">smack</u>
+<event desc="sound of kiss"/>
+<u n="433" who="S0548" whoConfidence="low">mm</u>
+<u n="434" who="S0551" trans="overlap" whoConfidence="low"><unclear/> <pause dur="short"/> <unclear/></u>
+<event desc="sound of dog"/>
+<u n="435" who="S0548" whoConfidence="low"><unclear>hello</unclear></u>
+<u n="436" who="S0549">oh they're a bit fancy aren't they?</u>
+<u n="437" who="S0550" trans="overlap"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="438" who="S0548" trans="overlap">they are nice</u>
+<u n="439" who="S0549" trans="overlap">I like them</u>
+<u n="440" who="S0548" trans="overlap"><unclear/> <trunc>eff</trunc>effilumps</u>
+<u n="441" who="S0551">oh</u>
+<u n="442" who="S0547"><unclear>oh excellent</unclear></u>
+<u n="443" who="S0551" trans="overlap">oh they're nice</u>
+<u n="444" who="S0548" whoConfidence="low">lovely</u>
+<u n="445" who="S0548">oh blooming heck</u>
+<u n="446" who="S0550" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="447" who="S0548">eh up</u>
+<u n="448" who="S0551">eh up?</u>
+<u n="449" who="S0547">can you get that round your head?</u>
+<u n="450" who="S0551" trans="overlap">where do you come from?</u>
+<u n="451" who="S0549">not quite oh</u>
+<u n="452" who="S0548">they do do necklaces</u>
+<u n="453" who="S0549" whoConfidence="low">that sort of necklace and bracelet <unclear>isn't me</unclear></u>
+<u n="454" who="S0547">but it is it's like a two in one</u>
+<u n="455" who="S0549" whoConfidence="low"><vocal desc="sigh"/></u>
+<u n="456" who="S0547">she can have a choker if she wants <vocal desc="laugh"/> it</u>
+<u n="457" who="S0549">aren't I lucky? <pause dur="short"/> can have a choker if I really want it <pause dur="short"/> it's a good job you got it for me and not for <anon type="name" nameType="f"/> <pause dur="short"/> she'd never get it round her wrist</u>
+<u n="458" who="S0548" trans="overlap">no I had to try them on myself before I bought them</u>
+<u n="459" who="S0551" whoConfidence="low">oh</u>
+<u n="460" who="S0549" whoConfidence="low">could you get it?</u>
+<u n="461" who="S0548" whoConfidence="low">only just</u>
+<u n="462" who="S0551" whoConfidence="low">oh</u>
+<u n="463" who="S0549">oh?</u>
+<u n="464" who="S0547">what's that?</u>
+<u n="465" who="S0549">are you unravelling? <pause dur="short"/> that's a yo-yo</u>
+<u n="466" who="S0547">I'm not very good at yo-yos</u>
+<u n="467" who="S0551" whoConfidence="low">mm?</u>
+<u n="468" who="S0549">they're really pretty</u>
+<u n="469" who="S0548" trans="overlap"><unclear/></u>
+<u n="470" who="S0547" trans="overlap">not very good at yo-yos</u>
+<u n="471" who="S0551" trans="overlap" whoConfidence="low"><unclear/> <unclear>felt nice</unclear></u>
+<u n="472" who="S0549">but they feel like they're quite <pause dur="short"/> strong magnets so they're not gonna come off</u>
+<u n="473" who="S0551" trans="overlap" whoConfidence="low">yeah yeah</u>
+<u n="474" who="S0551">what did you get? <pause dur="short"/> <anon type="name" nameType="f"/> in the end?</u>
+<u n="475" who="S0549">some nail varnish</u>
+<u n="476" who="S0551">ah</u>
+<u n="477" who="S0549">it was so stressful I dragged <anon type="name" nameType="f"/> around all the shops in <anon type="place"/></u>
+<u n="478" who="S0551">was she alright <anon type="name" nameType="f"/>?</u>
+<u n="479" who="S0549">yes</u>
+<u n="480" who="S0547">she were fine</u>
+<u n="481" who="S0549" trans="overlap" whoConfidence="low">fine</u>
+<u n="482" who="S0551" trans="overlap">have you heard from her today?</u>
+<u n="483" who="S0549">yeah</u>
+<u n="484" who="S0547"><unclear>she were?</unclear> <vocal desc="laugh"/> what are you doing?</u>
+<u n="485" who="S0551">did she like her scarf?</u>
+<u n="486" who="S0549" trans="overlap"><unclear>I like the band on it</unclear> it <pause dur="short"/> she didn't really say much about her scarf to be honest she just kept going it's very soft I like how soft it is</u>
+<u n="487" who="S0551" trans="overlap">mm</u>
+<u n="488" who="S0549">so I don't know if she did actually like it or not</u>
+<u n="489" who="S0551">well she will've done</u>
+<u n="490" who="S0547">if she wears it she likes it if she doesn't she didn't</u>
+<u n="491" who="S0549"><unclear>yeah it's</unclear> <unclear/> isn't it <anon type="name" nameType="m"/>?</u>
+<u n="492" who="S0547">exactly</u>
+<u n="493" who="S0549">how was your <pause dur="short"/> prawn cocktail? a bit peppery?</u>
+<u n="494" who="S0547">it was actually very very nice</u>
+<u n="495" who="S0551" trans="overlap">I like it peppery</u>
+<u n="496" who="S0547">so do I</u>
+<u n="497" who="S0549" trans="overlap">no but <anon type="name" nameType="m"/> put a bit too much pepper in</u>
+<u n="498" who="S0551">oh did he?</u>
+<u n="499" who="S0549">can I have a go?</u>
+<u n="500" who="S0551">what have you got? <unclear>red</unclear>?</u>
+<u n="501" who="S0547">yeah</u>
+<u n="502" who="S0551">ball bearing?</u>
+<u n="503" who="S0547">look</u>
+<u n="504" who="S0551">look like <pause dur="short"/> <unclear><anon type="name" nameType="m"/></unclear> <pause dur="short"/> <unclear>swallowed oh ah</unclear></u>
+<u n="505" who="S0548" trans="overlap" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="506" who="S0547">they're skittles <pause dur="short"/> playing tenpin bowling <pause dur="short"/> are there ten? <pause dur="short"/> yeah</u>
+<u n="507" who="S0549">yeah ten <pause dur="short"/> oh <vocal desc="laugh"/></u>
+<u n="508" who="S0547">come on don't cheat</u>
+<u n="509" who="S0549"><vocal desc="laugh"/> <pause dur="short"/> table must be on a slant</u>
+<u n="510" who="S0550"><unclear>right that's plugged in</unclear></u>
+<u n="511" who="S0547" trans="overlap">move it back there</u>
+<u n="512" who="S0549"><trunc>u</trunc> that was shocking</u>
+<u n="513" who="UNKFEMALE" trans="overlap" whoConfidence="low"><unclear>mm</unclear></u>
+<u n="514" who="S0548" whoConfidence="low"><unclear>what did?</unclear></u>
+<u n="515" who="S0550">alright I'll do the food</u>
+<u n="516" who="S0548"><unclear/></u>
+<u n="517" who="S0551" trans="overlap" whoConfidence="low"><unclear>oh</unclear></u>
+<u n="518" who="S0549" trans="overlap">oh</u>
+<u n="519" who="S0547"><anon type="name" nameType="f"/> <vocal desc="laugh"/></u>
+<u n="520" who="S0549">why's it so difficult?</u>
+<u n="521" who="S0547" trans="overlap">well <pause dur="short"/> you get</u>
+<u n="522" who="S0549" trans="overlap">I'm left handing it to be fair</u>
+<u n="523" who="S0547">yeah</u>
+<u n="524" who="S0551" whoConfidence="low">right <unclear>lady</unclear></u>
+<u n="525" who="S0547" trans="overlap">but you're right</u>
+<u n="526" who="S0551">pass me your rubbish <anon type="name" nameType="f"/></u>
+<event desc="sound of game pieces"/>
+<u n="527" who="S0547">one</u>
+<u n="528" who="S0549">oh I got one</u>
+<u n="529" who="S0547">from three</u>
+<u n="530" who="S0551">there's not <trunc>u</trunc> <pause dur="short"/> <vocal desc="sigh"/> <pause dur="short"/> nothing left in it is there there? <pause dur="short"/> ah</u>
+<u n="531" who="S0549">not that I know of <pause dur="short"/> oh I just dropped a bit <pause dur="short"/> where's the ball?</u>
+<event desc="sound of game pieces"/>
+<u n="532" who="S0547">oh</u>
+<u n="533" who="S0549">eh is that a good one?</u>
+<u n="534" who="S0551">have you got a bag for paper?</u>
+<u n="535" who="S0547" trans="overlap">that's a good one</u>
+<u n="536" who="S0550" whoConfidence="low"><unclear>oh</unclear> just chuck it there</u>
+<u n="537" who="S0547">I'll be the sweepy thing <unclear/> tomorrow</u>
+<u n="538" who="S0551">thank you</u>
+<u n="539" who="S0549">okay but I've lost the ball</u>
+<u n="540" who="S0547">I can see it</u>
+<u n="541" who="S0551" trans="overlap"><unclear>not in</unclear></u>
+<u n="542" who="S0549">can you?</u>
+<u n="543" who="S0551">where have I put my bag?</u>
+<u n="544" who="S0549">oh did it reach the other side?</u>
+<u n="545" who="S0551" whoConfidence="low"><unclear/></u>
+<u n="546" who="S0549">oh that's a bit difficult I've gotta split <anon type="name" nameType="m"/></u>
+<u n="547" who="S0548" trans="overlap"><unclear>you what?</unclear></u>
+<u n="548" who="S0551">me bag up that me presents are in?</u>
+<u n="549" who="S0550" whoConfidence="low">it was in the <pause dur="short"/> erm hall</u>
+<u n="550" who="S0547">so she went for none of them</u>
+<u n="551" who="S0550">you know you can have a little bag to put your <pause dur="short"/> skittles in <pause dur="short"/> <unclear>and balls in</unclear></u>
+<event desc="sound of game pieces"/>
+<u n="552" who="S0549">yay</u>
+<u n="553" who="S0547" trans="overlap">yay</u>
+<u n="554" who="S0549">I did well better than you</u>
+<u n="555" who="S0547">no you didn't</u>
+<u n="556" who="S0549">yes I did</u>
+<u n="557" who="S0547">no you didn't <pause dur="short"/> only sort of three goes to hit one</u>
+<u n="558" who="S0549">yeah and then I got them all <pause dur="short"/> need a bit of practice you know <pause dur="short"/> how long's this tape measure do you reckon?</u>
+<u n="559" who="S0547">I don't know</u>
+<u n="560" who="S0549" trans="overlap">how long's that?</u>
+<event desc="background talk"/>
+<u n="561" who="S0547"><unclear>she's just gone</unclear> <unclear/></u>
+<u n="562" who="S0549"><unclear>well cos she opened the door</unclear></u>
+<u n="563" who="S0547"><unclear>but why's she carrying them?</unclear></u>
+<u n="564" who="S0549">three foot and a bit <pause dur="long"/></u>
+<u n="565" who="S0548" whoConfidence="low">oh dear</u>
+<u n="566" who="S0551" whoConfidence="low"><unclear/></u>
+<u n="567" who="S0547" trans="overlap">that one</u>
+<u n="568" who="S0549">that one</u>
+<u n="569" who="S0551" whoConfidence="low"><unclear/></u>
+<u n="570" who="S0548" whoConfidence="low"><unclear/></u>
+<u n="571" who="S0547">it'll go round me head</u>
+<u n="572" who="S0549">it'll go round your head? <pause dur="short"/> I'm glad about that I'm glad your head's not three foot long</u>
+<u n="573" who="S0547">but not twice</u>
+<u n="574" who="S0549">mm controversial</u>
+<u n="575" who="S0547" whoConfidence="low"><unclear/></u>
+<u n="576" who="S0550">put the turkey there</u>
+<u n="577" who="S0549">turkey?</u>
+<u n="578" who="S0547">I think we can remove that now</u>
+<u n="579" who="S0549">yes I do <pause dur="short"/> I do believe <pause dur="short"/> move that to I don't think <unclear>the ones on top of</unclear> that one do you wanna <unclear>swap it</unclear></u>
+<u n="580" who="S0550">I was I have turned em round a couple of times</u>
+<u n="581" who="S0549">have you?</u>
+<u n="582" who="S0547">yeah <pause dur="long"/></u>
+<event desc="sound of plates"/>
+<u n="583" who="S0547">just like <unclear>lifts</unclear> up a little bit <pause dur="short"/> <unclear/></u>
+<u n="584" who="S0549">thank you</u>
+<u n="585" who="S0547">thirty-seven centimetres</u>
+	
+	</body>
+</text>

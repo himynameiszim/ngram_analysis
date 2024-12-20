@@ -1,0 +1,532 @@
+<text id="SPZ4">
+	<header>
+		<rec_length>0:21:01</rec_length>
+		<rec_date>2015-04-01</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q2</rec_period>
+		<n_speakers>4</n_speakers>
+		<list_speakers>S0391 S0392 S0393 S0397</list_speakers>
+		<rec_loc>In a restaurant</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Food and drink, books, technology, popular culture, children’s toys, Easter card and poem writing, presents, and gift giving, other people, advertising, poetry, photography, greetings cards, table decorations, moving house, house holding, life expectancy, plans for the day, literature, bookmarks, film and TV, games, travelling and holidays, jobs, British Overseas Territories, privatisation</topics>
+		<activity>Lunch stop in Durham</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, advising, requesting, anecdote telling, making arrangements, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T06</transcriber>
+		<speakerInfo>
+			<speaker id="S0391">
+				<exactage>55</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Darlington</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>British</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>County Durham</dialect_rep>
+				<hab_city>Near Thirsk</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0392">
+				<exactage>15</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Newcastle-upon-time</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern/Yorkshire</dialect_rep>
+				<hab_city>Near Thirsk</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Full-time education</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0393">
+				<exactage>47</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Kendal</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern/RP</dialect_rep>
+				<hab_city>Bagby near Thirsk</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Writer</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0397">
+				<exactage>57</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Kingston-upon-Hull, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Geordie/ North Eastern</dialect_rep>
+				<hab_city>Gateshead</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>30 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Former teacher</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0392">well it's nice to be having another stop</u>
+<u n="2" who="S0397">it's a nice stop here</u>
+<u n="3" who="S0392">yeah</u>
+<u n="4" who="S0397">the food was nice</u>
+<u n="5" who="S0392">certainly was</u>
+<u n="6" who="S0393">there's a prayer card in the booklet for you</u>
+<u n="7" who="S0397">eeeee</u>
+<u n="8" who="S0393">you're on your phone again</u>
+<u n="9" who="S0391">telling our <anon type="name" nameType="f"/> about the er she's at the</u>
+<u n="10" who="S0393">she is yeah</u>
+<u n="11" who="S0397">does she use two thumbs like that?</u>
+<u n="12" who="S0391">yeah she's always I'm all I'll tell you what I always reply to people that was <anon type="name" nameType="f"/> she's got the other house</u>
+<u n="13" who="S0393">what's it she gets</u>
+<u n="14" who="S0391">the baby zombies</u>
+<u n="15" who="S0397">she probably just look</u>
+<u n="16" who="S0391">loves zombies</u>
+<u n="17" who="S0397">baby zombies</u>
+<u n="18" who="S0391">kids collect them what are they called</u>
+<u n="19" who="S0393">Zombinies is a plural of zombinos</u>
+<u n="20" who="S0391">zombinos</u>
+<u n="21" who="S0393">what?</u>
+<u n="22" who="S0397">zombies</u>
+<u n="23" who="S0393">where did Zombinie come from?</u>
+<u n="24" who="S0391">I didn't know I forgot the words <anon type="name" nameType="m"/> visited my mum's house and he left his zombling bit of a zombling train in a zombling house I'm a zombie</u>
+<u n="25" who="S0392">are we right it's a visa card then <anon type="name" nameType="f"/></u>
+<u n="26" who="S0397">it's a nice gift tag to stick on <anon type="name" nameType="f"/> things</u>
+<u n="27" who="S0393">what did you get <anon type="name" nameType="f"/>?</u>
+<u n="28" who="S0392">shall we write a card <anon type="name" nameType="f"/> I'll help you</u>
+<u n="29" who="S0397">and I'll give that</u>
+<u n="30" who="S0391">put a shoe on it <anon type="name" nameType="f"/></u>
+<u n="31" who="S0392"><anon type="name" nameType="f"/> why don't we write a poem</u>
+<u n="32" who="S0397">choose one variety</u>
+<u n="33" who="S0392">these are wishes of the best hope your hot cross buns are full of zest</u>
+<u n="34" who="S0397">no <vocal desc="laugh"/></u>
+<u n="35" who="S0392">that was from that was an old favourite of ours isn't it <anon type="name" nameType="f"/></u>
+<u n="36" who="S0397">have a happy Easter I'm not pulling your leg</u>
+<u n="37" who="S0392">wishing you wishing you wishes this Easter tide</u>
+<u n="38" who="S0397">hope you get a chocolate egg</u>
+<u n="39" who="S0392">giving you something you can't avoid</u>
+<u n="40" who="S0397">no</u>
+<u n="41" who="S0392">special wishes Easter tide what was it? tide</u>
+<u n="42" who="S0397">you want my best line as the last line</u>
+<u n="43" who="S0392">oh remember we are always on your side</u>
+<u n="44" who="S0393">happy Easter</u>
+<u n="45" who="S0397">hope your eggs are chocolate or fried and then that line you said</u>
+<u n="46" who="S0391">doesn't fried chocolate</u>
+<u n="47" who="S0393">how about this one this is funny happy Easter erm here have an egg be advised if you get diabetes you might lose a leg <vocal desc="laugh"/></u>
+<u n="48" who="S0391">that's terrible that too many syllables</u>
+<u n="49" who="S0393">syllables in bad joke</u>
+<u n="50" who="S0397">what is this one?</u>
+<u n="51" who="S0391">that one's for <anon type="name" nameType="f"/></u>
+<u n="52" who="S0393">I'll put Easter wishes are the best then</u>
+<u n="53" who="S0391">chocolate</u>
+<u n="54" who="S0393">what is a chocolate nest?</u>
+<u n="55" who="S0391">do you not know what a chocolate nest is we made them at school</u>
+<u n="56" who="S0393">I'm sorry not knowing about chocolate nests</u>
+<u n="57" who="S0391">I bet you do <anon type="name" nameType="f"/></u>
+<u n="58" who="S0397">look I got this one accidentally <pause dur="short"/> right now I picked these up they were eight for a pound so I just went <vocal desc="nonsense"/></u>
+<u n="59" who="S0391">yeah</u>
+<u n="60" who="S0397">and I got this one looks it</u>
+<u n="61" who="S0391">what</u>
+<u n="62" who="S0397">so you know who can have that</u>
+<u n="63" who="S0393">thinking of you at Easter but not much because this card's so small</u>
+<u n="64" who="S0391">you not like them</u>
+<u n="65" who="S0393">yeah I do</u>
+<u n="66" who="S0397">sister <anon type="name" nameType="f"/> no <anon type="name" nameType="f"/></u>
+<u n="67" who="S0391">oh yeah</u>
+<u n="68" who="S0393">what about your mum</u>
+<u n="69" who="S0391">just a deliberate mistake called sister</u>
+<u n="70" who="S0392">Easter wishes of the best hope your hot cross buns are full of zest erm remember you are better than all the best honour will have another couplets</u>
+<u n="71" who="S0391">different couple</u>
+<u n="72" who="S0392">something like yeah no A A B A so it would Easter wishes are the best hope your hot cross buns are full of zest wishing you erm warm and joy</u>
+<u n="73" who="S0397">sending you</u>
+<u n="74" who="S0392">sending you warm and</u>
+<u n="75" who="S0397">hugs and kisses</u>
+<u n="76" who="S0392">joy</u>
+<u n="77" who="S0397">spring tide joy</u>
+<u n="78" who="S0392">what else rhymes with zest?</u>
+<u n="79" who="S0397">nest</u>
+<u n="80" who="S0393">pest</u>
+<u n="81" who="S0397">chocolate nest</u>
+<u n="82" who="S0392">lest</u>
+<u n="83" who="S0397">springtime</u>
+<u n="84" who="S0392">that's the word isn't it lest</u>
+<u n="85" who="S0397">lent word</u>
+<u n="86" who="S0392">yeah</u>
+<u n="87" who="S0397">discard your vest it's springtime</u>
+<u n="88" who="S0391">no cast a cloud</u>
+<u n="89" who="S0393">once again it's Easter time let's your egg wasn't made with pesticide <vocal desc="laugh"/></u>
+<u n="90" who="S0397">you can write that on <anon type="name" nameType="f"/> she'll like that one</u>
+<u n="91" who="S0392">Easter wishes are the best hope your hot cross buns are full of zest with lots of love and hugs and kisses</u>
+<u n="92" who="S0393">and crosses</u>
+<u n="93" who="S0397">and all the best at Easter wishes</u>
+<u n="94" who="S0393">yes well done <anon type="name" nameType="f"/></u>
+<u n="95" who="S0392">what else rhymes with kisses?</u>
+<u n="96" who="S0393" trans="overlap">you're a natural</u>
+<u n="97" who="S0397">wishes is near enough</u>
+<u n="98" who="S0393" trans="overlap">crosses</u>
+<u n="99" who="S0397">misses</u>
+<u n="100" who="S0391">no</u>
+<u n="101" who="S0397">for you and your misses kisses and wishes</u>
+<u n="102" who="S0393">okay with send them to <anon type="name" nameType="m"/></u>
+<u n="103" who="S0397" trans="overlap">with love lots of hugs and kisses</u>
+<u n="104" who="S0393">who's this for <anon type="name" nameType="f"/>?</u>
+<u n="105" who="S0397">I think everybody's getting this one</u>
+<u n="106" who="S0393">and send it to your misses and then you can have like to <anon type="name" nameType="m"/> and the misses</u>
+<u n="107" who="S0397" trans="overlap">kisses</u>
+<u n="108" who="S0392">hugs and kisses <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> send you Easter wishes yes</u>
+<u n="109" who="S0397" trans="overlap">yes</u>
+<u n="110" who="S0391">it's only a half rhyme</u>
+<u n="111" who="S0392">alright lord Byron <vocal desc="laugh"/></u>
+<u n="112" who="S0393">who didn't he live in Seama?</u>
+<u n="113" who="S0397">I was thinking more patience <unclear/></u>
+<u n="114" who="S0391">no</u>
+<u n="115" who="S0393" trans="overlap">patience a week</u>
+<u n="116" who="S0391">er what's her face who's on she's on Radio 4 in the morning Pam Ayers</u>
+<u n="117" who="S0397" trans="overlap">Pam Ayers</u>
+<u n="118" who="S0392">oh Pam Ayers Pam Ayers on the airs</u>
+<u n="119" who="S0397">yeah</u>
+<u n="120" who="S0392">I remember when she did adverts for Woman's Weekly or something I've finished my pilates class my yoga and thai chi now supple as a godess my evening is free <vocal desc="laugh"/></u>
+<u n="121" who="S0391">is free?</u>
+<u n="122" who="S0392">yeah</u>
+<u n="123" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="124" who="S0397">it's worrying that you remember Pam Ayres</u>
+<u n="125" who="S0392">no she sponsored <anon type="name" nameType="f"/></u>
+<u n="126" who="S0397">what are you doing?</u>
+<u n="127" who="S0392">it's an in joke</u>
+<u n="128" who="S0391">it's really only interested in someone who sponsors <anon type="name" nameType="f"/></u>
+<u n="129" who="S0392">they wrote</u>
+<u n="130" who="S0397">injecting</u>
+<u n="131" who="S0392">injecting</u>
+<u n="132" who="S0397">we wrote this</u>
+<u n="133" who="S0392">cos me and <anon type="name" nameType="f"/> have got an in joke cos she wanted to find a death anniversary poem so I went on a death anniversary poem website for a death anniversary poem</u>
+<u n="134" who="S0397">he did</u>
+<u n="135" who="S0392">so it was all very funny things</u>
+<u n="136" who="S0391">who did you send it to?</u>
+<u n="137" who="S0392"><anon type="name" nameType="f"/> I think and then you say which <anon type="name" nameType="f"/> and I say the one that lived over the road but erm</u>
+<u n="138" who="S0391">isn't she the one who died though?</u>
+<u n="139" who="S0392">yeah</u>
+<u n="140" who="S0397">the one sent her a card</u>
+<u n="141" who="S0392"><anon type="name" nameType="f"/> though which <anon type="name" nameType="f"/> to</u>
+<u n="142" who="S0391">you can't spend that long on each card</u>
+<u n="143" who="S0392">to the bells</u>
+<u n="144" who="S0397">back beat</u>
+<u n="145" who="S0392">Easter bells</u>
+<u n="146" who="S0393">no</u>
+<u n="147" who="S0392">Easter bells</u>
+<u n="148" who="S0391">the bells of Easter</u>
+<u n="149" who="S0397">Christmas bells</u>
+<u n="150" who="S0391">not Easter bells you said Easter to a hundred people not one of them would say bells</u>
+<u n="151" who="S0392">can you stop slating our</u>
+<u n="152" who="S0391">no just get it done I'm going to look in the shop in a minute <pause dur="short"/> don't take any more photos</u>
+<u n="153" who="S0393">I'm not</u>
+<u n="154" who="S0392">special pen note we're both going to write our own names with a green pen you want dark green or light green</u>
+<u n="155" who="S0397">I don't mind</u>
+<u n="156" who="S0392">which one</u>
+<u n="157" who="S0391">I think I've got an orange one</u>
+<u n="158" who="S0393">I'll use a green one you use an orange one then we're very peaceful right okay</u>
+<u n="159" who="S0391">peaceful</u>
+<u n="160" who="S0392">lovely and <anon type="name" nameType="f"/> if you could just pop your name on the card there</u>
+<u n="161" who="S0397">oh I don't think I've got an orange pen</u>
+<u n="162" who="S0392">oh use the green one then this reminds me when I was in the Newcastle Building Society last year do you remember and we bought those cards and I didn't realise they were charity and I said I don't need any more and she said oh go on it's for charity it's just a pound</u>
+<u n="163" who="S0397">just a pound I sent one to a six year old</u>
+<u n="164" who="S0393">oh yeah</u>
+<u n="165" who="S0397">who thought it was very odd of me sending me a very bad childish drawn</u>
+<u n="166" who="S0393">didn't say that's what I sent you right lovely</u>
+<u n="167" who="S0391">someone could easily drink that by mistake couldn't they</u>
+<u n="168" who="S0393">what that little jar with flower in? just pop it back over there</u>
+<u n="169" who="S0392">okay right</u>
+<u n="170" who="S0397">choose bells the bells <pause dur="short"/></u>
+<u n="171" who="S0392">who's this for?</u>
+<u n="172" who="S0397">sister <anon type="name" nameType="f"/></u>
+<u n="173" who="S0391">she got the same poem cos she won't see erm <anon type="name" nameType="f"/></u>
+<u n="174" who="S0392">oh can you just get that card out again please</u>
+<u n="175" who="S0391">no I can make one up as good as that <vocal desc="laugh"/> she's pushing her luck today</u>
+<u n="176" who="S0392">by the time we've done this card we want you to write one for the next one okay you've got ten years to think of it</u>
+<u n="177" who="S0391">hope you're having fun with your hot cross buns</u>
+<u n="178" who="S0392">ten minutes I said</u>
+<u n="179" who="S0391">you should've heard her on the phone the other night her freezer died so she had to order an industrial freezer from somewhere</u>
+<u n="180" who="S0393">who?</u>
+<u n="181" who="S0391"><anon type="name" nameType="f"/></u>
+<u n="182" who="S0397">why industrial?</u>
+<u n="183" who="S0391">cos there's like a huge place isn't it was like</u>
+<u n="184" who="S0397">oh she there in Wales?</u>
+<u n="185" who="S0391">yes</u>
+<u n="186" who="S0397">oh I didn't know that</u>
+<u n="187" who="S0391">Llandudno</u>
+<u n="188" who="S0393">oh lovely</u>
+<u n="189" who="S0392">I think I might keep these recordings and write a sitcom one day</u>
+<u n="190" who="S0391">new</u>
+<u n="191" who="S0393">not far off it</u>
+<u n="192" who="S0397">first of February</u>
+<u n="193" who="S0391">forgot</u>
+<u n="194" who="S0397">well I think she's only there three years in theory</u>
+<u n="195" who="S0392">what was it with warmth and joy and hugs and kisses love and peace</u>
+<u n="196" who="S0397">love and peace</u>
+<u n="197" who="S0392">she'll love that relates to the dove on the front</u>
+<u n="198" who="S0397">and then the pilot light had gone out on the oven</u>
+<u n="199" who="S0393">oh no</u>
+<u n="200" who="S0397">which wasn't your average kitchen oven so in between the gas board saying that she'd said the magic word gas leak</u>
+<u n="201" who="S0391">oh smell of gas</u>
+<u n="202" who="S0397">they were all out in force and then she couldn't find anybody to fix it and then because the guy who usually does it is somewhere in Spain for a fortnight that long and then in the middle of it one of the nuns died</u>
+<u n="203" who="S0393">oh heck</u>
+<u n="204" who="S0397">but she was only in her eighties</u>
+<u n="205" who="S0391">oh</u>
+<u n="206" who="S0397">some of them late nineties and a hundred and two</u>
+<u n="207" who="S0392">right who is this for then sister <anon type="name" nameType="f"/>  you get <anon type="name" nameType="f"/> or sister <anon type="name" nameType="f"/></u>
+<u n="208" who="S0397">they go on a long time don't they nuns <anon type="name" nameType="f"/></u>
+<u n="209" who="S0391">has anyone done a study in how long nuns live?</u>
+<u n="210" who="S0397">no</u>
+<u n="211" who="S0392">shall I put lots of love on three hugs or</u>
+<u n="212" who="S0397">live a long time</u>
+<u n="213" who="S0392">kind warmness or yours truly or see you soon lots of love</u>
+<u n="214" who="S0391">must be a stress free life mustn't it except if you're <anon type="name" nameType="f"/></u>
+<u n="215" who="S0393">I was going to say yeah</u>
+<u n="216" who="S0392">why did I put a comma after lots?</u>
+<u n="217" who="S0397">lots oh nip it into an Easter egg or a lamb</u>
+<u n="218" who="S0392">it's just a pure notice <pause dur="short"/> there you are <anon type="name" nameType="f"/> if you just want to pop your name on there see what I did there <anon type="name" nameType="f"/> on the other side</u>
+<u n="219" who="S0397">oh</u>
+<u n="220" who="S0392">see what I did on the other side there <anon type="name" nameType="f"/></u>
+<u n="221" who="S0397">very good</u>
+<u n="222" who="S0392">right what's your poem then? you had a minutes to think of it</u>
+<u n="223" who="S0391">I told you in one second</u>
+<u n="224" who="S0392">no it's got to be at least two stanzas</u>
+<u n="225" who="S0397">I'd say that's one</u>
+<u n="226" who="S0391">are you staying here for a bit?</u>
+<u n="227" who="S0393">mm why?</u>
+<u n="228" who="S0391">I just want to look in the shop</u>
+<u n="229" who="S0397">one for <anon type="name" nameType="f"/> and it likes it so this can be one of our best</u>
+<u n="230" who="S0392">oh yes</u>
+<u n="231" who="S0397">like that</u>
+<u n="232" who="S0392">oh she'd love that oh look at what we've got <anon type="name" nameType="f"/></u>
+<u n="233" who="S0391">oh she'd love that</u>
+<u n="234" who="S0392">it's got hope on the back</u>
+<u n="235" who="S0391">she'll love it</u>
+<u n="236" who="S0392">oh we can change hope into hope you have a good Easter</u>
+<u n="237" who="S0397">oh yeah</u>
+<u n="238" who="S0392">yeah very good</u>
+<u n="239" who="S0397">I sent auntie <anon type="name" nameType="f"/> and uncle <anon type="name" nameType="m"/> a little flask so they'll love it</u>
+<u n="240" who="S0391">don't they think I work in the shop</u>
+<u n="241" who="S0397">yeah they do</u>
+<u n="242" who="S0391">how does <anon type="name" nameType="f"/> get all these where does she buy them from what would <anon type="name" nameType="f"/> like</u>
+<u n="243" who="S0392">we're not putting have lots of fun with your hot cross bun on it</u>
+<u n="244" who="S0391">she'd love that</u>
+<u n="245" who="S0397">which one would she like? a dove a cross?</u>
+<u n="246" who="S0391">a cross</u>
+<u n="247" who="S0397">then in peace and love at Easter yeah she'd like that one</u>
+<u n="248" who="S0391">she'll like that one</u>
+<u n="249" who="S0392">okay right get ready for the Easter wishes of the best again</u>
+<u n="250" who="S0393">just read this it's quite humorous in a sitcom this is the introduction to one of the tragedies by the crime which doomed the house of Pelops to a series of feuds and violent acts from generation to generation which that Tantalus son of Zeus who served his son Pelops as food at a banquet of the gods</u>
+<u n="251" who="S0397">ew</u>
+<u n="252" who="S0393">restored to life by Zeus Pelops obtained a wife and kingdom by vast treachery</u>
+<u n="253" who="S0392">lovely right Easter wishes</u>
+<u n="254" who="S0397">was that in the book you bought the fifty pence book box sale</u>
+<u n="255" who="S0393">yeah</u>
+<u n="256" who="S0397">oh why did you buy something so miserable</u>
+<u n="257" who="S0391">he loves miserable loves miserable melancholy</u>
+<u n="258" who="S0392">Easter wishes of the best hope your hot cross buns it's a lovely poem <anon type="name" nameType="f"/></u>
+<u n="259" who="S0391">can I just pop to the shop</u>
+<u n="260" who="S0392">yeah</u>
+<u n="261" who="S0391">will you be here five minutes?</u>
+<u n="262" who="S0397">yeah</u>
+<u n="263" who="S0392">we'll be here a lot more than five minutes</u>
+<u n="264" who="S0397">I will shop later as well I need something for <anon type="name" nameType="m"/></u>
+<u n="265" who="S0392">with peace and hope</u>
+<u n="266" who="S0397">yeah</u>
+<u n="267" who="S0393">yes</u>
+<u n="268" who="S0392">trusted hope love and hope faith and mercy quite good</u>
+<u n="269" who="S0397">erm</u>
+<u n="270" who="S0392">with pious hope</u>
+<u n="271" who="S0397">no not pious hope with lots of love and hugs and kisses</u>
+<u n="272" who="S0392">erm hugs and kisses kisses <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> and</u>
+<u n="273" who="S0397"><anon type="name" nameType="f"/></u>
+<u n="274" who="S0392">and <anon type="name" nameType="m"/> brilliant this</u>
+<u n="275" who="S0397">send</u>
+<u n="276" who="S0392">all this will make her day</u>
+<u n="277" who="S0397">send Easter wishes</u>
+<u n="278" who="S0392">and Easter wishes</u>
+<u n="279" who="S0393">Easter wishes full of hope from <anon type="name" nameType="m"/> <anon type="name" nameType="f"/> and the Pope</u>
+<u n="280" who="S0392"><vocal desc="laugh"/> and an antidote okay to <anon type="name" nameType="f"/> is it</u>
+<u n="281" who="S0393">anti loper</u>
+<u n="282" who="S0397">yes</u>
+<u n="283" who="S0392">lots of love peace of the lord may be with you now then we put with your and your spirit</u>
+<u n="284" who="S0397">no</u>
+<u n="285" who="S0393">ew</u>
+<u n="286" who="S0392">lots of love <anon type="name" nameType="m"/> and then if you could just pop your name on there <anon type="name" nameType="f"/> that's right</u>
+<u n="287" who="S0397">nearly did the black one not the orange one</u>
+<u n="288" who="S0392">oh not good is it lovely</u>
+<u n="289" who="S0397">right our little angel's in there remind her she's the best of our customers</u>
+<u n="290" who="S0392">yeah that's her little present right what's the next one</u>
+<u n="291" who="S0397"><anon type="name" nameType="f"/></u>
+<u n="292" who="S0392">okay Easter wishes of the best hope your are we doing at Christmas Christmas wishes of the best hope your Christmas pudding is full of zest <vocal desc="laugh"/> crest messed zest crest lest well</u>
+<u n="293" who="S0397"><anon type="name" nameType="f"/></u>
+<u n="294" who="S0392">right oh is she getting a little one like that?</u>
+<u n="295" who="S0397">no I think she'll get a big one</u>
+<u n="296" who="S0392">little ones for?</u>
+<u n="297" who="S0397">well I thought <anon type="name" nameType="f"/> might like one</u>
+<u n="298" who="S0392">they look like things you put in the ground so you know which flower you planted</u>
+<u n="299" who="S0397">no I thought they look more like bookmarks</u>
+<u n="300" who="S0392">yeah or you could use it we put a little magnet there a magnet there it will hold your page</u>
+<u n="301" who="S0397">yeah but you can do without the magnets</u>
+<u n="302" who="S0392">yeah</u>
+<u n="303" who="S0397">cos we haven't got a magnet would <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> like that one?</u>
+<u n="304" who="S0392">yeah</u>
+<u n="305" who="S0393">don't need to send us one <anon type="name" nameType="f"/></u>
+<u n="306" who="S0392">why not?</u>
+<u n="307" who="S0397">prefer a one large enough for a poem</u>
+<u n="308" who="S0393">no I think small one will challenge you</u>
+<u n="309" who="S0392">to come up with a short I know put have lots of fun with your hot cross bun in it</u>
+<u n="310" who="S0393">yeah</u>
+<u n="311" who="S0392">yeah</u>
+<u n="312" who="S0397">yeah</u>
+<u n="313" who="S0393">just enough room for that</u>
+<u n="314" who="S0392">okay this is for <anon type="name" nameType="f"/></u>
+<u n="315" who="S0397">yeah</u>
+<u n="316" who="S0392">have lots of fun with your hot cross bun I hope it is pleasing to your tongue</u>
+<u n="317" who="S0397">no erm</u>
+<u n="318" who="S0392">oh glad to hear you're still a nun to sister <anon type="name" nameType="f"/> <vocal desc="laugh"/> okay thinking of you this Easter <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/></u>
+<u n="319" who="S0393">not to be mistaken for Fizz</u>
+<u n="320" who="S0392"><anon type="name" nameType="f"/> Fizz the Tweenies</u>
+<u n="321" who="S0393">Eldorado wasn't there a Fizz on Eldorado?</u>
+<u n="322" who="S0397">no</u>
+<u n="323" who="S0392">fizz have you ever played fizz buzz</u>
+<u n="324" who="S0397">I don't think so</u>
+<u n="325" who="S0392">if someone says your name you've got to say fizz and then if someone says fizz you've got to say buzz and if someone says buzz you've got to say have a banana is it the song</u>
+<u n="326" who="S0393">right okay</u>
+<u n="327" who="S0397"><anon type="name" nameType="f"/></u>
+<u n="328" who="S0393">okay</u>
+<u n="329" who="S0392">is that hers?</u>
+<u n="330" who="S0397">is she do you want a</u>
+<u n="331" who="S0392">at Easter and always may the holy spirit be with you lovely</u>
+<u n="332" who="S0397">do you want large</u>
+<u n="333" who="S0392">oh do you means Easter prayer will be nice</u>
+<u n="334" who="S0397">or do you want that Easter prayer?</u>
+<u n="335" who="S0392">which Easter prayer is this? Oh there's no prayer in that one this is an Easter prayer</u>
+<u n="336" who="S0397">sending a special Easter prayer made it peaceful</u>
+<u n="337" who="S0392">what rhymes with prayer <anon type="name" nameType="f"/> what rhymes with prayer?</u>
+<u n="338" who="S0397">stair fair hair</u>
+<u n="339" who="S0392">hair care</u>
+<u n="340" who="S0397">care</u>
+<u n="341" who="S0392">an Easter prayer to show that we care</u>
+<u n="342" who="S0397">oh yes</u>
+<u n="343" who="S0392">I've put on here</u>
+<u n="344" who="S0397">sending you an Easter prayer</u>
+<u n="345" who="S0392">to show that we will always care</u>
+<u n="346" who="S0397">yeah</u>
+<u n="347" who="S0392">sending you</u>
+<u n="348" who="S0397">about the zest in your hot cross buns <vocal desc="laugh"/></u>
+<u n="349" who="S0392">can we do another verse for that Easter prayer <pause dur="short"/> to remind you that we'll always care</u>
+<u n="350" who="S0397">I hope she doesn't hold us to it woo</u>
+<u n="351" who="S0393">oh</u>
+<u n="352" who="S0392">what can we do for another verse <anon type="name" nameType="f"/> cos we like to have four lines don't we</u>
+<u n="353" who="S0397">yeah</u>
+<u n="354" who="S0392">with lots of love and hugs and kisses yes</u>
+<u n="355" who="S0397" trans="overlap">yes</u>
+<u n="356" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="357" who="S0392">lots of love and hugs and kisses how many more <anon type="name" nameType="f"/>?</u>
+<u n="358" who="S0397">I think that's it</u>
+<u n="359" who="S0392">ah</u>
+<u n="360" who="S0397">do I need one for anybody else?</u>
+<u n="361" who="S0393">auntie <anon type="name" nameType="f"/></u>
+<u n="362" who="S0397">I'll write her a more formal thing what about</u>
+<u n="363" who="S0393"><anon type="name" nameType="f"/></u>
+<u n="364" who="S0392">can I just borrow this pen <anon type="name" nameType="f"/> cheers</u>
+<u n="365" who="S0397">she's away in <anon type="place"/></u>
+<u n="366" who="S0393">what's she doing there?</u>
+<u n="367" who="S0397">well erm they decided to have a week away</u>
+<u n="368" who="S0393">lovely</u>
+<u n="369" who="S0397">because it was <anon type="name" nameType="m"/>'s birthday last week and he was fifty</u>
+<u n="370" who="S0393">I see</u>
+<u n="371" who="S0397">so</u>
+<u n="372" who="S0393">what does <anon type="name" nameType="m"/> do?</u>
+<u n="373" who="S0397">he has shiny bum job for the Ministry of Defence he says so he tends to sit at a desk and put things in computers or he goes round and looks at machines he used to calibrate ovens at one point and he's been to far off ministry of defence places</u>
+<u n="374" who="S0393">ah</u>
+<u n="375" who="S0397">like er where</u>
+<u n="376" who="S0393">Cyprus</u>
+<u n="377" who="S0392">Akrotiri in Cyprus or is it the other one</u>
+<u n="378" who="S0397">Cyprus I think he's done Gibraltar and I think he's done</u>
+<u n="379" who="S0392">Cayman islands?</u>
+<u n="380" who="S0397">he did some islands didn't he</u>
+<u n="381" who="S0392">Turks and Cacos I'm trying to think of the other overseas territories</u>
+<u n="382" who="S0397">I can't think he went somewhere very far south didn't he</u>
+<u n="383" who="S0393">Aldershot</u>
+<u n="384" who="S0397">not the Falklands</u>
+<u n="385" who="S0392">Aldershot sandwich islands sandwich</u>
+<u n="386" who="S0397">I can't remember</u>
+<u n="387" who="S0392">was it the British Antarctic territory?</u>
+<u n="388" who="S0397">not that far I don't think</u>
+<u n="389" who="S0392">it's illegal the British Antarctic territory cos Britain signed a treaty to say that they would claim any land in the Antarctic but they still do</u>
+<u n="390" who="S0393">oh</u>
+<u n="391" who="S0392">little queue on these salts I paid <anon type="name" nameType="f"/></u>
+<u n="392" who="S0397">what's that</u>
+<u n="393" who="S0392">cuapo</u>
+<u n="394" who="S0397">mine sold his part of his MOD off to an American firm</u>
+<u n="395" who="S0392">CISCO</u>
+<u n="396" who="S0393">you're joking</u>
+<u n="397" who="S0392">SERCO or G4S or someone</u>
+<u n="398" who="S0397">I don't know if it's G4S</u>
+<u n="399" who="S0392">SERCO</u>
+<u n="400" who="S0397">I'm not really sure we'll be making it up</u>
+<u n="401" who="S0392">oh well we don't want that do we I think we've done lovely with those poems there</u>
+<u n="402" who="S0397">I think we have can I go and look in the shop now?</u>
+<u n="403" who="S0392">certainly</u>
+<u n="404" who="S0393">right let's all move up</u>
+	
+	</body>
+</text>

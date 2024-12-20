@@ -1,0 +1,1514 @@
+<text id="SEGL">
+<header>
+		<rec_length>0:59:44</rec_length>
+		<rec_date>2012-02-01</rec_date>
+		<rec_year>2012</rec_year>
+		<rec_period>2012_Q1</rec_period>
+		<n_speakers>9</n_speakers>
+		<list_speakers>S0059 S0079 S0105 S0106 S0109 S0127 S0141 S0145 S0155</list_speakers>
+		<rec_loc>Speaker 8’s home, Cambridge</rec_loc>
+		<relationships>Friends, wider family circle</relationships>
+		<topics>Work, religion, holiday plans, weather, driving </topics>
+		<activity>Work, church / religion, holiday plans, weather, driving.</activity>
+		<conv_type>Discussing, inquiring, complaining, anecdote telling</conv_type>
+		<conventions>Original</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T09</transcriber>
+		<speakerInfo>
+			<speaker id="S0059">
+				<exactage>27</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Newcastle, Tyne and Wear</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>North East</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>6 years, 5 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Primary School Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0079">
+				<exactage>35</exactage>
+				<age1994>35_44</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Crawley, West Sussex</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>13 years, 6 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Software engineer</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0105">
+				<exactage>35</exactage>
+				<age1994>35_44</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>English</nat>
+				<birthplace>Bristol</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>28 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Director</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_1</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0106">
+				<exactage>26</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Lincoln</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>None indicated</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>5 years, 5 months</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>PhD student</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0109">
+				<exactage>27</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace></birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Editor</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>French -- Intermediate</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0127">
+				<exactage>24</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Preston, Lancashire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>6 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Church worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0141">
+				<exactage>35</exactage>
+				<age1994>35_44</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Aylesbury, Buckinghamshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>11 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Church worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0145">
+				<exactage>24</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Nottingham</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>3 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- Beginner; Spanish -- Beginner</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0155">
+				<exactage>42</exactage>
+				<age1994>35_44</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bridlington, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Yorkshire</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>17 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Scientist</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+<body>
+<u n="1" who="S0127">I got lost when coming back from the station <pause dur="short"/> it took me like twenty minutes more than it should have done <pause dur="short"/> I was like I can't believe this has happened again <pause dur="short"/> I just  I just  know like four <pause dur="short"/> I vaguely know like four different routes <pause dur="short"/> so I think I just tried to combine them all four I just ended up walking there</u>
+<u n="2" who="S0079">did you  Did you  cut did you try cutting through next to where the cycle bridge stops?</u>
+<u n="3" who="S0127">no</u>
+<u n="4" who="S0079">did you can did you</u>
+<u n="5" who="S0127">I know you can do that</u>
+<u n="6" who="S0079">okay yeah I I that's the route that goes between <anon type="place"/> road and</u>
+<u n="7" who="S0109">which cycle bridge?</u>
+<u n="8" who="S0079">the one over the station</u>
+<u n="9" who="S0109">the cycle bridge over the station?</u>
+<u n="10" who="S0079">so you go over the railway line <pause dur="short"/> so if you  if you  want to get from the station to where <anon type="place"/> Road is I'd come out through the car park</u>
+<u n="11" who="S0127">there's a white bridge <pause dur="short"/> if you go right isn't it?</u>
+<u n="12" who="S0109">yeah</u>
+<u n="13" who="S0079">yeah <pause dur="short"/> so</u>
+<u n="14" who="S0109">but that takes you onto <anon type="place"/> Road and up <unclear/></u>
+<u n="15" who="S0079">yes and so yeah I'd go down to <anon type="place"/> Road cutting across <anon type="place"/>l Road em and then come across down <anon type="place"/> Street then you're onto <unclear/> no then you're on to <anon type="place"/> Road <unclear/></u>
+<u n="16" who="S0109">but that brings you up <anon type="place"/> Lane whereas if you go if you don't go over the cycle bridge and if you don't go down by the <unclear/></u>
+<u n="17" who="S0079">so so so you don't go over the cycle bridge just I'm saying where the cycle bridge starts so over from the station <unclear/> you go along <anon type="place"/> Road across <anon type="place"/> Road and down <anon type="place"/> Street I think <pause dur="short"/> then you're</u>
+<u n="18" who="S0109" trans="overlap">yeah okay yeah <pause dur="short"/> yep yep <pause dur="short"/> brilliant</u>
+<u n="19" who="S0127" trans="overlap">I don't know if we've we've spoken <unclear/> before I know you're <anon type="name" nameType="f"/> I'm <anon type="name" nameType="m"/></u>
+<u n="20" who="S0145" trans="overlap">no <pause dur="short"/> yes <pause dur="short"/> yes <pause dur="short"/> I know your name but I  <unclear/> So what do you do?</u>
+<u n="21" who="S0127" trans="overlap">eh so I work for the church</u>
+<u n="22" who="S0145">oh cool</u>
+<u n="23" who="S0127"></u>
+<u n="24" who="S0145">oh <pause dur="short"/> okay <pause dur="short"/> we have seen you around the office a bit there</u>
+<u n="25" who="S0127">I've known <pause dur="short"/> quite a lot about this so</u>
+<u n="26" who="S0145">yeah</u>
+<u n="27" who="S0127">I just graduated this summer from <anon type="place"/> doing History and English</u>
+<u n="28" who="S0145">oh fun</u>
+<u n="29" who="S0127">what are you? What are you <trunc>st</trunc>?</u>
+<u n="30" who="S0145">I'm a third year doing archaeology</u>
+<u n="31" who="S0127">okay yeah I vaguely knew that hmm</u>
+<u n="32" who="S0145">yeah <pause dur="short"/> but <pause dur="short"/> yeah <pause dur="short"/> weird  girl doing a dead subject</u>
+<u n="33" who="S0127">is it three or four year?</u>
+<u n="34" who="S0145">three year so I graduate em and then I'm going to yes find a job</u>
+<u n="35" who="S0127">in archaeology?</u>
+<u n="36" who="S0145">probably not in <unclear/> jobs in archaeology</u>
+<u n="37" who="S0127">okay</u>
+<u n="38" who="S0109">there's heaps of jobs in archaeology out there</u>
+<u n="39" who="S0145">huh?</u>
+<u n="40" who="S0109">there must be like</u>
+<u n="41" who="S0145">there are</u>
+<u n="42" who="S0127">there must be some</u>
+<u n="43" who="S0145">but the <trunc>coun</trunc> all councils are cutting funding for archaeology</u>
+<u n="44" who="S0106">and you need to have a beard</u>
+<u n="45" who="S0145">yes and I need to have a beard of course</u>
+<u n="46" who="S0109">can't you just pull your hair out?</u>
+<u n="47" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="48" who="S0145">I do sometimes try</u>
+<u n="49" who="S0079">what's em? <trunc>A</trunc> are you specialising in some sort of sort of archaeology at the moment is it or?</u>
+<u n="50" who="S0145">em well at the moment I've I've sort of just three of the options you choose <pause dur="short"/> I've done a lot of archaeological science and you know Viking medieval stuff historical archaeology em <pause dur="short"/> so yeah I've just been I've I've dabbled with sort of stuff <unclear/></u>
+<u n="51" who="S0106">you can do that you can twin your school for  school for  twenty twelve your school can be a twin with another school somewhere around the world</u>
+<u n="52" who="S0079">no one of my friends is just finishing a PhD in <trunc>int</trunc> I think it's in the interbreeding between Neanderthals and homo sapiens and</u>
+<u n="53" who="S0059" trans="overlap">eh what do they do?</u>
+<u n="54" who="S0127">I don't know <pause dur="short"/> I have no idea</u>
+<u n="55" who="S0145">oh cool <pause dur="short"/> yes that's in a very interesting subject <pause dur="short"/> there's one tiny bit of evidence that's just come through that maybe there was</u>
+<u n="56" who="S0079">yeah that there was interbreeding <pause dur="short"/> yeah</u>
+<u n="57" who="S0127">I'm so tired I've been a student for a week and it's just like killed me <pause dur="short"/> it was really fun</u>
+<u n="58" who="S0059">so how was it being a student?</u>
+<u n="59" who="S0127">it was really fun</u>
+<u n="60" who="S0059">were you just were you being like a college? Were you being a guest or?</u>
+<u n="61" who="S0145" trans="overlap">what were you doing? Oh for May week</u>
+<u n="62" who="S0127">mm <pause dur="short"/> a guest a <unclear/></u>
+<u n="63" who="S0109">that's not being a student</u>
+<u n="64" who="S0127">so so back in <anon type="place"/> <pause dur="short"/> so I almost got stuck in <anon type="place"/> actually like if this had been the <unclear/> come back</u>
+<u n="65" who="S0059">when did you come back?</u>
+<u n="66" who="S0127">we left early so we left at eight yesterday to get back in time <pause dur="short"/> like with the snow <pause dur="short"/> for me it wasn't like being a student it was like more being a student than I I ever was</u>
+<u n="67" who="S0059">was it tiring?</u>
+<u n="68" who="S0109"><trunc>D</trunc> didn't you didn't get to lectures?</u>
+<u n="69" who="S0127">no I exactly I didn't have  I didn't have  to do all that yeah</u>
+<u n="70" who="S0079">it's just like being a student</u>
+<u n="71" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="72" who="S0127">yeah that's very true</u>
+<u n="73" who="S0106">it's like being a history student</u>
+<u n="74" who="S0109">yeah you don't go to any lectures</u>
+<u n="75" who="S0127">I didn't ever go to any lectures</u>
+<u n="76" who="S0145">really?</u>
+<u n="77" who="S0109">but they're interesting that's why you go to lectures</u>
+<u n="78" who="S0145">yeah I really enjoy them</u>
+<u n="79" who="S0127">no no there weren't many for me to go to <pause dur="short"/> I only had a few a week</u>
+<u n="80" who="S0145">mm</u>
+<u n="81" who="S0079">did you read lots of books?</u>
+<u n="82" who="S0127">I read quite a few books</u>
+<u n="83" who="S0145"><vocal desc="laugh"/> Yeah it seems that is</u>
+<u n="84" who="S0079"><unclear/> last week</u>
+<u n="85" who="S0127">mainly like a week before I was meant for like before my exams</u>
+<u n="86" who="S0145">you see I spend my life  I spend my life  in the library so <vocal desc="laugh"/> I I get I've got a personal relationship with the both librarians now like Simon says hello and gives me <trunc>cho</trunc> you know doughnuts when I'm in the library</u>
+<u n="87" who="S0059">one of our librarians was a cat</u>
+<u n="88" who="S0145">that's awesome</u>
+<u n="89" who="S0059">you would just come in and find the college cat just sitting at the library desk watching you</u>
+<u n="90" who="S0145"><vocal desc="laugh"/> That's awesome</u>
+<u n="91" who="S0127">Australia floods hmm</u>
+<u n="92" who="S0059">I understand that there's a machine involved</u>
+<u n="93" who="S0106">there's no machine involved</u>
+<u n="94" who="S0059">who likes carving?</u>
+<u n="95" who="S0145">men <pause dur="short"/> men often carve meat</u>
+<u n="96" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="97" who="S0059">I don't think Matt</u>
+<u n="98" who="S0127">when you said carving I didn't think meat I thought of like you know it's just a random of change of conversation from  to wood carving <pause dur="short"/> just about to share your new hobby</u>
+<u n="99" who="S0059">do you like carving <anon type="name" nameType="m"/>?</u>
+<u n="100" who="S0079">not a great carving fan but I'm happy to do so if needs be</u>
+<u n="101" who="S0059">I guess someone needs</u>
+<u n="102" who="S0109">it's not really a skill that gets taught I think these days carving</u>
+<u n="103" who="S0059">no</u>
+<u n="104" who="S0079"><unclear/> when you like have like knitting classes at school we would get go out to carving class</u>
+<u n="105" who="S0109">I missed out on the knitting classes</u>
+<event desc="unintelligible"/>
+<u n="106" who="S0059">eh it's okay if the <unclear/></u>
+<u n="107" who="S0079">oh okay</u>
+<u n="108" who="S0109">cos apparently after em for the year after as long as they're not nineteen they're allowed to come</u>
+<u n="109" who="S0079">oh okay yeah <pause dur="short"/> so that's why he</u>
+<u n="110" who="S0059">so the year after they leave school it's kind up to them really whether they come in February and whether they come for November <pause dur="short"/> I'm surprised they want to come back in November</u>
+<u n="111" who="S0079">yeah <pause dur="short"/> I'm surprised they would be <pause dur="short"/> I think <unclear/> more fun</u>
+<u n="112" who="S0106" trans="overlap">central <anon type="place"/></u>
+<u n="113" who="S0059">you get much more freedom</u>
+<u n="114" who="S0106">A practical guide</u>
+<u n="115" who="S0059"><unclear/> like you know</u>
+<u n="116" who="S0079">yeah I think  I think  the order of fun camp is the real leader leader <unclear/> member leader cook</u>
+<u n="117" who="S0059">oh you think the most fun is being a what?</u>
+<u n="118" who="S0079">A  leader leader</u>
+<u n="119" who="S0059">oh really?</u>
+<u n="120" who="S0079">I think it's the most fun camp</u>
+<u n="121" who="S0059">what about <unclear/>?</u>
+<u n="122" who="S0079">yeah eh eh leader on <unclear/> Easter camps which are the cushiest camps that you've ever <pause dur="short"/> saying that on <unclear/> so instead of activities you had seven hours a day revision so</u>
+<u n="123" who="S0059">ah nice</u>
+<u n="124" who="S0079">so yeah the kids are all sitting being quiet and</u>
+<event desc="begin overlap"/>
+<u n="125" who="S0106"><unclear/> stash found this morning</u>
+<u n="126" who="S0145">yeah my college stash</u>
+<u n="127" who="S0106">no I had my college stash this morning</u>
+<u n="128" who="S0145">okay</u>
+<event desc="end overlap"/>
+<u n="129" who="S0106">but I found that my scarf has a hole in it</u>
+<u n="130" who="S0109">ah that's sad <pause dur="short"/> how did you manage that?</u>
+<u n="131" who="S0106">it looks like moths but I can't see how it could have got moth-eaten cos I've not seen any moths and</u>
+<u n="132" who="S0059">is it good? Like <unclear/> at <anon type="place"/> but</u>
+<u n="133" who="S0145">you don't ever see moths though really</u>
+<u n="134" who="S0109">you you you do when you have carpet moths you do</u>
+<u n="135" who="S0145">eh well my Dad's <unclear/> jumpers left in mothballs in them but I've never seen a moss moth <pause dur="short"/> so I think they're like secret <unclear/> that</u>
+<u n="136" who="S0109">so like they they have gnawed around at the bottom of my parents' carpet you see all these like holes and then occasionally we find moths on the wall</u>
+<u n="137" who="S0145">yeah <pause dur="short"/> have you still got my scarf then?</u>
+<u n="138" who="S0106">yeah it's in my bag along with the brownies</u>
+<u n="139" who="S0145">yeah</u>
+<pause dur="long"/>
+<u n="140" who="UNKMALE" whoConfidence="low">Louise?</u>
+<u n="141" who="S0059">yeah</u>
+<u n="142" who="S0145">need assistance?</u>
+<u n="143" who="S0106">I made brownies last week to bring to twenty twenty but I burnt them somewhat <pause dur="short"/> so they weren't good enough for twenty twenty so I've just been eating them all week and then I decided that I should not eat them all and give the last four to everybody</u>
+<u n="144" who="S0145">as well</u>
+<u n="145" who="S0109">but <pause dur="short"/> but if you burn brownies do you just burn the top or do you burn the whole lot?</u>
+<u n="146" who="S0106">it's burned the bottom</u>
+<u n="147" who="S0145">mm</u>
+<u n="148" who="S0109">how?</u>
+<u n="149" who="S0106">I don't know <pause dur="short"/> cos the tin has got hotter at the bottom than at the top somehow</u>
+<u n="150" who="S0145">how are there random trees surviving in that forest fire?</u>
+<u n="151" who="S0079">aren't they just not fully burnt yet rather than surviving?</u>
+<u n="152" who="S0145">this looks scary</u>
+<u n="153" who="S0106"><unclear/> forest fires</u>
+<u n="154" who="S0155">do you want to take your places ladies and gentlemen?</u>
+<u n="155" who="S0109">yes please</u>
+<u n="156" who="S0145">that <pause dur="short"/> which one's mine</u>
+<u n="157" who="S0109">that one's mine</u>
+<u n="158" who="S0145">that one's yours?</u>
+<u n="159" who="S0109">yep</u>
+<u n="160" who="S0145">that one's mine <pause dur="short"/> yes</u>
+<u n="161" who="S0059">wow this food looks amazing <pause dur="short"/> do you want to maybe <unclear/> then you can get up and have a drink</u>
+<u n="162" who="S0155">I don't want to miss the drinks <pause dur="short"/> you alright <anon type="name" nameType="m"/>?</u>
+<u n="163" who="S0127">not bad mate well no I'm ill actually</u>
+<u n="164" who="S0155">oh okay</u>
+<u n="165" who="S0127">I've got a cold</u>
+<event desc="unintelligible"/>
+<u n="166" who="S0105">what do you want to drink <pause dur="short"/> apple?</u>
+<u n="167" who="S0079">em oh yes please</u>
+<u n="168" who="S0105">apple?</u>
+<u n="169" who="S0079">em yeah thank you</u>
+<u n="170" who="S0109">I feel like I'm gatecrashing</u>
+<u n="171" who="S0105">what?</u>
+<u n="172" who="S0109">I feel like I'm gatecrashing</u>
+<u n="173" who="S0079">you were invited weren't you?</u>
+<u n="174" who="S0109">yes but</u>
+<u n="175" who="S0079">I think that excludes you from gatecrashing</u>
+<u n="176" who="S0127">I was invited the minute before you were invited <pause dur="short"/> I don't feel like I'm gatecrashing</u>
+<u n="177" who="S0105">I think you were invited like on an email weren't you?</u>
+<u n="178" who="S0109">yeah</u>
+<u n="179" who="S0105">I was invited for next week <pause dur="short"/> this is next week</u>
+<u n="180" who="S0109">mm</u>
+<u n="181" who="S0127">you just turned up today?</u>
+<u n="182" who="S0155">so I said just come today</u>
+<u n="183" who="S0127">I thought you just gambled on it happening more than one week</u>
+<u n="184" who="S0141">chicken on people's plates and then hand the plates around <pause dur="short"/> em well you can start as the plates go round just em if you start putting your veg on already <pause dur="short"/> then David you can that's really hot though <pause dur="short"/> yes well I tell you what you could pass a plate to <anon type="name" nameType="m"/> and then he could put stuff on and then <pause dur="short"/> okay</u>
+<u n="185" who="S0059">I don't know is that  is that  really stingy or is that a good portion?</u>
+<u n="186" who="S0141">eh it's probably good for now we can always put extra on</u>
+<u n="187" who="S0059">okay <pause dur="short"/> I'm <unclear/> about portion sizes</u>
+<u n="188" who="S0141">em and if anyone would prefer legs there's legs and wings and stuff</u>
+<u n="189" who="S0079">this is very good Mark <pause dur="short"/> thank you</u>
+<u n="190" who="S0059">mm <pause dur="short"/> lovely</u>
+<u n="191" who="S0155">come on <anon type="name" nameType="m"/> come on <pause dur="short"/> <anon type="name" nameType="m"/> you miss the  you miss the  fun of <unclear/></u>
+<u n="192" who="S0127">is that hot as well?</u>
+<u n="193" who="S0155">no</u>
+<event desc="unintelligible"/>
+<u n="194" who="S0145">well no cos I it's going round this way I think</u>
+<u n="195" who="S0155">you're always in charge of that bit</u>
+<event desc="unintelligible"/>
+<u n="196" who="S0145">well yes it's moving round in a circle</u>
+<u n="197" who="S0127">well done <pause dur="short"/> lovely lovely <anon type="name" nameType="f"/></u>
+<u n="198" who="S0141">does anyone want a leg? Anyone particularly</u>
+<u n="199" who="S0059">potatoes there</u>
+<u n="200" who="S0141">oops</u>
+<u n="201" who="S0127">they're potatoes aren't they?</u>
+<u n="202" who="S0059">oh yeah</u>
+<u n="203" who="S0079">that's plenty</u>
+<event desc="unintelligible"/>
+<u n="204" who="S0109">you could use that fork</u>
+<u n="205" who="S0145">yes</u>
+<u n="206" who="S0109">you used a fork for your own</u>
+<u n="207" who="S0145">yeah <pause dur="short"/> I just handled everyone else's food there well done</u>
+<u n="208" who="S0141">ooh I've lost a parsnip <anon type="name" nameType="m"/> that's under your foot <pause dur="short"/> em <pause dur="short"/> there's a whole  There's a whole  chicken leg on that one <pause dur="short"/> <unclear/> you can have a chicken in there</u>
+<u n="209" who="S0059" trans="overlap">that has <unclear/> Em do you need <unclear/></u>
+<u n="210" who="S0155">em there's no third option</u>
+<u n="211" who="S0059">okay yeah let's do that</u>
+<u n="212" who="S0155">yeah do that <pause dur="short"/> there's gravy here <pause dur="short"/> and there's a little more on the way so don't worry about taking</u>
+<u n="213" who="S0109">oh</u>
+<event desc="unintelligible"/>
+<u n="214" who="S0079">everyone  chicken <pause dur="short"/> thank you <pause dur="short"/> I put it down and you pick it up?</u>
+<u n="215" who="S0127">yeah</u>
+<u n="216" who="S0059">can someone bring my glass over <pause dur="short"/> mm</u>
+<u n="217" who="S0127">I'm surprised there's someone who likes parsnips more than potatoes</u>
+<u n="218" who="S0155">if you want to eat Yorkshire Puddings you probably have three there's more on the way</u>
+<u n="219" who="S0145">hello there</u>
+<u n="220" who="S0127">hello</u>
+<u n="221" who="S0059">oh I miss</u>
+<u n="222" who="S0141">Le Pew I know <anon type="name" nameType="f"/> aw</u>
+<event desc="unintelligible"/>
+<u n="223" who="S0145">em <pause dur="short"/> mm</u>
+<u n="224" who="S0141">brilliant <pause dur="short"/> mm mm</u>
+<u n="225" who="S0079">you <unclear/> didn't you?</u>
+<u n="226" who="S0155" trans="overlap">I think I was stingy with the portions I'm sorry</u>
+<u n="227" who="S0141">yeah I reckon it's always better to then have more</u>
+<u n="228" who="S0127">you've lost</u>
+<u n="229" who="S0141">anybody want more? You may as well shovel it on now <pause dur="short"/> pass that to Jo <unclear/></u>
+<u n="230" who="S0059">any more potatoes anyone?</u>
+<u n="231" who="S0127">yeah go on</u>
+<u n="232" who="S0141">more?</u>
+<u n="233" who="S0079">thank you</u>
+<u n="234" who="S0141">Nick?</u>
+<u n="235" who="S0079">oh thank you</u>
+<u n="236" who="S0141">em and there's a whole other chicken leg as well</u>
+<event desc="unintelligible"/>
+<u n="237" who="S0059"><anon type="name" nameType="m"/>? <anon type="name" nameType="f"/>?</u>
+<u n="238" who="S0079">it wasn't me</u>
+<u n="239" who="S0145">yeah sorry I couldn't <unclear/></u>
+<u n="240" who="S0127">blame the other half</u>
+<u n="241" who="S0105">do you want some food <anon type="name" nameType="f"/>?</u>
+<u n="242" who="S0059">can I have the gravy please?</u>
+<u n="243" who="S0105">is that yours?</u>
+<u n="244" who="S0109">no no I don't think this one's mine</u>
+<u n="245" who="S0059">what? The other what?</u>
+<u n="246" who="S0079"><unclear/></u>
+<u n="247" who="S0059">third?</u>
+<u n="248" who="S0145">whoa <pause dur="short"/> who's is this other third?</u>
+<u n="249" who="S0106">it's more appropriately half the size</u>
+<u n="250" who="S0145">oh right</u>
+<u n="251" who="S0106">A third?</u>
+<u n="252" who="S0145">we need to copy a third person in on our relationship</u>
+<u n="253" who="S0105">does anyone want anymore?</u>
+<u n="254" who="S0141">em right so there's there's more chicken if anybody needs it em so I'll just pop it on here for now</u>
+<u n="255" who="S0127">do you need more chicken? Do you actually need it <unclear/> that's what you've got to think?</u>
+<u n="256" who="S0141">right <pause dur="short"/> I'll just pop that in the kitchen</u>
+<u n="257" who="S0127">can't want it can't desire you just go I need it</u>
+<u n="258" who="S0079">I I need it</u>
+<u n="259" who="S0155">got Yorkshire Puddings</u>
+<u n="260" who="S0079">oh wow</u>
+<u n="261" who="S0127">gosh there's no end to the food</u>
+<u n="262" who="S0155">em can you pass me some juice down please</u>
+<u n="263" who="S0105">what would you like? Can I not pass you a glass up?</u>
+<u n="264" who="S0155">no it's fine <pause dur="short"/> go on pass that one down</u>
+<u n="265" who="S0059">do you know em where my glass was?</u>
+<event desc="unintelligible"/>
+<u n="266" who="S0105">are you alright with a leg <anon type="name" nameType="f"/>?</u>
+<u n="267" who="S0059">yeah</u>
+<u n="268" who="S0127">you don't want a clean one?</u>
+<u n="269" who="S0059">no <pause dur="short"/> I feel bad if someone's got my dirty one</u>
+<u n="270" who="S0127">no don't be an idiot everyone's got a clean or <unclear/></u>
+<event desc="unintelligible"/>
+<u n="271" who="S0155">I'll just say grace for us <pause dur="short"/> em thank you Lord for providing everything that you do provide for us even give us life itself you give us salvation and then you've given us this food now <pause dur="short"/> thank you for what you've provided for us <pause dur="short"/> amen</u>
+<u n="272" who="UNKMALE" whoConfidence="low">amen</u>
+<event desc="unintelligible"/>
+<u n="273" who="S0141">I'm gonna slice through the parsnip</u>
+<u n="274" who="S0059">who's got the apple and mango? Oh <pause dur="short"/> thank you <pause dur="short"/> thank you very much</u>
+<u n="275" who="S0109">I'll have I don't want to be accused of giving you a soup</u>
+<u n="276" who="S0105">no I like soup</u>
+<u n="277" who="S0109">mm <pause dur="short"/> gravy soup</u>
+<u n="278" who="S0127">okay?</u>
+<u n="279" who="S0145">yeah <pause dur="short"/> I used marmite as a cooking ingredient the other day actually for making <unclear/></u>
+<u n="280" who="S0059">Marmite?</u>
+<u n="281" who="S0145">yeah em and it cos it forms like a good stock</u>
+<u n="282" who="S0059">oh yeah so</u>
+<u n="283" who="S0145">like vegetarian one <pause dur="short"/> so</u>
+<u n="284" who="S0127">I've no idea you're the one that looked at me</u>
+<u n="285" who="S0145">yeah <pause dur="short"/> it gives a nice meaty flavour</u>
+<u n="286" who="S0127">that was  it's fine</u>
+<u n="287" who="S0059">oh yeah</u>
+<event desc="unintelligible"/>
+<u n="288" who="S0141">I'm not a lover of Marmite but I can imagine in gravy might be quite nice</u>
+<u n="289" who="S0109">I love vegemite</u>
+<u n="290" who="S0155">Nigella Lawson uses it in Spaghetti Bolognese</u>
+<u n="291" who="S0059">shepherd pie it's normally good in</u>
+<u n="292" who="S0145">mm</u>
+<u n="293" who="S0079">Nigella Lawson uses peanut butter in places where it shouldn't be as well</u>
+<u n="294" who="S0155">like?</u>
+<u n="295" who="S0079">well in anything really</u>
+<u n="296" who="S0109">say that again?</u>
+<u n="297" who="S0079">but peanut <pause dur="short"/> nigella uses peanut butter in places that they shouldn't like cookies and things <pause dur="short"/> had a</u>
+<u n="298" who="S0145">no that's really tasty</u>
+<u n="299" who="S0079">had a  Had a  friend at school who made peanut butter cookies according to her recipe like for her food tech and</u>
+<u n="300" who="S0109">peanut butter and chocolate together is good</u>
+<u n="301" who="S0145">I was going to say if <unclear/> peanut butter sandwich instead of having peanut butter</u>
+<u n="302" who="S0105">that was that home economics when you were at school?</u>
+<u n="303" who="S0109">I was going to say what was it called when you were at school? Alright</u>
+<u n="304" who="S0105">home economics <pause dur="short"/> actually it's combined science <pause dur="short"/> no</u>
+<u n="305" who="S0155">combined science?</u>
+<u n="306" who="S0079">but surely that's very different to</u>
+<u n="307" who="S0105" trans="overlap">no it was really weird <pause dur="short"/> we <pause dur="short"/> my GSCE Home Economics was combined with</u>
+<u n="308" who="S0145">did you even do GCSEs?</u>
+<u n="309" who="S0127">I did</u>
+<u n="310" who="S0145">I remember A Levels</u>
+<u n="311" who="S0155">I'm that old</u>
+<u n="312" who="S0079">are you?</u>
+<u n="313" who="S0155">to do <trunc>O</trunc> O Levels <pause dur="short"/> yeah yeah <pause dur="short"/> I did <trunc>O</trunc> three kinds of exams <pause dur="short"/> o Levels CSE and GCEs</u>
+<u n="314" who="S0059">mm <pause dur="short"/> cSEs I've heard of those</u>
+<u n="315" who="S0155">oh yeah I did CSEs as well</u>
+<u n="316" who="S0109">what are CSEs?</u>
+<u n="317" who="S0155">em Certificate in Secondary Education</u>
+<u n="318" who="S0109">and when did you do this?</u>
+<u n="319" who="S0106">so they used to have O Levels and CSEs and they combined the two to make GCSEs?</u>
+<u n="320" who="S0155">yeah it's not eh there was probably just an overlap while I was em when I</u>
+<u n="321" who="S0109">mm</u>
+<u n="322" who="S0105">yeah <pause dur="short"/> so we did technology which was like designing stuff <pause dur="short"/> woodwork IT and Home Economics in one exam</u>
+<u n="323" who="S0127">oh wow</u>
+<u n="324" who="S0155">interesting</u>
+<u n="325" who="S0127">iT?</u>
+<u n="326" who="S0105">yeah</u>
+<u n="327" who="S0109">so did you have to try and combine them so you used IT in the kitchen and?</u>
+<u n="328" who="S0059">did you knit yourself a computer or something?</u>
+<u n="329" who="S0105">I got a C which I was really disappointed with cos I was always good at IT but not so good at crafts and</u>
+<u n="330" who="S0141">mm</u>
+<u n="331" who="S0106">and how's your cooking Dave? That cake was amazing wasn't it?</u>
+<u n="332" who="S0127">it's really good</u>
+<u n="333" who="S0105">Good cake wasn't it? I'll give you the recipe for it</u>
+<u n="334" who="S0059">what cake was that?</u>
+<u n="335" who="S0145">amazing cake</u>
+<u n="336" who="S0109">is that the one for the em twenty twenty group that was didn't share with any other twenty twenty group?</u>
+<u n="337" who="S0141">ah is this your granny's?</u>
+<u n="338" who="S0155">what on Tuesday evening? They were on the table</u>
+<u n="339" who="S0145" trans="overlap">it was on the table just half of us took most of it</u>
+<u n="340" who="S0127" trans="overlap">it didn't last very long</u>
+<u n="341" who="S0109">mm</u>
+<u n="342" who="S0145">I think it was just our table that ate all of it and then</u>
+<u n="343" who="S0106">I thought there's at least thirty-two cubes there may need cutting up but when you cut it up I</u>
+<u n="344" who="S0155">and so we cut it into at least six cubes</u>
+<u n="345" who="UNKMULTI"><vocal desc="laugh"/></u>
+<event desc="unintelligible"/>
+<u n="346" who="S0141">so <anon type="name" nameType="m"/> tell us about your mission <pause dur="short"/> we want to hear all about it <pause dur="short"/> <anon type="name" nameType="m"/>'s just come from <anon type="place"/> University for a week long mission</u>
+<u n="347" who="S0145" trans="overlap">what an amazing day</u>
+<u n="348" who="S0127">I don't think you want to hear all about it but em</u>
+<u n="349" who="S0141">well yeah yeah <pause dur="short"/> <unclear/></u>
+<u n="350" who="S0127">em</u>
+<u n="351" who="S0141">who was giving talks and what was happening?</u>
+<u n="352" who="S0127">so we had eh five lunch bars across the week</u>
+<u n="353" who="S0109">mm hm</u>
+<u n="354" who="S0127">the first two were done by our main speaker who's a guy called <anon type="name" nameType="m"/> who works at a church near <anon type="place"/> who is their assistant pastor</u>
+<u n="355" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="356" who="S0059">mm what church is it in <anon type="place"/>?</u>
+<u n="357" who="S0127">he is at I don't know cos he said some I might I don't remember oh <anon type="place"/> Street</u>
+<u n="358" who="S0059">ah right that's <unclear/></u>
+<u n="359" who="S0127">and em so he did the first two and then there was a guy called <anon type="name" nameType="m"/> who we picked up not randomly but em</u>
+<u n="360" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="361" who="S0127">we did like we just like stopped at a service station picked <anon type="name" nameType="m"/> up drove on <pause dur="short"/> em so he was he's from <anon type="place"/> originally but he's at in <anon type="place"/> <anon type="place"/> at the moment <pause dur="short"/> so he did another couple <pause dur="short"/> and they were really well attended by the standard of <anon type="place"/> <pause dur="short"/> so like our rooms were kind of packed each day people standing almost every day you know <pause dur="short"/> so it was really good</u>
+<u n="362" who="S0145">wonderful</u>
+<u n="363" who="S0127">lots of firing questioning going on before it and the question answer were really good actually</u>
+<u n="364" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="365" who="S0109">overflowing with <unclear/></u>
+<u n="366" who="S0079">you're from <anon type="place"/> right?</u>
+<u n="367" who="S0127">my my parent's home is like forty minutes away</u>
+<u n="368" who="S0079">yeah but you <pause dur="short"/> went to uni there</u>
+<u n="369" who="S0127" trans="overlap">I was at <anon type="place"/> Uni <pause dur="short"/> yeah yeah</u>
+<u n="370" who="S0059">mm</u>
+<u n="371" who="S0127">em <pause dur="short"/> we know of definitely of one person who is eh saying they're a Christian well there may be more <pause dur="short"/> lots of people the final night lots of people were having very long chats at the end for a long time em so yeah <pause dur="short"/> there were people that came to stuff every week and then yeah all the  all the  other random stories of yeah it was just like nice seeing old friends and being back and ego boost took over a little it was one eh <pause dur="short"/> it was really nice</u>
+<u n="372" who="S0059">ego boost? Why the egos?</u>
+<u n="373" who="S0127">it's like you know everyone knows you <pause dur="short"/> like you're wandering around campus you see like a hundred a hundred and fifty <trunc>pe</trunc></u>
+<u n="374" who="S0079">you can have a <unclear/>?</u>
+<u n="375" who="S0127">yeah yeah exactly <pause dur="short"/> em all the stupid stories of things you did when you were a student come to light again em</u>
+<u n="376" who="S0109">that's an ego boost?</u>
+<u n="377" who="S0079" trans="overlap">were you still?</u>
+<u n="378" who="S0127">oh yeah no it's good  it's good</u>
+<u n="379" who="S0145"><unclear/> actually?</u>
+<event desc="unintelligible"/>
+<u n="380" who="S0079">are you still criticising people for <unclear/> putting their elbows on the table?</u>
+<u n="381" who="S0127">no no I stopped</u>
+<u n="382" who="S0141">so highlight? What's the new highlight?</u>
+<u n="383" who="S0127">em</u>
+<u n="384" who="S0105">what was her name?</u>
+<u n="385" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="386" who="S0059">Dave you're such a one-track mind</u>
+<u n="387" who="S0127">he's a man what do you expect?</u>
+<u n="388" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="389" who="S0109">Don't encourage him either</u>
+<u n="390" who="S0105">suppose not</u>
+<u n="391" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="392" who="S0127">well the fresher I stayed with em I would say claim he had the the best week of his life ever but eh he might say different</u>
+<u n="393" who="S0145">yeah</u>
+<u n="394" who="S0127">em yeah but we had lots of fun em</u>
+<u n="395" who="S0109">because you stayed with him?</u>
+<u n="396" who="S0127">yeah because I stayed with him <pause dur="short"/> em that's was that's right em</u>
+<u n="397" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="398" who="S0141">did you stay on campus?</u>
+<u n="399" who="S0127">yeah</u>
+<u n="400" who="S0109">oh brilliant</u>
+<u n="401" who="S0127">so in his room with him yeah so all the cooks have to stay on campus</u>
+<u n="402" who="S0141">bit intense isn't it?</u>
+<u n="403" who="S0127">well you know <pause dur="short"/> that's that's it's good</u>
+<u n="404" who="S0145">he escaped from the library anyway</u>
+<u n="405" who="S0127">it's nice cos you get to know his I got to know his flat really well and at first they were really like anti-anything</u>
+<u n="406" who="S0059">mm</u>
+<u n="407" who="S0127">and by the end of the week they all but two came to so there was eight in the flat <pause dur="short"/> we took seven or eight of them like two or three from other flats em to the talks</u>
+<u n="408" who="S0079" trans="overlap">Don't think I have enough food</u>
+<u n="409" who="S0155">does anyone want the chicken that you can get some meat off? Dig your own</u>
+<u n="410" who="S0109">dig your own</u>
+<u n="411" who="S0079">go on I'll happily dig fella</u>
+<u n="412" who="S0109">yeah</u>
+<u n="413" who="S0079">in fact do you just want to swap plates?</u>
+<u n="414" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="415" who="S0155">no</u>
+<u n="416" who="S0109">no</u>
+<u n="417" who="S0155">I want to make soup out of the carcass so you are not eating the carcass</u>
+<u n="418" who="S0141">did you have anyone who was like really really anti or?</u>
+<u n="419" who="S0127">eh a few <pause dur="short"/> eh the first day we had em five people from the Atheist Society <pause dur="short"/> like some of the founders came and sit <trunc>r</trunc> right in the centre of our our lecture of our eh lunch bar but em yeah</u>
+<u n="420" who="S0141">but that's good they came to hear a talk?</u>
+<u n="421" who="S0127">yeah like they <pause dur="short"/> so I heard one say like I'm going to free my schedule all week just so I can come and debate with these guys</u>
+<u n="422" who="S0141">Great</u>
+<u n="423" who="S0145"><unclear/></u>
+<u n="424" who="S0127">I know  I know  and like</u>
+<u n="425" who="S0109">oh brilliant</u>
+<u n="426" who="S0127">and then he brought all his friends</u>
+<u n="427" who="S0109">yeah</u>
+<u n="428" who="S0127">you're an idiot you shouldn't do that <pause dur="short"/> that was a terrible terrible decision</u>
+<u n="429" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="430" who="S0141">yeah <pause dur="short"/> that's really good</u>
+<u n="431" who="S0105"><unclear/></u>
+<u n="432" who="S0109">did they ask interesting questions or did they just?</u>
+<u n="433" who="S0127">well a mixture <pause dur="short"/> so the first  the first  day was science <pause dur="short"/> lots if them did physics and they asked kind of like really like very very detailed questions <pause dur="short"/> but they were just doing that to be problematic rather than wanting</u>
+<u n="434" who="S0141">yeah <pause dur="short"/> wow <pause dur="short"/> so are you shattered was it a long night?</u>
+<u n="435" who="S0127">eh <pause dur="short"/> it was but em I'm feeling reasonably okay</u>
+<u n="436" who="S0141">mm</u>
+<u n="437" who="S0127">em <pause dur="short"/> I think it's cos it's so like encouraging being there</u>
+<u n="438" who="S0141">yeah</u>
+<u n="439" who="S0127">so exciting</u>
+<u n="440" who="S0141">mm that's brilliant</u>
+<u n="441" who="S0127">yeah it was  it was  a lot of fun</u>
+<u n="442" who="S0141">mm</u>
+<u n="443" who="S0127">lots of  Lots of  Nice setup <pause dur="short"/> nice to see all the freshers getting stuck in and all the  all the  things <unclear/></u>
+<u n="444" who="S0141">ah lovely</u>
+<u n="445" who="S0059">did the freshers seem really little?</u>
+<u n="446" who="S0127">no</u>
+<u n="447" who="S0059">no oh</u>
+<u n="448" who="S0141">aw <pause dur="short"/> that's fantastic</u>
+<u n="449" who="S0127">it was really good</u>
+<u n="450" who="S0141">there's a big <anon type="place"/> mission as of this lunch time</u>
+<u n="451" who="S0145">today yeah</u>
+<u n="452" who="S0109">oh is it <unclear/></u>
+<u n="453" who="S0109">yes so <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> from that one and I think it starts at three o'clock</u>
+<u n="454" who="S0059">still the same time that Ireland</u>
+<u n="455" who="S0141"><trunc>B</trunc> <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> is there</u>
+<u n="456" who="S0059">Ireland Wales rugby game</u>
+<u n="457" who="S0145"><unclear/></u>
+<u n="458" who="S0059">he's probably hoping the <unclear/> snow again</u>
+<u n="459" who="S0145">we've got clips of him <unclear/> circulating on Facebook at the moment he's got the most wonderful accent</u>
+<u n="460" who="S0059">what <anon type="name" nameType="m"/>?</u>
+<u n="461" who="S0141">yeah I love it <pause dur="short"/> I do love it</u>
+<u n="462" who="S0079">he did the <anon type="place"/> talk</u>
+<u n="463" who="S0145">did he? Oh yes</u>
+<u n="464" who="S0141">there lots of em potatoes and parsnips and Yorkshire puddings so <unclear/></u>
+<u n="465" who="S0079" trans="overlap">send them down please <pause dur="short"/> dave can you send down some roasties</u>
+<u n="466" who="S0141">take take take pass one and then <pause dur="short"/> so who so I think a lunchtime talk you have a lunchtime talks as well? Do you know who's doing those ones?</u>
+<u n="467" who="S0079" trans="overlap"><unclear/> time <pause dur="short"/> what's that? That's</u>
+<u n="468" who="S0145">I think</u>
+<u n="469" who="S0109">Cos <anon type="name" nameType="m"/> must be doing the evening</u>
+<u n="470" who="S0106">eh could you put some veggies?</u>
+<u n="471" who="S0145">he does the first three days of lunchtime talks and then they have <trunc>ev</trunc> they switch to evening talks and then?</u>
+<u n="472" who="S0141">okay</u>
+<u n="473" who="S0059">I know that em</u>
+<u n="474" who="S0145">there's also like they start up follow-up groups as well</u>
+<u n="475" who="S0141">oh okay</u>
+<u n="476" who="S0109">on Monday evening for the rest of the term</u>
+<u n="477" who="S0141">mm yeah <pause dur="short"/> mm <pause dur="short"/> I know the em the vicar of St <pause dur="short"/> andrew the Great he's doing I think he's doing Sunday I thought</u>
+<u n="478" who="S0145">yeah</u>
+<u n="479" who="S0059">em</u>
+<u n="480" who="S0141">soup</u>
+<u n="481" who="S0105">I'm not quite sure how I'm going to do this</u>
+<u n="482" who="S0141">there's more opposition there to the <unclear/> one <pause dur="short"/> I remember being a college guest and I remember we all had these hoodies that we'd go around</u>
+<u n="483" who="S0145">yeah <pause dur="short"/> so this year it's real life em</u>
+<u n="484" who="S0141" trans="overlap">yeah okay <pause dur="short"/> but I remember then another society I don't know if it was atheist society or what all got their own hoodies made in the same</u>
+<u n="485" who="S0145">style</u>
+<u n="486" who="S0141">image and style but with like this another slogan on the back sort of saying this is all a load of rubbish or something like they or some some witty turnaround of what of of what the em the title of their mission was</u>
+<u n="487" who="S0145">yeah yeah</u>
+<u n="488" who="S0106">did they all have em different coloured hoodies and things this because it changes from year to year sometimes</u>
+<u n="489" who="S0141">it does</u>
+<u n="490" who="S0106">sometimes they realise that if you have them all as the same colour then it just looks like an army of people</u>
+<u n="491" who="S0145" trans="overlap">yeah this year it's green</u>
+<u n="492" who="S0141">yeah</u>
+<u n="493" who="S0109">that's true</u>
+<u n="494" who="S0059">I think it's green this year</u>
+<u n="495" who="S0145">yeah it's green and it's for a life and there's a it's a heartbeat thing</u>
+<u n="496" who="S0079">I <trunc>be</trunc> I think the most latest one is I think we had a mission called unique a number of years ago <pause dur="short"/> so you had all these Christians wearing identical sweatshirts saying unique</u>
+<u n="497" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="498" who="S0079">which I think someone had not thought of</u>
+<u n="499" who="S0141">oh well <pause dur="short"/> I was really gutted last college fest because the previous year they had a really lovely burgundy hoody and I was like that's really nice <pause dur="short"/> and then the year I did it it was like this bright turquoise colour and I was like that's so is not my colour <vocal desc="laugh"/></u>
+<u n="500" who="S0155">the mission is ruined let's stop not my colour</u>
+<u n="501" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="502" who="S0141">I know</u>
+<u n="503" who="S0059">you know what I think about them do you?</u>
+<u n="504" who="S0141">it's a bit odd isn't it? It looks a bit <pause dur="short"/> it's encouraging I think for the Christians doing it cos they're like oh there's another person oh there's another person</u>
+<u n="505" who="S0109">yeah</u>
+<u n="506" who="S0141">but for those who they're trying to reach I wonder whether it's a bit em</u>
+<u n="507" who="S0127">Ganglike</u>
+<u n="508" who="S0141">Ganglike yeah maybe</u>
+<u n="509" who="S0079">yeah</u>
+<u n="510" who="S0145">mm <pause dur="short"/> but also it's sometimes easier to just <trunc>c</trunc> you can spot them and say okay this is like you're be it's like more official</u>
+<u n="511" who="S0141">that's true</u>
+<u n="512" who="S0145">people are more open to talking about things to people that they think they know not just like</u>
+<u n="513" who="S0141">and also if you have a question like you can find someone</u>
+<u n="514" who="S0145">I would say I'd open up <pause dur="short"/> yeah <pause dur="short"/> it's a random conversation with a student but</u>
+<u n="515" who="S0109">mm</u>
+<u n="516" who="S0106">if they made them different colours they would be less ganglike</u>
+<u n="517" who="S0109">yeah</u>
+<u n="518" who="S0155">variety of colours yeah</u>
+<u n="519" who="S0145">mm</u>
+<u n="520" who="S0106">and I think they did that a few years ago but I don't think they've got that sort of foresight sometimes</u>
+<u n="521" who="S0155">there are some crispier vegetables on the chicken plate</u>
+<u n="522" who="S0145" trans="overlap">yeah you could suggest it</u>
+<u n="523" who="S0127">thank you</u>
+<u n="524" who="S0106">thing is you have to suggest it every single year?</u>
+<u n="525" who="S0145">yeah</u>
+<u n="526" who="S0109">well <pause dur="short"/> sometimes they like <unclear/></u>
+<u n="527" who="S0079">yeah</u>
+<u n="528" who="S0105">happens all the time</u>
+<u n="529" who="S0059">I was just like <unclear/> but</u>
+<u n="530" who="S0105">Emily how did your text a toastie thing go?</u>
+<u n="531" who="S0145">oh yes eh I think it did went okay I couldn't go along to it but <pause dur="short"/> cos <unclear/> at <anon type="place"/> did text a toastie they would <trunc>qu</trunc> text you a question <pause dur="short"/> someone delivers a toastie and answers your question</u>
+<u n="532" who="S0141">that's so good</u>
+<u n="533" who="S0145">and they've done it they did it last term as well <pause dur="short"/> em and I just made a Facebook group for them</u>
+<u n="534" who="S0105">I sent a question in</u>
+<u n="535" who="S0079">what sort of question?</u>
+<u n="536" who="S0141">mm</u>
+<u n="537" who="S0109">did you get a toastie?</u>
+<u n="538" who="S0106">didn't deliver me a toastie and didn't answer my question</u>
+<u n="539" who="S0145" trans="overlap">just it's just delivered all around <anon type="place"/> so</u>
+<u n="540" who="S0127">people's rooms</u>
+<u n="541" who="S0145">just people's rooms</u>
+<u n="542" who="S0059">didn't do either?</u>
+<u n="543" who="S0105">I don't know <pause dur="short"/> these Christians</u>
+<u n="544" who="S0059">what was your question?</u>
+<u n="545" who="S0106">oh I don't know <pause dur="short"/> what is  What is  the meaning of Exodus <unclear/>?</u>
+<u n="546" who="S0059">yeah</u>
+<u n="547" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="548" who="S0059">so did you have to like in your text say like what room number you are?</u>
+<u n="549" who="S0145">yeah you had to text in your question your room number and your <trunc>ta</trunc> your toastie choice so there's like cheese and ham and marshmallows and jalapenos and</u>
+<u n="550" who="S0059">marshmallows?</u>
+<u n="551" who="S0145">yeah they did have a sweet one</u>
+<u n="552" who="S0079">marshmallows and jalapenos?</u>
+<u n="553" who="S0155" trans="overlap">marshmallows and <trunc>jala</trunc></u>
+<u n="554" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="555" who="S0155">that's just wrong</u>
+<u n="556" who="S0145">but they put yeah you can have like a sweet one or a savoury one</u>
+<u n="557" who="S0079">I <trunc>th</trunc> I I think that has potential</u>
+<u n="558" who="S0145">yeah cos you know like chocolate and marshmallow toastie is amazing</u>
+<u n="559" who="S0059"><unclear/></u>
+<u n="560" who="S0106">A few weeks ago I was quite tempted to text you with if God's all powerful than how can you come up with you're mammas so fat even he can't move her</u>
+<u n="561" who="S0145">ow <pause dur="short"/> I just got</u>
+<u n="562" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="563" who="S0106">domestic violence <pause dur="short"/> doesn't help</u>
+<u n="564" who="S0127">no I'm fine for now thank you</u>
+<u n="565" who="S0145">it seems to work less <pause dur="short"/> learning that</u>
+<u n="566" who="S0059">no I can't order my <unclear/></u>
+<event desc="unintelligible"/>
+<u n="567" who="S0155">bit steamy</u>
+<u n="568" who="S0079" trans="overlap">what's the what sort of things do people actually ask?</u>
+<u n="569" who="S0145">em I don't know I have to hear back from them</u>
+<u n="570" who="S0059" trans="overlap">no <pause dur="short"/> <unclear/></u>
+<u n="571" who="S0155">the <unclear/> bit or the door</u>
+<u n="572" who="S0059">it's a big area this isn't it?</u>
+<u n="573" who="S0155">yeah <pause dur="short"/> we'll do a guided tour in a little bit eh</u>
+<u n="574" who="S0141">that's that's why we went for it <pause dur="short"/> yeah I'll open the door and then we'll do a tour</u>
+<u n="575" who="S0109">so was it two rooms originally or?</u>
+<u n="576" who="S0145" trans="overlap">I just  I just  dropped my glass in it <unclear/> dirty</u>
+<u n="577" who="S0155">yeah so even at</u>
+<u n="578" who="S0105">I think this was the kitchen</u>
+<u n="579" who="S0155">yes so that</u>
+<u n="580" who="S0059">how do you know that?</u>
+<u n="581" who="S0105">I guessed</u>
+<u n="582" who="S0155">Cos he's clever <pause dur="short"/> yeah so there would have been a wall across there and the kitchen's an extension</u>
+<u n="583" who="S0141">yeah <pause dur="short"/> we liked it cos it was</u>
+<u n="584" who="S0059">how did you know this was the only place for the kitchen?</u>
+<u n="585" who="S0105">because that's has been added on</u>
+<u n="586" who="S0079" trans="overlap">where else would the kitchen be?</u>
+<u n="587" who="S0109">so the kitchen has to be somewhere here</u>
+<u n="588" who="S0105">so the kitchen had to be somewhere down here <pause dur="short"/> so it's just a matter of guessing really</u>
+<u n="589" who="S0141">that was the backdoor and that was a a window into the yard</u>
+<u n="590" who="S0145">yes</u>
+<u n="591" who="S0141">the chickens</u>
+<u n="592" who="S0127">have the  Have the  people the other side copied this kind of layout? Is it very common to have the extension on the</u>
+<u n="593" who="S0155">em no they haven't got the same kind of extension</u>
+<u n="594" who="S0141">they've got their son living in the shed at the bottom of the garden</u>
+<u n="595" who="S0109">aw</u>
+<u n="596" who="S0155">the shed looks great</u>
+<u n="597" who="S0141">they've converted the shed oh yeah and he said the shed is very big it's not like a little one <pause dur="short"/> but it's got a proper front door and everything so he just like walks from the bottom of the garden</u>
+<u n="598" who="S0145">ah</u>
+<u n="599" who="S0155">he's got a TV aerial and stuff</u>
+<u n="600" who="S0145">well it gives him a bit of independence</u>
+<u n="601" who="S0141">yeah <pause dur="short"/> well he is like in his thirties or something</u>
+<u n="602" who="S0109" trans="overlap">how old is he? Oh no</u>
+<u n="603" who="S0145">oh okay</u>
+<u n="604" who="S0155">Mid middle twenties</u>
+<u n="605" who="S0141">Mid twenty okay</u>
+<u n="606" who="S0059">I thought he'd be like twelve</u>
+<u n="607" who="S0155">no she said he was in his</u>
+<u n="608" who="S0059">oh okay</u>
+<u n="609" who="S0079">yesterday she was talking about how she wants to live at home</u>
+<u n="610" who="S0109">yeah no</u>
+<u n="611" who="S0059">have you got to know your neighbours at all?</u>
+<u n="612" who="S0155">A <trunc>li</trunc> those two a little <pause dur="short"/> yeah the other side not the</u>
+<u n="613" who="S0079">there's a van there having great difficulty getting out</u>
+<u n="614" who="S0141">oh really?</u>
+<u n="615" who="S0105">he's already tried to get out once <pause dur="short"/> he's gone out once</u>
+<u n="616" who="S0127">no he</u>
+<u n="617" who="S0145">I don't know <pause dur="short"/> I think he's actually just parking there</u>
+<u n="618" who="S0079">yes he's moving back</u>
+<u n="619" who="S0155">what the next door neighbour?</u>
+<u n="620" who="S0145">yeah fit <unclear/></u>
+<u n="621" who="S0105">he's been out once <pause dur="short"/> I watched him go out earlier</u>
+<u n="622" who="S0141">David is that your phone? Why?</u>
+<event desc="recording skips"/>
+<u n="623" who="S0127">can't remember her surname <pause dur="short"/> not McCuchin</u>
+<u n="624" who="S0145">well I'm going out to Nepal and teach her how to speak you know gangster <pause dur="short"/> cos I've applied  I've applied  to go to Nepal for to teach English over the summer</u>
+<u n="625" who="S0127">you're going to go to Nepal? Whereabouts?</u>
+<u n="626" who="S0145">em I think it's a valley in the north of Nepal</u>
+<u n="627" who="S0141">valley</u>
+<u n="628" who="S0127">okay</u>
+<u n="629" who="S0145">yeah and I've only just applied and I'll hear more about it but em</u>
+<u n="630" who="S0127">cool</u>
+<u n="631" who="S0145">I've possibly <anon type="name" nameType="f"/> might be applying as well if she doesn't get onto something else and another friend <anon type="name" nameType="f"/> who is Indian and so what we could do is go out together and then go and stay where she lives in Rajasthan for a week as well</u>
+<u n="632" who="S0127">em Rajasthan is a great place</u>
+<u n="633" who="S0145">yeah</u>
+<u n="634" who="S0127">where do you know whereabouts in Rajasthan?</u>
+<u n="635" who="S0145">I don't know but</u>
+<u n="636" who="S0109" trans="overlap">where is Rajasthan?</u>
+<u n="637" who="S0127">no Rajasthan's really good</u>
+<u n="638" who="S0109">where is it?</u>
+<u n="639" who="S0145">yeah</u>
+<u n="640" who="S0127">it's eh to the west of Delhi</u>
+<u n="641" who="S0145">yeah <pause dur="short"/> I know I mean</u>
+<u n="642" who="S0127">up to the Pakistan border</u>
+<u n="643" who="S0145">yeah</u>
+<u n="644" who="S0127">and it's great it's desert but fantastic scenery</u>
+<u n="645" who="S0145">mm</u>
+<u n="646" who="S0127">in places <pause dur="short"/> you can go camel riding and things like that there</u>
+<u n="647" who="S0145">yeah cos they also you one thing you can do with this thing is eh you teach for a while and then you meet up with the other volunteers cos there's lots of people working in the same valley at the same time <pause dur="short"/> and then you all go trekking around for like a week <pause dur="short"/> with like Sherpas</u>
+<u n="648" who="S0127">eh yeah it's good fun</u>
+<u n="649" who="S0145">it should be amazing</u>
+<u n="650" who="S0127">I did a Everest base camp ish trek</u>
+<u n="651" who="S0145">yes they they offer one like that I think em <pause dur="short"/> but I'll see <pause dur="short"/> see if I get on <pause dur="short"/> but eh I'd love to</u>
+<u n="652" who="S0127">yeah</u>
+<u n="653" who="S0145">run away from you for six months six weeks</u>
+<u n="654" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="655" who="S0106">you meant months</u>
+<u n="656" who="S0059">I did not mean months</u>
+<u n="657" who="S0105">six weeks to start with and then another six weeks</u>
+<u n="658" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="659" who="S0145">well I  Well I  abandoned you for seven weeks last summer so</u>
+<u n="660" who="S0105">you did really well <pause dur="short"/> coped amazingly</u>
+<u n="661" who="S0127">he didn't fall to pieces</u>
+<u n="662" who="S0105">no</u>
+<u n="663" who="S0145">it's fine I saw him every other day on Skype so</u>
+<u n="664" who="S0106"><vocal desc="laugh"/></u>
+<u n="665" who="S0145">yeah but no Skype in in Nepal</u>
+<u n="666" who="S0127">sorry?</u>
+<u n="667" who="S0145">no no Skype in Nepal so I'll have to send letters to my mum telling her it's <unclear/></u>
+<u n="668" who="S0127">you can go and visit at the end Ed and go go trekking</u>
+<u n="669" who="S0059">yeah</u>
+<u n="670" who="S0105">yeah why don't you go out for a week?</u>
+<u n="671" who="S0109" trans="overlap">what are you doing in the summer?</u>
+<u n="672" who="S0145" trans="overlap">yeah</u>
+<u n="673" who="S0106">I'm going to Russia</u>
+<u n="674" who="S0127">you're going to Russia?</u>
+<u n="675" who="S0105">it's alright you'll have a  you'll have a  warm coat</u>
+<u n="676" who="S0106">but it's warm in summer</u>
+<u n="677" who="S0145" trans="overlap">meet in Nepal?</u>
+<u n="678" who="S0109">no</u>
+<u n="679" who="S0155">the girl I work with is Polish and she's going home next weekend and she's really worried because</u>
+<u n="680" who="S0145">yeah I know</u>
+<u n="681" who="S0155">it's so cold</u>
+<u n="682" who="S0145">yeah I saw a video of someone pouring a cup of boiling water out of a window and it immediately freezes</u>
+<u n="683" who="S0127">really?</u>
+<u n="684" who="S0145">yeah <pause dur="short"/> it was on YouTube it was on well on the BBC website em</u>
+<u n="685" who="S0127">wow that would be kind of fun</u>
+<u n="686" who="S0145">just throw water out</u>
+<u n="687" who="S0109">not to be underneath it it wouldn't</u>
+<u n="688" who="S0145">no but it it just  it just  dissolved into this really light shower</u>
+<u n="689" who="S0127">but just to see <vocal desc="laugh"/></u>
+<u n="690" who="S0145">of of like dust like snow dust</u>
+<u n="691" who="S0109">oh so it's not like icicles</u>
+<u n="692" who="S0145">no no it's not like it icicles it just powdered immediately</u>
+<u n="693" who="S0127">yeah</u>
+<u n="694" who="S0079">although if you've got a hosepipe thing could you like fire icicles at people</u>
+<u n="695" who="S0145">I imagine like the hose would freeze</u>
+<u n="696" who="S0127">the hosepipe would have to be inside wouldn't it? So it wasn't frozen</u>
+<u n="697" who="S0079">yeah</u>
+<u n="698" who="S0145">yeah <pause dur="short"/> don't know <pause dur="short"/> you gonna try it</u>
+<u n="699" who="S0079">do do</u>
+<u n="700" who="S0109">how do you stop the mains freezing?</u>
+<u n="701" who="S0079">sorry?</u>
+<u n="702" who="S0109">how do you stop the mains freezing?</u>
+<u n="703" who="S0106">the mains is quite deep</u>
+<u n="704" who="S0155">it's deep <pause dur="short"/> no <pause dur="short"/> we got an outside tap which I'm a touch worried about and it got frozen</u>
+<u n="705" who="S0145">Cos everyone was worried about how you wrap your taps but don't know what you wrap your taps with</u>
+<u n="706" who="S0079" trans="overlap">it's not even that cold</u>
+<u n="707" who="S0155">do you wanna bet we there's a water butt out there and it's basically solid</u>
+<u n="708" who="S0059">mm <pause dur="short"/> I wouldn't</u>
+<u n="709" who="S0106">actually she saw the lake yesterday in em Botanic Gardens</u>
+<u n="710" who="S0145" trans="overlap">botanic Gardens <pause dur="short"/> I was testing it</u>
+<u n="711" who="S0155">sorry say that again?</u>
+<u n="712" who="S0145">I was testing testing the strength of the ice <pause dur="short"/> so I was holding onto <anon type="name" nameType="m"/> while standing on it just in case <pause dur="short"/> em and yeah it took my weight actually</u>
+<u n="713" who="S0109">you are quite light though</u>
+<u n="714" who="S0145">huh?</u>
+<u n="715" who="S0109">you are quite light</u>
+<u n="716" who="S0145">nine stone</u>
+<u n="717" who="S0109">you are quite light</u>
+<u n="718" who="S0145">yeah</u>
+<u n="719" who="S0079">I remember straight after uni went to holiday in <anon type="place"/> and it was a really cold winter there and I don't know what the main river from <anon type="place"/>'s called</u>
+<u n="720" who="S0155"><anon type="place"/></u>
+<u n="721" who="S0079"><anon type="place"/> <pause dur="short"/> so it it was all <trunc>fro</trunc></u>
+<u n="722" who="S0145">were they skating on it?</u>
+<u n="723" who="S0079">it it it was all frozen over I mean there was no one <unclear/> we <unclear/> thought hey it's frozen <pause dur="short"/> that would be great fun just to like walk across that <pause dur="short"/> and we walked across till we were sort of way in when we soon realised actually this is really stupid isn't it?</u>
+<u n="724" who="S0145">really really <pause dur="short"/> yeah</u>
+<u n="725" who="S0106">has it got sea water?</u>
+<u n="726" who="S0079">sorry?</u>
+<u n="727" who="S0106">isn't it sea water in <anon type="place"/>?</u>
+<u n="728" who="S0155">em it depends how far out you go <pause dur="short"/> it's obviously it it'll blend at a certain point</u>
+<u n="729" who="S0145">yeah</u>
+<u n="730" who="S0079"><trunc>Act</trunc> actually no sorry it it wasn't in <anon type="place"/> it it it was in <anon type="place"/> so it was in em it was in em eh where <anon type="place"/> was</u>
+<u n="731" who="S0155"><anon type="place"/> City</u>
+<u n="732" who="S0079"><unclear/> yeah so it's gonna be further upstream</u>
+<u n="733" who="S0106" trans="overlap">further further upstream</u>
+<u n="734" who="S0145">so yeah unless there are <anon type="place"/> people walking on it don't be <pause dur="short"/> this is nice and <unclear/> we're never going anywhere <pause dur="short"/> don't do what the locals aren't doing</u>
+<u n="735" who="S0155">no completely <pause dur="short"/> I'd love to walk on the <anon type="place"/></u>
+<u n="736" who="S0145">yeah but em the Dutch em</u>
+<u n="737" who="S0079">but you would be the local who everyone was looking at</u>
+<u n="738" who="S0145">yeah <pause dur="short"/> the Dutch are really hoping that this cold spell will last because they try and host this one hundred and twenty-five mile skating race along the canals <pause dur="short"/> so they've turned off the pumps and stop boats going some of the canals hoping that it will freeze to levels <unclear/></u>
+<u n="739" who="S0155">yeah <pause dur="short"/> in the <anon type="place"/> they deliberately flood some areas</u>
+<u n="740" who="S0145">mm</u>
+<u n="741" who="S0155">so it's actually not very deep at all</u>
+<u n="742" who="S0145">yeah</u>
+<u n="743" who="S0155">but it floods and freezes <pause dur="short"/> and eh you can go ice skating in the <anon type="place"/></u>
+<u n="744" who="S0109">and they have <anon type="place"/> skates don't they? They don't use normal skates</u>
+<u n="745" who="S0106">yeah they're different aren't they?</u>
+<u n="746" who="S0155" trans="overlap">I don't know what they're like but yeah they're slightly different <pause dur="short"/> for some reason that doesn't surprise me but</u>
+<u n="747" who="S0145" trans="overlap">or you could do  you could do  what the Vikings do and just get the long bones of sheep and cows and em you just put two <trunc>he</trunc> two holes in the ends and then you can strap them to your feet and you can like cut one side and it grips your shoes more <pause dur="short"/> so there's all these like Vikings' ice skates you find that I've been reading about in the last week <pause dur="short"/> so we can all try it out</u>
+<u n="748" who="S0109">yeah</u>
+<u n="749" who="S0105">yeah <pause dur="short"/> if it's good enough for the Vikings it's good enough for me</u>
+<u n="750" who="S0145">yeah</u>
+<u n="751" who="S0127">they seemed to be quite well</u>
+<u n="752" who="S0155">is that what the Vikings would have said? Would they have used that that terminology?</u>
+<u n="753" who="S0145"><vocal desc="laugh"/> If it's good enough for Dave Mostram two thousand and twelve</u>
+<u n="754" who="S0105">if it's good enough for <anon type="name" nameType="m"/> <pause dur="short"/> yeah yeah</u>
+<u n="755" who="S0127"><vocal desc="laugh"/> I think they said it eh in proper English</u>
+<u n="756" who="S0145">em  speak Old Norse things for the</u>
+<u n="757" who="S0105">yeah <pause dur="short"/> have you been geocaching?</u>
+<u n="758" who="S0145">no</u>
+<u n="759" who="S0105">I think  I think  that is something you need to get into</u>
+<u n="760" who="S0145">em does it you sort of find things in GPS over GPS <unclear/> find?</u>
+<u n="761" who="S0105">just go on  go on  the website geocaching and you get like a little what's it called?</u>
+<u n="762" who="S0127">coordinates</u>
+<u n="763" who="S0105">coordinates of a box or treasure</u>
+<u n="764" who="S0145">I don't know have any way of like finding out the G <pause dur="short"/> unless I had a map of with like OS I wouldn't be able to do the GPS thing</u>
+<u n="765" who="S0109">you'd have to borrow a GPS from someone</u>
+<u n="766" who="S0145">yeah I don't</u>
+<u n="767" who="S0105">yeah you would</u>
+<u n="768" who="S0145">I don't <trunc>do</trunc> have one so</u>
+<u n="769" who="S0105">Ed will get you one</u>
+<u n="770" who="S0145">eh?</u>
+<u n="771" who="S0105">Ed will get you one</u>
+<u n="772" who="S0145">he'll make one probably out of he'll get his electronics kit out and</u>
+<u n="773" who="S0105">I'm totally going to do that over the summer</u>
+<u n="774" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="775" who="S0106">have you seen it?</u>
+<u n="776" who="S0145">no</u>
+<u n="777" who="S0155">your clock?</u>
+<u n="778" who="S0106">yeah</u>
+<u n="779" who="S0155">yeah <pause dur="short"/> it's good</u>
+<u n="780" who="S0109">do you have to switch it off at night?</u>
+<u n="781" who="S0155" trans="overlap">was it you who said you want the bits?</u>
+<u n="782" who="S0106">no it turns itself eh it turns itself down</u>
+<u n="783" who="S0109">oh</u>
+<u n="784" who="S0127">what's your clock?</u>
+<u n="785" who="S0105"></u>
+<u n="786" who="S0106">I don't want I shall mix some juice</u>
+<u n="787" who="S0079">out of?</u>
+<u n="788" who="S0106">it's a kit so I didn't build it <pause dur="short"/> <unclear/> I built it out of  which are these brushing tubes which em <pause dur="short"/> so they're neon tubes sort of ten anodes each in the shape of a number <pause dur="short"/> so they're like one two three four</u>
+<u n="789" who="S0059">ooh the snow is melting I can see it dripping</u>
+<u n="790" who="S0155">I know it's dripping off off the roof</u>
+<u n="791" who="S0059">boo hoo it's sad</u>
+<u n="792" who="S0155">it is but</u>
+<u n="793" who="S0105">it's all going to freeze tonight</u>
+<u n="794" who="S0155">I know it's gonna start getting cold soon</u>
+<u n="795" who="S0059">if it freezes and then it's all really slippy that'd be great cos they might then have to close the school</u>
+<u n="796" who="S0109">yeah but they won't close work</u>
+<u n="797" who="S0155">yeah I know <pause dur="short"/> you you get away with it so much easier</u>
+<u n="798" who="S0059" trans="overlap">yes well I'm purely thinking of myself</u>
+<u n="799" who="S0145">yes and they don't close lectures either <pause dur="short"/> they don't stop essays for the</u>
+<u n="800" who="S0105" trans="overlap">the life of a teacher</u>
+<u n="801" who="S0155">if I lend you my ID card you can go and em just burst a pipe in my building please and I'll do it for you</u>
+<u n="802" who="S0059">oh yeah maybe our boiler will break</u>
+<u n="803" who="S0145">it was seven in my mum's classroom at eight o'clock on Friday morning <pause dur="short"/> she was not happy</u>
+<u n="804" who="S0079" trans="overlap">if your boiler breaks does that mean you</u>
+<u n="805" who="S0127">Seven?</u>
+<u n="806" who="S0145">Seven degrees in the classroom <pause dur="short"/> it's not exactly legal temperature</u>
+<u n="807" who="S0127">ah yeah</u>
+<u n="808" who="S0059">yeah that is illegal</u>
+<u n="809" who="S0105" trans="overlap">that's not legal definitely</u>
+<u n="810" who="S0079">I'd say are you sure you're just going to end up  very very cold</u>
+<u n="811" who="S0109">that's why Saturday got cancelled in during January cos the boiler had broken</u>
+<u n="812" who="S0106" trans="overlap">well the legal is it has to above fifteen degrees within an hour of starting work</u>
+<u n="813" who="S0105">it has to be over fourteen doesn't it to pass em?</u>
+<u n="814" who="S0059">does it?</u>
+<u n="815" who="S0079">actually it's not anymore</u>
+<u n="816" who="S0127">my uncle though was saying that one time when he em was at school em the boiler had broken but they thought they you know everyone <trunc>cou</trunc> like the school kids had just gone in to secondary school so half the class didn't come in most of the teachers couldn't get in <pause dur="short"/> and eh so they just sent them on outdoor PE <pause dur="short"/> they just had to run round the the town that we live in and basically the teachers were stationed in pubs along the route <pause dur="short"/> and had the the class would kind of run through like outside and the teacher would just kind of wave down at them and occasionally like people would drop off the route and then eh <unclear/> Just do that for like three quarters of the day and then they're like no we can't fix it go home</u>
+<u n="817" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="818" who="S0145">so they used to have to bring in industrial heaters into my brother's school all the time because the boilers just broke constantly</u>
+<u n="819" who="S0127">wow</u>
+<u n="820" who="S0145">so they had these massive engines like in the  school sports hall just trying to heat the entire building but</u>
+<u n="821" who="S0106">yeah I remember just sort of it was cold one day at school cos the heater broke and I went home and em like there's <unclear/> containing like all these people had gone home and that we should stay and that we should care about our education</u>
+<u n="822" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="823" who="S0155">kids are always going to want to go home</u>
+<u n="824" who="S0141">yeah</u>
+<u n="825" who="S0105">and teachers too</u>
+<u n="826" who="S0079" trans="overlap">and the teachers do</u>
+<u n="827" who="S0141">yeah</u>
+<u n="828" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="829" who="S0145">more than the kids I bet</u>
+<u n="830" who="S0109">I'm trying to think what else <unclear/></u>
+<u n="831" who="S0155">I imagine the kids totally will be really hoping schools close tomorrow</u>
+<u n="832" who="S0079" trans="overlap">the kids  the kids  aren't allowed to go home</u>
+<u n="833" who="S0109">oh yeah</u>
+<u n="834" who="S0079">since kids are</u>
+<u n="835" who="S0155">and <anon type="name" nameType="m"/> and <anon type="name" nameType="m"/> and <anon type="name" nameType="m"/> <pause dur="short"/> who else?</u>
+<u n="836" who="S0141">yeah well <anon type="name" nameType="f"/> said it's like it's definitely going to be open <pause dur="short"/> eh all the snow will have gone by tomorrow and it's like <anon type="name" nameType="f"/> why are you ruining my hope my dream?</u>
+<u n="837" who="S0106">well since kids aren't actually at work at school the kids can't go home if it's cold like legally</u>
+<u n="838" who="S0141">yeah I was going to say</u>
+<u n="839" who="S0106">but staff are at work and therefore sort of <unclear/> act applies</u>
+<u n="840" who="S0141">yeah <pause dur="short"/> what I found really funny was when I used to work at the University of <anon type="place"/> as a finance manager at one point the temperature dropped too low because one of the heaters didn't work <pause dur="short"/> so legally they had to send us home cos it was below the whatever <pause dur="short"/> so I thought what should I do with myself and I I thought <unclear/> I'll going to see if <anon type="place"/> Church needs any help so I so this is well it was before I <unclear/> student's found it very amusing that there's like <anon type="name" nameType="f"/> and all the others working away with these fingerless gloves and their like breath hitting the computer screen and condensing and <unclear/> cos we had no heating at that stage <pause dur="short"/> and em oh it was just hers and he was like so you've come from one employment to another employment where completely different rules we just keep on going <pause dur="short"/> so ah it was just ah</u>
+<u n="841" who="S0106">I started going to <anon type="place"/> Church about two weeks after it was finished <pause dur="short"/> so it was</u>
+<u n="842" who="S0141">really? Well done <pause dur="short"/> that's very good timing</u>
+<u n="843" who="S0106">so I've heard the stories of like the cold winters and</u>
+<u n="844" who="S0141">yeah <pause dur="short"/> there was this little oil boiler oil burner which is still no it's been ripped out now just at the back where the cars park and that used to heat the whole building or not</u>
+<u n="845" who="S0145">yes</u>
+<u n="846" who="S0141">as the case may be <pause dur="short"/> and the cos it took so long to fire up as it were we didn't we only put it on Sundays <pause dur="short"/> so <vocal desc="laugh"/> the rest of the week we never had this <pause dur="short"/> it was so cold</u>
+<u n="847" who="S0109">did they have an electric heaters that you could bring through?</u>
+<u n="848" who="S0141">well we we at that stage we were <trunc>ca</trunc> we were very careful with money unlike now <pause dur="short"/> but em  but em  we didn't have the money so we we just we didn't have have electric heaters <pause dur="short"/> no <anon type="name" nameType="m"/> was rubbish just wear more clothes <pause dur="short"/> it's not that it's my nose I can't feel my nose</u>
+<u n="849" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="850" who="S0079">all those dead noses <unclear/></u>
+<u n="851" who="S0141">yes <pause dur="short"/> some of us had balaclavas on <pause dur="short"/> oh oh dear</u>
+<u n="852" who="S0106">I would love to see someone teaching in a balaclava <pause dur="short"/> that would be hilarious</u>
+<u n="853" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="854" who="S0141">that would be funny wouldn't it?</u>
+<u n="855" who="S0145">the entire congregation just under one massive blanket</u>
+<u n="856" who="S0106">did you see <anon type="name" nameType="m"/>'s hat?</u>
+<u n="857" who="S0079">that wouldn't be allowed</u>
+<u n="858" who="S0155">like <anon type="name" nameType="n"/>?</u>
+<u n="859" who="S0106">yeah <pause dur="short"/> he's got this like silly hat with sort of well basically the sort of thing <anon type="name" nameType="f"/> would wear</u>
+<u n="860" who="S0145">I made <anon type="name" nameType="m"/> wear a silly hat yesterday <pause dur="short"/> cos he was very silly and he didn't have a hat and then you were freezing cold</u>
+<u n="861" who="S0106">eh</u>
+<u n="862" who="S0145">so I made him wear my silliest hat</u>
+<u n="863" who="S0109">you've got slightly more hair than <anon type="name" nameType="m"/> though</u>
+<u n="864" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="865" who="S0141">now there's apple and blackberry crumble em now I know Matt you hate hot puddings don't you? Em so there is em ice cream</u>
+<u n="866" who="S0127">I can <unclear/></u>
+<u n="867" who="S0155">we can go the opposite here</u>
+<u n="868" who="S0127">Great</u>
+<u n="869" who="S0141">eh there's ice cream with em like a chocolate sauce or something <pause dur="short"/> is that alright?</u>
+<u n="870" who="S0127">brilliant okay yeah that would be fine</u>
+<u n="871" who="S0079">or or or anything hot we could take it outside for two minutes in the garden</u>
+<u n="872" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="873" who="S0141">yeah you can have cold crumble</u>
+<u n="874" who="S0145">this will be cold <unclear/></u>
+<u n="875" who="S0105">just <unclear/></u>
+<u n="876" who="S0141">em does anybody else not want crumble and would prefer something different? Great</u>
+<u n="877" who="S0145">actually could I have the ice cream as well cos it sounds really nice</u>
+<u n="878" who="S0141" trans="overlap">do you want some? Shall I? Well I'll bring it out as well then you can help yourself</u>
+<u n="879" who="S0155" trans="overlap">we'll bring the <trunc>i</trunc> we'll bring</u>
+<u n="880" who="S0145">yeah okay</u>
+<u n="881" who="S0141"><anon type="name" nameType="m"/> do you want em <unclear/>?</u>
+<u n="882" who="S0145" trans="overlap">I'm in an ice cream mood for some reason</u>
+<u n="883" who="S0079">I will have blackberry and apple crumble with chocolate sauce</u>
+<u n="884" who="S0059"><unclear/> I can't see anything <pause dur="short"/> they're really dirty and I keep trying to clean them but I don't have my glasses cleaner with me</u>
+<u n="885" who="S0145">no I</u>
+<u n="886" who="S0059">and to just clean them with a jumper doesn't really work</u>
+<u n="887" who="S0145">no I know I managed to get splattered all over them <pause dur="short"/> I need to clean mine <pause dur="short"/> I thought it was either getting steamy in here and my glasses just needed a good clean</u>
+<u n="888" who="S0155">guess they em</u>
+<u n="889" who="S0079">mm?</u>
+<u n="890" who="S0127">oh it wasn't a group story <pause dur="short"/> it was just</u>
+<u n="891" who="S0079">Don't let your <unclear/> they're having a private conversation here <pause dur="short"/> <trunc>wha</trunc> <trunc>wha</trunc> what would you like to talk about?</u>
+<u n="892" who="S0105">do you have glasses?</u>
+<u n="893" who="S0109">no</u>
+<u n="894" who="S0105">you've got perfect eh?</u>
+<u n="895" who="S0109">I don't know I haven't been to an opticians so I wouldn't know</u>
+<u n="896" who="S0079"><trunc>Ho</trunc> how do you know that? I think most teachers spend all their time reading and need glasses by the time they're</u>
+<u n="897" who="S0109">I ignore anything that says I have  I have  to go to an optician and I just</u>
+<u n="898" who="S0105">why?</u>
+<u n="899" who="S0109">because I can read as far as I as as well as I need to</u>
+<u n="900" who="S0105">have you  have you  done a vision check in your driving?</u>
+<u n="901" who="S0109">no</u>
+<u n="902" who="S0105">he hasn't asked you to read a number plate?</u>
+<u n="903" who="S0109">no not yet</u>
+<u n="904" who="S0145">he probably <unclear/></u>
+<u n="905" who="S0105">what what instructor have you got?</u>
+<u n="906" who="S0109">I've only had one lesson</u>
+<u n="907" who="S0105">that should be  That should be  the first thing you do <pause dur="short"/> he shouldn't let you drive out in a car if he's not checked your vision</u>
+<u n="908" who="S0109">well yeah but my vision is pretty good</u>
+<u n="909" who="S0105">yeah much of those <unclear/></u>
+<u n="910" who="S0109">we do those <unclear/> because of em <unclear/></u>
+<u n="911" who="S0105">alright what about can you read the mind?</u>
+<u n="912" who="S0109">sorry?</u>
+<u n="913" who="S0105">the mind book</u>
+<u n="914" who="S0109">your mind? Well where is? Yeah I can</u>
+<u n="915" who="S0106">on the right hand side</u>
+<u n="916" who="S0105">eh</u>
+<u n="917" who="S0127">can you read what that is?</u>
+<u n="918" who="S0109">no I can't</u>
+<u n="919" who="S0105">what about the Holy Bible?</u>
+<u n="920" who="S0109">that's like there's a GMB and GMV and a Holy Bible and a message which ones do you want?</u>
+<u n="921" who="S0105">yeah <unclear/>? Em <pause dur="short"/> true Spirituality? Did you see that one?</u>
+<u n="922" who="S0109">well it would help if I could see where it was</u>
+<u n="923" who="S0105">well that's what I'm asking? Can you see it?</u>
+<event desc="begin overlap"/>
+<u n="924" who="S0127">we were talking about <unclear/> and eh got out the car in the car park went to the pub had a pint of <unclear/> and it was a really nasty pub so I thought I'll just get on the train I might miss <unclear/> I'll get on the train <pause dur="short"/> to platform one and down I was walking down platform one think I Arsenal scored in the first minute and then it was one one <unclear/> Was paying for my tickets on the train so I <unclear/> Put my headphones back in and they said a wonderful goal from Arsenal I thought oh no two one <pause dur="short"/> he says yeah to take them four one up <pause dur="short"/> <vocal desc="laugh"/> I thought I've missed something here</u>
+<u n="925" who="S0079">and and that's why you never take out your earphones</u>
+<u n="926" who="S0127">and then eh and eh ah no it was three one up  three one up  sorry <pause dur="short"/> and then  and then  the last minute I was just about to get on the train <pause dur="short"/> <unclear/> red card <pause dur="short"/> I was like <pause dur="short"/> oh no this gets worse we're three one down at half time it's seven one to Arsenal <pause dur="short"/> we didn't have another chance like <unclear/> People were really amused on the train like hey are you watching this? like no I'm just listening like <pause dur="short"/> Oh we're watching in pubs <pause dur="short"/> it's not going well for you is it? Like no it's it's really not <pause dur="short"/></u>
+<event desc="end overlap"/>
+<u n="927" who="S0109">well where is it in relation to Counterfeit Goods?</u>
+<u n="928" who="S0105">eh middle middle shelf</u>
+<u n="929" who="S0106">near  J C Wile is that right?</u>
+<u n="930" who="S0105">yeah</u>
+<u n="931" who="S0145">yeah I can just read <unclear/> and that's about it</u>
+<u n="932" who="S0109">this is not a test of my eyesight <pause dur="short"/> this is my test of my <unclear/></u>
+<u n="933" who="S0145">ooh</u>
+<u n="934" who="S0141">there we go <pause dur="short"/> I'm testing at it <pause dur="short"/> pass it down and em help yourself to ice cream or em chocolatey</u>
+<u n="935" who="S0106">there we go it's pretty good <pause dur="short"/> it's about two one if not better <pause dur="short"/> so in conclusion you can probably read to the three inch <unclear/></u>
+<u n="936" who="S0127">would you like to <unclear/></u>
+<u n="937" who="S0155">want ice cream?</u>
+<u n="938" who="S0145">yes</u>
+<u n="939" who="S0155">can you pass the ice cream?</u>
+<u n="940" who="S0059">Mackeys is lovely</u>
+<u n="941" who="S0106">I'm a Halls man</u>
+<u n="942" who="S0145">Mackeys is amazing</u>
+<u n="943" who="S0106">there <trunc>sho</trunc></u>
+<u n="944" who="S0079">did you say sausages and ice cream?</u>
+<u n="945" who="S0109">well Walls sausages and ice cream?</u>
+<u n="946" who="S0127">that is quite a difference isn't it?</u>
+<u n="947" who="S0109" trans="overlap">if you want to pick two things to do</u>
+<u n="948" who="S0105" trans="overlap">no <pause dur="short"/> no <pause dur="short"/> no <pause dur="short"/> it's it's an amazing marketing ploy <pause dur="short"/> because in the summer this sells like hot cakes in the winter it sells so well <pause dur="short"/> so what do they have they have a winter product <pause dur="short"/> keep their income going</u>
+<u n="949" who="S0155">sensible</u>
+<u n="950" who="S0079">surely surely though sausages are a summer product also for the barbeques</u>
+<u n="951" who="S0145">yeah everyone eats sausages all the way <trunc>rou</trunc> all round I have sausages for breakfast</u>
+<u n="952" who="S0079">yeah</u>
+<u n="953" who="S0145">which one  Which one are you having?</u>
+<u n="954" who="S0106">this one</u>
+<u n="955" who="S0105">Pick</u>
+<u n="956" who="S0109">eh I don't mind</u>
+<u n="957" who="S0145"><unclear/></u>
+<u n="958" who="S0155">I don't mind that one <pause dur="short"/> I want that <pause dur="short"/> no <anon type="name" nameType="m"/> I want that one <pause dur="short"/> I'll have that on it</u>
+<u n="959" who="S0105">urgh</u>
+<u n="960" who="S0127"><anon type="name" nameType="m"/> it's one of yours why?</u>
+<u n="961" who="S0105">hopefully that's <anon type="name" nameType="n"/> or <anon type="name" nameType="f"/>'s</u>
+<u n="962" who="S0127">I love how you just delicately put it on the side of your bowl instead of anywhere else</u>
+<u n="963" who="S0145">well where else am I going to put it?</u>
+<u n="964" who="S0155">you can chuck it on the table if you want</u>
+<u n="965" who="S0105">give it to give it  give it  to me</u>
+<event desc="unintelligible"/>
+<u n="966" who="S0106">is this yours?</u>
+<u n="967" who="S0127">I've got no <unclear/></u>
+<u n="968" who="S0109">oh I still get accused</u>
+<u n="969" who="S0105">who is? By your housemate?</u>
+<u n="970" who="S0109">no not by my housemate</u>
+<u n="971" who="S0127">who who might oh housemates</u>
+<u n="972" who="S0141"><unclear/></u>
+<u n="973" who="S0105">leave your hair in the sink or something <pause dur="short"/> I don't know</u>
+<u n="974" who="S0155">I'm gonna have to get used to that aren't I?</u>
+<u n="975" who="S0141">what's that? Hair in the sink?</u>
+<u n="976" who="S0155">yes</u>
+<u n="977" who="S0141">and lots of it <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="978" who="S0145">well I do have to get used to beard in the sink</u>
+<u n="979" who="S0106">when I was living with</u>
+<u n="980" who="S0155">I try  I try  and clean but</u>
+<u n="981" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="982" who="S0105">when I was living with <anon type="name" nameType="n"/> <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> we decided that <anon type="name" nameType="m"/> didn't have to clean out the shower</u>
+<u n="983" who="S0059">is it the <unclear/> that goes hard?</u>
+<u n="984" who="S0109">no</u>
+<u n="985" who="S0155">I did use to have hair but</u>
+<u n="986" who="S0145">ah look</u>
+<u n="987" who="S0109">ah look at <pause dur="short"/> can you pass it down?</u>
+<u n="988" who="S0145">Cos even my brother had like long hair <unclear/></u>
+<u n="989" who="S0155">that's nineteen ninety-four or five I'm not sure which</u>
+<u n="990" who="S0141">he was twenty-four? You were twenty-four?</u>
+<u n="991" who="S0155">yeah</u>
+<u n="992" who="S0109">let's see?</u>
+<u n="993" who="S0141">can you spot which one's me?</u>
+<u n="994" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="995" who="S0145">you're very very the glasses are just that era I've got my mum looking very very similar glasses actually</u>
+<u n="996" who="S0141">no</u>
+<u n="997" who="S0145">and my dad <pause dur="short"/> mm</u>
+<u n="998" who="S0141">aw</u>
+<u n="999" who="S0059">is that <unclear/> chocolate sauce <pause dur="short"/> it's one that goes hard when it hits the ice cream <unclear/></u>
+<u n="1000" who="S0109">that's just melted chocolate</u>
+<u n="1001" who="S0059">and then you have a <unclear/></u>
+<u n="1002" who="S0109">was it magic ice? What did it used to be called?</u>
+<u n="1003" who="S0141">oh I love that</u>
+<u n="1004" who="S0127">nice</u>
+<u n="1005" who="S0141">yeah we used to have that <pause dur="short"/> mm we used to have that in Angel Delight</u>
+<u n="1006" who="S0059">ah Angel Delight</u>
+<u n="1007" who="S0127">A most fetching photo</u>
+<u n="1008" who="S0059">ah <anon type="name" nameType="m"/></u>
+<event desc="unintelligible"/>
+<u n="1009" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1010" who="S0127"><unclear/> I'm gonna keep my own spoon</u>
+<u n="1011" who="S0059">how old were you?</u>
+<u n="1012" who="S0105">your age</u>
+<u n="1013" who="S0155">twenty-four or twenty-five</u>
+<u n="1014" who="S0059">ah <pause dur="short"/> that's beautiful</u>
+<u n="1015" who="S0127">that was actually  That was actually  age seven em</u>
+<u n="1016" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1017" who="S0079">in the <unclear/> school</u>
+<u n="1018" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1019" who="S0127">we said special but <unclear/></u>
+<u n="1020" who="S0155">that was my first ever job</u>
+<u n="1021" who="S0059">oh <anon type="name" nameType="m"/> <pause dur="short"/> mm</u>
+<u n="1022" who="S0105">what did you do?</u>
+<u n="1023" who="S0155">it was a small <trunc>bus</trunc> was a small bio tech company</u>
+<u n="1024" who="S0145">mm</u>
+<u n="1025" who="S0155">up in <anon type="place"/></u>
+<u n="1026" who="S0059">you look very proud in the picture</u>
+<u n="1027" who="S0155">I learned lots in <anon type="place"/></u>
+<u n="1028" who="S0105">were you the office baby?</u>
+<u n="1029" who="S0155">em no she was younger than me and he was younger than me</u>
+<u n="1030" who="S0141">by like one year or <vocal desc="laugh"/></u>
+<u n="1031" who="S0105">so <trunc>wha</trunc> so where are they now these four <unclear/></u>
+<u n="1032" who="S0155"><unclear/></u>
+<u n="1033" who="S0127">can you name them all?</u>
+<u n="1034" who="S0155">em <anon type="name" nameType="m"/> <pause dur="short"/> no <pause dur="short"/> <anon type="name" nameType="n"/> <anon type="name" nameType="f"/> <anon type="name" nameType="n"/> <anon type="name" nameType="m"/> <anon type="name" nameType="f"/> <pause dur="short"/> no <pause dur="short"/> <anon type="name" nameType="m"/> <pause dur="short"/> <anon type="name" nameType="m"/> <pause dur="short"/> <anon type="name" nameType="m"/></u>
+<u n="1035" who="S0145">he looks a <anon type="name" nameType="m"/></u>
+<u n="1036" who="S0155"><anon type="name" nameType="m"/> the <unclear/> Yeah I was trying to find out if he's still alive the other day</u>
+<u n="1037" who="S0141">mm</u>
+<u n="1038" who="S0155">but</u>
+<u n="1039" who="S0109">mm</u>
+<u n="1040" who="S0079">how do you go about doing that?</u>
+<u n="1041" who="S0155">Google</u>
+<u n="1042" who="S0141">yeah</u>
+<u n="1043" who="S0079">what what <unclear/> hey <anon type="name" nameType="m"/> are you still alive?</u>
+<u n="1044" who="S0141">yeah yeah oh <pause dur="short"/> oh dear</u>
+<u n="1045" who="S0127">or an email like <anon type="name" nameType="n"/> you think <anon type="name" nameType="m"/> is still alive? Not sure <anon type="name" nameType="m"/> actually not sure I can tell you that <pause dur="short"/></u>
+<u n="1046" who="S0141">mm <pause dur="short"/> I feel stuffed now</u>
+<u n="1047" who="S0105">lovely crumble</u>
+<u n="1048" who="S0127">mm lovely crumble</u>
+<u n="1049" who="S0155">I didn't make it</u>
+<u n="1050" who="S0141">it was going be handmade but then em we had a little accident with the apples so it's now Waitrose made</u>
+<u n="1051" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1052" who="S0155">I suspect they're edible but so the bags weren't airtight they were in a brown you know</u>
+<u n="1053" who="S0079">well I think there's</u>
+<u n="1054" who="S0105" trans="overlap">so are you having the whole church over for dinner? Rather than actually</u>
+<u n="1055" who="S0141">yeah <pause dur="short"/> we're working through the directory</u>
+<u n="1056" who="S0155">we could start at A</u>
+<u n="1057" who="S0145">yeah</u>
+<u n="1058" who="S0155">everyone with A</u>
+<u n="1059" who="S0109">eh <unclear/> I don't know</u>
+<u n="1060" who="S0155">no</u>
+<u n="1061" who="S0079">what can I think of beginning with A?</u>
+<u n="1062" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1063" who="S0155">no more more the whole church</u>
+<u n="1064" who="S0059">mm <pause dur="short"/> mm</u>
+<u n="1065" who="S0141">that would be two hundred and eighty adults <pause dur="short"/> that would be a lot of lunches if one lunch</u>
+<u n="1066" who="S0106">are they that many?</u>
+<u n="1067" who="S0141">yeah <pause dur="short"/> if one lunch is okay one lunch might be ten people <pause dur="short"/> so you need twenty-eight so you could you could get the whole church</u>
+<u n="1068" who="S0105" trans="overlap">six months</u>
+<u n="1069" who="S0155"><trunc>W</trunc> we're feeding them all on twenty-fourth of March that's gonna be nice</u>
+<u n="1070" who="S0145">yes</u>
+<u n="1071" who="S0105">I would say if you want to have the whole church over for lunch you have the whole church</u>
+<u n="1072" who="S0155">or we could do a barbeque for them <pause dur="short"/> the garden's big enough</u>
+<u n="1073" who="S0141">yeah <pause dur="short"/> mm <pause dur="short"/> so the garden here isn't a garden <pause dur="short"/> it's like they've basically</u>
+<u n="1074" who="S0155">paved it all</u>
+<u n="1075" who="S0141">paved the whole thing <pause dur="short"/> so it's great in that there's no maintenance cos there's no there's nothing living out there to water <pause dur="short"/> it's just like pavement slabs</u>
+<u n="1076" who="S0145" trans="overlap">grass</u>
+<u n="1077" who="S0155">I can't grow any vegetables</u>
+<u n="1078" who="S0141">there's nothing there's not a single thing out there to grow</u>
+<u n="1079" who="S0106">can you remember what some of the <anon type="name" nameType="n"/> is paving?</u>
+<u n="1080" who="S0141">em I dread to think</u>
+<u n="1081" who="S0155">I've never been to their house</u>
+<u n="1082" who="S0141">oh my word it's <trunc>ma</trunc> yeah</u>
+<u n="1083" who="S0106">the  into the paving</u>
+<u n="1084" who="S0145">really?</u>
+<u n="1085" who="S0106">yeah</u>
+<u n="1086" who="S0109">mm</u>
+<u n="1087" who="S0155">really? What rats or something</u>
+<u n="1088" who="S0141">well I remember going there the first week they bought it</u>
+<u n="1089" who="S0106" trans="overlap">I don't know bags of white powder</u>
+<u n="1090" who="S0155">really? Wow</u>
+<u n="1091" who="S0141">but when you but they used to have a <trunc>she</trunc> they had a shed at the bottom and it had all these random things for chopping up the drugs and dragging them</u>
+<u n="1092" who="S0145">really?</u>
+<u n="1093" who="S0155">it's not enough to put back so</u>
+<u n="1094" who="S0141">mm</u>
+<u n="1095" who="S0059">what did they do with the drugs that they found and stuff?</u>
+<u n="1096" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1097" who="S0141">they contacted the local police station and someone came around to look and said it's insignificant and</u>
+<u n="1098" who="S0079">we're not gonna charge you</u>
+<u n="1099" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1100" who="S0079">actually yeah cos presumably if they bought the property the drugs came with the property <pause dur="short"/> therefore they'd actually been trading in illegal substances</u>
+<u n="1101" who="S0141">oh <pause dur="short"/> well <vocal desc="laugh"/></u>
+<u n="1102" who="S0155">I think I'd have been tempted to just flush it down the loo to be honest</u>
+<u n="1103" who="S0109">mm</u>
+<u n="1104" who="S0106">why? Guilty conscience?</u>
+<u n="1105" who="S0155">em</u>
+<u n="1106" who="S0105">just starts opens a can of worms doesn't it?</u>
+<u n="1107" who="S0155">precisely <pause dur="short"/> how do you prove?</u>
+<u n="1108" who="S0145">yeah <pause dur="short"/> that you</u>
+<u n="1109" who="S0105">can just?</u>
+<u n="1110" who="S0141">yeah</u>
+<u n="1111" who="S0155">I mean obviously you'd be particularly stupid to call them in if you were still dealing or something but</u>
+<u n="1112" who="S0106">yeah</u>
+<u n="1113" who="S0155">nonetheless</u>
+<u n="1114" who="S0105">they think em</u>
+<u n="1115" who="S0106">then they'd have your fingerprints all over it</u>
+<u n="1116" who="S0145">yeah <pause dur="short"/> mm</u>
+<u n="1117" who="S0105">they think eighty percent of credit cards have traces of cocaine on them</u>
+<u n="1118" who="S0141">really? No way</u>
+<u n="1119" who="S0109">yeah and most bank notes as well I think</u>
+<u n="1120" who="S0155">yep <pause dur="short"/> roll them up and sniff</u>
+<u n="1121" who="S0059">how do credit cards have traces of cocaine?</u>
+<u n="1122" who="S0105">Cos when someone uses a credit card</u>
+<u n="1123" who="S0155"><unclear/></u>
+<u n="1124" who="S0105">to line and then they go to the shop</u>
+<u n="1125" who="S0155">chop it up with your credit card</u>
+<u n="1126" who="S0106">and put it in the machine and then you put your machine</u>
+<u n="1127" who="S0059">oh I see</u>
+<u n="1128" who="S0106">your card in the machine</u>
+<u n="1129" who="S0145">mm</u>
+<u n="1130" who="S0106">and used cars as well <pause dur="short"/> they've all got cocaine in them</u>
+<u n="1131" who="S0059">why?</u>
+<u n="1132" who="S0155">what have?</u>
+<u n="1133" who="S0059">used cars</u>
+<u n="1134" who="S0105" trans="overlap">used cars</u>
+<u n="1135" who="S0127">mm</u>
+<u n="1136" who="S0059">I have a used car does that mean</u>
+<u n="1137" who="S0105">people use cars</u>
+<u n="1138" who="S0106">surely only Audi's BMWs and Mercedes</u>
+<u n="1139" who="S0141">is that like one of those statistics where like <trunc>y</trunc> you swallow three flies every week or something without realising it?</u>
+<u n="1140" who="S0105">yeah six yeah six spiders</u>
+<u n="1141" who="S0059" trans="overlap">and you eat yeah <pause dur="short"/> six spiders</u>
+<u n="1142" who="S0141">oh</u>
+<u n="1143" who="S0155">that company we had a company car and it was a BMW with em tinted windows</u>
+<u n="1144" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1145" who="S0155">it was slightly scary driving in certain areas in Birmingham <pause dur="short"/> certainly didn't want it to break down <pause dur="short"/> yeah</u>
+<u n="1146" who="S0145">yeah</u>
+<u n="1147" who="S0105">I think I'd prefer to have tinted windows in that sort of area <pause dur="short"/> cos they don't know how many people are in the car</u>
+<u n="1148" who="S0141">ah that's true</u>
+<u n="1149" who="S0105">whereas they would just think it's you they're more likely to hijack or I nearly got hijacked the other day</u>
+<u n="1150" who="S0155">you got hijacked?</u>
+<u n="1151" who="S0105">no no well there were some people doing some spins in their <trunc>Ni</trunc> souped-up Nissans round the roundabout and I was em <pause dur="short"/> and then they just stopped and I was waiting behind them and they both got out and started running at me</u>
+<u n="1152" who="S0141">no</u>
+<u n="1153" who="S0059">what did you do?</u>
+<u n="1154" who="S0105">I drove off</u>
+<u n="1155" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1156" who="S0105">fast as I could go</u>
+<u n="1157" who="S0155">reversed at the high speed</u>
+<u n="1158" who="S0059">did you have to reverse?</u>
+<u n="1159" who="S0105">no I went round them</u>
+<u n="1160" who="S0141">how weird</u>
+<u n="1161" who="S0059">that's terrifying</u>
+<u n="1162" who="S0141">that's awful isn't it?</u>
+<u n="1163" who="S0059">I I had a really bad incident on the way home from work on the A fourteen <pause dur="short"/> I was in the fast lane but was going with the flow of the fast lane traffic <pause dur="short"/> so I was going at seventy and was overtaking slowly and and this car came up behind me and he was driving so close to me and I couldn't really pull in to the slow lane cos we were going past lorries and</u>
+<u n="1164" who="S0155">people are so stupid</u>
+<u n="1165" who="S0059"><unclear/> and I had safe stopping distance in front of me but I wasn't leaving a ridiculous amounts of space <pause dur="short"/> and he started flashing his lights honking his horn he was trying to go round me on the hard shoulder <pause dur="short"/> he then tried to undertake me and so nearly crashed because I was just overtaking this car and he tried to squeeze this gap and realised it was really stupid and they were like hand you know firm on the honk <pause dur="short"/> what's it called?</u>
+<u n="1166" who="UNKMALE" whoConfidence="low">horn</u>
+<u n="1167" who="S0059">horn <pause dur="short"/> and I went oh I'm just driving along being like I don't know what to do and as soon as I could I pulled in into the slow lane and then he came in front of me and slammed on his breaks and I so nearly went into the back of him</u>
+<u n="1168" who="S0141">oh I hate when people do that</u>
+<u n="1169" who="S0059">and I had to slam on my brakes and I was really worried because I had a lorry behind me and he took the next exit off anyway <pause dur="short"/> so stressful</u>
+<u n="1170" who="S0141">oh</u>
+<u n="1171" who="S0155">people are just so stupid</u>
+<u n="1172" who="S0059">and I don't know what I wasn't doing anything wrong like</u>
+<u n="1173" who="S0141">no no not at all</u>
+<u n="1174" who="S0106">what he overtook you to brake test you?</u>
+<u n="1175" who="S0141">well yeah <unclear/></u>
+<u n="1176" who="S0059">he he probably wanted me to go in the back of him because if you go into the back of someone you're</u>
+<u n="1177" who="S0105">it's your fault yeah</u>
+<u n="1178" who="S0059">your your it's your fault</u>
+<u n="1179" who="S0155">but then you'd have reported him</u>
+<u n="1180" who="S0059">yeah</u>
+<u n="1181" who="S0109">yeah but then that would have slowed him down as well</u>
+<u n="1182" who="S0059">yeah <pause dur="short"/> it would have been quite inconvenient for him</u>
+<u n="1183" who="S0106">cars like doing that <pause dur="short"/> like when you're cycling cars always need to be first at the traffic light <pause dur="short"/> they need to accelerate to overtake you to get to the red traffic lights first</u>
+<u n="1184" who="S0141">yes and then you just go in front</u>
+<u n="1185" who="S0059" trans="overlap">yeah <pause dur="short"/> round you</u>
+<u n="1186" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1187" who="S0155">this you're allowed to do</u>
+<u n="1188" who="S0141">yeah</u>
+<u n="1189" who="S0105">Don't get me started Ed</u>
+<u n="1190" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1191" who="S0105">I I'll happily openly admit I will block a cycle lane if I think it's unsafe for a cyclist to go in front of me</u>
+<u n="1192" who="S0141">yeah</u>
+<u n="1193" who="S0155">that's fine</u>
+<u n="1194" who="S0106">I don't go in front of them <pause dur="short"/> I just stay in the traffic but that annoys the cars behind me cos they think that they can go <unclear/></u>
+<u n="1195" who="S0145">yeah no I was</u>
+<u n="1196" who="S0079">you see I'm I'm I'm with you <pause dur="short"/> if I think there's a driver who is em will cause problems I defensively block him so I can front overtake and I think that's what I can do</u>
+<u n="1197" who="S0155">yeah</u>
+<u n="1198" who="S0059">but he could just ram you off the road</u>
+<u n="1199" who="S0145">yeah well I almost happened the other week</u>
+<u n="1200" who="S0079" trans="overlap">but he won't</u>
+<u n="1201" who="S0145">Cos I was cycling down and the same taxi pulled out like just suddenly pulled out and then as you know there's a cycle lane <pause dur="short"/> it's only just enough for a bike and a car <pause dur="short"/> but he kept on just drifting left and pushing me in and then <trunc>sudden</trunc> like then suddenly braked and turn left into a road and he'd and then <pause dur="short"/> I was going left as well and then he went through a red light and he's like he just made three massive systematic errors and it's a taxi</u>
+<u n="1202" who="S0155" trans="overlap">unless it's that bloke that was behind you</u>
+<u n="1203" who="S0059" trans="overlap">yeah <pause dur="short"/> some people love doing it</u>
+<u n="1204" who="S0155" trans="overlap">I bet that <pause dur="short"/> that vast majority of people wouldn't notice that they don't realise what they're doing I suspect <pause dur="short"/> it would be really interesting to video people and you know sorry stop them</u>
+<u n="1205" who="S0145">yeah</u>
+<u n="1206" who="S0155">and say do you realise how badly you were driving? No no no I wasn't I was driving really well and then show them the video</u>
+<u n="1207" who="S0145">yeah</u>
+<u n="1208" who="S0155">and they'd realise</u>
+<u n="1209" who="S0079" trans="overlap">no</u>
+<u n="1210" who="S0145" trans="overlap">he would <trunc>re</trunc> go through red light though</u>
+<u n="1211" who="S0155">because the recent somewhere just over there the other day I was turning right <pause dur="short"/> I was therefore just left of the centr line which is the right place for me to be at the junction</u>
+<u n="1212" who="S0109">yeah</u>
+<u n="1213" who="S0155">A white van cut it up and just imagine him saying cyclists are all terrible terrible and you know <pause dur="short"/> but I was in the right and he was in the wrong but he would bet he thinks cyclists are always wrong</u>
+<u n="1214" who="S0127">I have a friend from em Spain and he em he and his fiancée were driving one day in the countryside and eh</u>
+<u n="1215" who="S0155">in Spain or?</u>
+<u n="1216" who="S0127" trans="overlap">in Spain yeah <pause dur="short"/> and I heard her explain the story from her as well <pause dur="short"/> and em they were just driving along and then there's few few cars not very many and then they were just going along on this like country road by themselves and a black van comes and then pulls in front of them and then in a black van comes and pulls behind them both stop like force them to stop <pause dur="short"/> four guys jump out from both vans like two from the front and two from the back <pause dur="short"/> flash identification badges to her and to him and say you're coming with us in the back of van <pause dur="short"/> he then you know says don't worry it will all be fine gets in the back of the van <pause dur="short"/> one van drives off the other van stays with her says don't worry they'll come back in a few <trunc>h</trunc> like in half an hour's time <pause dur="short"/> so she's just like waiting like they've got proper ID and everything it was mad <pause dur="short"/> he then is returned in this van gets back in <pause dur="short"/> she says what happened? He says can't tell you because <vocal desc="laugh"/> and then they drive off and then like three months later like they got married only then was he actually allowed to tell her that they'd stopped him and said we want you to spy for us in another country and we like <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="1217" who="S0079">are you serious?</u>
+<u n="1218" who="S0127">yeah yeah <pause dur="short"/> he works for like he works low-level government level and they said we've profiled you we think you'd be a great spy <pause dur="short"/> he said no to them because he's a Christian he thought being a spy probably meant</u>
+<u n="1219" who="S0141">yeah</u>
+<u n="1220" who="S0127">he'd have to kill someone at some point <pause dur="short"/> he said no and they said well you can't tell anyone you have to give us a a leeway of like six months or something</u>
+<u n="1221" who="S0141">oh no</u>
+<u n="1222" who="S0079">but why why did they take him off in a black van that seems a very</u>
+<u n="1223" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1224" who="S0145">really dodgy <pause dur="short"/> wait until he's like alone at least</u>
+<u n="1225" who="S0127" trans="overlap">I know  I know  absolutely mad yeah <pause dur="short"/> I know  I know I know  Just crazy <pause dur="short"/> em</u>
+<u n="1226" who="S0079">it doesn't seem  it doesn't seem  to be factual</u>
+<u n="1227" who="S0127" trans="overlap">but it is Spain <pause dur="short"/> and yeah yeah</u>
+<u n="1228" who="S0141">are you sure it wasn't like official? Maybe it was what what's the Spanish one ETA?</u>
+<u n="1229" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1230" who="S0127">but like so mad like she didn't get like any explanation of where he was going <pause dur="short"/> he had a vague idea because of the kind of line of work he was in but like you know just mad</u>
+<u n="1231" who="S0141" trans="overlap">that's a bit odd <pause dur="short"/> oh dear</u>
+<u n="1232" who="S0079"><trunc>Wa</trunc> was that</u>
+<u n="1233" who="S0141">do people want to go and grab a seat out a more comfy seat and stuff and em?</u>
+<u n="1234" who="S0127">yeah</u>
+<u n="1235" who="S0079">once I was cycling down Milton Road and just <unclear/> the police and just say em <trunc>ca</trunc> can you get off your bike for a moment? And then they say okay then that's fine head off</u>
+</body>
+</text>

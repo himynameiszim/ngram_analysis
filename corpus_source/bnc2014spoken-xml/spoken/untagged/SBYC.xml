@@ -1,0 +1,589 @@
+<text id="SBYC">
+	<header>
+		<rec_length>0:16:59</rec_length>
+		<rec_date>2015-10-09</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q4</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0428 S0478 S0504 S0505 S0506</list_speakers>
+		<rec_loc>Cambridge Home</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Dinnertime, holiday plans, visit to Anglesey Abby, visiting friends, chocolate, flying to Australia</topics>
+		<activity>Talking over a meal</activity>
+		<conv_type>Discussing, explaining, inquiring, anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T18</transcriber>
+		<speakerInfo>
+			<speaker id="S0428">
+				<exactage>27</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Aylesbury, Buckinghamshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Eastern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 year 8 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>eastern_engl</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Language Research Co-ordinator</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified; Italian -- level unspecified; French -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0478">
+				<exactage>57</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Folkestone</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>3 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Retired - teacher</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls>French -- Fluent; German -- A-level; Spanish -- A-level</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0504">
+				<exactage>58</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Sheffield, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>East Midlands/ Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>3 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>IT manager, College Fellow</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0505">
+				<exactage>79</exactage>
+				<age1994>60plus</age1994>
+				<agerange>70_79</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Bexhill</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Perth</hab_city>
+				<hab_country>Australia</hab_country>
+				<hab_dur>12 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Retired from medical Research</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls>French -- some</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0506">
+				<exactage>90</exactage>
+				<age1994>60plus</age1994>
+				<agerange>90_99</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Littlestone, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern English</dialect_rep>
+				<hab_city>Harrogate</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>35 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Civil Servant (Retired)</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0504">Singapore airlines at all</u>
+<u n="2" who="S0505">mm yes</u>
+<u n="3" who="S0478">very satisfactory</u>
+<u n="4" who="S0505">to say that they erm noted my request er which <pause dur="short"/> they would look into but they couldn't guarantee that I would get the seat that I wanted</u>
+<u n="5" who="S0504">right okay</u>
+<u n="6" who="S0505"><unclear/> <pause dur="short"/> was very abrupt you know?</u>
+<u n="7" who="S0504">mm</u>
+<u n="8" who="S0478">yeah it's really off isn't it?</u>
+<u n="9" who="S0505">mm a bit</u>
+<u n="10" who="S0478"><unclear/></u>
+<u n="11" who="S0504">mm</u>
+<u n="12" who="S0505">and we also have a I'll have a bit of that</u>
+<u n="13" who="S0478">you don't want <unclear>camembert</unclear>?</u>
+<u n="14" who="S0505">no no I've I've done I've done <unclear>taramasalata</unclear> I'll have a bit of that cheese please?</u>
+<u n="15" who="S0428">oh do you want some cheese?</u>
+<u n="16" who="S0505">I like that sort</u>
+<u n="17" who="S0428">yeah me too</u>
+<u n="18" who="S0504" trans="overlap">it's nice isn't it?</u>
+<u n="19" who="S0505">mm</u>
+<u n="20" who="S0504">I really like it it's got a lot of nice flavour</u>
+<u n="21" who="S0505" trans="overlap">it tastes it tastes like cheddar you know? proper cheddar</u>
+<u n="22" who="S0504" trans="overlap">mm</u>
+<u n="23" who="S0428">it is cheddar isn't it?</u>
+<u n="24" who="S0504">well it is</u>
+<u n="25" who="S0505" trans="overlap">yeah it is yes I know but a lot of</u>
+<u n="26" who="S0504" trans="overlap">supposed to be cheddar</u>
+<u n="27" who="S0506">well identified <vocal desc="laugh"/></u>
+<u n="28" who="S0505">a lot of cheddar tastes like soap</u>
+<u n="29" who="S0504">mm <pause dur="short"/> so it's been a very successful day then by the sounds of it?</u>
+<u n="30" who="S0505">mm</u>
+<u n="31" who="S0506">mm</u>
+<u n="32" who="S0505">very nice</u>
+<u n="33" who="S0478">you could say that</u>
+<u n="34" who="S0504">fantastic</u>
+<u n="35" who="S0428">ah I'm really tired <vocal desc="sigh"/></u>
+<u n="36" who="S0505">mm</u>
+<u n="37" who="S0504" trans="overlap">how was your day <anon type="name" nameType="f"/>?</u>
+<u n="38" who="S0428">tiring</u>
+<u n="39" who="S0504">tiring? oh right</u>
+<u n="40" who="S0505">she wants to go on holiday</u>
+<u n="41" who="S0428">I want to go on holiday <pause dur="short"/> I I feel that I should go on holiday for about six months a year and that would be like my like</u>
+<u n="42" who="S0505" trans="overlap">mm mm mm</u>
+<u n="43" who="S0428">then I would work for six months like I think that's a fair enough balance</u>
+<u n="44" who="S0505" trans="overlap">mm</u>
+<u n="45" who="S0504">oh right</u>
+<u n="46" who="S0428">what I would like to do is work like three ten hour days and then have four days off</u>
+<u n="47" who="S0505" trans="overlap">mm mm mm</u>
+<u n="48" who="S0504">well thank you it looks lovely <pause dur="short"/> so where would? where would you like to go on holiday <anon type="name" nameType="f"/>?</u>
+<u n="49" who="S0505" trans="overlap"><unclear/></u>
+<u n="50" who="S0478">have you finished with the taramasalata?</u>
+<u n="51" who="S0505">yes yes thank you it was lovely</u>
+<u n="52" who="S0504" trans="overlap">is this my water here? thank you</u>
+<u n="53" who="S0478">I don't know whose is what</u>
+<u n="54" who="S0428">I don't know who decided we work five days on two days off? they were just</u>
+<u n="55" who="S0505" trans="overlap"><anon type="name" nameType="f"/> <anon type="name" nameType="f"/> can live off two days a week <pause dur="short"/> if she works full day</u>
+<u n="56" who="S0428" trans="overlap">that's pretty good</u>
+<u n="57" who="S0505">cos she's very well paid while the oil lasts <pause dur="short"/> a <unclear/></u>
+<u n="58" who="S0428" trans="overlap">it'll be in her lifetime</u>
+<u n="59" who="S0505">well it's going down erm</u>
+<u n="60" who="S0428">but they'll find something else under the oil surely</u>
+<u n="61" who="S0505">mm and also that erm most of them do are in to natural gas in Australia now and they're very keen on that</u>
+<u n="62" who="S0504">mm</u>
+<u n="63" who="S0478"><anon type="name" nameType="f"/> will find another</u>
+<u n="64" who="S0505">but it's a very long time for her to still keep her <unclear>computer</unclear> you know?</u>
+<u n="65" who="S0478" trans="overlap">is it worrying for her?</u>
+<u n="66" who="S0505">so she's got to work more <vocal desc="laugh"/></u>
+<u n="67" who="S0428" trans="overlap">she there's loads of oil in Norway she could always move to Norway</u>
+<u n="68" who="S0505">mm I don't know <unclear/> what what appeals</u>
+<u n="69" who="S0478" trans="overlap"><unclear/> bit of lettuce to <unclear/></u>
+<u n="70" who="S0504" trans="overlap">oh thank you</u>
+<u n="71" who="S0505">the country she's liked best that she's visited was Chile</u>
+<u n="72" who="S0428">ah</u>
+<u n="73" who="S0505">she loved Chile</u>
+<u n="74" who="S0504">eh as in Easter Island?</u>
+<u n="75" who="S0478">no</u>
+<u n="76" who="S0505">no I want to go to Easter Island</u>
+<u n="77" who="S0478" trans="overlap">as in Chile the country</u>
+<u n="78" who="S0504">okay and what is? which country is Easter Island governed by?</u>
+<u n="79" who="S0478">no she doesn't want to go to Easter Island she wants to go to the country of Chile</u>
+<u n="80" who="S0505" trans="overlap">is it governed by Chile? I didn't know that</u>
+<u n="81" who="S0504" trans="overlap">it is</u>
+<u n="82" who="S0478"><vocal desc="sigh"/></u>
+<u n="83" who="S0505">I thought it was one of these ex British islands that was now independent</u>
+<u n="84" who="S0478" trans="overlap"><unclear/> please?</u>
+<u n="85" who="S0428">yeah</u>
+<u n="86" who="S0505">I want to go to Easter Island if I live long enough</u>
+<u n="87" who="S0428">I'll come with you</u>
+<u n="88" who="S0505">will you? I want somebody to come with me</u>
+<u n="89" who="S0428">I'll <trunc>g</trunc> definitely go with you I really wanna go to Chile as well</u>
+<u n="90" who="S0505">well <anon type="name" nameType="f"/> wants to go to Chile</u>
+<u n="91" who="S0428" trans="overlap">do you want? do you want some of this? some of this grub?</u>
+<u n="92" who="S0506" trans="overlap">mm yes please not too big please <pause dur="short"/> mm</u>
+<u n="93" who="S0428"><unclear/></u>
+<u n="94" who="S0506" trans="overlap"><unclear/> mm</u>
+<u n="95" who="S0428" trans="overlap">looks a bit posh doesn't it?</u>
+<u n="96" who="S0478">well I wanted to go out with for a cycle then but you know?</u>
+<u n="97" who="S0504" trans="overlap">so what did you see at <anon type="place"/> abbey?</u>
+<u n="98" who="S0505">mm?</u>
+<u n="99" who="S0504">what did you see at <anon type="place"/> abbey?</u>
+<u n="100" who="S0505">mm the winter walk</u>
+<u n="101" who="S0504">was it? oh is it any good at the moment?</u>
+<u n="102" who="S0505">mm well I I could imagine</u>
+<u n="103" who="S0478" trans="overlap">it was great in the autumn yeah</u>
+<u n="104" who="S0505">I could imagine what it would be like <pause dur="short"/> in the winter</u>
+<u n="105" who="S0504" trans="overlap" whoConfidence="low">thank you</u>
+<u n="106" who="S0428">is that too small grandad?</u>
+<u n="107" who="S0506">no that's alright</u>
+<u n="108" who="S0504" trans="overlap"><unclear/> a bit of frost and all those colours</u>
+<u n="109" who="S0505" trans="overlap">mm oh lovely</u>
+<u n="110" who="S0504">and the birches the silver birches at the end are all white yeah</u>
+<u n="111" who="S0505" trans="overlap">mm yes yes lovely lovely</u>
+<u n="112" who="S0428" trans="overlap">is that too small?</u>
+<u n="113" who="S0506">no that's fine</u>
+<u n="114" who="S0428">are you sure?</u>
+<u n="115" who="S0506" trans="overlap">but</u>
+<u n="116" who="S0504">and <trunc>wh</trunc> and what did you do at <anon type="place"/>?</u>
+<u n="117" who="S0478">excuse me</u>
+<u n="118" who="S0506"><anon type="place"/> <unclear/></u>
+<u n="119" who="S0505" trans="overlap">I I walked a bit further than <anon type="name" nameType="f"/> and and <anon type="name" nameType="m"/> just round the outside</u>
+<u n="120" who="S0504">oh</u>
+<u n="121" who="S0505">you know? and I went up the hill</u>
+<u n="122" who="S0504">mm mm</u>
+<u n="123" who="S0505">to to look across</u>
+<u n="124" who="S0504" trans="overlap">did you go to the church?</u>
+<u n="125" who="S0505">I didn't go in the church cos I I have done the church in the past</u>
+<u n="126" who="S0478" trans="overlap">no</u>
+<u n="127" who="S0504">there's enormous brass in there</u>
+<u n="128" who="S0505">oh I didn't know that</u>
+<u n="129" who="S0478">guess who's the vicar at that church?</u>
+<u n="130" who="S0505">I know</u>
+<u n="131" who="S0504">what? the present one?</u>
+<u n="132" who="S0505" trans="overlap">and there's just</u>
+<u n="133" who="S0478">I will tell you potato as a clue</u>
+<u n="134" who="S0504">oh yeah <anon type="name" nameType="n"/> er <anon type="name" nameType="n"/></u>
+<u n="135" who="S0505" trans="overlap"><anon type="name" nameType="f"/> <anon type="name" nameType="f"/></u>
+<u n="136" who="S0478">couch potato have you seen her?</u>
+<u n="137" who="S0505">I wasn't she there when we left?</u>
+<u n="138" who="S0478">she's like huge</u>
+<u n="139" who="S0505">oh is she?</u>
+<u n="140" who="S0428">is she?</u>
+<u n="141" who="S0478" trans="overlap">she obviously just sits in front of the TV all day so</u>
+<u n="142" who="S0505" trans="overlap">er</u>
+<u n="143" who="S0478">couch is a very</u>
+<u n="144" who="S0428" trans="overlap">oh I'll have that one it doesn't look very inviting does it?</u>
+<u n="145" who="S0505" trans="overlap"><vocal desc="laugh"/> it's no</u>
+<u n="146" who="S0478">couch is a very apt name for her</u>
+<u n="147" who="S0428" trans="overlap">isn't? is is she the one from <anon type="place"/>?</u>
+<u n="148" who="S0505">no <anon type="place"/></u>
+<u n="149" who="S0504" trans="overlap">no <anon type="place"/></u>
+<u n="150" who="S0506">mm</u>
+<u n="151" who="S0505">she was there when the other one debunked cos his wife left him</u>
+<u n="152" who="S0428" trans="overlap"><anon type="name" nameType="m"/></u>
+<u n="153" who="S0478" trans="overlap">that's no that's not the way <unclear/> it was</u>
+<u n="154" who="S0505" trans="overlap">isn't that <pause dur="short"/> oh</u>
+<u n="155" who="S0478">he went off with another woman</u>
+<u n="156" who="S0505">oh</u>
+<u n="157" who="S0504"><anon type="name" nameType="f"/>'s lovely</u>
+<u n="158" who="S0478" trans="overlap">but anyway</u>
+<u n="159" who="S0504"><anon type="name" nameType="f"/> was very upset about it all</u>
+<u n="160" who="S0505">ah but she she went didn't she?</u>
+<u n="161" who="S0504" trans="overlap">I don't think she had no alternative</u>
+<u n="162" who="S0478" trans="overlap">he went</u>
+<u n="163" who="S0505">he he went? oh</u>
+<u n="164" who="S0504">he's in the <anon type="place"/> now</u>
+<u n="165" who="S0478" trans="overlap"><unclear/></u>
+<u n="166" who="S0504"><anon type="place"/> <anon type="place"/></u>
+<u n="167" who="S0478">remarried</u>
+<u n="168" who="S0505"><unclear/></u>
+<u n="169" who="S0478" trans="overlap">and and appears to be quite friendly with erm <anon type="name" nameType="f"/> actually</u>
+<u n="170" who="S0504">yeah <unclear/> some kind of reconciliation yeah</u>
+<u n="171" who="S0505" trans="overlap">oh</u>
+<u n="172" who="S0506">mm</u>
+<u n="173" who="S0504">she's lovely actually cos she's erm</u>
+<u n="174" who="S0428" trans="overlap">what?</u>
+<u n="175" who="S0504">yeah she's living back in <anon type="place"/> now she moved into <anon type="place"/> for a while but she's back</u>
+<u n="176" who="S0505" trans="overlap">oh oh</u>
+<u n="177" who="S0428">well</u>
+<u n="178" who="S0505">what's she doing? I mean on her own?</u>
+<u n="179" who="S0478"><vocal desc="laugh"/> I don't know</u>
+<u n="180" who="S0505">cos she was just a vicar's wife wasn't she?</u>
+<u n="181" who="S0478">no she she was a social worker</u>
+<u n="182" who="S0505">oh</u>
+<u n="183" who="S0506">very nice huh?</u>
+<u n="184" who="S0504">mm</u>
+<u n="185" who="S0478">bet she's still working</u>
+<u n="186" who="S0504" trans="overlap">she's a member of the <anon type="name" nameType="n"/> family</u>
+<u n="187" who="S0506">mm</u>
+<u n="188" who="S0505">oh well <unclear/></u>
+<u n="189" who="S0478">she's she's <unclear/></u>
+<u n="190" who="UNKMALE" trans="overlap" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="191" who="S0478">but she's a very erm yeah formidable person</u>
+<u n="192" who="S0504" trans="overlap">with a big <trunc>se</trunc> so social conscience and all that kind of stuff</u>
+<u n="193" who="S0505" trans="overlap">mm mm</u>
+<u n="194" who="S0428">talking of <anon type="name" nameType="n"/> have you seen <anon type="name" nameType="f"/> recently?</u>
+<u n="195" who="S0506">sorry?</u>
+<u n="196" who="S0428">mm have you seen <anon type="name" nameType="f"/> recently?</u>
+<u n="197" who="S0506">yeah <unclear/> <anon type="name" nameType="f"/> and <anon type="name" nameType="f"/> brought her across about a five or six weeks ago erm</u>
+<u n="198" who="S0428" trans="overlap">mm</u>
+<u n="199" who="S0504">oh that was nice</u>
+<u n="200" who="S0506">mm</u>
+<u n="201" who="S0505">mm mm</u>
+<u n="202" who="S0506">she's very well but very immobile she's <pause dur="short"/> got less mobile but she's now ninety-four I think mm</u>
+<u n="203" who="S0478" trans="overlap">mm</u>
+<u n="204" who="S0506">yes I made a very good friend of her <unclear/> bit late in life to develop sort of woman friends but <unclear/> genuinely so</u>
+<u n="205" who="S0505" trans="overlap">still a bit of cheese left</u>
+<u n="206" who="S0504" trans="overlap">mm mm</u>
+<u n="207" who="S0478">mm</u>
+<u n="208" who="S0506">mm</u>
+<u n="209" who="S0478">mm</u>
+<u n="210" who="S0428">well</u>
+<u n="211" who="S0506">you've met her <anon type="name" nameType="f"/>?</u>
+<u n="212" who="S0428">no</u>
+<u n="213" who="S0506">no? mm</u>
+<u n="214" who="S0428">I heard a lot about her</u>
+<u n="215" who="S0506">yeah</u>
+<u n="216" who="S0428">but when I when I came to visit she was always in with her husband no I never met her</u>
+<u n="217" who="S0506">her husband died about six months ago</u>
+<u n="218" who="S0478" trans="overlap"><unclear/> still a bit frozen isn't it?</u>
+<u n="219" who="S0504">oh dear</u>
+<u n="220" who="S0506">mm</u>
+<u n="221" who="S0505">mm mm</u>
+<u n="222" who="S0478">well I don't think it was particularly <unclear/> actually</u>
+<u n="223" who="S0506">mm they'd been married seventy-four years that's by far the longest that I've ever know of anybody</u>
+<u n="224" who="S0504">mm</u>
+<u n="225" who="S0478">well she's ninety-three or ninety-four so</u>
+<u n="226" who="S0506">mm</u>
+<u n="227" who="S0478">she must have got married pretty young</u>
+<u n="228" who="S0506">mm</u>
+<u n="229" who="S0478">when she was nineteen <pause dur="short"/> ish</u>
+<u n="230" who="S0505">the only person I saw walking along the street in <anon type="place"/> was <anon type="name" nameType="m"/> do you remember? you know? the bell ringer</u>
+<u n="231" who="S0478" trans="overlap">oh yeah yeah</u>
+<u n="232" who="S0505">and he hadn't changed at all or aged</u>
+<u n="233" who="S0504">well he has aged a bit but I know what you mean</u>
+<u n="234" who="S0505">mm mm</u>
+<u n="235" who="S0504">he looks pretty timeless doesn't he?</u>
+<u n="236" who="S0505">mm yes</u>
+<u n="237" who="S0478">well he looked about ninety when he was fifty</u>
+<u n="238" who="S0505" trans="overlap">but yes yes exactly and he still looks about ninety</u>
+<u n="239" who="S0504" trans="overlap">do you remember his wife?</u>
+<u n="240" who="S0505">yes</u>
+<u n="241" who="S0504" trans="overlap"><anon type="name" nameType="f"/> <vocal desc="laugh"/></u>
+<u n="242" who="S0505">mm yeah yes yes</u>
+<u n="243" who="S0478">she died very young</u>
+<u n="244" who="S0505">mm yes she didn't look young either though</u>
+<u n="245" who="S0478">sorry?</u>
+<u n="246" who="S0505">she <trunc>ne</trunc> didn't she was one of these people who never looked young I reckon</u>
+<u n="247" who="S0504">mm</u>
+<u n="248" who="S0506">huh</u>
+<u n="249" who="S0478">mm she looked younger than <anon type="name" nameType="m"/> but</u>
+<u n="250" who="S0504">so do you speak to <anon type="name" nameType="m"/> at all or?</u>
+<u n="251" who="S0505">oh no no no no I was in the car being driven past <unclear/></u>
+<u n="252" who="S0478" trans="overlap">well when we first knew them they must have been about our age now actually</u>
+<u n="253" who="S0504">bit older</u>
+<u n="254" who="S0506">mm</u>
+<u n="255" who="S0478">maybe</u>
+<u n="256" who="S0505">mm</u>
+<u n="257" who="S0428">do you know the best thing about <anon type="name" nameType="f"/>? her her fruit pastilles</u>
+<u n="258" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="259" who="S0428">they're my favourite sweets in the whole wide world</u>
+<u n="260" who="S0506">ah</u>
+<u n="261" who="S0505">mm mm</u>
+<u n="262" who="S0506">ah she's a great character she's a great help to me well most of us but mainly through me personally</u>
+<u n="263" who="S0428">mm</u>
+<u n="264" who="S0506">mm</u>
+<u n="265" who="S0505">are they still <anon type="name" nameType="n"/>?</u>
+<u n="266" who="S0428">yeah but they're owned by Nestlé I think</u>
+<u n="267" who="S0505" trans="overlap">oh good I was going to say surely they've been bought out by Nestlé</u>
+<u n="268" who="S0428">but they've kept their branding</u>
+<u n="269" who="S0478">I thought they've been bought out by erm Kraft?</u>
+<u n="270" who="S0504" trans="overlap">no not Nestlé <pause dur="short"/> kraft that's right</u>
+<u n="271" who="S0505" trans="overlap">I <trunc>do</trunc> I don't know</u>
+<u n="272" who="S0504">they were <trunc>o</trunc> taken over by Cadburys</u>
+<u n="273" who="S0478" trans="overlap">American company</u>
+<u n="274" who="UNKMULTI" trans="overlap" whoConfidence="low">yeah</u>
+<u n="275" who="S0504">and then Cadburys was bought out by Kraft</u>
+<u n="276" who="S0478" trans="overlap">Kraft yeah</u>
+<u n="277" who="S0505">mm by Kraft not erm</u>
+<u n="278" who="S0478" trans="overlap">Kraft cheese</u>
+<u n="279" who="S0505">Nestlé</u>
+<u n="280" who="S0428">do you know my <trunc>favouri</trunc></u>
+<u n="281" who="S0505">cos I saw that Kitkat is be is now Nestlé</u>
+<u n="282" who="S0506">ah</u>
+<u n="283" who="S0504">mm yeah</u>
+<u n="284" who="S0478" trans="overlap">mm</u>
+<u n="285" who="S0505">Nestlé are obviously backing to get everything and they tried to get Cadbury but they didn't did they? Cadbury turned them down</u>
+<u n="286" who="S0504">no Cadbury were bought Cadbury took over <pause dur="short"/> rowntrees</u>
+<u n="287" who="S0505">ah mm</u>
+<u n="288" who="S0506" trans="overlap">mm</u>
+<u n="289" who="S0504">and Cadburys have been bought out by Kraft now</u>
+<u n="290" who="S0505">mm</u>
+<u n="291" who="S0506">ah</u>
+<u n="292" who="S0505">is that American?</u>
+<u n="293" who="S0506">what happened to Fry's in Bristol then?</u>
+<u n="294" who="S0504">they got shut down</u>
+<u n="295" who="S0478" trans="overlap"><unclear/> Cadburys</u>
+<u n="296" who="S0506">shut down ah</u>
+<u n="297" who="S0428">what are Fry's?</u>
+<u n="298" who="S0504">they were promised</u>
+<u n="299" who="S0478">I thought Cadburys took over Fry's? Cadbury Fry's</u>
+<u n="300" who="S0506">mm</u>
+<u n="301" who="S0505">mm</u>
+<u n="302" who="S0428">what what what were Fry's? was Fry's a chocolate company?</u>
+<u n="303" who="S0506">yeah well I <vocal desc="laugh"/></u>
+<u n="304" who="S0478" trans="overlap">yeah</u>
+<u n="305" who="S0506">if I'd been taken over by the <anon type="name" nameType="n"/> family I would have been been erm had a job with Fry's but my mother wouldn't have any of it mm</u>
+<u n="306" who="S0505" trans="overlap">mm</u>
+<u n="307" who="S0428">do you think that's why you like chocolate so much?</u>
+<u n="308" who="S0504" trans="overlap">I thought it was Webber or <trunc>we</trunc></u>
+<u n="309" who="S0506">sorry?</u>
+<u n="310" who="S0504">thought it was Webber or something that <trunc>ma</trunc>made the chocolate</u>
+<u n="311" who="S0506" trans="overlap">mm mm</u>
+<u n="312" who="S0428">do you think that's why you like chocolate so much?</u>
+<u n="313" who="S0506"><vocal desc="laugh"/> no</u>
+<u n="314" who="S0505" trans="overlap">mm mm</u>
+<u n="315" who="S0506">no mm <pause dur="short"/> they used to send us one of the <anon type="name" nameType="n"/> relatives used to send us great big boxes of chocolates every year mm Christmas</u>
+<u n="316" who="S0505" trans="overlap">mm</u>
+<u n="317" who="S0428">mm</u>
+<u n="318" who="S0478">then that stopped</u>
+<u n="319" who="S0506">mm mm</u>
+<u n="320" who="S0505">now <anon type="name" nameType="m"/> the other one tiny <anon type="name" nameType="m"/> <anon type="name" nameType="m"/>'s mum er doesn't like Nestlé's</u>
+<u n="321" who="S0506">mm</u>
+<u n="322" who="S0505">because they sold</u>
+<u n="323" who="S0428" trans="overlap">the baby scandal in Africa</u>
+<u n="324" who="S0505">but that was you know a long time ago erm they've they've looked at these companies and they thought that er Cadbury was the worst one that was exploiting the natives anyway you know?</u>
+<u n="325" who="S0506" trans="overlap">mm</u>
+<u n="326" who="S0505">anyway she will not allow</u>
+<u n="327" who="S0428" trans="overlap">they all exploit</u>
+<u n="328" who="S0505">she says nobody should buy Nestlé stuff now Nestlé's is taking over everything erm erm <anon type="name" nameType="m"/> said <anon type="name" nameType="f"/> is not to have Nestlé in her house</u>
+<u n="329" who="S0506">mm</u>
+<u n="330" who="S0505">now the children love erm Os we have a a <trunc>cer</trunc>cereal</u>
+<u n="331" who="S0428">oh like Cheerios?</u>
+<u n="332" who="S0505">Cheerios they're Nestlé</u>
+<u n="333" who="S0428">yeah</u>
+<u n="334" who="S0505">and the children love them for breakfast no no they're not to eat it and he takes them away from them because they're Nestlé <pause dur="short"/> my mum says that we're not to not to use Nestlé because they're <vocal desc="misc"/></u>
+<u n="335" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="336" who="S0505">and they've now taken over the ice cream Peters Ice Cream which is our best ice cream company</u>
+<u n="337" who="S0428">is that where <anon type="name" nameType="m"/> got his name from?</u>
+<u n="338" who="S0505">yeah <vocal desc="laugh"/> no anyway she's got a and I think to carry it on like that's ridiculous she's not allowed to buy Nestlé you know? the erm little <trunc>ca</trunc> coffee sticks</u>
+<u n="339" who="S0478" trans="overlap">I wouldn't have any I just wouldn't <pause dur="short"/> go along with it I'm afraid</u>
+<u n="340" who="S0505" trans="overlap">I know no I wouldn't and and she this is the trouble <anon type="name" nameType="f"/>'s beginning to realise she's sat down under things like that for too long</u>
+<u n="341" who="S0506" trans="overlap">mm</u>
+<u n="342" who="S0478" trans="overlap">oh she she has succumbed to pressure from</u>
+<u n="343" who="S0505" trans="overlap">but that <anon type="name" nameType="m"/> doesn't really care that much one way or the other</u>
+<u n="344" who="S0478" trans="overlap">no <unclear/></u>
+<u n="345" who="S0505">it's cos mum says</u>
+<u n="346" who="S0478">yes but I wouldn't have thought that erm he would stop <anon type="name" nameType="f"/> actually doing stuff</u>
+<u n="347" who="S0505">mm mm</u>
+<u n="348" who="S0506">mm</u>
+<u n="349" who="S0505">especially when it's something the children like and it's their the only cereal they would eat for a bit mm anyway</u>
+<u n="350" who="S0478">wow</u>
+<u n="351" who="S0505">it's very silly also it's just me eating it's always me</u>
+<u n="352" who="S0478" trans="overlap">I'll send her a box of Nestlé chocolates for Christmas</u>
+<u n="353" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="354" who="S0428">only thing is if you didn't like that you wouldn't wear any clothes you wouldn't take any medicine cos everything is being like</u>
+<u n="355" who="S0505" trans="overlap">mm no</u>
+<u n="356" who="S0506" trans="overlap"><vocal desc="laugh"/></u>
+<u n="357" who="S0428">exploited</u>
+<u n="358" who="S0478" trans="overlap">he said he wouldn't wouldn't use anything that was produced in China because of the sweatshops and things</u>
+<u n="359" who="S0505">mm</u>
+<u n="360" who="S0506" trans="overlap">ah mm</u>
+<u n="361" who="S0505">they have sweatshops but on the other hand I know from Africa cos people will always say oh servants don't want to mix with you having servants and exploiting them if they didn't work as servants they wouldn't have any money at all</u>
+<u n="362" who="S0478">in Africa you mean?</u>
+<u n="363" who="S0505">in Africa and they like it was one of the top jobs was to work as a servant</u>
+<u n="364" who="S0428">well surely it's the name</u>
+<u n="365" who="S0505">and they just couldn't understand that you know?</u>
+<u n="366" who="S0428" trans="overlap">but isn't isn't the name servant like really derogatory?</u>
+<u n="367" who="S0505" trans="overlap">oh <unclear/></u>
+<u n="368" who="S0428">if you if you use a different word then it's fine but the word servant is really bad</u>
+<u n="369" who="S0504" trans="overlap">staff the staff</u>
+<u n="370" who="S0505" trans="overlap">staff yes the staff <pause dur="short"/> houseboy</u>
+<u n="371" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="372" who="S0505">that's even worse</u>
+<u n="373" who="S0504">houseboy <vocal desc="laugh"/></u>
+<u n="374" who="S0478" trans="overlap">could that be a man of about sort of fifty or sixty then?</u>
+<u n="375" who="S0505">mm yeah well they were all houseboys</u>
+<u n="376" who="S0504" trans="overlap">so when I joined <anon type="place"/> I was given a copy of the statutes of the college and there it all sort of talks about the servants this the servants that</u>
+<u n="377" who="S0428">it's disgusting the <unclear/> I don't think the word anyone in twenty-first century Britain should be called a servant it's just</u>
+<u n="378" who="S0505" trans="overlap">yeah <pause dur="short"/> no <trunc>ho</trunc> you call them houseboys</u>
+<u n="379" who="S0428">no I would definitely not call them houseboys</u>
+<u n="380" who="S0505" trans="overlap">they're kind of a boy <unclear/></u>
+<u n="381" who="S0428" trans="overlap"><vocal desc="laugh"/> even worse <anon type="name" nameType="f"/></u>
+<u n="382" who="S0504" trans="overlap">boy boy</u>
+<u n="383" who="S0505"><vocal desc="laugh"/></u>
+<u n="384" who="S0478">boy do this boy breakfast <unclear/></u>
+<u n="385" who="S0505" trans="overlap">but you see you <trunc>ju</trunc>just don't understand that that to be a houseboy was a respected occupation amongst people who didn't have any education and no jobs to go to anywhere</u>
+<u n="386" who="S0506" trans="overlap">yeah mm</u>
+<u n="387" who="S0505">and to get a job as a houseboy was</u>
+<u n="388" who="S0506">oh</u>
+<u n="389" who="S0478">mm</u>
+<u n="390" who="S0506">mm</u>
+<u n="391" who="S0505">but not not to an African</u>
+<u n="392" who="S0478">I was going to talk to this houseboy but I don't think all the staff would fit in the dishwasher <vocal desc="laugh"/></u>
+<u n="393" who="S0505" trans="overlap"><unclear/></u>
+<u n="394" who="S0478">I might have to do two loads</u>
+<u n="395" who="S0506">mm</u>
+<u n="396" who="S0428">erm did you like this?</u>
+<u n="397" who="S0478">erm I I quite like the fact that it's still half frozen actually</u>
+<u n="398" who="S0505" trans="overlap">oh</u>
+<u n="399" who="S0478">but I don't I think it's not my favourite I didn't</u>
+<u n="400" who="S0506">oh very tasty mm</u>
+<u n="401" who="S0478">it's a well I just wanted to have something for dessert tonight so</u>
+<u n="402" who="S0506">mm</u>
+<u n="403" who="S0504">mm</u>
+<u n="404" who="S0478">I'll <unclear/> I prefer what I make to be honest</u>
+<u n="405" who="S0506"><unclear/></u>
+<u n="406" who="S0504" trans="overlap">we've got to work out what time we need to leave tomorrow don't we?</u>
+<u n="407" who="S0478">I mean to be honest I can't do two outings during the day</u>
+<u n="408" who="S0505" trans="overlap">mm mm</u>
+<u n="409" who="S0478">and <unclear/> and make a dessert <vocal desc="laugh"/></u>
+<u n="410" who="S0505" trans="overlap">well yes it's it says on my email that you can check in online two hours before</u>
+<u n="411" who="S0478" trans="overlap">no proper anyway</u>
+<u n="412" who="S0506" trans="overlap">yeah it's amazing what you can do isn't it?</u>
+<u n="413" who="S0504">check in online no we're driving to <anon type="place"/></u>
+<u n="414" who="S0505">mm yeah</u>
+<u n="415" who="S0504">but I'd rather not check in I'd rather get there and have the argument about where you're going to sit</u>
+<u n="416" who="S0505" trans="overlap">mm mm and yes and get rid of my baggage</u>
+<u n="417" who="S0504" trans="overlap">so I think there's about a one in three chance we might get you upgraded if they haven't that would be really good wouldn't it on the first leg?</u>
+<u n="418" who="S0505" trans="overlap">mm mm but it it depends they're probably booked</u>
+<u n="419" who="S0504">if it's chocka they're full they can't do anything but</u>
+<u n="420" who="S0505" trans="overlap">mm</u>
+<u n="421" who="S0478">yeah but <anon type="name" nameType="f"/> must get an aisle seat</u>
+<u n="422" who="S0504">yeah</u>
+<u n="423" who="S0478">if they say no you need to make a heck of a fuss because being a disabled person she should she's entitled to one</u>
+<u n="424" who="S0505" trans="overlap">mm mm mm mm</u>
+<u n="425" who="S0504">well she's not entitled but it's</u>
+<u n="426" who="S0478">yes she is</u>
+<u n="427" who="S0505">well they said they told me that I should have been out in an aisle seat</u>
+<u n="428" who="S0478" trans="overlap">no she is <pause dur="short"/> she is entitled</u>
+<u n="429" who="S0504" trans="overlap">is it written down anywhere?</u>
+<u n="430" who="S0505">no no</u>
+<u n="431" who="S0504">that's the problem you see it's not written down anywhere that you're entitled to it</u>
+<u n="432" who="S0505" trans="overlap">no and I don't want them to say well you can go on a flight tomorrow</u>
+<u n="433" who="S0478">no</u>
+<u n="434" who="S0505">mm no that won't</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

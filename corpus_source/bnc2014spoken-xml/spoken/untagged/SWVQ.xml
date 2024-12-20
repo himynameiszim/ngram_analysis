@@ -1,0 +1,477 @@
+<text id="SWVQ">
+	<header>
+		<rec_length>0:21:44</rec_length>
+		<rec_date>2015-08-08</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q3</rec_period>
+		<n_speakers>4</n_speakers>
+		<list_speakers>S0415 S0416 S0417 S0418</list_speakers>
+		<rec_loc> Ballincollig, Cork, Ireland,  home.</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Child are the table, Mending computers, Rugby arrangements, Fajita sauce, Sticky out ears, Arranging the evening, Swimming.</topics>
+		<activity>Dinner conversation about fixing computer and warranty.</activity>
+		<conv_type>Discussing, requesting</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T18</transcriber>
+		<speakerInfo>
+			<speaker id="S0415">
+				<exactage>46</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>Irish</nat>
+				<birthplace>Ireland</birthplace>
+				<birthcountry>Ireland</birthcountry>
+				<l1>English</l1>
+				<lingorig></lingorig>
+				<dialect_rep>Cork, Ireland</dialect_rep>
+				<hab_city>Cork</hab_city>
+				<hab_country>Ireland</hab_country>
+				<hab_dur>46 years</hab_dur>
+				<dialect_l1>non_uk</dialect_l1>
+				<dialect_l2>r_ireland</dialect_l2>
+				<dialect_l3>r_ireland</dialect_l3>
+				<dialect_l4>r_ireland</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>IT manager</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2>Irish</l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0416">
+				<exactage>12</exactage>
+				<age1994>0_14</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bristol, England</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern England</dialect_rep>
+				<hab_city>Cork</hab_city>
+				<hab_country>Ireland</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>9_unknown</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0417">
+				<exactage>45</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>London</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern England</dialect_rep>
+				<hab_city>Cork</hab_city>
+				<hab_country>Ireland</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>9_unknown</edqual>
+				<occupation>not currently working, caring for toddler</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls>some French -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0418">
+				<exactage>2</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>M</gender>
+				<nat>Irish</nat>
+				<birthplace>Cork, Ireland</birthplace>
+				<birthcountry>Ireland</birthcountry>
+				<l1>English</l1>
+				<lingorig></lingorig>
+				<dialect_rep>English/Irish (only just talking)</dialect_rep>
+				<hab_city>Cork</hab_city>
+				<hab_country>Ireland</hab_country>
+				<hab_dur>2 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>9_unknown</edqual>
+				<occupation>toddler</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0415"><unclear/> come over here <pause dur="short"/> <unclear>now</unclear></u>
+<u n="2" who="S0417" trans="overlap">oh can you grab the the thing the plate out of the microwave please?</u>
+<u n="3" who="S0416"><anon type="name" nameType="m"/> or me?</u>
+<u n="4" who="S0417">you please <pause dur="short"/> thanks <pause dur="long"/></u>
+<u n="5" who="S0415">right <pause dur="short"/> <unclear/></u>
+<u n="6" who="S0416"><unclear/></u>
+<u n="7" who="S0415">oh I need a knife and fork <pause dur="short"/></u>
+<u n="8" who="S0417"><vocal desc="laugh"/> he's already <unclear>pinched one</unclear> oh that's quite hot hot</u>
+<u n="9" who="S0415">I'll erm</u>
+<u n="10" who="S0417">are you alright?</u>
+<u n="11" who="S0418"><unclear/></u>
+<u n="12" who="S0415">do you want to take some juice? take some juice</u>
+<u n="13" who="S0417" trans="overlap"><anon type="name" nameType="m"/></u>
+<u n="14" who="S0415">now everyone's sitting down <anon type="name" nameType="m"/> we're all sitting down <vocal desc="sigh"/></u>
+<u n="15" who="S0418"><vocal desc="misc"/></u>
+<u n="16" who="S0415"><unclear>I'll</unclear> give him some vegetables he usually eats those like with</u>
+<u n="17" who="S0417">okay</u>
+<u n="18" who="S0415">with curry when they're covered in curry sauce he does <pause dur="short"/> right <unclear>yes er</unclear></u>
+<u n="19" who="S0418" trans="overlap"><unclear/> <pause dur="short"/></u>
+<u n="20" who="S0415"><unclear/> <anon type="name" nameType="m"/></u>
+<u n="21" who="S0416">rugby tomorrow <pause dur="long"/> thank you <pause dur="short"/></u>
+<u n="22" who="S0417">have you washed your hands?</u>
+<u n="23" who="S0416"><unclear/></u>
+<u n="24" who="S0417"><unclear/> down and wash your hands <unclear/></u>
+<u n="25" who="S0416">okay <pause dur="long"/></u>
+<u n="26" who="S0417">mm he doesn't seem to mind <unclear>it's spicy</unclear></u>
+<u n="27" who="S0415">how many of them are there?</u>
+<u n="28" who="S0417">mm?</u>
+<u n="29" who="S0415">how many of them are there? these there?</u>
+<u n="30" who="S0417">I don't know</u>
+<u n="31" who="S0415">is there er more than six?</u>
+<u n="32" who="S0417">erm I've had one you've had one and he's had one</u>
+<u n="33" who="S0415" trans="overlap"><unclear>whether</unclear> <anon type="name" nameType="m"/>'s had one that's what I'm trying to figure out <pause dur="short"/> okay so I think there's yeah there's enough for two each and two puddings</u>
+<u n="34" who="S0417">mm</u>
+<u n="35" who="S0415">if he wants that's why I was just <unclear>trying <trunc>t</trunc></unclear> <anon type="name" nameType="m"/> <pause dur="long"/> he's very good</u>
+<u n="36" who="S0417">mm</u>
+<u n="37" who="S0415">he likes being he likes <unclear/> sharing his experience mm</u>
+<u n="38" who="S0417"><vocal desc="laugh"/></u>
+<u n="39" who="S0415">as hippyish as that sounds <vocal desc="laugh"/> do you know what I mean?</u>
+<u n="40" who="S0417">mm</u>
+<u n="41" who="S0415">oh sorry <vocal desc="laugh"/> sorry about that I didn't realise you were going for it <pause dur="short"/> <unclear>there you go</unclear> <pause dur="short"/> <unclear>er shall we</unclear> give you a bit of cheese? <unclear/> wolfing down the vegetables <unclear/> <vocal desc="laugh"/> <unclear/></u>
+<u n="42" who="S0417">mm</u>
+<u n="43" who="S0416">did kind of like the vegetables</u>
+<u n="44" who="S0415"><unclear/> but I don't think they</u>
+<u n="45" who="S0417">do you want to watch House of Cards tonight?</u>
+<u n="46" who="S0415">oh god <vocal desc="misc"/> <unclear/> just to make sure my night is full of excitement erm yeah yeah mm er er have you <unclear/> that <unclear/> CD?</u>
+<u n="47" who="S0417">erm</u>
+<u n="48" who="S0415">well actually it's er yeah erm yes</u>
+<u n="49" who="S0417" trans="overlap">you can you can do erm <anon type="name" nameType="f"/>'s thing <unclear/></u>
+<u n="50" who="S0415" trans="overlap">no I can't do that cos I have to wait for the paste to arrive from Amazon which will probably be late in the week or next week</u>
+<u n="51" who="S0417">so what do you do with thermal paste? what is it?</u>
+<u n="52" who="S0415">see I've gotta place the motherboard and the CPU goes onto the motherboard and it's got a built-in GPU it er they get extremely hot when they're working especially in laptops so you've gotta put this heat this copper heat sink on it which is part of the laptop that goes out towards the fan but we need this thermal special thermal paste which conducts heat between the chip and the heat sink but isn't electrically capacitive or conductive it's just heat conductive and it's like it can</u>
+<u n="53" who="S0416" trans="overlap">mum understands all of that</u>
+<u n="54" who="S0415">it can take away er the basically it's a cooling mechanism</u>
+<u n="55" who="S0417">mm <vocal desc="laugh"/></u>
+<u n="56" who="S0415">that's why it's a specialised kind of paste</u>
+<u n="57" who="S0416">you said that so complicated <pause dur="long"/> so are we walking?</u>
+<u n="58" who="S0417">pardon?</u>
+<u n="59" who="S0416">to the rugby</u>
+<u n="60" who="S0415">walking to rugby?</u>
+<u n="61" who="S0417" trans="overlap">we're not actually walking it's like five miles</u>
+<u n="62" who="S0416">no</u>
+<u n="63" who="S0417">more than five miles seven miles</u>
+<u n="64" who="S0416">you know what I mean though</u>
+<u n="65" who="S0417">we're taking the bus?</u>
+<u n="66" who="S0416">yeah</u>
+<u n="67" who="S0415"><unclear>we don't</unclear> have to go this time</u>
+<u n="68" who="S0416" trans="overlap">but you know what I meant by walking?</u>
+<u n="69" who="S0417">kind of</u>
+<u n="70" who="S0416">kind of like what I <unclear/></u>
+<u n="71" who="S0417" trans="overlap">you could've said taking the bus</u>
+<u n="72" who="S0416">mm? it's kind of like when when I said computer when you said laptop</u>
+<u n="73" who="S0417"><vocal desc="laugh"/> I see okay</u>
+<u n="74" who="S0415">well like</u>
+<u n="75" who="S0416">it's the exact same thing</u>
+<u n="76" who="S0415">if you ask <anon type="name" nameType="m"/>'s mother she'll bring the two of you</u>
+<u n="77" who="S0417">mm?</u>
+<u n="78" who="S0415">if you ask <anon type="name" nameType="m"/>'s mother she'll bring the two of you</u>
+<u n="79" who="S0416">but <trunc>w</trunc></u>
+<u n="80" who="S0417">no I spoke to her on the thing and I said I'd have to come in tomorrow anyway so</u>
+<u n="81" who="S0416" trans="overlap">why? why <unclear/>? <pause dur="short"/> okay but the other days</u>
+<u n="82" who="S0415">yeah no but I mean what I'm saying is you could go in with her</u>
+<u n="83" who="S0417">I've got <anon type="name" nameType="m"/></u>
+<u n="84" who="S0415">oh I forgot about him <vocal desc="laugh"/> yes that's a good point that's good thinking</u>
+<u n="85" who="S0417"><vocal desc="laugh"/> <pause dur="short"/> also er I I'm on her time meaning I just have I just need to be there to if she's like ten minutes late or something</u>
+<u n="86" who="S0416">is she? how do you mean?</u>
+<u n="87" who="S0417">I'm just I'm just saying <unclear/> her timing</u>
+<u n="88" who="S0415" trans="overlap">she <trunc>m</trunc> she means she doesn't want to pressing er pressurising <anon type="name" nameType="m"/>'s mum if she's running late or anything</u>
+<u n="89" who="S0417">yeah</u>
+<u n="90" who="S0416">oh</u>
+<u n="91" who="S0417">cos I have to be there like just before six</u>
+<u n="92" who="S0416">mm <pause dur="long"/></u>
+<u n="93" who="S0417">maybe could you pick me up from the the rugby club at six? that might be best</u>
+<u n="94" who="S0415">and how's he getting home?</u>
+<u n="95" who="S0417">mm?</u>
+<u n="96" who="S0415">how's he getting home?</u>
+<u n="97" who="S0417"><anon type="name" nameType="m"/>'s mum will take him er home</u>
+<u n="98" who="S0415">oh right <pause dur="long"/></u>
+<u n="99" who="S0416">what do you mean? <pause dur="short"/> did you just did you just say er I might've misheard you but did you say erm <anon type="name" nameType="m"/> could you pick him up? and then <anon type="name" nameType="m"/> said but how's he getting home?</u>
+<u n="100" who="S0415">I tell you what don't worry about it it's taken care of <anon type="name" nameType="m"/>'s mum's gonna bring you home</u>
+<u n="101" who="S0416">okay</u>
+<u n="102" who="S0415">I'm gonna bring your mum home</u>
+<u n="103" who="S0417" trans="overlap">and I'm and I'm gonna drop you off in the bus</u>
+<u n="104" who="S0416">okay</u>
+<u n="105" who="S0415">and I'm gonna bring your mum home</u>
+<u n="106" who="S0416"><unclear>okay and me</unclear>?</u>
+<u n="107" who="S0415">no cos we've already established she's bringing you home <vocal desc="laugh"/></u>
+<u n="108" who="S0417">I'm going there so how am I gonna get home?</u>
+<u n="109" who="S0416" trans="overlap">oh oh <unclear/> I thought you meant like you're bringing my mum there and I was just gonna like get the bus with you</u>
+<u n="110" who="S0417">maybe I'd go swimming again tomorrow cos I need to do it again and I need to do I only did it like did I do it three times last week? or did I only do it two? I don't know <pause dur="long"/> I need some tissues</u>
+<u n="111" who="S0415"><unclear/> this</u>
+<u n="112" who="S0418"><unclear/></u>
+<u n="113" who="S0415"><unclear/> <anon type="name" nameType="m"/></u>
+<u n="114" who="S0418">yeah yeah yeah yeah <unclear/></u>
+<u n="115" who="S0415">do you want more?</u>
+<u n="116" who="S0418">yeah <unclear/></u>
+<u n="117" who="S0415">do you want these things?</u>
+<u n="118" who="S0418">mm <pause dur="long"/></u>
+<u n="119" who="S0415">do you want some chicken? <pause dur="short"/> no?</u>
+<u n="120" who="S0418"><unclear/></u>
+<u n="121" who="S0416">would you like some more of the <trunc>pi</trunc> <unclear/> pizza I made?</u>
+<u n="122" who="S0418">mm</u>
+<u n="123" who="S0415">fantastic</u>
+<u n="124" who="S0416">mm</u>
+<u n="125" who="S0418"><vocal desc="misc"/></u>
+<u n="126" who="S0415"><unclear/> <vocal desc="laugh"/> <pause dur="short"/> oh you're a good boy aren't you <anon type="name" nameType="m"/>?</u>
+<u n="127" who="S0416" trans="overlap"><unclear>these wraps seem to</unclear> have a lemony scent to them</u>
+<u n="128" who="S0417">mm?</u>
+<u n="129" who="S0416">is there lemon on your <unclear>brown bread</unclear>?</u>
+<u n="130" who="S0417">no</u>
+<u n="131" who="S0415">I think he's throwing most of the vegetables away</u>
+<u n="132" who="S0417">oh</u>
+<u n="133" who="S0416">tastes a bit lemony</u>
+<u n="134" who="S0418"><unclear/></u>
+<u n="135" who="S0416">does anyone else agree?</u>
+<u n="136" who="S0415">what?</u>
+<u n="137" who="S0416">that these wraps taste a tiny bit lemony</u>
+<u n="138" who="S0415"><vocal desc="misc"/> no not that I've noticed <pause dur="long"/> he'll he'll eat any vegetable covered in curry though <vocal desc="laugh"/></u>
+<u n="139" who="S0418">no</u>
+<u n="140" who="S0417">covered in sauce you see do you want some more? it's alright <unclear/></u>
+<u n="141" who="S0415"><unclear/></u>
+<u n="142" who="S0417">it's the first time I think they've all <unclear/> we might as well use them all <unclear/> do you want some more?</u>
+<u n="143" who="S0415"><unclear>do you know</unclear> I was leaving some for you</u>
+<u n="144" who="S0417">mm?</u>
+<u n="145" who="S0415">I was leaving them for you</u>
+<u n="146" who="S0417">were you?</u>
+<u n="147" who="S0415">yes</u>
+<u n="148" who="S0417">can't use them now though <pause dur="short"/> <unclear/></u>
+<u n="149" who="S0415"><unclear/></u>
+<u n="150" who="S0417"><unclear>no thanks</unclear></u>
+<u n="151" who="S0415">cor <vocal desc="laugh"/></u>
+<u n="152" who="S0417">I think I prefer the Doritos ones is it Doritos? no</u>
+<u n="153" who="S0416">yes Doritos mild salsa?</u>
+<u n="154" who="S0417">mm mm</u>
+<u n="155" who="S0415">Doritos what?</u>
+<u n="156" who="S0416">mild salsa</u>
+<u n="157" who="S0417">fajita kits</u>
+<u n="158" who="S0416"><unclear>in in the restaurant</unclear></u>
+<u n="159" who="S0415" trans="overlap">tortillas mm?</u>
+<u n="160" who="S0417"><unclear>no</unclear> these are fajitas aren't they?</u>
+<u n="161" who="S0416">mm</u>
+<u n="162" who="S0415">oh no oh right right I get what you're saying</u>
+<u n="163" who="S0416"><unclear/> Doritos fajita kits <pause dur="long"/> mm</u>
+<u n="164" who="S0415">so you're only talking about the wraps is it?</u>
+<u n="165" who="S0417">and the spicy sauce</u>
+<u n="166" who="S0416">yeah that's erm Doritos mild salsa</u>
+<u n="167" who="S0415">no <unclear>don't you mean er</unclear> <pause dur="long"/> the Mexicano ones? <vocal desc="laugh"/></u>
+<u n="168" who="S0417">is that the make?</u>
+<u n="169" who="S0415">what was that one?</u>
+<u n="170" who="S0417">that was Supervalu's own brand <pause dur="short"/> supervalu the well-known Mexican speciality people</u>
+<u n="171" who="S0415" trans="overlap"><vocal desc="laugh"/></u>
+<u n="172" who="S0416">yeah I'm not a big fan of those wraps</u>
+<u n="173" who="S0415">want some juice? <pause dur="long"/> <vocal desc="cough"/> <pause dur="long"/></u>
+<u n="174" who="S0417">if you're finished you can go off <anon type="name" nameType="m"/> <unclear>just sort your plate out</unclear> <unclear/></u>
+<u n="175" who="S0416">okay what time is it now <anon type="name" nameType="m"/>?</u>
+<u n="176" who="S0415">erm <vocal desc="sigh"/> erm eight o'clock</u>
+<u n="177" who="S0416">okay</u>
+<u n="178" who="S0417">you need to kind of tidy your room up as well <unclear/></u>
+<u n="179" who="S0416">I know</u>
+<u n="180" who="S0415"><unclear/> everywhere yeah like a boy</u>
+<u n="181" who="S0416">that's sexist</u>
+<u n="182" who="S0415">fair enough</u>
+<u n="183" who="S0418"><unclear/></u>
+<u n="184" who="S0415">cos actually <unclear/> how messy girls <unclear/> rooms <unclear/> too <vocal desc="laugh"/></u>
+<u n="185" who="S0417">yeah <anon type="name" nameType="f"/>'s room</u>
+<u n="186" who="S0415"><unclear/> <pause dur="long"/></u>
+<u n="187" who="S0417"><vocal desc="laugh"/> <unclear>you both look funny</unclear> <vocal desc="laugh"/> <pause dur="short"/> <anon type="name" nameType="f"/> thought he was very handsome</u>
+<u n="188" who="S0415">that's cos he is</u>
+<u n="189" who="S0416"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="190" who="S0417">they haven't got names yet</u>
+<u n="191" who="S0415">did she omit to say like his parents? <vocal desc="laugh"/></u>
+<u n="192" who="S0417">yeah she did actually <vocal desc="laugh"/> she omitted to say that</u>
+<u n="193" who="S0415" trans="overlap"><unclear>no er</unclear> he's very handsome with a quizzical look on her face</u>
+<u n="194" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="195" who="S0417">yeah <vocal desc="laugh"/></u>
+<u n="196" who="S0415">how did you manage that?</u>
+<u n="197" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="198" who="S0418"><unclear/></u>
+<u n="199" who="S0416"><unclear/> shower never mind</u>
+<u n="200" who="S0417">mm <pause dur="long"/></u>
+<u n="201" who="S0415">considering how kind of relatively rugged I am <vocal desc="laugh"/> in terms of <unclear>that and</unclear> handsomeness like all my children turned out relatively <vocal desc="laugh"/> <unclear>handsome</unclear> <unclear/> <vocal desc="laugh"/></u>
+<u n="202" who="S0417">I shouldn't <anon type="name" nameType="m"/> <unclear>er turned out handsome</unclear></u>
+<u n="203" who="S0415" trans="overlap">I said all my children turned out great <unclear/></u>
+<u n="204" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="205" who="S0415">in that respect <pause dur="long"/></u>
+<u n="206" who="S0418"><vocal desc="misc"/> <unclear/></u>
+<u n="207" who="S0415">hello</u>
+<u n="208" who="S0418"><unclear/></u>
+<u n="209" who="S0417">do you think we got his ears early? cos he he should have sticky out ears shouldn't he? he really should</u>
+<u n="210" who="S0415" trans="overlap">mm I was thinking about that the other day</u>
+<u n="211" who="S0418"><unclear>show me</unclear></u>
+<u n="212" who="S0415" trans="overlap">like er how happy like I said if we looked up that professor thing like it probably doesn't even exist or something <vocal desc="laugh"/> <unclear>or he's an internet scam</unclear></u>
+<u n="213" who="S0417" trans="overlap">no it's <anon type="place"/> <anon type="place"/> <unclear/></u>
+<u n="214" who="S0415">just cos it says it on <unclear>the fecking</unclear> stupid website that he <vocal desc="laugh"/> went to <anon type="place"/> doesn't mean it is like</u>
+<u n="215" who="S0417"><vocal desc="laugh"/> no</u>
+<u n="216" who="S0415"><vocal desc="laugh"/> especially when you pay seventy quid or whatever it was for a bit of plastic <vocal desc="laugh"/></u>
+<u n="217" who="S0417">yeah</u>
+<u n="218" who="S0415">it's like the size of this like</u>
+<u n="219" who="S0417">mm</u>
+<u n="220" who="S0415">yeah and the doctor looked at him and</u>
+<u n="221" who="S0417">I know it was embarrassing when I went to the doctor <vocal desc="laugh"/></u>
+<u n="222" who="S0415" trans="overlap">what the fuck was that? like <unclear>and teasing him</unclear></u>
+<u n="223" who="S0417">but I could see the logic you see I could see that logic I though yeah</u>
+<u n="224" who="S0415">mm</u>
+<u n="225" who="S0417">I suppose he is just still forming that</u>
+<u n="226" who="S0415" trans="overlap">whatever anyway er so it's <unclear>mm don't know</unclear></u>
+<u n="227" who="S0417">his ears aren't sticking out</u>
+<u n="228" who="S0415"><unclear/></u>
+<u n="229" who="S0417" trans="overlap"><unclear>I think</unclear> the mystery is the curly hair though</u>
+<u n="230" who="S0415">not really I'd say they could go they could be not curly and <vocal desc="laugh"/> <unclear/></u>
+<u n="231" who="S0417" trans="overlap">but it's really curly isn't it?</u>
+<u n="232" who="S0415"><vocal desc="cough"/> <anon type="name" nameType="f"/> had the total curly hair</u>
+<u n="233" who="S0417">really?</u>
+<u n="234" who="S0415">yeah <trunc>t</trunc>ten times curlier than him</u>
+<u n="235" who="S0417"><vocal desc="laugh"/></u>
+<u n="236" who="S0415">are you tired?</u>
+<u n="237" who="S0418"><unclear/></u>
+<u n="238" who="S0415">are you finished?</u>
+<u n="239" who="S0418"><unclear/> <pause dur="long"/></u>
+<u n="240" who="S0415">he heard a noise and he followed it</u>
+<u n="241" who="S0417"><vocal desc="laugh"/></u>
+<u n="242" who="S0418"><unclear/></u>
+<u n="243" who="S0417">has it finished?</u>
+<u n="244" who="S0415">what? what's happening? <pause dur="long"/></u>
+<u n="245" who="S0417">has it finished? has the clothes finished?</u>
+<u n="246" who="S0418"><unclear/></u>
+<u n="247" who="S0415"><vocal desc="misc"/> <pause dur="long"/> <unclear>now</unclear> you're lucky you're so tall you can actually just sit up there and eat oh it's annoying him</u>
+<u n="248" who="S0417">shall I turn it off?</u>
+<u n="249" who="S0415">you turn it off cos it'll probably go he'll go again</u>
+<u n="250" who="S0417">yeah</u>
+<u n="251" who="S0415"><unclear/> mummy get it <anon type="name" nameType="m"/> stay there with daddy no</u>
+<u n="252" who="S0417"><vocal desc="sigh"/></u>
+<u n="253" who="S0417">oh <pause dur="short"/> back again <pause dur="long"/> <unclear/> see I think he likes this</u>
+<u n="254" who="S0417"><vocal desc="laugh"/> yeah</u>
+<u n="255" who="S0415">I think he feels</u>
+<u n="256" who="S0418"><unclear/></u>
+<u n="257" who="S0415">now I'm doing what everybody else is doing <vocal desc="laugh"/> is <anon type="name" nameType="m"/> sitting at the table? eating his food <pause dur="short"/> are you getting down? careful <unclear>now</unclear></u>
+<u n="258" who="S0417"><unclear>anyway erm</unclear> so what do you think? do you need to do a few things or <trunc>y</trunc> is that what you're saying? <unclear/></u>
+<u n="259" who="S0415">erm</u>
+<u n="260" who="S0417">cos I could finish I could do the new page on my website I could finish that</u>
+<u n="261" who="S0415" trans="overlap">I I do but I'm knackered now I'm I I have to do just a tiny few administrative things</u>
+<u n="262" who="S0417">mm</u>
+<u n="263" who="S0415">maybe for half an hour</u>
+<u n="264" who="S0417">yeah</u>
+<u n="265" who="S0415" trans="overlap">but</u>
+<u n="266" who="S0417">I suppose</u>
+<u n="267" who="S0415">I still haven't done last night remember I was supposed to that thing? and I forgot to</u>
+<u n="268" who="S0417">what thing?</u>
+<u n="269" who="S0415" trans="overlap">after I put him to bed</u>
+<u n="270" who="S0417">what thing?</u>
+<u n="271" who="S0415">the assessment thing</u>
+<u n="272" who="S0417">what assessment thing?</u>
+<u n="273" who="S0418" trans="overlap"><unclear/></u>
+<u n="274" who="S0415"><vocal desc="laugh"/> on the phone line</u>
+<u n="275" who="S0417">oh yeah</u>
+<u n="276" who="S0415">I forgot to do it <unclear>mm</unclear></u>
+<u n="277" who="S0417">oh yeah so you could do that</u>
+<u n="278" who="S0415">yeah but I've got a few I've got another half hour of stuff to do as well like so</u>
+<u n="279" who="S0417">mm</u>
+<u n="280" who="S0415">and I'm just tired <vocal desc="laugh"/></u>
+<u n="281" who="S0417">mm</u>
+<u n="282" who="S0415">there's a part of me saying do the small administrative things</u>
+<u n="283" who="S0417" trans="overlap">no do it do it just do it do it</u>
+<u n="284" who="S0415">yeah</u>
+<u n="285" who="S0417">and then erm then I'll do mine</u>
+<u n="286" who="S0415">no but I do wanna watch stuff as well just</u>
+<u n="287" who="S0417">but that'll be enough time won't it?</u>
+<u n="288" who="S0415">it's eight o'clock now</u>
+<u n="289" who="S0417">it's eight o'clock now he's gonna conk out</u>
+<u n="290" who="S0415" trans="overlap"><unclear/> do a bit of tidy up</u>
+<u n="291" who="S0417">mm</u>
+<u n="292" who="S0415">mm <pause dur="short"/> <shift new="singing"/> duh duh duh duh <shift new="normal"/></u>
+<u n="293" who="S0417">have to get that great big thing of clothes back <vocal desc="laugh"/></u>
+<u n="294" who="S0415">mm?</u>
+<u n="295" who="S0417"><unclear/> clothes box <vocal desc="laugh"/></u>
+<u n="296" who="S0415"><unclear>uhu did you buy the shop outfit</unclear>?</u>
+<u n="297" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="298" who="S0417"><unclear>no</unclear> you just like <unclear/> things</u>
+<u n="299" who="S0415" trans="overlap"><unclear/> got three <unclear/> got three pages of <unclear/> stuff like to listen to</u>
+<u n="300" who="S0417">yeah <unclear/> <unclear>sends it all back</unclear></u>
+<u n="301" who="S0415">I know but still</u>
+<u n="302" who="S0417">I kept I kept a bikini <vocal desc="laugh"/></u>
+<u n="303" who="S0415">and the rest is going back? all of it?</u>
+<u n="304" who="S0417" trans="overlap"><vocal desc="laugh"/> well I might take a dress so but I'm not sure</u>
+<u n="305" who="S0415">and do they pay for the post and package?</u>
+<u n="306" who="S0417">you have to pay three ninety-five or something to send it back from it's a shame cos in the UK you can get it free picked up from your door because we're in <anon type="place"/> I think I might have to take it to the post office <unclear/> <event desc="sound of banging"/></u>
+<u n="307" who="S0415" trans="overlap"><vocal desc="cough"/></u>
+<u n="308" who="S0417" trans="overlap">that's very loud</u>
+<u n="309" who="S0418" trans="overlap"><unclear/> <vocal desc="misc"/></u>
+<u n="310" who="S0415">you don't have to eat everything there</u>
+<u n="311" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="312" who="S0417">he's going a bit mad now <vocal desc="laugh"/> you can finish one mouthful before starting another one <anon type="name" nameType="m"/> oh my god he's just gonna</u>
+<u n="313" who="S0415">mm</u>
+<u n="314" who="S0415">like become a hamster <vocal desc="laugh"/></u>
+<u n="315" who="S0418"><vocal desc="misc"/> <pause dur="long"/></u>
+<u n="316" who="S0417">mm alright I might finish this <unclear/></u>
+<u n="317" who="S0415"><vocal desc="misc"/></u>
+<u n="318" who="S0417">it's very slow <unclear/></u>
+<u n="319" who="S0415" trans="overlap"><vocal desc="misc"/></u>
+<u n="320" who="S0417"><unclear/> ones <vocal desc="laugh"/> <unclear/></u>
+<u n="321" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="322" who="S0417">came out <vocal desc="laugh"/> has no time for dilly dallying</u>
+<u n="323" who="S0415" trans="overlap">no no <unclear/> no no fat men in the jacuzzi <vocal desc="laugh"/></u>
+<u n="324" who="S0417">there were loads of men in the jacuzzi actually but I couldn't tell it was just their heads so I couldn't tell <vocal desc="laugh"/> I suppose some people have fat heads but <vocal desc="laugh"/></u>
+<u n="325" who="S0415" trans="overlap"><anon type="name" nameType="m"/> <anon type="name" nameType="m"/></u>
+<u n="326" who="S0418"><unclear/></u>
+<u n="327" who="S0417" trans="overlap">seemed to be a couple trying to teach each other to swim</u>
+<u n="328" who="S0415">mm?</u>
+<u n="329" who="S0417">I think there was a couple trying to teach each other to swim as well</u>
+<u n="330" who="S0415">teach each other? like usually one of them has to swim</u>
+<u n="331" who="S0417" trans="overlap"><unclear/></u>
+<u n="332" who="S0415">before they</u>
+<u n="333" who="S0417">mm <unclear/></u>
+<u n="334" who="S0415">you know they're teaching each other <vocal desc="laugh"/></u>
+<u n="335" who="S0417">no they just seemed to be taking in turns to do funny things</u>
+<u n="336" who="S0415">mm</u>
+<u n="337" who="S0417">and there was a class going on <vocal desc="misc"/> I don't know what it was loads of ladies in there</u>
+<u n="338" who="S0415">you wouldn't have fitted you wouldn't have fitted in <unclear/> <vocal desc="laugh"/></u>
+<u n="339" who="S0417" trans="overlap">you can just see their kind of legs <vocal desc="laugh"/> no <trunc>becau</trunc> cos it's kind of er partly misty so you can only see say their arms or a leg <pause dur="short"/> I bet their classes are rubbish anyway</u>
+<u n="340" who="S0415" trans="overlap"><unclear/> I don't want to go off to bed straight away cos I just have fecking loads</u>
+<u n="341" who="S0417">oh</u>
+<u n="342" who="S0415">like <unclear/> bottom as well and burst <unclear/></u>
+<u n="343" who="S0418" trans="overlap"><unclear/></u>
+<u n="344" who="S0417">oh</u>
+<u n="345" who="S0415"><unclear/></u>
+<u n="346" who="S0417">I might take him his drink</u>
+<u n="347" who="S0415" trans="overlap"><unclear>yeah I need to erm</unclear> <vocal desc="cough"/> put out the bin as well so I'm gonna start with that</u>
+<u n="348" who="S0417"><unclear/></u>
+<u n="349" who="S0415"><unclear>do you wanna</unclear> go up? right</u>
+	
+	</body>
+</text>

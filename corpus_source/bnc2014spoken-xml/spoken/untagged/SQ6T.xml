@@ -1,0 +1,1443 @@
+<text id="SQ6T">
+	<header>
+		<rec_length>1:36:51</rec_length>
+		<rec_date>2016-03-22</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0492 S0493 S0604 S0605 S0666</list_speakers>
+		<rec_loc>HOLIDAY COTTAGE, HEREFORD, ENGLAND</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>FOOD, TRAIN DYNAMICS</topics>
+		<activity>FAMILY PLAYING TICKET TO RIDE</activity>
+		<conv_type>Discussing, explaining, inquiring, anecdote telling, making arrangements, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T15</transcriber>
+		<speakerInfo>
+			<speaker id="S0492">
+				<exactage>33</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cape Town</birthplace>
+				<birthcountry>South Africa</birthcountry>
+				<l1>English</l1>
+				<lingorig>British</lingorig>
+				<dialect_rep>Neutral English</dialect_rep>
+				<hab_city>Valencia</hab_city>
+				<hab_country>Spain</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0493">
+				<exactage>31</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff, Wales</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>South Wales</dialect_rep>
+				<hab_city>Valencia</hab_city>
+				<hab_country>Spain</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0604">
+				<exactage>34</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>34 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0605">
+				<exactage>60</exactage>
+				<age1994>60plus</age1994>
+				<agerange>60_69</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Singapore</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh (south)</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>58 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Charity worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0666">
+				<exactage>57</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh (South Wales)</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>35 years in Barry</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Senior support Worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0605">I'll do it</u>
+<u n="2" who="S0666">no no I might stick it outside</u>
+<u n="3" who="S0605">well no no I eh?</u>
+<u n="4" who="S0666">no I'll go and stick it outside</u>
+<u n="5" who="S0605">okay</u>
+<u n="6" who="S0493" trans="overlap">okay then</u>
+<u n="7" who="S0605">look</u>
+<u n="8" who="S0493">okay then</u>
+<u n="9" who="S0605">no we you will do it now?</u>
+<u n="10" who="S0493">yes</u>
+<u n="11" who="S0666">no</u>
+<u n="12" who="S0605">well I'll do it I'll do it</u>
+<u n="13" who="S0493">dad you no dad dad I've <unclear/> that honestly that's <unclear/> and I'm not joking</u>
+<u n="14" who="S0605">okay</u>
+<u n="15" who="S0493"><unclear/></u>
+<u n="16" who="S0605" trans="overlap">well it that case take it there</u>
+<u n="17" who="S0493" trans="overlap"><unclear/></u>
+<u n="18" who="S0605">then I'll take it back</u>
+<u n="19" who="S0493" trans="overlap" whoConfidence="low">not the</u>
+<u n="20" who="S0666">no one is sleeping outside in the cold</u>
+<u n="21" who="S0493">honestly now</u>
+<u n="22" who="S0605">don't wanna be worrying <unclear/> <pause dur="long"/></u>
+<event desc="unintelligible"/>
+<u n="23" who="S0604" whoConfidence="low"><anon type="name" nameType="f"/> green or red?</u>
+<u n="24" who="S0492">er</u>
+<u n="25" who="S0493" trans="overlap" whoConfidence="low">or black</u>
+<u n="26" who="S0604" whoConfidence="low">or black or yellow?</u>
+<u n="27" who="S0492" trans="overlap">erm green</u>
+<u n="28" who="S0605">does anybody want a cup of coffee?</u>
+<u n="29" who="S0492">no oh I might have some hot chocolate now though</u>
+<u n="30" who="S0493" whoConfidence="low">oh</u>
+<u n="31" who="S0605" trans="overlap">will you?</u>
+<u n="32" who="S0493" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="33" who="S0605">yeah?</u>
+<u n="34" who="S0492">I'm gonna make some hot chocolate do you want a hot chocolate?</u>
+<u n="35" who="S0605" trans="overlap"><unclear/></u>
+<u n="36" who="S0492">no cos I need to</u>
+<u n="37" who="S0493" whoConfidence="low">have it with</u>
+<u n="38" who="S0492">I need to heat the milk up and stuff</u>
+<u n="39" who="S0493" trans="overlap" whoConfidence="low">you'll have to make you're not gonna make one</u>
+<u n="40" who="S0492">it's fine I'll make it but I'll make it with a hot milk</u>
+<u n="41" who="S0605" trans="overlap"><unclear/></u>
+<u n="42" who="S0492">fine</u>
+<u n="43" who="S0666" trans="overlap">that's nice <anon type="name" nameType="f"/></u>
+<u n="44" who="S0492">I'll make it and I'll make you a <unclear>mocha</unclear> or whatever it was</u>
+<u n="45" who="S0666">didn't put enough water in that kettle put <unclear/></u>
+<u n="46" who="S0492"><shift new="singing"/> <unclear/> <shift new="normal"/> <anon type="name" nameType="m"/> do you want one?</u>
+<u n="47" who="S0604" whoConfidence="low">er yes please</u>
+<u n="48" who="S0492"><anon type="name" nameType="f"/> do you want one?</u>
+<u n="49" who="S0666">yes please <vocal desc="laugh"/></u>
+<u n="50" who="S0493" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="51" who="S0666"><vocal desc="laugh"/> are you sorry now <anon type="name" nameType="f"/>?</u>
+<u n="52" who="S0605">oh I tell you what <anon type="name" nameType="f"/> cook it do boil the milk but use my coconut milk</u>
+<u n="53" who="S0666">oh no</u>
+<u n="54" who="UNKMULTI" whoConfidence="low">no</u>
+<u n="55" who="S0605">it's really nice stuff</u>
+<u n="56" who="S0666">no</u>
+<u n="57" who="S0493" whoConfidence="low">no</u>
+<u n="58" who="S0492">that would be a bit much going on with the chocolate and the toffee</u>
+<u n="59" who="S0493" trans="overlap" whoConfidence="low">and seeing as coffee as well</u>
+<u n="60" who="S0666">yeah</u>
+<u n="61" who="S0493" whoConfidence="low">so the only thing is mum is about stations <pause dur="short"/> say you had your ticket was Edinburgh to Bucharest</u>
+<u n="62" who="S0666">oh</u>
+<u n="63" who="S0493" whoConfidence="low">yeah</u>
+<u n="64" who="S0666">yeah</u>
+<u n="65" who="S0493" whoConfidence="low">and you got as far as London but dad had taken the orange and <anon type="name" nameType="m"/> had taken the black that means you can't do your route right? so what you can do on your turn instead of taking a card or putting trains down or whatever</u>
+<u n="66" who="S0666">mm</u>
+<u n="67" who="S0493" whoConfidence="low">you can put a train station on London</u>
+<u n="68" who="S0666">oh</u>
+<u n="69" who="S0493" whoConfidence="low">that'll cost you minus four points but it will mean you get the twenty odd points for your route</u>
+<u n="70" who="S0666">oh</u>
+<u n="71" who="S0493" whoConfidence="low">okey-doke?</u>
+<u n="72" who="S0666">sneaky sneaky yeah it's good</u>
+<u n="73" who="S0493" trans="overlap" whoConfidence="low">sneaky sneaky</u>
+<u n="74" who="S0666">I could put that any time? or do I have to</u>
+<u n="75" who="S0493" trans="overlap" whoConfidence="low">mm</u>
+<u n="76" who="S0666">actually go up there?</u>
+<u n="77" who="S0493" whoConfidence="low">the route needs to have a <trunc>pres</trunc> a present at least the route needs to have trains going off one line at least you couldn't put it</u>
+<u n="78" who="S0666" trans="overlap">it doesn't have to be me?</u>
+<u n="79" who="S0493" trans="overlap" whoConfidence="low">you could put it say well no</u>
+<u n="80" who="S0666">it doesn't have to be me?</u>
+<u n="81" who="S0493" whoConfidence="low">if you've got as far as Amsterdam on the whites</u>
+<u n="82" who="S0666">yeah</u>
+<u n="83" who="S0493" whoConfidence="low">and you wanted to get to Edinburgh and these the orange we've got the black we've got and this we've got so you'd have to put one in London and one in Amsterdam</u>
+<u n="84" who="S0666">uhu</u>
+<u n="85" who="S0493" whoConfidence="low">okey-doke</u>
+<u n="86" who="S0666">okay <pause dur="short"/> so could go up as far as there?</u>
+<u n="87" who="S0493" whoConfidence="low">yeah</u>
+<u n="88" who="S0666">but I could put it on as far as when I got there?</u>
+<u n="89" who="S0493" whoConfidence="low">yeah you could but that's just costing you four points more and you're not getting the points for putting down so you</u>
+<u n="90" who="S0666" trans="overlap">no but I wouldn't have to put that one there cos I was there</u>
+<u n="91" who="S0493" trans="overlap" whoConfidence="low">yeah no you have to put</u>
+<u n="92" who="S0666" trans="overlap">I can put I could put it</u>
+<u n="93" who="S0493" whoConfidence="low">no</u>
+<u n="94" who="S0666">I could put that there before I got there</u>
+<u n="95" who="S0493" whoConfidence="low">as long you can put a station on a yeah you can put it whenever but it won't count unless you're using someone else's train so like you're you're bunny-hopping on their trains and you're <trunc>s</trunc> er you're using their line but it has to be a line at the end of the game</u>
+<u n="96" who="S0666" trans="overlap">but I could put it there</u>
+<u n="97" who="S0493" trans="overlap" whoConfidence="low">to get you can put it there whenever you want</u>
+<u n="98" who="S0666" trans="overlap">any time</u>
+<u n="99" who="S0493" whoConfidence="low">no but if you got as far as there you need this train for this the white this station for the carry route</u>
+<u n="100" who="S0666" trans="overlap">yes but I wouldn't need those it cos there's nobody there if only there was somebody there</u>
+<u n="101" who="S0604" trans="overlap" whoConfidence="low">yeah but if nobody's there</u>
+<u n="102" who="S0492" trans="overlap">doesn't happen</u>
+<u n="103" who="S0604" whoConfidence="low">you would build it</u>
+<u n="104" who="S0666">yes I could do it in advance all I'm saying</u>
+<u n="105" who="S0604" whoConfidence="low">but yeah but</u>
+<u n="106" who="S0666">can I do it in advance?</u>
+<u n="107" who="S0604" whoConfidence="low">what? use the station or build?</u>
+<u n="108" who="S0666">use the station in advance</u>
+<u n="109" who="S0493" trans="overlap" whoConfidence="low">yes you could well do it in advance but you don't know that someone's gonna build there so no one if no train</u>
+<u n="110" who="S0666">no I know</u>
+<u n="111" who="S0493" whoConfidence="low">ever comes here or here</u>
+<u n="112" who="S0666" trans="overlap">but if I can see to put it would be done it already and I would still over there</u>
+<u n="113" who="S0493" whoConfidence="low">okay but you're not gonna wanna</u>
+<u n="114" who="S0666">oh okay</u>
+<u n="115" who="S0493" whoConfidence="low">really <pause dur="short"/> so this station would be for the white this station would be for the over land for the over water one and this station would be for London to Edinburgh</u>
+<u n="116" who="S0666">yeah</u>
+<u n="117" who="S0493" whoConfidence="low">now remember it costs you four points every time you use them</u>
+<u n="118" who="S0666">okay</u>
+<u n="119" who="S0604" whoConfidence="low">and don't and they're more expensive</u>
+<u n="120" who="S0493" whoConfidence="low">and the first station you put down costs you a card of any colour the second station you put down costs you two card of any colour the third station you put down costs you three cards of any colour</u>
+<u n="121" who="S0666">oh right okay</u>
+<u n="122" who="S0493" trans="overlap" whoConfidence="low">alright? so don't use them unless you have to really you use them when people block you or</u>
+<u n="123" who="S0604" whoConfidence="low">it's four each yeah?</u>
+<u n="124" who="S0666">and how many of these did you choose?</u>
+<u n="125" who="S0604" whoConfidence="low">these are just your <unclear>counting</unclear> cards that you would use</u>
+<u n="126" who="S0666">oh right then</u>
+<u n="127" who="S0666">do do I show them?</u>
+<u n="128" who="S0604" whoConfidence="low">no</u>
+<u n="129" who="S0493" trans="overlap" whoConfidence="low">no</u>
+<u n="130" who="S0604" whoConfidence="low">you've played this before haven't you?</u>
+<u n="131" who="S0666">yeah but if forgot I haven't played it for a long time have I?</u>
+<u n="132" who="S0492"><anon type="name" nameType="f"/></u>
+<u n="133" who="S0605" trans="overlap">why</u>
+<u n="134" who="S0492">do you want a bit of toffee in yours?</u>
+<u n="135" who="S0666">yes please</u>
+<u n="136" who="S0604" whoConfidence="low"><vocal desc="cough"/></u>
+<u n="137" who="S0605">why don't we play this only online this was it?</u>
+<u n="138" who="S0493" whoConfidence="low">because to touch things is nicer than looking at a screen</u>
+<u n="139" who="S0605">no no why don't we use stations when you're like</u>
+<u n="140" who="S0604" trans="overlap" whoConfidence="low">I'm not sure</u>
+<u n="141" who="S0493" whoConfidence="low">well I've never</u>
+<event desc="unintelligible"/>
+<u n="142" who="S0493" whoConfidence="low"><unclear/> and you always come last</u>
+<u n="143" who="S0605">well on well no you you reverse it</u>
+<u n="144" who="S0493" trans="overlap" whoConfidence="low">I don't I I don't</u>
+<u n="145" who="S0604" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="146" who="S0605">maybe I'll always come last</u>
+<event desc="unintelligible"/>
+<u n="147" who="S0493" whoConfidence="low">you only really do stations when you do five players you don't really need it for three or four maybe four players <pause dur="long"/></u>
+<u n="148" who="S0604" whoConfidence="low">also mum at the end of the game</u>
+<u n="149" who="S0666">mm</u>
+<u n="150" who="S0493" whoConfidence="low">the person who's got the longest train er single route gets an extra ten points <pause dur="long"/> then that goes there <pause dur="long"/> <vocal desc="sigh"/> <pause dur="long"/> <unclear/> ah <pause dur="short"/> <unclear/> you roll that and I'll do this then is it four yeah?</u>
+<u n="151" who="S0604" whoConfidence="low">three of those oh no</u>
+<u n="152" who="S0493" whoConfidence="low">no it's one</u>
+<u n="153" who="S0604" whoConfidence="low">one <unclear/> one and</u>
+<u n="154" who="S0493" whoConfidence="low">but is it is it three or four?</u>
+<u n="155" who="S0493" whoConfidence="low">no</u>
+<u n="156" who="S0604" whoConfidence="low">it should be four yeah it's</u>
+<u n="157" who="S0493" trans="overlap" whoConfidence="low">not four <unclear/> probably three <pause dur="short"/> three <pause dur="long"/></u>
+<u n="158" who="S0604" whoConfidence="low">okay so you have to choose the one you have to choose the long route</u>
+<u n="159" who="S0666">yeah</u>
+<u n="160" who="S0493" whoConfidence="low">but then you only have to choose another one of a <unclear/></u>
+<u n="161" who="S0604" whoConfidence="low">but you can choose then all</u>
+<u n="162" who="S0493" whoConfidence="low">yeah</u>
+<u n="163" who="S0605"><unclear/> <pause dur="long"/></u>
+<event desc="unintelligible"/>
+<u n="164" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="165" who="S0604" whoConfidence="low"><unclear/> <pause dur="long"/></u>
+<u n="166" who="S0666"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="167" who="S0492">when I was watching War and Peace they talked about Smolensk</u>
+<u n="168" who="S0666">yeah they did</u>
+<u n="169" who="S0492">and I was like I know exactly <vocal desc="laugh"/> where that is</u>
+<u n="170" who="S0666">so we've got <unclear/> two</u>
+<u n="171" who="S0492">I don't want this one collect them up</u>
+<u n="172" who="S0493" whoConfidence="low">you've gotta be a bit <unclear/></u>
+<u n="173" who="S0604" whoConfidence="low">oh there's <pause dur="long"/></u>
+<u n="174" who="S0493" whoConfidence="low">this is your <unclear/></u>
+<u n="175" who="S0666"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="176" who="S0493" whoConfidence="low">you happy everyone? dad? I don't think you've <unclear>mastered</unclear> those</u>
+<u n="177" who="S0605">I haven't what though</u>
+<u n="178" who="S0666"><vocal desc="laugh"/></u>
+<u n="179" who="S0493" whoConfidence="low">well the you're you guys</u>
+<u n="180" who="S0604" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="181" who="S0493" trans="overlap" whoConfidence="low">off off-piste</u>
+<u n="182" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="183" who="S0666"><vocal desc="laugh"/></u>
+<u n="184" who="S0605">I got some <unclear/></u>
+<u n="185" who="S0666"><vocal desc="laugh"/></u>
+<u n="186" who="S0493" whoConfidence="low">okay who was on a train last? that's the person who gets first gets to go first</u>
+<u n="187" who="S0492">we came on a train to to from Gatwick</u>
+<u n="188" who="S0493" whoConfidence="low">oh yeah</u>
+<u n="189" who="S0666">oh</u>
+<u n="190" who="S0493" whoConfidence="low">can you do that dad? oh alright</u>
+<u n="191" who="S0492">okay where's the piles of oh yeah erm <pause dur="long"/></u>
+<u n="192" who="S0493" whoConfidence="low">so so mum you can pick up two cards</u>
+<u n="193" who="S0666">yeah all for</u>
+<u n="194" who="S0493" trans="overlap" whoConfidence="low">off of the deck or oh <unclear>blind</unclear> get on from here but you can only if you pick up the joker</u>
+<u n="195" who="S0666">yeah</u>
+<u n="196" who="S0493" whoConfidence="low">that's you can only pick up one</u>
+<u n="197" who="S0666">what is remind me what the joker is</u>
+<u n="198" who="S0493" whoConfidence="low">it's that one</u>
+<u n="199" who="S0666">yeah</u>
+<u n="200" who="S0493" trans="overlap" whoConfidence="low">and it can it can be any sort of</u>
+<u n="201" who="S0666" trans="overlap">any colour?</u>
+<u n="202" who="S0493" whoConfidence="low">yeah so if you need you've got three reds and you want you need another one and it's not coming up and you've got a joker you can use that but you also need it for those <unclear>ferries</unclear> as well</u>
+<u n="203" who="S0604" whoConfidence="low">do these get <unclear>shuttles</unclear> yeah?</u>
+<u n="204" who="S0493" whoConfidence="low">yeah <pause dur="short"/> there you go</u>
+<u n="205" who="S0605"><unclear>I had a card</unclear></u>
+<u n="206" who="S0666"><vocal desc="sneeze"/></u>
+<u n="207" who="S0492">bless you</u>
+<u n="208" who="S0493" whoConfidence="low"><unclear/></u>
+<u n="209" who="S0666">thank you</u>
+<u n="210" who="S0493" whoConfidence="low"><unclear>and not chance anywhere else</unclear> dad <unclear/> <anon type="name" nameType="f"/></u>
+<u n="211" who="S0492">no I know it's almost like I'm <unclear/> don't use it</u>
+<u n="212" who="S0493" whoConfidence="low"><unclear/> <pause dur="short"/> dad dad you're showing your cards</u>
+<u n="213" who="S0604" whoConfidence="low">yeah you're</u>
+<u n="214" who="S0605">it doesn't matter</u>
+<u n="215" who="S0604" whoConfidence="low">yes it does</u>
+<u n="216" who="S0493" whoConfidence="low">it very much does matter</u>
+<u n="217" who="S0605">what do you mean?</u>
+<u n="218" who="S0493" whoConfidence="low">cos I can I can tell</u>
+<u n="219" who="S0604" whoConfidence="low">if <unclear/> a lot of greens you can you know <unclear/> <pause dur="long"/></u>
+<u n="220" who="S0605">there's too many new editions to this train er compilation when was the last train <unclear/></u>
+<u n="221" who="S0493" whoConfidence="low">that's on there</u>
+<u n="222" who="S0604" whoConfidence="low">oh right yeah</u>
+<u n="223" who="S0605">and I do I <unclear>avert my eye</unclear></u>
+<u n="224" who="S0666">is it my go?</u>
+<u n="225" who="S0493" whoConfidence="low">yeah it's dad's go <pause dur="long"/></u>
+<u n="226" who="S0604" whoConfidence="low"><unclear>bummer</unclear></u>
+<u n="227" who="S0493" whoConfidence="low">so you can take it <pause dur="short"/> if you like <pause dur="short"/></u>
+<u n="228" who="S0604" whoConfidence="low">do get <unclear/> quite right to do so</u>
+<u n="229" who="S0666"><vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="230" who="S0493" whoConfidence="low"><unclear>do you want your</unclear> cards?</u>
+<u n="231" who="S0604" whoConfidence="low">genuinely don't mind <unclear/></u>
+<u n="232" who="S0493" whoConfidence="low">oh right so ones we've got a little animal here there's one with a tail</u>
+<u n="233" who="S0666">of course er no I haven't got a tail</u>
+<u n="234" who="S0493" whoConfidence="low">erm <pause dur="long"/> <vocal desc="sigh"/> <pause dur="long"/> did anything else go down on Youtube about that <unclear>test</unclear> I saw in a New York park a speed test for changing places with people's</u>
+<u n="235" who="S0605">no</u>
+<u n="236" who="S0493" whoConfidence="low">er faces and whatever so like a black homeless guy playing for money and but he'll you know and he'll take he's like he's ridiculously fast and he slammed the timer on er in public things</u>
+<u n="237" who="S0604" whoConfidence="low">mm</u>
+<u n="238" who="S0493" whoConfidence="low">anyway so the black guy comes out amazing and this crowd go and watch him and they start talking and they're slagging each other off and the guy starts picking him up on <unclear/></u>
+<u n="239" who="S0604" trans="overlap" whoConfidence="low">yeah oh I saw that</u>
+<u n="240" who="S0493" whoConfidence="low">chases and then hits him and he <unclear/> and goes <unclear/></u>
+<u n="241" who="S0666">wow</u>
+<u n="242" who="S0604" whoConfidence="low">typical</u>
+<u n="243" who="S0605">why was he doing <unclear/> surely he knew when he finished it</u>
+<u n="244" who="S0493" trans="overlap" whoConfidence="low">it was so fast</u>
+<u n="245" who="S0605">I know well you know where your <unclear/> is</u>
+<u n="246" who="S0493" whoConfidence="low">well</u>
+<u n="247" who="S0604" trans="overlap" whoConfidence="low">there's lots of you know there's six <unclear/></u>
+<u n="248" who="S0493" trans="overlap" whoConfidence="low">and his family was talking to him and distracting him and all that it was</u>
+<u n="249" who="S0666" trans="overlap"><unclear/></u>
+<u n="250" who="S0493" whoConfidence="low"><unclear>it was midnight</unclear> as well</u>
+<u n="251" who="S0605"><unclear/></u>
+<u n="252" who="S0493" whoConfidence="low">he was a wide boy</u>
+<u n="253" who="S0492"><anon type="name" nameType="f"/>?</u>
+<u n="254" who="S0666">oh that's very nice <anon type="name" nameType="f"/></u>
+<u n="255" who="S0492">yeah?</u>
+<u n="256" who="S0604" whoConfidence="low">well <trunc>whe</trunc> <unclear/> for an hour</u>
+<u n="257" who="S0666"><vocal desc="cough"/></u>
+<u n="258" who="S0666"><unclear>coffee liqueurs</unclear></u>
+<u n="259" who="S0493" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="260" who="S0492">is it my go?</u>
+<u n="261" who="S0493" whoConfidence="low">no</u>
+<u n="262" who="S0492">waiting for me? sorry</u>
+<u n="263" who="S0493" whoConfidence="low">no it's not</u>
+<u n="264" who="S0492">oh <pause dur="short"/> quite popular board games</u>
+<u n="265" who="S0604" whoConfidence="low">at the start</u>
+<u n="266" who="S0493" trans="overlap" whoConfidence="low">where did it all go wrong?</u>
+<u n="267" who="S0492">whose go is it?</u>
+<u n="268" who="S0493" whoConfidence="low">mine</u>
+<u n="269" who="S0666">oh is it?</u>
+<u n="270" who="S0493" whoConfidence="low">yeah</u>
+<u n="271" who="S0666">my picked up my rainbow didn't I?</u>
+<u n="272" who="S0493" whoConfidence="low">no</u>
+<u n="273" who="S0604" whoConfidence="low">that's the</u>
+<u n="274" who="S0493" whoConfidence="low"><unclear>no it's up there</unclear> <pause dur="long"/></u>
+<u n="275" who="S0604" whoConfidence="low">that looks nice</u>
+<u n="276" who="S0492">it's alright</u>
+<u n="277" who="S0666">what's the stated colour that you can put down any time? it's the rainbow one?</u>
+<u n="278" who="S0492">yeah</u>
+<u n="279" who="S0604" trans="overlap" whoConfidence="low">yeah</u>
+<u n="280" who="S0492">and then when it's grey</u>
+<u n="281" who="S0493" whoConfidence="low">and this if this is a grey it's gotta be er the same colour so it's gotta be cos it's turned grey it's gotta be two greens or <unclear/> or two blues or whatever that's four points that's four yellows four whites four browns</u>
+<u n="282" who="S0666" trans="overlap">oh oh <vocal desc="sigh"/></u>
+<u n="283" who="S0493" whoConfidence="low">wait wait wait</u>
+<u n="284" who="S0604" whoConfidence="low">no one</u>
+<u n="285" who="S0493" whoConfidence="low">take one and then it can be replaced and then maybe you want the red more than a set of yellow for example</u>
+<u n="286" who="S0666">oh okay I get you <pause dur="long"/></u>
+<u n="287" who="S0492">hey look</u>
+<u n="288" who="S0493" whoConfidence="low">the guy's passed the test</u>
+<u n="289" who="S0492" trans="overlap">I can see yours there</u>
+<u n="290" who="S0493" whoConfidence="low">you <trunc>nev</trunc> you never ever would see my cards ever</u>
+<u n="291" who="S0492">okay</u>
+<u n="292" who="S0493" whoConfidence="low">too well hidden <pause dur="short"/> my go? alright making a move <pause dur="long"/> <foreign lang="fre">deux points</foreign></u>
+<u n="293" who="S0605">call it a two</u>
+<u n="294" who="S0604" whoConfidence="low">there we go thank you</u>
+<u n="295" who="S0493" whoConfidence="low">then for me dad what <pause dur="long"/></u>
+<u n="296" who="S0604" whoConfidence="low">scar's pretty cool and it sounds like a train</u>
+<u n="297" who="S0666">oh <trunc>ch</trunc> choo choo <vocal desc="laugh"/></u>
+<u n="298" who="S0604" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="299" who="S0666"><shift new="singing"/> choo choo <shift new="normal"/></u>
+<u n="300" who="S0493" whoConfidence="low">I think these are little erm oh very nice</u>
+<u n="301" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="302" who="S0666"><shift new="singing"/> choo choo <shift new="normal"/></u>
+<u n="303" who="S0492"><vocal desc="laugh"/></u>
+<u n="304" who="S0666"><vocal desc="laugh"/> I think I'm gonna need help</u>
+<u n="305" who="S0605"><unclear/> stations</u>
+<u n="306" who="S0493" whoConfidence="low">where are we?</u>
+<u n="307" who="S0492">you know for that little train you need to have a multicoloured card</u>
+<u n="308" who="S0493" whoConfidence="low">wow</u>
+<u n="309" who="S0604" whoConfidence="low">wow</u>
+<u n="310" who="S0493" trans="overlap" whoConfidence="low">let the cards do the talking</u>
+<u n="311" who="S0492">little <unclear>bitchy</unclear> dance too</u>
+<u n="312" who="S0666"><vocal desc="laugh"/></u>
+<u n="313" who="S0493" whoConfidence="low">so four points for for the <pause dur="long"/></u>
+<u n="314" who="S0666"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="315" who="S0492">was the</u>
+<u n="316" who="S0493" trans="overlap" whoConfidence="low">there a couple of turns on there</u>
+<u n="317" who="S0604" whoConfidence="low">no</u>
+<u n="318" who="S0493" whoConfidence="low">no?</u>
+<u n="319" who="S0492" trans="overlap">have have you got</u>
+<u n="320" who="S0604" whoConfidence="low">presenting to the group</u>
+<u n="321" who="S0492"><unclear>oh right</unclear></u>
+<u n="322" who="S0493" whoConfidence="low">wow wow wow wow <unclear/></u>
+<u n="323" who="S0604" whoConfidence="low">have you? <pause dur="long"/> one pink <vocal desc="misc"/></u>
+<u n="324" who="S0604" whoConfidence="low">one <trunc>p</trunc>please dad <pause dur="long"/></u>
+<u n="325" who="S0493" whoConfidence="low"><unclear>did do that</unclear></u>
+<u n="326" who="S0604" whoConfidence="low">I think you need to go there</u>
+<u n="327" who="S0492">where?</u>
+<u n="328" who="S0493" whoConfidence="low">where he's blocked you in</u>
+<u n="329" who="S0492">alright</u>
+<u n="330" who="S0493" whoConfidence="low">scuppered your entire four cards</u>
+<u n="331" who="S0666" trans="overlap">oh you just have to</u>
+<u n="332" who="S0492">you do all this and then he does it <unclear/></u>
+<u n="333" who="S0493" whoConfidence="low">cos it's easy to wind you up</u>
+<u n="334" who="S0492">I just don't I'm not buying</u>
+<u n="335" who="S0493" trans="overlap" whoConfidence="low">er well you'd</u>
+<u n="336" who="S0492" trans="overlap"><unclear/></u>
+<u n="337" who="S0493" whoConfidence="low">I'd buy in <pause dur="long"/></u>
+<u n="338" who="S0493" whoConfidence="low"><vocal desc="whistle"/> <pause dur="long"/></u>
+<u n="339" who="S0492">is it my go?</u>
+<u n="340" who="S0666">uhu <pause dur="long"/></u>
+<u n="341" who="S0604" whoConfidence="low">this feels like a <unclear/> about the Irish travellers <unclear/></u>
+<u n="342" who="S0493" whoConfidence="low">who is this?</u>
+<u n="343" who="S0604" whoConfidence="low">about gypsies and Irish</u>
+<u n="344" who="S0493" whoConfidence="low">what a combo</u>
+<u n="345" who="S0604" whoConfidence="low">the difference in not gypsies they're travellers so they <unclear/> Irish they're just er you know <unclear/></u>
+<u n="346" who="S0493" whoConfidence="low">yeah</u>
+<u n="347" who="S0604" whoConfidence="low"><unclear/> you know so <pause dur="long"/> <vocal desc="misc"/> <pause dur="long"/> <unclear/> <pause dur="long"/></u>
+<u n="348" who="S0666">when remind me again how the colours I've gotta have the all the colours of the tracks?</u>
+<u n="349" who="S0492">yeah</u>
+<u n="350" who="S0666">unless I have a rainbow <pause dur="long"/></u>
+<u n="351" who="S0493" whoConfidence="low">doesn't say yeah the rainbow is a <unclear>pass</unclear></u>
+<u n="352" who="S0492">yeah</u>
+<u n="353" who="S0493" whoConfidence="low">but it's so like</u>
+<u n="354" who="S0604" whoConfidence="low"><vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="355" who="S0492">oh not at the minute thank you maybe for breakfast</u>
+<u n="356" who="S0666">breakfast there's cake forks over there if you want them</u>
+<u n="357" who="S0492">yeah right <pause dur="long"/></u>
+<u n="358" who="S0493" whoConfidence="low">mum?</u>
+<u n="359" who="S0666">did somebody move me? it'll be two down</u>
+<u n="360" who="S0493" whoConfidence="low">I'll do it now</u>
+<u n="361" who="S0666"><unclear>no it's not there mum</unclear></u>
+<u n="362" who="S0666">why do I have to go there?</u>
+<u n="363" who="S0493" whoConfidence="low"><unclear>you just have to do it</unclear></u>
+<u n="364" who="S0666">that means I need to buy a little thingy does it?</u>
+<u n="365" who="S0493" trans="overlap" whoConfidence="low">well</u>
+<u n="366" who="S0604" whoConfidence="low">well depends where you're going</u>
+<u n="367" who="S0493" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="368" who="S0666">I need to try and <unclear/> four points with this then?</u>
+<u n="369" who="S0493" whoConfidence="low">four points the second time and four points third and the first time a card of any colour the second time two colour third time you know <unclear/> <pause dur="long"/></u>
+<u n="370" who="S0666">but say I did put that down and the two cards I can then use that <unclear>tram</unclear> without using my</u>
+<u n="371" who="S0493" whoConfidence="low">if you put</u>
+<u n="372" who="S0666" trans="overlap">will it</u>
+<u n="373" who="S0493" whoConfidence="low">so suppose that if you put one in Vienna or or Venice</u>
+<u n="374" who="S0666">mm</u>
+<u n="375" who="S0493" whoConfidence="low">a station</u>
+<u n="376" who="S0666">mm</u>
+<u n="377" who="S0493" whoConfidence="low">you're and you had a ticket from Munich to Rome</u>
+<u n="378" who="S0666">mm</u>
+<u n="379" who="S0493" whoConfidence="low">you would have completed that ticket cos you would have piggybacked</u>
+<u n="380" who="S0666" trans="overlap">yeah</u>
+<u n="381" who="S0493" whoConfidence="low">but you could also put the station on Rome</u>
+<u n="382" who="S0666">yeah</u>
+<u n="383" who="S0493" trans="overlap" whoConfidence="low">so say I put my station on er Venice</u>
+<u n="384" who="S0666">yeah</u>
+<u n="385" who="S0493" whoConfidence="low">for whatever reason</u>
+<u n="386" who="S0666">mm</u>
+<u n="387" who="S0493" whoConfidence="low">you could still put your station on Rome but if I put my station here and <anon type="name" nameType="f"/> put her station here</u>
+<u n="388" who="S0666">ah then I've just</u>
+<u n="389" who="S0493" trans="overlap" whoConfidence="low">then you've lost that <unclear>tram</unclear></u>
+<u n="390" who="S0666">yeah</u>
+<u n="391" who="S0493" whoConfidence="low">but you probably it's not often that someone's taken your city and the other city isn't available so</u>
+<u n="392" who="S0666">yeah</u>
+<u n="393" who="S0492"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="394" who="S0493" whoConfidence="low">then again if this maybe the</u>
+<u n="395" who="S0604" whoConfidence="low">no he can go</u>
+<u n="396" who="S0493" whoConfidence="low">maybe you can <pause dur="short"/> er</u>
+<u n="397" who="S0604" trans="overlap" whoConfidence="low">to to wherever you're going</u>
+<u n="398" who="S0493" trans="overlap" whoConfidence="low">if you can go round there then go around it</u>
+<u n="399" who="S0666">there's a lot to take in there's a lot to get</u>
+<u n="400" who="S0493" trans="overlap" whoConfidence="low">yeah</u>
+<u n="401" who="S0666">round it</u>
+<u n="402" who="S0493" whoConfidence="low">yeah</u>
+<u n="403" who="S0666">is it four?</u>
+<u n="404" who="S0493" whoConfidence="low">yeah <pause dur="short"/> next move</u>
+<u n="405" who="S0492"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="406" who="S0493" whoConfidence="low">well it's very easy just to <unclear>minus</unclear> whole points now so</u>
+<u n="407" who="S0666">and it won't be for two tickets?</u>
+<u n="408" who="S0493" whoConfidence="low">one one of any card so that card colour that you don't want going up really</u>
+<u n="409" who="S0666">right</u>
+<u n="410" who="S0493" whoConfidence="low">so if you know you want white for whatever reason or orange</u>
+<u n="411" who="S0666" trans="overlap">I don't know</u>
+<u n="412" who="S0604" whoConfidence="low">don't take or orange</u>
+<u n="413" who="S0666"><unclear/></u>
+<u n="414" who="S0492"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="415" who="S0493" whoConfidence="low">you had your points on there second points on</u>
+<u n="416" who="S0604" whoConfidence="low">oh you're going blind you've got that three mum</u>
+<u n="417" who="S0666">erm</u>
+<u n="418" who="S0604" whoConfidence="low">so you can't pick a</u>
+<u n="419" who="S0493" trans="overlap" whoConfidence="low">seven seven points <unclear/></u>
+<u n="420" who="S0666" trans="overlap">it was <unclear>nine</unclear></u>
+<u n="421" who="S0605">why?</u>
+<u n="422" who="S0493" whoConfidence="low">when <trunc>sh</trunc> one cards is one point two cards is two points three cards is four points four cards is seven points so the <trunc>ex</trunc> the points are extra as you go up</u>
+<u n="423" who="S0605">oh</u>
+<u n="424" who="S0493" whoConfidence="low">for however long your</u>
+<u n="425" who="S0605">cos I didn't have only had four for the first one</u>
+<u n="426" who="S0493" whoConfidence="low">well you're on forty points then</u>
+<u n="427" who="S0666">oh what was that?</u>
+<u n="428" who="S0493" whoConfidence="low">the longer the chain the more score</u>
+<u n="429" who="S0666" trans="overlap">yeah</u>
+<u n="430" who="S0493" whoConfidence="low">points are scored so one cards is one point two is two but three is four points four is seven points</u>
+<u n="431" who="S0666">oh</u>
+<u n="432" who="S0493" trans="overlap" whoConfidence="low">six is fifteen points for it</u>
+<u n="433" who="S0666">oh</u>
+<u n="434" who="S0492"><unclear>it's okay love</unclear></u>
+<u n="435" who="S0493" whoConfidence="low">that's where the smart <unclear/> is <pause dur="long"/></u>
+<u n="436" who="S0492">whose is this set? <unclear>it's ever so</unclear> new</u>
+<u n="437" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="438" who="S0604" whoConfidence="low">it's just one <unclear/></u>
+<u n="439" who="S0492">I was gonna say it's got that like it's still like really shiny</u>
+<u n="440" who="S0604" whoConfidence="low">haven't played with children</u>
+<u n="441" who="S0492">mm <pause dur="long"/></u>
+<u n="442" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="443" who="S0492"><unclear/></u>
+<u n="444" who="S0604" whoConfidence="low"><unclear/> when there's three jugglers on there</u>
+<u n="445" who="UNKFEMALE" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="446" who="S0493" whoConfidence="low">Ireland's actually quite racist <unclear/> <pause dur="short"/> in Ireland</u>
+<u n="447" who="S0604" whoConfidence="low"><unclear/> <unclear>dancing</unclear> <unclear/> <pause dur="long"/></u>
+<u n="448" who="S0492"><unclear>what is he singing about in this song?</unclear> <pause dur="long"/></u>
+<u n="449" who="S0493" whoConfidence="low"><unclear>that's that</unclear></u>
+<u n="450" who="S0604" whoConfidence="low">mm?</u>
+<u n="451" who="S0493" whoConfidence="low"><unclear>careful</unclear></u>
+<u n="452" who="S0604" whoConfidence="low">O'Connell's Steam Engine</u>
+<u n="453" who="S0492">oh right <unclear>hasn't said anything yet has he</unclear>?</u>
+<u n="454" who="S0604" whoConfidence="low">can I have two points please? <pause dur="long"/></u>
+<u n="455" who="UNKMALE" whoConfidence="low"><unclear>nope</unclear></u>
+<u n="456" who="S0605"><vocal desc="cough"/> how many <unclear/>?</u>
+<u n="457" who="S0492">three</u>
+<u n="458" who="S0493" trans="overlap" whoConfidence="low">three but if the er black comes up when you turn over three random cards then er you'd have to play another black or a multicolour so it's <unclear/></u>
+<u n="459" who="S0604" trans="overlap" whoConfidence="low">it's good it's good practice to always have another one extra <unclear/></u>
+<u n="460" who="S0605">mm</u>
+<u n="461" who="S0604" whoConfidence="low">so it's so it's not it's not being sensible things going alright so if there's a black and his three collapses</u>
+<u n="462" who="S0666">mm</u>
+<u n="463" who="S0493" whoConfidence="low"><unclear/> he might</u>
+<u n="464" who="S0604" whoConfidence="low">yeah you</u>
+<u n="465" who="S0492" trans="overlap">but if I had</u>
+<u n="466" who="S0493" trans="overlap" whoConfidence="low">you you could if you've got another black you'd</u>
+<u n="467" who="S0604" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="468" who="S0493" trans="overlap" whoConfidence="low">or want to pay you can pay for it</u>
+<u n="469" who="S0605">I haven't got another black</u>
+<u n="470" who="S0493" whoConfidence="low">oh so you've gotta do three <unclear/> three blacks</u>
+<u n="471" who="S0604" whoConfidence="low">ah you've got <unclear>me</unclear> two blacks</u>
+<u n="472" who="S0605">yeah</u>
+<u n="473" who="S0604" whoConfidence="low">well <pause dur="short"/> all the old horses</u>
+<u n="474" who="UNKMALE" whoConfidence="low"><unclear>that's better</unclear></u>
+<u n="475" who="S0666">why does he have em back?</u>
+<u n="476" who="S0604" whoConfidence="low">cos he didn't spend them to make the route</u>
+<u n="477" who="S0666">oh <pause dur="long"/></u>
+<u n="478" who="S0493" whoConfidence="low"><unclear>got mine to call there mum</unclear> <pause dur="long"/></u>
+<u n="479" who="S0666">and what do I <unclear>pay with</unclear>?</u>
+<u n="480" who="S0493" whoConfidence="low">two cards of the same colour <pause dur="long"/></u>
+<u n="481" who="S0492">which one's this? The Saviour? no</u>
+<u n="482" who="S0493" whoConfidence="low"><unclear>this is</unclear> good</u>
+<u n="483" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="484" who="S0492">mm <pause dur="long"/></u>
+<u n="485" who="S0493" whoConfidence="low">er four points is it? <pause dur="long"/></u>
+<u n="486" who="S0492"><unclear>he's gonna clean this up or</unclear> <unclear/> this is the <unclear/></u>
+<u n="487" who="S0604" whoConfidence="low">and it's seven points <unclear/></u>
+<u n="488" who="S0492"><unclear/></u>
+<u n="489" who="S0493" whoConfidence="low"><unclear/></u>
+<u n="490" who="S0492">has he died?</u>
+<u n="491" who="S0493" whoConfidence="low">no</u>
+<u n="492" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="493" who="S0604" whoConfidence="low">I can't get into him cos apparently</u>
+<u n="494" who="S0492"><unclear>why</unclear>? <unclear/>?</u>
+<u n="495" who="S0604" whoConfidence="low">no but he's apparently he's amazing but just his</u>
+<u n="496" who="S0492" trans="overlap">oh right</u>
+<u n="497" who="S0604" whoConfidence="low">I you know <unclear/></u>
+<u n="498" who="S0492" trans="overlap">no but he can really miss as well</u>
+<u n="499" who="S0604" whoConfidence="low">yeah but well by all accounts when he gets here</u>
+<u n="500" who="S0492">the first album's awesome</u>
+<u n="501" who="S0604" whoConfidence="low">so Steve Mcqueen says he <unclear/> genuinely thinks he's one of the greatest geniuses of our our time</u>
+<u n="502" who="S0492">really?</u>
+<u n="503" who="S0604" whoConfidence="low">mm yeah and you know I've er I've read reviews er you know comparing him to <unclear/></u>
+<u n="504" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="505" who="S0493" whoConfidence="low">did you see him last see him in Glastonbury?</u>
+<u n="506" who="S0604" whoConfidence="low">oh yeah he's er he's a <unclear>fool he's an absolute fool</unclear></u>
+<u n="507" who="S0493" whoConfidence="low">not but not just that but like performance wise <unclear/></u>
+<u n="508" who="S0604" whoConfidence="low">that was er yeah but I don't think live <unclear/> production <unclear/></u>
+<u n="509" who="S0493" trans="overlap" whoConfidence="low">did you see that that thing he did with the alien coming from outer space and he's been representing he's been put forward by mankind to represent the best artist that's ever been on the face of the the earth is Kanye West</u>
+<u n="510" who="S0605">oh no</u>
+<u n="511" who="S0604" whoConfidence="low">are you trying again are you? one two erm <pause dur="short"/> <unclear>you know</unclear> Salvador Dali once began er a lecture of his calmly walking up to the podium suit you know a boot thing proceeded to take off his shoe and beat the <trunc>p</trunc> beat the lectern with his shouted I am the greatest artist who has ever lived</u>
+<u n="512" who="UNKMALE" whoConfidence="low">yeah</u>
+<u n="513" who="UNKMALE" whoConfidence="low">and had to be dragged off stage</u>
+<u n="514" who="S0666"><vocal desc="laugh"/></u>
+<u n="515" who="S0604" whoConfidence="low">and that was that was <unclear/></u>
+<u n="516" who="S0493" whoConfidence="low">did you see him on those American</u>
+<u n="517" who="S0666"><unclear/></u>
+<u n="518" who="S0493" whoConfidence="low">er <unclear>born again</unclear> type things they had on TV in the fifties? Groucho Marx did a lot of them they describe someone and you've gotta guess who they are and they'll go he's a he's you know they'll describe a fairly semi-famous person and he's gotta guess who they are a bit like through the look Through the Keyhole or something but you know <unclear/> so Salvador Dali's on it and the thing is he's not that <unclear/> so they just <unclear/></u>
+<u n="519" who="S0604" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="520" who="S0493" whoConfidence="low"><unclear/> <pause dur="long"/></u>
+<u n="521" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="522" who="S0492">okay</u>
+<u n="523" who="S0604" whoConfidence="low">there you go</u>
+<u n="524" who="S0493" trans="overlap" whoConfidence="low"><unclear/> <unclear>some stations</unclear> <unclear/> you can <pause dur="long"/></u>
+<u n="525" who="S0605">my go?</u>
+<u n="526" who="S0604" whoConfidence="low">mm</u>
+<u n="527" who="S0605"><unclear/> <unclear>move with</unclear> that</u>
+<u n="528" who="S0666">mm?</u>
+<u n="529" who="S0605"><unclear>move with</unclear> those two</u>
+<u n="530" who="S0604" whoConfidence="low">you need one joker <unclear/> those two jokers <unclear/> <pause dur="long"/> your go mum <pause dur="long"/></u>
+<u n="531" who="S0493" whoConfidence="low"><unclear/></u>
+<u n="532" who="S0666">can you just move me there? <pause dur="long"/> are you supposed to say when you've finished the route?</u>
+<u n="533" who="S0493" whoConfidence="low">no</u>
+<u n="534" who="S0492">no</u>
+<u n="535" who="S0493" whoConfidence="low">but you can <unclear>pick up euros</unclear> if you want but it'll cost you though <pause dur="long"/></u>
+<u n="536" who="S0604" whoConfidence="low"><vocal desc="sigh"/> <pause dur="long"/></u>
+<u n="537" who="S0605">okay so if I wanted er that</u>
+<u n="538" who="S0604" whoConfidence="low">yeah</u>
+<u n="539" who="S0605">okay?</u>
+<event desc="unintelligible"/>
+<u n="540" who="S0605">oh but those two</u>
+<u n="541" who="S0492">no</u>
+<u n="542" who="S0605" trans="overlap">oh</u>
+<u n="543" who="S0604" whoConfidence="low">so yeah</u>
+<u n="544" who="S0605">so just those two <pause dur="long"/></u>
+<u n="545" who="S0604" whoConfidence="low">dad's go</u>
+<u n="546" who="S0492">dad had a go?</u>
+<u n="547" who="S0493" trans="overlap" whoConfidence="low">is this <pause dur="short"/> <vocal desc="laugh"/> that's er Catalan</u>
+<u n="548" who="S0604" whoConfidence="low">is it? this is it I'm onto it</u>
+<u n="549" who="S0493" whoConfidence="low">now with a something to make <unclear/> Catalan what's happened <unclear/></u>
+<event desc="unintelligible"/>
+<u n="550" who="S0492">don't tell him that <pause dur="long"/></u>
+<u n="551" who="S0666">no <pause dur="short"/> well oh no that's two isn't it? sorry</u>
+<u n="552" who="S0604" whoConfidence="low">yeah they're two</u>
+<u n="553" who="S0666">collect three then <pause dur="short"/> did I? yeah <pause dur="long"/></u>
+<u n="554" who="S0666">did I put my station in the wrong place?</u>
+<u n="555" who="S0493" whoConfidence="low">this one is if you want what colour are you? blue?</u>
+<u n="556" who="S0604" whoConfidence="low">that one will seem like</u>
+<u n="557" who="S0493" whoConfidence="low">and so now what your route is Copenhagen to either Rome or Zagreb you can choose</u>
+<u n="558" who="S0604" trans="overlap" whoConfidence="low">what colour there mum?</u>
+<u n="559" who="S0666">so I <trunc>ha</trunc> did put it in the right place</u>
+<u n="560" who="S0493" trans="overlap" whoConfidence="low">no she hasn't got a station there</u>
+<u n="561" who="S0604" whoConfidence="low">no</u>
+<u n="562" who="S0666">did I put it in the right place where it is now?</u>
+<u n="563" who="S0493" whoConfidence="low">it <trunc>depe</trunc> if you wanna go from Copenhagen at the moment to Zagreb or Copenhagen to Rome then yeah so at the moment what you've definitely got is this and either that way or that way</u>
+<u n="564" who="S0666">okay</u>
+<u n="565" who="S0604" whoConfidence="low"><unclear/> <shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="566" who="S0605"><unclear/></u>
+<u n="567" who="S0604" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="568" who="S0605">from Edinburgh to Paris</u>
+<u n="569" who="S0493" whoConfidence="low">yeah</u>
+<u n="570" who="S0604" whoConfidence="low">you're going to have to go round the houses</u>
+<u n="571" who="S0493" whoConfidence="low">or put a <trunc>statio</trunc></u>
+<u n="572" who="S0492" trans="overlap">yeah</u>
+<u n="573" who="S0605" trans="overlap">er well</u>
+<u n="574" who="S0493" trans="overlap" whoConfidence="low">you should have gone there you should have gone there and there</u>
+<u n="575" who="S0605">yeah but what I I could do with</u>
+<u n="576" who="S0493" trans="overlap" whoConfidence="low">you need yeah</u>
+<u n="577" who="S0605" trans="overlap">a station</u>
+<u n="578" who="S0493" whoConfidence="low">so yeah so you put a station on Paris or Dieppe it doesn't</u>
+<u n="579" who="S0605" trans="overlap">which is <trunc>ju</trunc> it generally doesn't matter</u>
+<u n="580" who="S0493" whoConfidence="low">well it could no they would both be valid you might for tactical reasons put one on Paris or Dieppe to <trunc>st</trunc>stop er someone else using it if you think they're gonna use it but I mean</u>
+<u n="581" who="S0605">mm</u>
+<u n="582" who="S0493" whoConfidence="low">and you don't wanna get you don't have to do this till the end of the game but now you're guaranteeing that you're gonna do it so</u>
+<u n="583" who="S0605">and that's my turn then</u>
+<u n="584" who="S0493" whoConfidence="low">yeah</u>
+<u n="585" who="S0666">that'll cost you four and it'll cost you</u>
+<u n="586" who="S0493" trans="overlap" whoConfidence="low">and a card</u>
+<u n="587" who="S0666" trans="overlap">and it'll cost you a card</u>
+<u n="588" who="S0605">any card?</u>
+<u n="589" who="S0493" whoConfidence="low">yeah</u>
+<u n="590" who="S0666" trans="overlap">any card</u>
+<u n="591" who="S0492">any card <pause dur="long"/></u>
+<u n="592" who="S0493" whoConfidence="low"><unclear/></u>
+<u n="593" who="S0604" whoConfidence="low">mm?</u>
+<u n="594" who="S0493" whoConfidence="low">what's the one you have so far? <pause dur="long"/></u>
+<u n="595" who="S0604" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/> that one there <pause dur="long"/> okay? <pause dur="long"/> <shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="596" who="S0492"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="597" who="S0604" whoConfidence="low">it's seven on over there <pause dur="long"/></u>
+<u n="598" who="S0493" whoConfidence="low">crucial <pause dur="long"/></u>
+<u n="599" who="S0604" whoConfidence="low">I think it's <unclear/> then by and <unclear/></u>
+<u n="600" who="S0493" whoConfidence="low"><unclear/> <pause dur="long"/> have you had a go?</u>
+<u n="601" who="S0492">whose go is it? <pause dur="long"/></u>
+<u n="602" who="S0604" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="603" who="S0666">one please <pause dur="long"/> one please <pause dur="long"/></u>
+<u n="604" who="S0493" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="605" who="S0604" whoConfidence="low">some of them are ad free are they? I thought you had premium</u>
+<u n="606" who="S0492">I remember you saying you had premium</u>
+<u n="607" who="S0605">how much is it?</u>
+<u n="608" who="S0492">I dunno</u>
+<u n="609" who="S0493" whoConfidence="low"><unclear>it's cheap at the moment</unclear></u>
+<u n="610" who="S0492">is it?</u>
+<u n="611" who="S0493" whoConfidence="low">there was an offer it was was it a couple of a quid for three <unclear/> I dunno it's up there</u>
+<u n="612" who="S0492">I guess it makes sense if er maybe if you work at home all day and you have it on as the radio but</u>
+<u n="613" who="S0493" whoConfidence="low">but also the adverts are in Spanish so it's not</u>
+<u n="614" who="S0604" whoConfidence="low">yeah</u>
+<u n="615" who="S0493" whoConfidence="low">a bad thing to listen to it all day so <unclear/></u>
+<u n="616" who="S0492">but I always listen to stuff on Youtube maybe I should listen to Spotify more</u>
+<u n="617" who="S0604" whoConfidence="low">it's a bit <unclear/></u>
+<u n="618" who="S0492">yeah</u>
+<u n="619" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="620" who="S0493" whoConfidence="low">they make a best of for for albums and things that</u>
+<u n="621" who="S0605">Soundcloud</u>
+<u n="622" who="S0604" whoConfidence="low">Soundcloud I mean it is good for music</u>
+<u n="623" who="S0492">it's good for music</u>
+<u n="624" who="S0604" whoConfidence="low">the new Spotify</u>
+<u n="625" who="S0492">oh right</u>
+<u n="626" who="S0493" whoConfidence="low">The Beatles are on Spotify as well aren't they?</u>
+<u n="627" who="S0492">are they?</u>
+<u n="628" who="S0604" whoConfidence="low">yeah <unclear>you can get a legal legal upload and</unclear></u>
+<u n="629" who="S0492" trans="overlap">well Adele's still on it</u>
+<u n="630" who="S0604" whoConfidence="low">cos of <unclear/> status</u>
+<u n="631" who="S0492">mm and Taylor Swift isn't on it</u>
+<u n="632" who="S0493" whoConfidence="low">oh no literally don't notice</u>
+<u n="633" who="S0492"><unclear/></u>
+<u n="634" who="S0493" whoConfidence="low">I just see her as like a Miley Cyrus type of thing</u>
+<u n="635" who="S0492"><unclear/></u>
+<u n="636" who="S0493" whoConfidence="low">girl singing from the States</u>
+<u n="637" who="S0492">yeah she's not like Miley Cyrus</u>
+<u n="638" who="S0604" whoConfidence="low">two please</u>
+<u n="639" who="S0493" whoConfidence="low">whatever <pause dur="long"/></u>
+<u n="640" who="S0492"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="641" who="S0604" whoConfidence="low">Portuguese?</u>
+<u n="642" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="643" who="S0493" whoConfidence="low">no it's</u>
+<u n="644" who="S0604" whoConfidence="low"><unclear/> yeah</u>
+<u n="645" who="S0492">I do recognise the song though</u>
+<u n="646" who="S0493" whoConfidence="low">and basically</u>
+<u n="647" who="S0492">what do I know the song from?</u>
+<u n="648" who="S0493" whoConfidence="low"><unclear/></u>
+<u n="649" who="S0492">is it from a film? <pause dur="short"/> is there such a has somebody invented the software where a song comes on you can</u>
+<u n="650" who="S0493" whoConfidence="low">yeah Shazam</u>
+<u n="651" who="S0492" trans="overlap">find out yeah no but for films</u>
+<u n="652" who="S0605">well you</u>
+<u n="653" who="S0492" trans="overlap">or adverts or</u>
+<u n="654" who="S0605" trans="overlap">if you the Shazam will work for films as well because they you know there's songs and the</u>
+<u n="655" who="S0492">but it's more that when I hear a song I want to know the film it's from</u>
+<u n="656" who="S0493" whoConfidence="low">but if you took that <unclear/></u>
+<u n="657" who="S0605" trans="overlap">yeah but if you know if you if you find a song</u>
+<u n="658" who="S0492" trans="overlap">oh okay yeah</u>
+<u n="659" who="S0605">you just find it out like</u>
+<u n="660" who="S0493" whoConfidence="low"><vocal desc="whistle"/></u>
+<u n="661" who="S0605">there probably is one just for films</u>
+<u n="662" who="S0492">er it took me <trunc>a</trunc> oh this is the Bruce Springsteen album and then there was a song which kept coming on and it was bothering me and it took me ages to find out what the song was</u>
+<u n="663" who="S0605"><unclear/></u>
+<u n="664" who="S0492">and then I found the film eventually erm Secret Garden?</u>
+<u n="665" who="S0604" trans="overlap" whoConfidence="low"><unclear/> oh right</u>
+<u n="666" who="S0492">you know Secret Garden from Jerry Maguire?</u>
+<u n="667" who="S0604" whoConfidence="low">yeah <trunc>Shelt</trunc> er Shelter from the Storm it sounds like</u>
+<u n="668" who="S0492" trans="overlap">no yeah</u>
+<u n="669" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="670" who="S0605">is it?</u>
+<u n="671" who="S0604" whoConfidence="low">uhu</u>
+<u n="672" who="S0492">I think it's an alright film Jerry Maguire I've not watched it for a long time</u>
+<u n="673" who="S0604" whoConfidence="low">I mean it's quite Tom Tom Cruisy</u>
+<u n="674" who="S0492">but like</u>
+<u n="675" who="S0493" trans="overlap" whoConfidence="low">show me the profits</u>
+<u n="676" who="S0492">but I think it's probably the last time he was maybe quite nice and charismatic and not an absolute nut job maybe?</u>
+<u n="677" who="S0493" whoConfidence="low">a one a</u>
+<u n="678" who="S0604" whoConfidence="low">oh it meant</u>
+<u n="679" who="S0493" trans="overlap" whoConfidence="low">no</u>
+<u n="680" who="S0604" trans="overlap" whoConfidence="low">it meant that much to you eh?</u>
+<u n="681" who="S0666">mm? what?</u>
+<u n="682" who="S0605">your go</u>
+<u n="683" who="S0493" trans="overlap" whoConfidence="low">one point <unclear/> <pause dur="long"/></u>
+<u n="684" who="S0605"><unclear>let's try there</unclear></u>
+<u n="685" who="S0604" whoConfidence="low">what's that?</u>
+<u n="686" who="S0605"><unclear>try the other</unclear> <unclear/></u>
+<u n="687" who="S0604" whoConfidence="low">what's that?</u>
+<u n="688" who="S0605">the best trains from the <unclear/></u>
+<u n="689" who="S0604" whoConfidence="low">I've never heard of him</u>
+<u n="690" who="S0605">REM</u>
+<u n="691" who="S0604" whoConfidence="low">really?</u>
+<u n="692" who="S0605">you never heard you said it was on there</u>
+<u n="693" who="S0604" whoConfidence="low">can I have a look?</u>
+<u n="694" who="S0493" whoConfidence="low">whose go? your go dad</u>
+<u n="695" who="S0604" whoConfidence="low">isn't on here</u>
+<u n="696" who="S0493" whoConfidence="low">oh <pause dur="long"/> no</u>
+<u n="697" who="S0492">mm</u>
+<u n="698" who="S0493" whoConfidence="low">er maybe it wasn't</u>
+<u n="699" who="S0605">yeah</u>
+<u n="700" who="S0493" whoConfidence="low">maybe REM aren't on there <pause dur="long"/></u>
+<u n="701" who="S0604" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="short"/> in fact she said that <unclear/></u>
+<u n="702" who="S0493" whoConfidence="low">more or less yeah</u>
+<u n="703" who="S0604" whoConfidence="low">five</u>
+<u n="704" who="S0493" whoConfidence="low">more or less</u>
+<u n="705" who="S0604" whoConfidence="low"><unclear/> more or less <pause dur="long"/></u>
+<u n="706" who="S0493" whoConfidence="low">I oh you went there got three multicolours?</u>
+<u n="707" who="S0604" whoConfidence="low">no well erm</u>
+<u n="708" who="S0493" whoConfidence="low">you leave them on there if you're with the patterns up</u>
+<u n="709" who="S0604" whoConfidence="low">did I do it yeah?</u>
+<u n="710" who="S0493" whoConfidence="low">yeah well er</u>
+<u n="711" who="S0604" whoConfidence="low"><unclear/> <pause dur="long"/></u>
+<u n="712" who="S0492">whose go is it?</u>
+<u n="713" who="S0604" whoConfidence="low">mm yeah <pause dur="long"/> in the lead there</u>
+<u n="714" who="S0605">I was wasn't I until er</u>
+<u n="715" who="S0604" trans="overlap" whoConfidence="low">yeah</u>
+<u n="716" who="S0605">until I made the last three moves</u>
+<u n="717" who="S0493" whoConfidence="low"><unclear/> didn't see that one coming</u>
+<u n="718" who="S0604" whoConfidence="low"><unclear/> oh er a white one white <unclear/> please <pause dur="long"/> I'm building a green tunnel</u>
+<u n="719" who="S0492"><vocal desc="laugh"/></u>
+<u n="720" who="S0493" whoConfidence="low">three multicolours?</u>
+<u n="721" who="S0492"><vocal desc="laugh"/> yeah <pause dur="long"/></u>
+<u n="722" who="S0604" whoConfidence="low">yeah <pause dur="long"/></u>
+<u n="723" who="S0493" whoConfidence="low">it's really good <pause dur="long"/></u>
+<u n="724" who="S0605">the way it turns up <unclear/></u>
+<u n="725" who="S0493" whoConfidence="low">three yeah so red turned up</u>
+<u n="726" who="S0605">so if I had had that</u>
+<u n="727" who="S0493" whoConfidence="low">if you had three reds and the <unclear/> comes up you're in trouble</u>
+<u n="728" who="S0604" whoConfidence="low">but I'd wait till the end</u>
+<u n="729" who="S0605">what if have a joker</u>
+<u n="730" who="S0493" whoConfidence="low">then that can be used</u>
+<u n="731" who="S0604" whoConfidence="low">yeah</u>
+<u n="732" who="S0493" whoConfidence="low">so as long as there's one red or the joker comes up from three <unclear/> you're alright</u>
+<u n="733" who="S0604" whoConfidence="low">we will see oh so you've got one in the <unclear>bank</unclear></u>
+<u n="734" who="S0605"><unclear/></u>
+<u n="735" who="S0493" whoConfidence="low">yeah <pause dur="long"/></u>
+<u n="736" who="S0604" whoConfidence="low"><vocal desc="whistle"/> <pause dur="long"/> four for me</u>
+<u n="737" who="S0605">just make one last make absolutely clear if I go from Edinburgh to Paris</u>
+<u n="738" who="S0493" whoConfidence="low">uhu</u>
+<u n="739" who="S0605"><unclear/> I can build I can put a station on Paris and I'm okay</u>
+<u n="740" who="S0493" whoConfidence="low">yeah</u>
+<u n="741" who="S0605">what if I also hypothetically went from Madrid to Dieppe? can I put another</u>
+<u n="742" who="S0493" trans="overlap" whoConfidence="low">no</u>
+<u n="743" who="S0605" trans="overlap">station there?</u>
+<u n="744" who="S0493" whoConfidence="low">cos that's the same route</u>
+<u n="745" who="S0605" trans="overlap">it covers them both</u>
+<u n="746" who="S0493" whoConfidence="low">yeah</u>
+<u n="747" who="S0605">but and that goes into that <unclear/></u>
+<u n="748" who="S0493" whoConfidence="low">yeah</u>
+<u n="749" who="S0605">can I have three more cards please <unclear/>?</u>
+<u n="750" who="S0493" whoConfidence="low">yeah so you've gotta keep one of them then</u>
+<u n="751" who="S0605">I keep one of the cards I've got?</u>
+<u n="752" who="S0493" whoConfidence="low">no</u>
+<u n="753" who="S0492" trans="overlap">no of three of the</u>
+<u n="754" who="S0493" trans="overlap" whoConfidence="low">gotta keep one of the three cards one two or three but you'll <trunc>l</trunc> you'll be minus points if you don't yeah</u>
+<u n="755" who="S0492"><unclear/> gotta wait for him so</u>
+<u n="756" who="S0493" whoConfidence="low"><unclear>muck about</unclear> <pause dur="long"/></u>
+<u n="757" who="S0604" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/> <pause dur="long"/></u>
+<u n="758" who="S0493" whoConfidence="low">mum</u>
+<u n="759" who="S0666">I thought cos I had a rainbow I could put whatever colour I wanted</u>
+<u n="760" who="S0493" trans="overlap" whoConfidence="low"><unclear>thought that</unclear> yeah</u>
+<u n="761" who="S0666">yeah so what does my rainbow give me?</u>
+<u n="762" who="S0493" whoConfidence="low">you can do one of those but if you wanted to put three</u>
+<u n="763" who="S0604" whoConfidence="low">you'll need two</u>
+<u n="764" who="S0493" whoConfidence="low">you'd need</u>
+<u n="765" who="S0605">two pinks and a</u>
+<u n="766" who="S0493" whoConfidence="low">two pinks and a rainbow or three rainbows or two rainbows and a pink</u>
+<u n="767" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="768" who="S0666" trans="overlap">oh to what?</u>
+<u n="769" who="S0604" whoConfidence="low">the other way is your way is just <unclear/></u>
+<u n="770" who="S0666" trans="overlap">so I can go so if I had a different colour <pause dur="long"/> we can do it it's not gonna work</u>
+<u n="771" who="S0493" whoConfidence="low">no not there</u>
+<u n="772" who="S0666">my rainbow is <unclear>there some</unclear> magic?</u>
+<u n="773" who="S0604" whoConfidence="low">mm</u>
+<u n="774" who="S0666">so I get more <trunc>pi</trunc> more things?</u>
+<u n="775" who="S0493" whoConfidence="low">yeah</u>
+<u n="776" who="S0604" whoConfidence="low">I mean if you get another rainbow</u>
+<u n="777" who="S0666" whoConfidence="low"><unclear/></u>
+<u n="778" who="S0492"><unclear/></u>
+<u n="779" who="S0605"><vocal desc="cough"/> <pause dur="long"/></u>
+<u n="780" who="S0493" whoConfidence="low"><unclear/> <pause dur="long"/></u>
+<u n="781" who="S0492"><vocal desc="sneeze"/> <pause dur="long"/></u>
+<u n="782" who="S0604" whoConfidence="low">what have I done? <pause dur="short"/> okay mum</u>
+<u n="783" who="S0666">it's my go?</u>
+<u n="784" who="S0604" whoConfidence="low">yeah</u>
+<u n="785" who="S0666">okay so let's try some again <pause dur="short"/> so <pause dur="short"/> will that enable me to do oh that?</u>
+<u n="786" who="S0604" whoConfidence="low">well</u>
+<u n="787" who="S0493" whoConfidence="low">if you don't get</u>
+<u n="788" who="S0492" trans="overlap"><unclear/></u>
+<u n="789" who="S0604" whoConfidence="low">there's er because it's er it's untenable</u>
+<u n="790" who="S0666">yeah</u>
+<u n="791" who="S0604" whoConfidence="low">so let's cross our finger and hope for black</u>
+<u n="792" who="S0493" whoConfidence="low">or mum</u>
+<u n="793" who="S0604" trans="overlap" whoConfidence="low">a joker</u>
+<u n="794" who="S0493" whoConfidence="low">if you had those two yellows like to tried to put there you could play the two yellows for that tunnel which is great and they your joker's acting as a backup</u>
+<u n="795" who="S0666">why can't I buy two yellows?</u>
+<u n="796" who="S0604" whoConfidence="low">cos it's a grey there</u>
+<u n="797" who="S0492">grey is any colour</u>
+<u n="798" who="S0493" trans="overlap" whoConfidence="low">any colour</u>
+<u n="799" who="S0666">oh grey is any colour?</u>
+<u n="800" who="S0604" trans="overlap" whoConfidence="low">so it's not <unclear/></u>
+<u n="801" who="S0666">oh</u>
+<u n="802" who="S0493"><unclear>so we needed someone</unclear> to explain that to you before</u>
+<u n="803" who="S0666">oh <vocal desc="laugh"/> <unclear>this bit's not gonna do it</unclear></u>
+<u n="804" who="S0493">okay so we're going for yellows then</u>
+<u n="805" who="S0666" whoConfidence="low">yeah</u>
+<u n="806" who="S0604">okay</u>
+<u n="807" who="S0493" trans="overlap">so that counts as a yellow but you've got a joker so you can play it</u>
+<u n="808" who="S0604"><unclear>no more</unclear> yellows <unclear>out</unclear> have you got any more yellows or jokers?</u>
+<u n="809" who="UNKMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="810" who="S0666" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="811" who="S0666">only the one</u>
+<u n="812" who="S0604">only the one well I'm afraid you're tunnel collapses</u>
+<u n="813" who="S0493" trans="overlap" whoConfidence="low"><unclear/> there</u>
+<u n="814" who="S0604">the workers go home <vocal desc="misc"/></u>
+<u n="815" who="UNKMALE" whoConfidence="low"><unclear>and you get your day off work</unclear></u>
+<u n="816" who="S0493" trans="overlap">three <unclear>doves</unclear> three of the characters</u>
+<u n="817" who="S0666">no that's cruel</u>
+<u n="818" who="UNKMALE" whoConfidence="low">mm <pause dur="long"/></u>
+<u n="819" who="S0666">if grey is any colours why are we getting the <unclear>dark</unclear> ones?</u>
+<u n="820" who="S0493">that's those ones</u>
+<u n="821" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="822" who="S0492">they're black</u>
+<u n="823" who="S0666">oh they're black are they?</u>
+<u n="824" who="UNKMALE" whoConfidence="low">mm <pause dur="long"/></u>
+<u n="825" who="S0493">it really does that <unclear>then it does that</unclear></u>
+<u n="826" who="UNKMALE" whoConfidence="low"><unclear>does it?</unclear></u>
+<u n="827" who="UNKMALE" whoConfidence="low"><vocal desc="misc"/> <pause dur="long"/></u>
+<u n="828" who="S0492"><unclear>I feel I've missed a go</unclear></u>
+<u n="829" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="830" who="S0493" trans="overlap" whoConfidence="low"><unclear>any colour next</unclear></u>
+<u n="831" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="832" who="S0493" trans="overlap" whoConfidence="low"><unclear/> this time black</u>
+<u n="833" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="834" who="S0493" whoConfidence="low">joker but <unclear>gone back up</unclear></u>
+<u n="835" who="UNKMALE" whoConfidence="low">eh</u>
+<u n="836" who="UNKMALE" trans="overlap" whoConfidence="low">eh</u>
+<u n="837" who="S0493">so you'll just have to play the joker</u>
+<u n="838" who="S0666">oh I think I don't have the joker cos you made me play it last time</u>
+<u n="839" who="S0493">now you <unclear/></u>
+<u n="840" who="UNKMALE" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="841" who="UNKMALE" whoConfidence="low"><unclear/> <unclear>back</unclear></u>
+<u n="842" who="S0666">I haven't</u>
+<u n="843" who="S0493">you should've done</u>
+<u n="844" who="S0604">you got your cards back didn't you?</u>
+<u n="845" who="S0666">I don't know <unclear>did I put it there</unclear></u>
+<u n="846" who="S0493">well you would've had it back anyway so</u>
+<u n="847" who="S0666"><unclear/></u>
+<u n="848" who="S0493" trans="overlap">you've <trunc>al</trunc> you've already paid it <unclear/> an absolute hammer tune this is</u>
+<u n="849" who="S0666">oh <vocal desc="laugh"/></u>
+<u n="850" who="UNKFEMALE" whoConfidence="low"><shift new="singing"/> a brand new dance now <shift new="normal"/></u>
+<u n="851" who="S0605"><unclear/></u>
+<u n="852" who="UNKFEMALE" whoConfidence="low"><shift new="singing"/> do the locomotion <shift new="normal"/></u>
+<u n="853" who="S0493">huh?</u>
+<u n="854" who="S0605"><unclear/>?</u>
+<u n="855" who="S0493">little <unclear/> <unclear>genuinely great one this one</unclear></u>
+<u n="856" who="S0666">the Kylie version or this?</u>
+<u n="857" who="S0493">no this this</u>
+<u n="858" who="S0605">the Kylie version's pretty similar</u>
+<u n="859" who="S0666" trans="overlap" whoConfidence="low">ow</u>
+<u n="860" who="S0493">not not got much soul has it?</u>
+<u n="861" who="S0493" whoConfidence="low"><shift new="singing"/> now come on come <shift new="normal"/></u>
+<u n="862" who="UNKMALE" whoConfidence="low"><shift new="singing"/> do the locomotion <shift new="normal"/></u>
+<u n="863" who="UNKFEMALE" trans="overlap" whoConfidence="low"><shift new="singing"/> do the locomotion with me <shift new="normal"/></u>
+<u n="864" who="UNKMALE" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="865" who="UNKMALE" whoConfidence="low"><shift new="singing"/> jump up <pause dur="short"/> oh oh <shift new="normal"/></u>
+<u n="866" who="UNKMALE" whoConfidence="low">get in</u>
+<u n="867" who="UNKMALE" whoConfidence="low"><vocal desc="whistle"/></u>
+<u n="868" who="UNKMALE" whoConfidence="low">get in</u>
+<u n="869" who="UNKFEMALE" whoConfidence="low"><shift new="singing"/> wheel of the train now <shift new="normal"/></u>
+<u n="870" who="UNKMALE" whoConfidence="low"><shift new="singing"/> a little bit of rhythm and a lot of soul <shift new="normal"/></u>
+<u n="871" who="UNKMALE" whoConfidence="low"><unclear>orange here</unclear> <pause dur="long"/></u>
+<u n="872" who="S0493" whoConfidence="low"><shift new="singing"/> yeah yeah yeah yeah <shift new="normal"/></u>
+<u n="873" who="S0492" whoConfidence="low"><shift new="singing"/> move around the floor in a locomotion <shift new="normal"/> <pause dur="short"/> next please</u>
+<u n="874" who="S0493" whoConfidence="low">what on Earth?</u>
+<u n="875" who="S0604" whoConfidence="low"><unclear/> quiet over there but she's <trunc>s</trunc><trunc>s</trunc>steadily racking up the points</u>
+<u n="876" who="S0492"><shift new="singing"/> so easy to do <shift new="normal"/></u>
+<u n="877" who="S0493" trans="overlap" whoConfidence="low"><shift new="singing"/> so easy to do <shift new="normal"/></u>
+<u n="878" who="S0492"><shift new="singing"/> easier <unclear/> when you're feeling good <shift new="normal"/></u>
+<u n="879" who="S0493" trans="overlap">you're winning</u>
+<u n="880" who="S0604" trans="overlap">yeah that's what I'm saying</u>
+<u n="881" who="S0666" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="882" who="S0492" whoConfidence="low"><shift new="singing"/> come on do the locomotion with me <shift new="normal"/></u>
+<u n="883" who="S0493" trans="overlap" whoConfidence="low"><shift new="singing"/> your hips now <shift new="normal"/> <pause dur="long"/> I will have <pause dur="short"/> station <pause dur="long"/> <unclear>have</unclear> this</u>
+<u n="884" who="S0604" whoConfidence="low">who put <unclear>seven</unclear> <unclear/> <unclear>picture</unclear>?</u>
+<u n="885" who="S0492">seven? can't you go?</u>
+<u n="886" who="S0604" whoConfidence="low">yeah <unclear>think it is</unclear></u>
+<event desc="sound of tapping"/>
+<u n="887" who="S0492" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="888" who="S0493" trans="overlap" whoConfidence="low">mm</u>
+<u n="889" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="890" who="S0493" whoConfidence="low">well well well high scorer <unclear>there</unclear> I think</u>
+<u n="891" who="S0666" whoConfidence="low">what <unclear/>?</u>
+<u n="892" who="S0493" whoConfidence="low">this</u>
+<u n="893" who="S0666">green?</u>
+<u n="894" who="S0604" whoConfidence="low">woah</u>
+<u n="895" who="S0666">three</u>
+<u n="896" who="S0493">oh dadio</u>
+<u n="897" who="S0604">he was hinting that he was going there <unclear/></u>
+<u n="898" who="S0493" trans="overlap"><trunc>i</trunc> yeah <unclear/> oh my god</u>
+<u n="899" who="S0492" whoConfidence="low"><shift new="singing"/> mm <shift new="normal"/></u>
+<u n="900" who="S0492">whose go is it?</u>
+<u n="901" who="S0666" whoConfidence="low"><unclear/></u>
+<u n="902" who="S0493" whoConfidence="low">ooh</u>
+<u n="903" who="S0492" whoConfidence="low"><unclear/> <pause dur="long"/></u>
+<u n="904" who="UNKMALE" whoConfidence="low"><vocal desc="sigh"/></u>
+<u n="905" who="S0493" whoConfidence="low"><unclear/></u>
+<u n="906" who="S0604" whoConfidence="low">orange</u>
+<u n="907" who="UNKMALE" trans="overlap" whoConfidence="low">mm</u>
+<u n="908" who="UNKMALE" whoConfidence="low"><unclear/> <pause dur="long"/></u>
+<u n="909" who="S0605" whoConfidence="low">are you gonna <unclear/>? <pause dur="long"/> <unclear>I've got</unclear> some <unclear>cards</unclear> <unclear/></u>
+<u n="910" who="S0493" whoConfidence="low">no routes? <pause dur="long"/></u>
+<u n="911" who="S0604" whoConfidence="low"><unclear/> <unclear>your round</unclear> <unclear/> <unclear>watch this</unclear> <pause dur="long"/></u>
+<u n="912" who="S0666">tunnel <pause dur="short"/> what do I need?</u>
+<u n="913" who="S0492"><unclear>what's left</unclear>? <unclear/></u>
+<u n="914" who="S0666" trans="overlap"><unclear/></u>
+<u n="915" who="S0493">any colours you want is that <unclear/>?</u>
+<u n="916" who="S0492" trans="overlap"><unclear/></u>
+<u n="917" who="S0666"><unclear>four</unclear> orange</u>
+<u n="918" who="S0666" whoConfidence="low">no</u>
+<u n="919" who="S0493"><unclear>it won't</unclear> <pause dur="short"/> oh</u>
+<u n="920" who="S0492">so you need one extra orange or an extra magic</u>
+<u n="921" who="S0493" whoConfidence="low"><unclear>there you go</unclear></u>
+<u n="922" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="923" who="UNKFEMALE" whoConfidence="low"><unclear>what's that playing?</unclear></u>
+<u n="924" who="S0604" whoConfidence="low"><unclear>is this</unclear> <unclear/>?</u>
+<u n="925" who="S0605" whoConfidence="low"><unclear/> maybe yeah</u>
+<u n="926" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="927" who="UNKMALE" whoConfidence="low"><unclear/> <pause dur="long"/></u>
+<u n="928" who="S0493" whoConfidence="low">orange <unclear>turn off it is</unclear> <pause dur="long"/></u>
+<u n="929" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="930" who="S0493" whoConfidence="low">close very close</u>
+<u n="931" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="932" who="S0493" whoConfidence="low">so what I wanna do a two a two white tunnel but <unclear>I would like to play more</unclear></u>
+<u n="933" who="S0604" whoConfidence="low"><unclear/> <unclear>do it absolutely</unclear> <pause dur="short"/> <unclear>two of those</unclear></u>
+<u n="934" who="S0492"><unclear>oh you can get it</unclear></u>
+<u n="935" who="S0604" whoConfidence="low"><unclear>mm no</unclear></u>
+<u n="936" who="S0492"><unclear>yeah then or</unclear> put another</u>
+<u n="937" who="S0493" whoConfidence="low"><unclear>the orange</unclear> stations <unclear>I'll have those</unclear></u>
+<u n="938" who="S0492">you're only allowed three stations though</u>
+<u n="939" who="S0493" whoConfidence="low"><unclear>just thought it would make the game</unclear></u>
+<u n="940" who="S0666" whoConfidence="low"><vocal desc="sigh"/> <pause dur="long"/> <unclear>can I ask another question</unclear> about stations</u>
+<u n="941" who="S0493" whoConfidence="low">mm</u>
+<u n="942" who="S0666" whoConfidence="low">so say I want to go from Petrograd to Moscow</u>
+<u n="943" who="S0493" whoConfidence="low">yeah</u>
+<u n="944" who="S0666" whoConfidence="low">if I put a station here does that automatically get me to Moscow?</u>
+<u n="945" who="S0493" trans="overlap" whoConfidence="low">no there's gotta be a road you'd have to put a station there</u>
+<u n="946" who="S0666" trans="overlap" whoConfidence="low">okay</u>
+<u n="947" who="S0493" whoConfidence="low">and a station there there needs to be a no sorry there's supposed to be a station there because you've got the er <trunc>Mos</trunc> you got you need</u>
+<u n="948" who="S0666" trans="overlap" whoConfidence="low">so I need to put a <trunc>st</trunc> I need to put a station in my end position?</u>
+<u n="949" who="S0493" whoConfidence="low">yeah and it's gotta be somewhere else continuing that line to where you wanna go</u>
+<u n="950" who="S0666" whoConfidence="low">oh right can't be like <unclear/></u>
+<u n="951" who="S0493" trans="overlap">but it doesn't have to be in the position so if you want to go to Moscow you could have one on Smolensk or one on Moscow</u>
+<u n="952" who="S0666" whoConfidence="low">but I'm basically hitch hiking on this person</u>
+<u n="953" who="S0493" whoConfidence="low">yeah so <unclear>they</unclear> you've gotta fit it there or there</u>
+<u n="954" who="S0666" whoConfidence="low">okay alright <pause dur="short"/> how much do I have to pay? four points and what else? how many <unclear>point</unclear> cards?</u>
+<u n="955" who="S0493" whoConfidence="low">one point for the first one and two the <trunc>s</trunc> two are the same colour <unclear/></u>
+<u n="956" who="S0666" trans="overlap">oh okay <pause dur="long"/></u>
+<u n="957" who="S0605" whoConfidence="low">it's your go</u>
+<u n="958" who="S0666">it's mine okay <pause dur="long"/></u>
+<u n="959" who="S0493" whoConfidence="low"><unclear>your go then</unclear></u>
+<u n="960" who="S0605" whoConfidence="low">some cards please <vocal desc="sigh"/></u>
+<u n="961" who="S0493" whoConfidence="low">no <pause dur="long"/></u>
+<u n="962" who="S0492" whoConfidence="low">he's had his go?</u>
+<u n="963" who="S0493" whoConfidence="low">yeah so you can start now</u>
+<u n="964" who="UNKMALE" trans="overlap" whoConfidence="low"><unclear>yeah</unclear> <unclear/></u>
+<u n="965" who="S0492" whoConfidence="low">can I have some cards please?</u>
+<u n="966" who="S0604" whoConfidence="low">lines or no routes?</u>
+<u n="967" who="UNKMALE" whoConfidence="low"><unclear>oh I'm sorry</unclear></u>
+<u n="968" who="S0493" trans="overlap" whoConfidence="low"><unclear/> we've not done that before</u>
+<u n="969" who="UNKMALE" whoConfidence="low">mm</u>
+<u n="970" who="S0493" whoConfidence="low">do in this game you put them back in</u>
+<u n="971" who="S0604" whoConfidence="low">oh really?</u>
+<u n="972" who="S0493" whoConfidence="low"><unclear>that's</unclear> Switzerland <unclear/></u>
+<u n="973" who="S0604" whoConfidence="low"><unclear/></u>
+<u n="974" who="S0666" trans="overlap" whoConfidence="low"><unclear/> choose one or something?</u>
+<u n="975" who="UNKMALE" whoConfidence="low">yeah</u>
+<u n="976" who="S0492">yeah minimum of one but you can choose one if you want to</u>
+<u n="977" who="S0493" whoConfidence="low">that's when Switzerland it'll tell you how many left so sometimes you'll take three and there's only one left <unclear>for the ticket</unclear></u>
+<u n="978" who="S0604" trans="overlap" whoConfidence="low">I thought they all no they all go back</u>
+<u n="979" who="S0493" whoConfidence="low">no</u>
+<u n="980" who="S0604" whoConfidence="low">sure they do</u>
+<u n="981" who="S0493" whoConfidence="low">I've had it</u>
+<u n="982" who="S0604" whoConfidence="low">mm</u>
+<u n="983" who="S0493" whoConfidence="low">on mine</u>
+<u n="984" who="UNKMALE" whoConfidence="low">yeah they can <unclear>ends up</unclear> in Europe <pause dur="long"/></u>
+<event desc="sound of beeping"/>
+<u n="985" who="S0493" whoConfidence="low">made a huge mistake</u>
+<u n="986" who="S0666" whoConfidence="low">I don't know what this is</u>
+<u n="987" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="988" who="S0666" whoConfidence="low">mm I think it's your go anyway now <pause dur="short"/> is it? it all finished? yeah <unclear>fine</unclear> it's your go</u>
+<u n="989" who="S0605" trans="overlap" whoConfidence="low">oh yes <unclear/> <pause dur="long"/></u>
+<u n="990" who="S0666" whoConfidence="low">a route please</u>
+<u n="991" who="UNKFEMALE" whoConfidence="low"><unclear>yes</unclear> <pause dur="long"/></u>
+<u n="992" who="UNKMALE" whoConfidence="low"><unclear>fine</unclear></u>
+<u n="993" who="UNKMALE" whoConfidence="low">seven <pause dur="long"/></u>
+<u n="994" who="S0605" whoConfidence="low"><unclear>your go?</unclear></u>
+<u n="995" who="S0492" whoConfidence="low">is it my go? is it <anon type="name" nameType="m"/>'s go I think?</u>
+<u n="996" who="UNKMALE" whoConfidence="low"><unclear>no idea</unclear></u>
+<u n="997" who="UNKMALE" whoConfidence="low"><vocal desc="laugh"/> <unclear/> <pause dur="long"/></u>
+<u n="998" who="S0493" whoConfidence="low">two points for that one</u>
+<u n="999" who="S0666" whoConfidence="low"><unclear>a line</unclear></u>
+<u n="1000" who="UNKMALE" whoConfidence="low"><shift new="singing"/> in the middle of the night <shift new="normal"/></u>
+<u n="1001" who="S0492" trans="overlap" whoConfidence="low"><shift new="singing"/> in the middle of <shift new="normal"/> <pause dur="short"/> mm <pause dur="long"/></u>
+<u n="1002" who="S0605" whoConfidence="low">there you go your go</u>
+<u n="1003" who="S0492" whoConfidence="low">mm</u>
+<u n="1004" who="S0493" whoConfidence="low">dad? <pause dur="short"/> mum? <pause dur="long"/></u>
+<u n="1005" who="S0666" whoConfidence="low"><unclear>black</unclear></u>
+<u n="1006" who="S0492" whoConfidence="low">mm</u>
+<u n="1007" who="S0493" whoConfidence="low"><unclear>this?</unclear></u>
+<u n="1008" who="S0492" whoConfidence="low">yes <unclear>I think it will</unclear></u>
+<u n="1009" who="S0493" whoConfidence="low">huh?</u>
+<u n="1010" who="S0492" whoConfidence="low"><unclear>I think it'll be</unclear> magic</u>
+<u n="1011" who="UNKMALE" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="1012" who="S0493" whoConfidence="low">station</u>
+<u n="1013" who="UNKMALE" whoConfidence="low">there you go <pause dur="long"/></u>
+<u n="1014" who="S0492"><anon type="name" nameType="m"/> it's your go <pause dur="long"/></u>
+<u n="1015" who="UNKMALE" whoConfidence="low"><unclear>no okay</unclear></u>
+<u n="1016" who="S0492" whoConfidence="low">who sings this?</u>
+<u n="1017" who="S0493" whoConfidence="low">oh I didn't take my four points off for the last person one two three four</u>
+<u n="1018" who="S0604" trans="overlap" whoConfidence="low">Soul Asylum</u>
+<u n="1019" who="S0492" whoConfidence="low">oh okay</u>
+<u n="1020" who="S0604" whoConfidence="low">from their album The Best of Soul Asylum</u>
+<u n="1021" who="S0492" trans="overlap">Soul Asylum</u>
+<u n="1022" who="S0493">and another four points</u>
+<u n="1023" who="S0492" trans="overlap"><unclear>yeah</unclear></u>
+<u n="1024" who="S0493">one two three four</u>
+<u n="1025" who="S0604" whoConfidence="low"><unclear>what the hell is that?</unclear> <pause dur="short"/> <unclear>this and this</unclear></u>
+<u n="1026" who="UNKMALE" whoConfidence="low"><unclear>is it my go?</unclear></u>
+<u n="1027" who="S0605">station and <unclear/></u>
+<u n="1028" who="S0493" whoConfidence="low">I dunno</u>
+<u n="1029" who="S0605"><unclear>oh it's there</unclear> <pause dur="long"/></u>
+<u n="1030" who="S0492">is it me? <pause dur="long"/></u>
+<u n="1031" who="S0605" whoConfidence="low"><unclear>that one here?</unclear> <pause dur="long"/></u>
+<u n="1032" who="S0493" whoConfidence="low"><unclear>come on</unclear></u>
+<u n="1033" who="S0604" whoConfidence="low"><unclear/> station please <unclear>dude</unclear></u>
+<u n="1034" who="S0493">you know you have to pay extra no?</u>
+<u n="1035" who="S0604" whoConfidence="low">so is that <unclear/>?</u>
+<u n="1036" who="S0493" whoConfidence="low">you pick the cards yeah</u>
+<u n="1037" who="S0605" whoConfidence="low">it's the <unclear/> on there</u>
+<u n="1038" who="S0493">you know when we played the cards?</u>
+<u n="1039" who="S0605" whoConfidence="low">no</u>
+<u n="1040" who="S0493">so you've got <trunc>fir</trunc> the station you've got the two the second station you put down for your last turn it's two cards of the same colour and that station's gonna be three cards of the same colour</u>
+<u n="1041" who="UNKMALE" whoConfidence="low"><vocal desc="sigh"/></u>
+<u n="1042" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="1043" who="S0604" whoConfidence="low">oh erm I like this <unclear>what</unclear> this one</u>
+<u n="1044" who="S0666" whoConfidence="low">and did it also cost him four points?</u>
+<u n="1045" who="S0493" whoConfidence="low">no</u>
+<u n="1046" who="S0666"><vocal desc="laugh"/></u>
+<u n="1047" who="S0493" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="1048" who="S0604" whoConfidence="low">you've gotta keep on top I mean</u>
+<u n="1049" who="S0492" whoConfidence="low">mm <pause dur="long"/></u>
+<u n="1050" who="S0604" whoConfidence="low"><unclear>it's your go</unclear> <pause dur="long"/></u>
+<u n="1051" who="S0492" whoConfidence="low"><unclear>and do you use that a lot?</unclear> no <pause dur="long"/> station please</u>
+<u n="1052" who="S0493" whoConfidence="low">I'm going for a yellow</u>
+<u n="1053" who="S0492" whoConfidence="low">no that's what erm</u>
+<u n="1054" who="S0493" whoConfidence="low"><unclear>sorry</unclear> <pause dur="long"/></u>
+<u n="1055" who="S0492" whoConfidence="low">please can you pass me the station? <pause dur="long"/></u>
+<u n="1056" who="UNKMALE" whoConfidence="low"><unclear>mine?</unclear> <pause dur="long"/></u>
+<u n="1057" who="S0604" whoConfidence="low"><unclear>beats</unclear> <pause dur="long"/></u>
+<u n="1058" who="UNKMALE" whoConfidence="low"><vocal desc="sigh"/> <unclear>another</unclear> card <unclear><trunc>s</trunc></unclear></u>
+<u n="1059" who="UNKMALE" whoConfidence="low"><unclear>enough?</unclear></u>
+<u n="1060" who="S0493" whoConfidence="low"><unclear>what?</unclear> <unclear>a nine</unclear> <pause dur="long"/></u>
+<u n="1061" who="S0604" whoConfidence="low"><unclear>done it?</unclear> <pause dur="long"/></u>
+<u n="1062" who="S0493" whoConfidence="low">yeah <pause dur="long"/></u>
+<u n="1063" who="UNKFEMALE" whoConfidence="low">mm <pause dur="long"/></u>
+<u n="1064" who="S0605" whoConfidence="low">do you know what the weather's like tomorrow?</u>
+<u n="1065" who="S0666" whoConfidence="low">suppose to be nice and then rain on Saturday</u>
+<u n="1066" who="S0604" whoConfidence="low">okay ding ding ding everyone</u>
+<u n="1067" who="S0492" whoConfidence="low">what does that mean?</u>
+<u n="1068" who="S0604" whoConfidence="low">that means it's the last go for all of you guys</u>
+<u n="1069" who="S0666">uhu</u>
+<u n="1070" who="S0604" whoConfidence="low">because I've got one choo-choo train left</u>
+<u n="1071" who="S0493" whoConfidence="low"><unclear/> absolutely <unclear>threw it away</unclear></u>
+<u n="1072" who="S0604" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="1073" who="S0605" whoConfidence="low">what went wrong? what what choice? what crossroads did you get to?</u>
+<u n="1074" who="S0493" trans="overlap" whoConfidence="low"><unclear>suicide</unclear> <pause dur="short"/> I put a station down where I <trunc>d</trunc>didn't have to put a station because <unclear>they're irrelevant</unclear> wasted four points and a turn and three cards cos it was the last station</u>
+<u n="1075" who="S0605" whoConfidence="low"><unclear/> <pause dur="short"/> er</u>
+<u n="1076" who="S0493" whoConfidence="low"><unclear>is it free?</unclear></u>
+<u n="1077" who="S0605" trans="overlap" whoConfidence="low">I need to <unclear/></u>
+<u n="1078" who="S0493" trans="overlap" whoConfidence="low"><unclear/> <pause dur="short"/> so it's three points it's a two train and three points</u>
+<u n="1079" who="S0605" whoConfidence="low">two trains is three points</u>
+<u n="1080" who="UNKMALE" whoConfidence="low"><unclear>oh oh</unclear></u>
+<u n="1081" who="S0666" whoConfidence="low"><unclear>two for</unclear> mine please</u>
+<u n="1082" who="S0493" whoConfidence="low">so is that your last go? can you get any points?</u>
+<u n="1083" who="S0492" trans="overlap">last go so if you get any points</u>
+<u n="1084" who="S0493" whoConfidence="low">you can put them anywhere it doesn't even have to you know hook up to yours</u>
+<u n="1085" who="S0492">oh okay <pause dur="long"/></u>
+<u n="1086" who="S0493" whoConfidence="low">and go for the longest one you can there's a there's a four by there obviously mm so four whites</u>
+<u n="1087" who="S0666" trans="overlap">they've gotta be the same colour though?</u>
+<u n="1088" who="S0493" trans="overlap">four</u>
+<u n="1089" who="S0492">yeah</u>
+<u n="1090" who="S0493">yeah</u>
+<u n="1091" who="S0493" whoConfidence="low">there's quite a lot of greys so <pause dur="short"/> but if you can if you can link it up to yours</u>
+<u n="1092" who="S0605" whoConfidence="low">yeah</u>
+<u n="1093" who="S0493" whoConfidence="low">then you might win the longest route <pause dur="short"/> so I can <unclear/></u>
+<u n="1094" who="S0604" whoConfidence="low">yeah that's it</u>
+<u n="1095" who="S0493" whoConfidence="low">or if you did that the if you did that green one</u>
+<u n="1096" who="S0666"><unclear/></u>
+<u n="1097" who="S0493" whoConfidence="low">oh right <pause dur="long"/></u>
+<u n="1098" who="S0604">oh it's my last go <unclear/></u>
+<u n="1099" who="S0493" whoConfidence="low"><unclear>there's not one left</unclear></u>
+<u n="1100" who="S0604" trans="overlap" whoConfidence="low"><unclear>I can use your one</unclear></u>
+<u n="1101" who="S0493" whoConfidence="low">okay then</u>
+<u n="1102" who="S0604" whoConfidence="low">winner goes first then okay</u>
+<u n="1103" who="S0493" whoConfidence="low">so Athena to Vilno <pause dur="short"/> <unclear>a hundred trains</unclear> eleven <unclear>Serbia too</unclear></u>
+<u n="1104" who="S0604" whoConfidence="low">Sarajevo to Sevastopol Sevastopol Sarajevo that's eight <pause dur="short"/> erm Roma to er Smyrna <pause dur="short"/> <unclear>eleven</unclear> <pause dur="short"/> jena to Constantinople <pause dur="short"/> oh sorry no <unclear>Cadiz Cadiz</unclear> then</u>
+<u n="1105" who="S0666" trans="overlap" whoConfidence="low">oh right <unclear>Cadiz</unclear></u>
+<u n="1106" who="S0604" whoConfidence="low">Smolensk to <unclear>Roscoff Roscoff</unclear> Smolensk that's eight and Palmero to Moskva <pause dur="short"/> twenty stunned silence all around</u>
+<u n="1107" who="S0666" trans="overlap" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="1108" who="S0605" whoConfidence="low"><trunc>Ath</trunc>Athens to Ankara</u>
+<u n="1109" who="S0604" whoConfidence="low">Andorra</u>
+<u n="1110" who="S0605" whoConfidence="low">Andorra sorry</u>
+<u n="1111" who="S0604" trans="overlap" whoConfidence="low">yeah yeah</u>
+<u n="1112" who="S0605" whoConfidence="low"><unclear>life</unclear> <pause dur="short"/> andorra to Kharkov</u>
+<u n="1113" who="S0604" whoConfidence="low">yeah</u>
+<u n="1114" who="S0605" whoConfidence="low">ten Madrid to Dieppe</u>
+<u n="1115" who="S0604" whoConfidence="low">yeah</u>
+<u n="1116" who="S0605" whoConfidence="low">eight</u>
+<u n="1117" who="S0493">he could beat <anon type="name" nameType="m"/></u>
+<u n="1118" who="S0605" whoConfidence="low">Cadiz to Stockholm I did not do I did not do</u>
+<u n="1119" who="S0604" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="1120" who="S0493" trans="overlap" whoConfidence="low">oh that's your long route</u>
+<u n="1121" who="S0605" whoConfidence="low"><unclear/></u>
+<u n="1122" who="S0492" trans="overlap" whoConfidence="low">oh no</u>
+<u n="1123" who="S0605" whoConfidence="low"><trunc>Edinbu</trunc>burgh to Cairo?</u>
+<u n="1124" who="S0493" trans="overlap" whoConfidence="low">Cairo</u>
+<u n="1125" who="S0604" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="1126" who="S0666" whoConfidence="low"><unclear/> America?</u>
+<u n="1127" who="S0604" whoConfidence="low">yeah</u>
+<u n="1128" who="S0493" whoConfidence="low">he didn't do it</u>
+<u n="1129" who="S0605" trans="overlap">Edinburgh to Paris is seven <pause dur="short"/> budapest to Sofia</u>
+<u n="1130" who="S0493" whoConfidence="low">yeah</u>
+<u n="1131" who="S0605">is five <pause dur="short"/> berlin to Bucharest I did not do</u>
+<u n="1132" who="S0493" trans="overlap">right how many is that? how many's the last one? eight</u>
+<u n="1133" who="S0605">mm</u>
+<u n="1134" who="S0493">so you've gotta get that long route</u>
+<u n="1135" who="S0604">you've always gotta get the long route</u>
+<u n="1136" who="S0605">when you spent all that money doing that that my next term was to get that for er to change the game</u>
+<u n="1137" who="S0493" whoConfidence="low"><unclear>do you wanna change it?</unclear></u>
+<u n="1138" who="S0605" whoConfidence="low">oh no</u>
+<u n="1139" who="S0493" whoConfidence="low">no?</u>
+<u n="1140" who="S0605" whoConfidence="low"><unclear/></u>
+<u n="1141" who="S0666" trans="overlap" whoConfidence="low">no <unclear/> good Berlin to Roma</u>
+<u n="1142" who="S0493" whoConfidence="low">yeah? Berlin</u>
+<u n="1143" who="S0666" whoConfidence="low">Berlin</u>
+<u n="1144" who="S0493" whoConfidence="low"><unclear>Cairo</unclear></u>
+<u n="1145" who="S0666" whoConfidence="low">and Berlin so I did Berlin to Roma</u>
+<u n="1146" who="S0493" trans="overlap" whoConfidence="low">yeah how many?</u>
+<u n="1147" who="S0666" whoConfidence="low">erm six no nine sorry <pause dur="short"/> I did not do cos <unclear/> spoiled my game</u>
+<u n="1148" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="1149" who="S0493" trans="overlap" whoConfidence="low"><unclear>poor game</unclear></u>
+<u n="1150" who="S0666" whoConfidence="low">Copenhagen to er <unclear/></u>
+<u n="1151" who="S0493" whoConfidence="low">yeah</u>
+<u n="1152" who="S0666" whoConfidence="low">I did not complete</u>
+<u n="1153" who="S0493" trans="overlap" whoConfidence="low">how many's that?</u>
+<u n="1154" who="S0666" whoConfidence="low">twenty er I don't know</u>
+<u n="1155" who="S0493" whoConfidence="low"><unclear>oh you don't know</unclear></u>
+<u n="1156" who="S0666" trans="overlap" whoConfidence="low">but I was nearly there</u>
+<u n="1157" who="S0605" whoConfidence="low">nearly? yeah I know</u>
+<u n="1158" who="S0666" trans="overlap" whoConfidence="low">look I was nearly there like it's just two it's just those two</u>
+<u n="1159" who="S0493" whoConfidence="low">he did that on purpose though</u>
+<u n="1160" who="S0666" whoConfidence="low">he did it on purpose and then Barcelona to Brussels it took all the time so I didn't have time to do that bit cos I couldn't so I offered you that bit but you told me to do that bit <unclear/></u>
+<u n="1161" who="S0605" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="1162" who="S0493" trans="overlap" whoConfidence="low"><unclear>well that's erm well that's erm</unclear></u>
+<u n="1163" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="1164" who="S0493" trans="overlap" whoConfidence="low"><unclear/> any more to start with</u>
+<u n="1165" who="S0666" whoConfidence="low">I could've had eight</u>
+<u n="1166" who="S0493">but they didn't</u>
+<u n="1167" who="S0666" whoConfidence="low">I didn't</u>
+<u n="1168" who="S0493" whoConfidence="low">well</u>
+<u n="1169" who="S0666" whoConfidence="low"><vocal desc="sigh"/> oh</u>
+<u n="1170" who="S0493" whoConfidence="low">it's not you might not have come last</u>
+<u n="1171" who="S0666" whoConfidence="low">okay <unclear>I bet I have</unclear></u>
+<u n="1172" who="S0492">okay erm Stockholm to Vienna</u>
+<u n="1173" who="S0493" whoConfidence="low">mm</u>
+<u n="1174" who="S0492">eleven <pause dur="long"/> Zurich to Budapest six I didn't do Kiev to Sochi so minus eight er Warsaw to Smolensk I got for six Essen to Kiev for ten Brest to Petrograd for twenty <pause dur="short"/> and then Frankfurt to Copenhagen for five</u>
+<u n="1175" who="S0493" whoConfidence="low">okey-doke</u>
+<u n="1176" who="S0666" whoConfidence="low">mm</u>
+<u n="1177" who="S0493" whoConfidence="low">Brussels to Danzig <unclear>for my black</unclear> Brussels to Danzig nine</u>
+<u n="1178" who="UNKMALE" whoConfidence="low"><unclear>at the beach</unclear></u>
+<u n="1179" who="S0666" trans="overlap" whoConfidence="low"><unclear/> nine erm</u>
+<u n="1180" who="S0493" whoConfidence="low">Brest to Venice eight</u>
+<u n="1181" who="S0604" whoConfidence="low"><unclear/> to Danzig twenty</u>
+<u n="1182" who="S0492" whoConfidence="low">yeah</u>
+<u n="1183" who="S0604" whoConfidence="low">Amsterdam to Wilno twelve <pause dur="short"/> paris to Vienna eight</u>
+<u n="1184" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="1185" who="UNKMALE" whoConfidence="low">oh</u>
+<u n="1186" who="UNKMALE" whoConfidence="low">no <unclear/></u>
+<u n="1187" who="S0493" whoConfidence="low">London to Vienna ten one oh one</u>
+<u n="1188" who="S0666" whoConfidence="low">alright</u>
+<u n="1189" who="S0493" whoConfidence="low">London to Berlin seven</u>
+<u n="1190" who="S0492">oh</u>
+<u n="1191" who="S0493" whoConfidence="low">Paris to Zagreb seven</u>
+<u n="1192" who="UNKMALE" whoConfidence="low"><vocal desc="sigh"/></u>
+<u n="1193" who="S0493" whoConfidence="low">and then the longest trains as it wouldn't make a difference anyway <unclear>but you have it</unclear> you know the longest train goes in through the station</u>
+<u n="1194" who="S0492" whoConfidence="low">not me</u>
+<u n="1195" who="S0493" whoConfidence="low">goes in <unclear>two</unclear> stations</u>
+<u n="1196" who="S0666" whoConfidence="low">oh</u>
+<u n="1197" who="S0605" whoConfidence="low">does it?</u>
+<u n="1198" who="S0493" whoConfidence="low">one no one two six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen <unclear/> four <unclear>compared to</unclear> <unclear/> seven</u>
+<u n="1199" who="UNKMALE" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="1200" who="S0493" whoConfidence="low">no it's mine <unclear/> <pause dur="long"/> oh no they all <pause dur="short"/> <unclear>three points</unclear></u>
+<u n="1201" who="UNKMALE" whoConfidence="low"><vocal desc="sigh"/></u>
+<u n="1202" who="S0493" whoConfidence="low"><unclear>how we doing like?</unclear> how many? <pause dur="short"/> how many? <anon type="name" nameType="f"/>?</u>
+<u n="1203" who="S0492">me?</u>
+<u n="1204" who="S0493" whoConfidence="low">yeah</u>
+<u n="1205" who="S0492"><trunc>twe</trunc> I had er twenty-five</u>
+<u n="1206" who="UNKMULTI" whoConfidence="low">oh</u>
+<u n="1207" who="S0493" whoConfidence="low">look at all those extra <unclear/> points</u>
+<u n="1208" who="S0604" trans="overlap" whoConfidence="low">woah</u>
+<u n="1209" who="S0492">I just shouldn't've picked up the last one <pause dur="short"/> wouldn't've made a difference though</u>
+<u n="1210" who="S0493" whoConfidence="low"><unclear>points there</unclear></u>
+<u n="1211" who="S0604" whoConfidence="low">woah</u>
+<u n="1212" who="S0492" whoConfidence="low"><vocal desc="sigh"/> oh <vocal desc="sigh"/></u>
+<u n="1213" who="S0605">I hadn't realised how much they cost I'd never looked at the online game <unclear/></u>
+<u n="1214" who="S0493" whoConfidence="low"><unclear/> cost?</u>
+<u n="1215" who="UNKMALE" whoConfidence="low"><unclear>yeah</unclear></u>
+<u n="1216" who="S0605" whoConfidence="low">is it it's not didn't seem to be related to number of trains either <trunc>n</trunc> all of this</u>
+<u n="1217" who="S0493" whoConfidence="low">well the difficulty <unclear/> how many tunnels there are how popular it is et cetera</u>
+<u n="1218" who="S0492">yeah but some of them do seem to be like I guess they're referring like hotspots</u>
+<u n="1219" who="S0493" whoConfidence="low">yeah</u>
+<u n="1220" who="S0605">mm it's not <unclear>strict</unclear> the number of trains</u>
+<u n="1221" who="S0493" whoConfidence="low">no</u>
+<u n="1222" who="S0492">no don't think so you're right though no one would <unclear>take a flight</unclear> <unclear>in the different</unclear> areas</u>
+<u n="1223" who="S0493" trans="overlap" whoConfidence="low">mm think the numbers dropped quite a bit</u>
+<u n="1224" who="S0492"><unclear>I explained this</unclear> pretty much open and that in down there was all in there <pause dur="short"/> <unclear/> here</u>
+<u n="1225" who="S0604" whoConfidence="low">how many points have you got?</u>
+<u n="1226" who="S0493">huh?</u>
+<u n="1227" who="S0604" whoConfidence="low">how many points did you get?</u>
+<u n="1228" who="S0493">ninety-seven</u>
+<u n="1229" who="S0492">what's the <unclear>largest</unclear> you've ever gone?</u>
+<u n="1230" who="S0493">think you can get up to like early thirties you can get up here though</u>
+<u n="1231" who="S0492" trans="overlap"><unclear>oh right</unclear></u>
+<u n="1232" who="S0493">it's pretty <unclear>cool</unclear></u>
+<u n="1233" who="S0492" trans="overlap">yeah <pause dur="long"/> <unclear>oh dad that's on</unclear> <pause dur="long"/></u>
+<u n="1234" who="S0605" whoConfidence="low"><unclear/></u>
+<u n="1235" who="S0492" trans="overlap">oh sorry <pause dur="short"/> <unclear>does the station go</unclear> <unclear/>?</u>
+<u n="1236" who="UNKMALE" whoConfidence="low"><unclear>no</unclear> <unclear/> <pause dur="long"/></u>
+<u n="1237" who="S0492">I think that might be for cards</u>
+<u n="1238" who="UNKMALE" trans="overlap" whoConfidence="low"><unclear/> tomorrow <unclear>has it</unclear>?</u>
+<u n="1239" who="S0492">little bit bigger</u>
+<u n="1240" who="UNKMALE" whoConfidence="low">yeah yeah</u>
+<u n="1241" who="UNKMALE" trans="overlap" whoConfidence="low">think so yeah <unclear/></u>
+<u n="1242" who="S0666" trans="overlap">I think <anon type="name" nameType="f"/> mum and dad <unclear/> late-ish</u>
+<u n="1243" who="S0492">okay they might be coming a bit later like now I don't know what they're doing</u>
+<u n="1244" who="S0493" trans="overlap" whoConfidence="low"><unclear>no they're coming later no?</unclear></u>
+<u n="1245" who="S0492">but</u>
+<u n="1246" who="S0605" trans="overlap">did you talk to them? yeah</u>
+<u n="1247" who="S0492">no that's gonna be tomorrow <unclear/> that's really big must be that one there</u>
+<u n="1248" who="S0605" whoConfidence="low">that'll be for those</u>
+<u n="1249" who="S0492">and these are for cards</u>
+<u n="1250" who="S0492" whoConfidence="low"><unclear>dad</unclear> says <anon type="name" nameType="m"/> is not coming until the afternoon <pause dur="short"/> didn't you?</u>
+<u n="1251" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="1252" who="S0493" trans="overlap" whoConfidence="low"><unclear/> buy them then</u>
+<u n="1253" who="S0492">plenty of time to figure out the gas barbecue <vocal desc="laugh"/></u>
+<u n="1254" who="S0605" whoConfidence="low">no you honestly think we should do that?</u>
+<u n="1255" who="S0493" whoConfidence="low">gas? gas?</u>
+<u n="1256" who="S0604" whoConfidence="low">cooking with gas?</u>
+<u n="1257" who="S0492" trans="overlap">I know it's mad innit?</u>
+<u n="1258" who="S0604" whoConfidence="low">wood or coal</u>
+<u n="1259" who="S0605" trans="overlap" whoConfidence="low"><unclear/> meat</u>
+<u n="1260" who="S0492">what sorry?</u>
+<u n="1261" who="S0605" whoConfidence="low">I know that that's my point?</u>
+<u n="1262" who="S0604" trans="overlap" whoConfidence="low"><unclear>yeah</unclear> wood or coal?</u>
+<u n="1263" who="S0492">eh?</u>
+<u n="1264" who="S0493" whoConfidence="low">it's loads better than gas</u>
+<u n="1265" who="S0492">we haven't got that there's no there's no actual barbecue though</u>
+<u n="1266" who="S0604" trans="overlap" whoConfidence="low"><unclear>yeah dad's</unclear> <pause dur="short"/> make the barbecue</u>
+<u n="1267" who="S0492">alright you don't have to be</u>
+<u n="1268" who="S0604" whoConfidence="low">it's mad to use gas</u>
+<u n="1269" who="S0492">okay</u>
+<u n="1270" who="S0604" whoConfidence="low">mental</u>
+<u n="1271" who="S0666">well she brought us round the gas <unclear>stove</unclear></u>
+<u n="1272" who="S0492" trans="overlap">just saying that's the one she brought round</u>
+<u n="1273" who="S0605">yeah don't forget we've gotta clean it so we if we did a I know from the woods man's thing get a stick right split it and then stick the sausages in between the split and then set up a tripod system and do it do that</u>
+<u n="1274" who="S0604">that'll probably probably <unclear/></u>
+<u n="1275" who="S0493" trans="overlap">yes</u>
+<u n="1276" who="S0605" trans="overlap"><unclear>eh eh</unclear></u>
+<u n="1277" who="S0493">yes</u>
+<u n="1278" who="S0605">erm well okay then</u>
+<u n="1279" who="S0493"><unclear/> <unclear>we have to start stop playing then go</unclear></u>
+<u n="1280" who="S0492" trans="overlap">well thank god for the electric oven then</u>
+<u n="1281" who="S0604" trans="overlap" whoConfidence="low"><unclear/></u>
+	
+	</body>
+</text>

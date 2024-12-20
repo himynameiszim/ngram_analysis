@@ -1,0 +1,143 @@
+<text id="SEV9">
+	<header>
+		<rec_length>0:04:04</rec_length>
+		<rec_date>2014-09-09</rec_date>
+		<rec_year>2014</rec_year>
+		<rec_period>2014_Q3</rec_period>
+		<n_speakers>2</n_speakers>
+		<list_speakers>S0202 S0208</list_speakers>
+		<rec_loc>Home, Leeds</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Scary Films</topics>
+		<activity>Scary Films</activity>
+		<conv_type>Discussing</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0202">
+				<exactage>23</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Doncaster, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Yorkshire</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0208">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cambridge</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Cambridge</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>eastern_engl</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- advanced</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0202">after the scary film <pause dur="long"/> okay</u>
+<u n="2" who="S0208" trans="overlap">what's that noise?</u>
+<u n="3" who="S0202">the demon <vocal desc="laugh"/> is coming for you <pause dur="long"/></u>
+<u n="4" who="S0208"><event desc="unintelligible"/></u>
+<u n="5" who="S0202">well they do it every night come on and sit down it's only cos you've been watching a scary film that you're freaked out</u>
+<u n="6" who="S0208" trans="overlap">no I'm not I'm not scared I'm just wondering what's making them all bark like that in one go</u>
+<u n="7" who="S0202">cos one of them'll have barked and then it'll set all the other ones off</u>
+<u n="8" who="S0208" trans="overlap">and set all the other ones off yeah</u>
+<u n="9" who="S0202">yeah</u>
+<u n="10" who="UNKMALE" whoConfidence="low"><foreign lang="fre"/></u>
+<u n="11" who="S0208">they talk through the woods and the dogs to hear it and it'll set them off or like</u>
+<u n="12" who="S0202" trans="overlap">mm</u>
+<u n="13" who="S0208">cos you know that stray dog that I told you about the erm German Shepherd?</u>
+<u n="14" who="S0202">mm</u>
+<u n="15" who="S0208" trans="overlap">you know that dog? it's like that might have walked past and set them off it's stopped now <pause dur="long"/> but no that's erm <pause dur="short"/> I got so freaked out about my situation is cos it it all started happening after I watched this film</u>
+<u n="16" who="S0202">mm</u>
+<u n="17" who="S0208">well not all of it but it freaked me out a bit it was <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> that started it <pause dur="short"/> especially <anon type="name" nameType="m"/> cos he really believes in the <trunc>h</trunc> the amount of conversations that we've had into the early hours of the morning just talking and sharing experiences and stuff cos he's had weird stuff happen to him too like he really believes in it <pause dur="short"/> I just don't like it</u>
+<u n="18" who="S0202">see I have always wanted to like <pause dur="short"/> record my bedroom while I'm asleep but I'm too scared of seeing what would actually happen while I were asleep</u>
+<u n="19" who="S0208">I agree</u>
+<u n="20" who="S0202">do you know what I mean? like if you did what they've done and you've recorded everything that happened</u>
+<u n="21" who="UNKMALE" trans="overlap" whoConfidence="low">oh</u>
+<u n="22" who="S0208"><vocal desc="gasp"/></u>
+<u n="23" who="UNKMALE" whoConfidence="low"><foreign lang="fre"/></u>
+<u n="24" who="S0208" trans="overlap">shooting star oh</u>
+<u n="25" who="S0202">I missed it</u>
+<u n="26" who="S0208">oh babe</u>
+<u n="27" who="S0202">you fucking shit me up there like</u>
+<u n="28" who="S0208">oh I'm sorry</u>
+<u n="29" who="S0202"><vocal desc="laugh"/> what? oh my god cos you were like <vocal desc="laugh"/> you were like <vocal desc="gasp"/> and I were like oh my god what? <vocal desc="laugh"/></u>
+<u n="30" who="S0208">did you hear us?</u>
+<u n="31" who="S0202">I did</u>
+<u n="32" who="S0208">yeah I saw it oh it was beautiful <pause dur="short"/> erm</u>
+<u n="33" who="S0202"><vocal desc="laugh"/> you proper shit me up then fucking hell</u>
+<u n="34" who="S0208">I'm sorry it's just it was beautiful</u>
+<u n="35" who="S0202"><vocal desc="laugh"/></u>
+<u n="36" who="S0208"><vocal desc="laugh"/> sorry</u>
+<u n="37" who="S0202">my heart fell from my arse not even joking <vocal desc="laugh"/></u>
+<u n="38" who="S0208"><vocal desc="laugh"/> I'm so sorry</u>
+<u n="39" who="S0202">why do I always miss them? I haven't seen one yet</u>
+<u n="40" who="S0208">mm <pause dur="short"/> should keep your eyes on the skies</u>
+<u n="41" who="S0202">no it's boring</u>
+<u n="42" who="S0208"><vocal desc="laugh"/> but no I agree like ignorance is definitely bliss</u>
+<u n="43" who="S0202">yeah would you really wanna know what's going on in your bedroom when you were asleep?</u>
+<u n="44" who="S0208">uhu</u>
+<u n="45" who="S0202">and then seeing it and then it freaking you out and never sleeping again?</u>
+<u n="46" who="S0208">especially not with the weird stuff that's happened</u>
+<u n="47" who="S0202">some weird stuff has happened to me like most of it I don't even know if it's dreams or real but I don't want to know like</u>
+<u n="48" who="S0208">mm</u>
+<u n="49" who="S0202">if I think it's a dream that makes me happy because I think well it were a dream it's not real it never really happened</u>
+<u n="50" who="S0208">yeah</u>
+<u n="51" who="S0202">and so many times my granddad's come and talked to me at the end of my bed like I don't wanna know if that's real</u>
+<u n="52" who="S0208">that is weird though</u>
+<u n="53" who="S0202">like I don't I don't wanna know once when I were about twelve I er outside my bedroom there used to be like erm the loft <pause dur="short"/> so it it it had erm not been converted like your attic has</u>
+<u n="54" who="S0208">mm</u>
+<u n="55" who="S0202">and <trunc>th</trunc> it were a board that you pushed up and then you could pull ladders down or put ladders er up</u>
+<u n="56" who="S0208" trans="overlap">sorry I just wanna say do you mind talking a little bit quieter just the people in the <foreign lang="fre">gîte</foreign></u>
+<u n="57" who="S0202">no I don't mind</u>
+<u n="58" who="S0208">no that's okay</u>
+<u n="59" who="S0202">erm but yeah so erm <pause dur="short"/> it had not been converted or anything like that and there were like a just a door that you pushed up and moved and erm there were this there were black finger prints all over the board and like it used to freak me out all the time and I can remember having this one dream where I walked out and looked up and there were three kids like looking down at me</u>
+<u n="60" who="S0208">oh</u>
+<u n="61" who="S0202">through this thing and I don't know to this day whether it were a dream or it were real cos I were going to the toilet which were right next to the bedroom and <pause dur="short"/> and and even to this day I don't know if it were real or not <pause dur="long"/></u>
+<u n="62" who="S0208">that's creepy</u>
+<u n="63" who="S0202">mm</u>
+<u n="64" who="S0208">I'd rather just say it's a bad dream</u>
+<u n="65" who="S0202">mm</u>
+<u n="66" who="S0208">it's like earlier on I was trying to tell my dad and stuff like <pause dur="short"/> I could tell he wasn't really listening</u>
+<u n="67" who="S0202"><vocal desc="laugh"/></u>
+	
+	</body>
+</text>

@@ -1,0 +1,890 @@
+<text id="SB2H">
+	<header>
+		<rec_length>0:20:04</rec_length>
+		<rec_date>2016-05-23</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q2</rec_period>
+		<n_speakers>6</n_speakers>
+		<list_speakers>S0671 S0673 S0674 S0675 S0676 S0677</list_speakers>
+		<rec_loc>Coffee shop, Cryws Road, Wales</rec_loc>
+		<relationships>Friends, wider family circle</relationships>
+		<topics>Scrabble, University Work, Old people, Plane travel, Cooking and eating, Comedy Clubs, Scottish Accents, Children’s Books and a poem</topics>
+		<activity>Talking about cooking and work whilst also chatting about the tactics of and playing a game of scrabble.</activity>
+		<conv_type>Discussing, inquiring, anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T15</transcriber>
+		<speakerInfo>
+			<speaker id="S0671">
+				<exactage>21</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Nottingham</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>RP/ English</dialect_rep>
+				<hab_city>Cardiff</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>18 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>french -- conversational; German -- conversational</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0673">
+				<exactage>21</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Suffolk</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>None indicated</dialect_rep>
+				<hab_city>Cardiff</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>1 year 9 months</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- AS</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0674">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Exeter</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>None indicated</dialect_rep>
+				<hab_city>Cullompton</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>19 years</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Chef</occupation>
+				<socgrade>C2</socgrade>
+				<nssec>5</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0675">
+				<exactage>20</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace></birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Posh but with farmer undertones</dialect_rep>
+				<hab_city>Cardiff</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>1 year 9 months</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- A-level</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0676">
+				<exactage>21</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Sussex</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>None indicated</dialect_rep>
+				<hab_city>Cardiff</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>1 year 9 months</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0677">
+				<exactage>21</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Wales</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh</dialect_rep>
+				<hab_city>Cardiff</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>2 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0675"><vocal desc="laugh"/> do you know what time it starts? <pause dur="short"/> or started?</u>
+<u n="2" who="S0673">think it's <trunc>w</trunc> when did it start?</u>
+<u n="3" who="S0676">twenty to</u>
+<u n="4" who="S0673">eight</u>
+<u n="5" who="S0675">oops</u>
+<u n="6" who="UNKMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="7" who="S0675">where is it?</u>
+<u n="8" who="S0673">don't know</u>
+<u n="9" who="S0675">erm</u>
+<u n="10" who="S0671">right let's see if we can get a word</u>
+<u n="11" who="S0675" trans="overlap"><trunc>sun</trunc> mm <vocal desc="laugh"/></u>
+<u n="12" who="S0671">erm</u>
+<u n="13" who="S0675">oh my god can you think of words beginning with T H? this <trunc>slb</trunc> mm ah this is making an interesting game</u>
+<u n="14" who="S0671">okay here we go I've gotta start in the middle haven't I?</u>
+<u n="15" who="S0675" trans="overlap">go on then you start us off what we starting on? erm</u>
+<u n="16" who="S0673">would you mind if I <unclear>throw some lemon juice in this here</unclear>?</u>
+<u n="17" who="S0675">yeah er</u>
+<u n="18" who="S0671" trans="overlap"><unclear/> I'll just see erm er</u>
+<u n="19" who="S0673" whoConfidence="low">thanks darling</u>
+<u n="20" who="S0671">okay what we going for? tap tappay tap tap</u>
+<u n="21" who="S0675">tape tape</u>
+<u n="22" who="S0671">tappee tappee <vocal desc="laugh"/></u>
+<u n="23" who="S0676" trans="overlap" whoConfidence="low"><vocal desc="laugh"/> oh dear</u>
+<u n="24" who="S0671">tarpy</u>
+<u n="25" who="S0675"><unclear>for <anon type="name" nameType="f"/>'s return</unclear> okay</u>
+<u n="26" who="S0671">this is alright that's alright isn't it?</u>
+<u n="27" who="S0673">is it me or you? which way are we going round?</u>
+<u n="28" who="S0671">are we just holding our scores in our head are we?</u>
+<u n="29" who="S0673">oh no let's write on there</u>
+<u n="30" who="S0671" trans="overlap">er oh no erm mm er</u>
+<u n="31" who="S0673" trans="overlap">paper paper</u>
+<u n="32" who="S0671">mm</u>
+<u n="33" who="S0673">I've got some here</u>
+<u n="34" who="S0671">okay</u>
+<u n="35" who="S0673"><unclear/> <unclear>to do an original thing</unclear> oh</u>
+<u n="36" who="S0675">in between I shall read you objects <unclear/></u>
+<u n="37" who="S0671" trans="overlap">oh yeah <unclear/></u>
+<u n="38" who="S0673">I think you should score you're good at writing</u>
+<u n="39" who="S0671">I don't have any <unclear>exams</unclear> so</u>
+<u n="40" who="S0673"><vocal desc="laugh"/> you could practise mental exercise</u>
+<u n="41" who="S0675" trans="overlap"><unclear/></u>
+<u n="42" who="S0671">keep my brain in order</u>
+<u n="43" who="S0673">there's a calculator somewhere if you need it</u>
+<u n="44" who="S0671">ugh</u>
+<u n="45" who="S0673"><vocal desc="laugh"/></u>
+<u n="46" who="S0675"><anon type="name" nameType="m"/>? the world's oldest person says the trick to her longevity is two raw eggs a day</u>
+<u n="47" who="S0673">oh</u>
+<u n="48" who="S0671">oh yeah but what's she look like?</u>
+<u n="49" who="S0675"><vocal desc="laugh"/></u>
+<u n="50" who="S0673"><vocal desc="laugh"/></u>
+<u n="51" who="S0675">well give her a chance she's a hundred and sixteen</u>
+<u n="52" who="UNKMALE" trans="overlap" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="53" who="S0675">also having only milk for dinner</u>
+<u n="54" who="S0673">crone?</u>
+<u n="55" who="UNKMALE" whoConfidence="low">oh man</u>
+<u n="56" who="S0676" whoConfidence="low">yeah crone yeah nice</u>
+<u n="57" who="S0675">crony</u>
+<u n="58" who="S0671">what have we here? double word score three four five six seven</u>
+<u n="59" who="S0676" whoConfidence="low">yeah very nice very nice</u>
+<u n="60" who="S0673" trans="overlap">woohoo <unclear/></u>
+<u n="61" who="S0671">fourteen</u>
+<u n="62" who="UNKMALE" whoConfidence="low">mm</u>
+<u n="63" who="S0671">that's fourteen yeah?</u>
+<u n="64" who="S0675">erm slum mm okay right mm er <shift new="singing"/> <unclear/> <shift new="normal"/> erm mm <vocal desc="misc"/> <pause dur="long"/> can't have too many long silences or they'll er <vocal desc="laugh"/></u>
+<u n="65" who="S0671">oh yeah they'll get you dead</u>
+<u n="66" who="S0675" trans="overlap">won't get anything for it will we? <vocal desc="laugh"/></u>
+<u n="67" who="S0671"><vocal desc="laugh"/></u>
+<u n="68" who="S0675">or more like we'll kind of get halfway through it and just be like you gonna record like five minutes and then just like turn it off <vocal desc="laugh"/> but like we'll just record you know nothing for like</u>
+<u n="69" who="UNKMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="70" who="S0675">for like a while</u>
+<u n="71" who="UNKMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="72" who="S0675">er yeah</u>
+<u n="73" who="S0671">mm you've gotta contemplate out loud haven't we really?</u>
+<u n="74" who="S0675">yeah I'm just trying to work out how I can go first <unclear/> but</u>
+<u n="75" who="S0673">if I</u>
+<u n="76" who="S0675">I've got the wrong letters</u>
+<u n="77" who="S0673">if I'm putting crème fraiche in this</u>
+<u n="78" who="S0675">yeah</u>
+<u n="79" who="S0673">can you reheat it?</u>
+<u n="80" who="S0675">yeah</u>
+<u n="81" who="S0673">yeah? it'll be alright won't it?</u>
+<u n="82" who="S0675">yeah</u>
+<u n="83" who="S0673">stupid <anon type="name" nameType="m"/> going to his meeting</u>
+<u n="84" who="S0675"><vocal desc="misc"/> aw</u>
+<u n="85" who="S0673">making my life difficult</u>
+<u n="86" who="S0671">have you won the whole crème fraiche or chips battle? er</u>
+<u n="87" who="S0673">yeah I definitely won that <vocal desc="laugh"/></u>
+<u n="88" who="S0671">yeah <vocal desc="laugh"/> <trunc>s</trunc> I <vocal desc="laugh"/></u>
+<u n="89" who="S0673">obviously <vocal desc="laugh"/> <pause dur="short"/> erm</u>
+<u n="90" who="UNKMALE" whoConfidence="low">mm</u>
+<u n="91" who="S0675">oh what if I did this? er <trunc>s</trunc> the slum <pause dur="short"/> if I put tapes and then</u>
+<u n="92" who="S0671">do you get all those letters now?</u>
+<u n="93" who="S0675">yeah</u>
+<u n="94" who="S0671">good work in there</u>
+<u n="95" who="S0675">and slids</u>
+<u n="96" who="S0673" trans="overlap">have you ever played Upwords?</u>
+<u n="97" who="S0675">ah doesn't quite make it what sorry?</u>
+<u n="98" who="S0673">have you ever played Upwords?</u>
+<u n="99" who="S0675">oh is that where you layer them?</u>
+<u n="100" who="S0673">yeah</u>
+<u n="101" who="S0675">yeah I played that once</u>
+<u n="102" who="S0673" trans="overlap">I really like that game</u>
+<u n="103" who="S0671">that's quite cool</u>
+<u n="104" who="S0675">erm</u>
+<u n="105" who="S0673">it makes everyone's scoring very tactical</u>
+<u n="106" who="S0675"><unclear/></u>
+<u n="107" who="S0671" trans="overlap">okay yeah yeah</u>
+<u n="108" who="S0675">oh <trunc>sh</trunc></u>
+<u n="109" who="S0671">a bit like our tennis today our tennis today was very <trunc>te</trunc> it was good</u>
+<u n="110" who="S0675">erm</u>
+<u n="111" who="S0671">well in my mind it was</u>
+<u n="112" who="S0673" trans="overlap">who won?</u>
+<u n="113" who="S0675"><anon type="name" nameType="m"/></u>
+<u n="114" who="S0671"><vocal desc="laugh"/> yay</u>
+<u n="115" who="S0673">of course</u>
+<u n="116" who="S0675">yeah <vocal desc="laugh"/></u>
+<u n="117" who="S0673"><vocal desc="laugh"/> by much?</u>
+<u n="118" who="S0675">erm</u>
+<u n="119" who="S0671" trans="overlap">by three balls in the river</u>
+<u n="120" who="S0675">er no I I I got I got three balls in the river</u>
+<u n="121" who="S0673" trans="overlap"><vocal desc="laugh"/></u>
+<u n="122" who="S0671"><vocal desc="laugh"/></u>
+<u n="123" who="S0675">two of I managed to get a dog to fish out for me and then the other one I had to lie on my tummy and use a tennis racket so I got a bit muddy</u>
+<u n="124" who="S0673" trans="overlap">did you get it?</u>
+<u n="125" who="S0675">erm yeah</u>
+<u n="126" who="S0673"><unclear>well great</unclear></u>
+<u n="127" who="S0675" trans="overlap">erm sorry I'm gonna go on</u>
+<u n="128" who="S0671" trans="overlap">that's alright mate</u>
+<u n="129" who="S0675">oh oh I'll just I'll just come up with <trunc>j</trunc> right this is brilliant oh yeah I just wanna kiss myself</u>
+<u n="130" who="S0671">nice oh</u>
+<u n="131" who="S0675">oh <vocal desc="misc"/></u>
+<u n="132" who="S0671">that is a such a good word</u>
+<u n="133" who="S0675" trans="overlap">ah <vocal desc="misc"/> yes <unclear>okay so</unclear></u>
+<u n="134" who="S0671" trans="overlap">seven eight nine</u>
+<u n="135" who="S0675" trans="overlap">okay <unclear/> three seven</u>
+<u n="136" who="S0671" trans="overlap">ten eleven twelve thirteen so it's</u>
+<u n="137" who="S0675">eight nine</u>
+<u n="138" who="S0671">twenty-six</u>
+<u n="139" who="S0675">ten eleven twelve</u>
+<u n="140" who="S0673" trans="overlap">oh twenty-six?</u>
+<u n="141" who="S0675">thirteen twenty-six yeah <pause dur="short"/> oh yes that was like that was like when a serve went in or like like a good good forehand or something <vocal desc="misc"/></u>
+<u n="142" who="S0673">similar levels of exhilaration</u>
+<u n="143" who="S0675">yes</u>
+<u n="144" who="S0671">yeah <vocal desc="laugh"/></u>
+<u n="145" who="S0675">like when I put down that word <unclear>for jammer</unclear> I got a like sixty</u>
+<u n="146" who="S0673">that's <unclear>good for you</unclear></u>
+<u n="147" who="S0675">whatever it was well it was kind of marred by the fact that she got the points and I didn't</u>
+<u n="148" who="S0673"><vocal desc="laugh"/> slightly disappointing <vocal desc="laugh"/></u>
+<u n="149" who="S0675">yeah</u>
+<u n="150" who="S0671">do we need to pick up some now?</u>
+<u n="151" who="S0675">erm well <vocal desc="laugh"/> yeah you need a seven oh sorry yeah I've hidden the letters</u>
+<u n="152" who="S0673" trans="overlap"><unclear/>?</u>
+<u n="153" who="S0675">I don't know where did we put the letters? oh right they're here they're here</u>
+<u n="154" who="S0673"><vocal desc="laugh"/></u>
+<u n="155" who="S0675"><vocal desc="laugh"/></u>
+<u n="156" who="S0673"><unclear/></u>
+<u n="157" who="S0671">letters pray</u>
+<u n="158" who="S0675"><vocal desc="misc"/> <vocal desc="laugh"/></u>
+<u n="159" who="S0671">one two three four</u>
+<u n="160" who="S0675">funny</u>
+<u n="161" who="S0671">five <vocal desc="laugh"/> six</u>
+<u n="162" who="S0675">oh mate the cricket banter on your chat was brilliant</u>
+<u n="163" who="S0671">brutal wasn't it? I can't believe I got named Legoland</u>
+<u n="164" who="S0675"><vocal desc="laugh"/> what was that? what was the <unclear/>?</u>
+<u n="165" who="S0671" trans="overlap">well because someone said erm someone said <anon type="name" nameType="m"/>'s got more blocks than Legoland <unclear>and is batty</unclear></u>
+<u n="166" who="S0675"><vocal desc="laugh"/> I no my favourite one</u>
+<u n="167" who="S0671" trans="overlap">before they'd even seen that</u>
+<u n="168" who="S0675" trans="overlap">my favourite one was he's got more misses than erm Henry the Eighth</u>
+<u n="169" who="S0671">yeah <vocal desc="laugh"/></u>
+<u n="170" who="S0673"><vocal desc="laugh"/></u>
+<u n="171" who="S0671">or he's? he's got more spin than the Brexit Leave campaign it was like <vocal desc="laugh"/></u>
+<u n="172" who="S0675" trans="overlap"><unclear>no seriously</unclear> <vocal desc="laugh"/> <pause dur="short"/> they were really really good</u>
+<u n="173" who="S0671" trans="overlap"><vocal desc="laugh"/></u>
+<u n="174" who="S0675">why? <vocal desc="laugh"/> yeah Legoland? I was just like is it cos he looks kinda yellow like a yellow yellow Legoland kinda person or <vocal desc="laugh"/>?</u>
+<u n="175" who="S0671" trans="overlap"><vocal desc="laugh"/></u>
+<u n="176" who="S0675">no no idea of</u>
+<u n="177" who="S0673" trans="overlap"><unclear>you look like</unclear> a character</u>
+<u n="178" who="S0675">no idea of the relevance <pause dur="short"/> four five six seven</u>
+<u n="179" who="S0673">did <anon type="name" nameType="m"/> play?</u>
+<u n="180" who="S0675">er what?</u>
+<u n="181" who="S0673">today or not?</u>
+<u n="182" who="S0675">oh er no he's on it</u>
+<u n="183" who="S0671">sorry</u>
+<u n="184" who="S0673">no no it's fine that's good cos I'm still cooking</u>
+<u n="185" who="S0671">yeah</u>
+<u n="186" who="S0675" trans="overlap">on it like a car bonnet one two three four five six seven whoa I've got some fun letters they look like some kind of Russian word though lots of Vs and</u>
+<u n="187" who="S0677" trans="overlap" whoConfidence="low">hiya</u>
+<u n="188" who="S0673" whoConfidence="low"><unclear>hi</unclear></u>
+<u n="189" who="S0677">you alright</u>
+<u n="190" who="S0675">hey</u>
+<u n="191" who="S0677">so I just replied er I'm waiting for them to email my booking confirmation</u>
+<u n="192" who="S0671" trans="overlap">hey <anon type="name" nameType="f"/></u>
+<u n="193" who="S0673" whoConfidence="low"><unclear/></u>
+<u n="194" who="S0675" trans="overlap"><anon type="name" nameType="m"/>'s here <pause dur="short"/> hey <anon type="name" nameType="f"/></u>
+<u n="195" who="S0671">sorry mate?</u>
+<u n="196" who="S0677" whoConfidence="low">that is so annoying</u>
+<u n="197" who="S0675" trans="overlap">you've booked a flight</u>
+<u n="198" who="S0677">erm I'm waiting for them to send me the booking reference but they haven't and I'm just like okay <vocal desc="laugh"/> cos I've paid for it it's all gone through so</u>
+<u n="199" who="S0671" trans="overlap">when's it for?</u>
+<u n="200" who="S0675">yeah but well you've probably booked it's probably been like ten minutes</u>
+<u n="201" who="S0677">it's been like twenty</u>
+<u n="202" who="S0675">just to give you a heads up right we're recording <vocal desc="laugh"/> a conversation</u>
+<u n="203" who="S0671">oh yeah hi <anon type="name" nameType="m"/></u>
+<u n="204" who="S0675">because then <anon type="name" nameType="m"/> sends it off and they like give you money because they wanna analyse people's thoughts</u>
+<u n="205" who="S0671" trans="overlap">so er now you're part of the conversation so sorry</u>
+<u n="206" who="S0675" trans="overlap">now you're part of it so you have to fill in a little form</u>
+<u n="207" who="S0677" trans="overlap">oh</u>
+<u n="208" who="S0671">sorry should've warned you unless we just scrap the recording?</u>
+<u n="209" who="S0675" trans="overlap">it's fine no no no no we've got like a good like twenty minutes if we keep scrapping it then we're gonna <vocal desc="laugh"/></u>
+<u n="210" who="S0677" trans="overlap">no it's oh right no it's fine</u>
+<u n="211" who="S0671">yeah</u>
+<u n="212" who="S0675">wait does it have to be one continuous conversation?</u>
+<u n="213" who="S0677" trans="overlap">I just wanna tell you where I'm flying to on my secret mission</u>
+<u n="214" who="S0673">where are you flying?</u>
+<u n="215" who="S0671">where are you flying?</u>
+<u n="216" who="S0675" trans="overlap">oh to Brazil</u>
+<u n="217" who="S0677" trans="overlap">I can't tell you</u>
+<u n="218" who="S0677" whoConfidence="low"><vocal desc="gasp"/></u>
+<u n="219" who="S0675">Brazil you don't have to go anywhere you can stay here</u>
+<u n="220" who="S0677" trans="overlap">can I steal some chocolate?</u>
+<u n="221" who="S0675">er yeah</u>
+<u n="222" who="S0671" trans="overlap">yeah make stay stay and make it interesting</u>
+<u n="223" who="S0677" trans="overlap">this one's <trunc>your</trunc> is it yours? whose is it?</u>
+<u n="224" who="S0671">yeah it's mine</u>
+<u n="225" who="S0677">is it <trunc>a</trunc>? oh it's yours</u>
+<u n="226" who="S0675" trans="overlap">does it matter</u>
+<u n="227" who="S0677">oh if it was <anon type="name" nameType="m"/>'s I would've just taken it but <unclear/></u>
+<u n="228" who="S0671" trans="overlap">no it's definitely his <unclear/></u>
+<u n="229" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="230" who="S0671">erm</u>
+<u n="231" who="S0673" whoConfidence="low">okay I'll just go and get them</u>
+<u n="232" who="S0677" whoConfidence="low">may I have some letters please?</u>
+<u n="233" who="S0675">er lettuce?</u>
+<u n="234" who="S0677" whoConfidence="low">some letters</u>
+<u n="235" who="S0675">letters</u>
+<u n="236" who="S0677" whoConfidence="low">or letters</u>
+<u n="237" who="S0673" whoConfidence="low">letters</u>
+<u n="238" who="S0675"><unclear>that one's mine</unclear></u>
+<u n="239" who="S0676" trans="overlap">are we allowed products?</u>
+<u n="240" who="S0677" whoConfidence="low">what's what's <unclear/>? what do they get from it?</u>
+<u n="241" who="S0675" trans="overlap">allowed what sorry?</u>
+<u n="242" who="S0673" trans="overlap" whoConfidence="low">what do you mean?</u>
+<u n="243" who="S0671" trans="overlap">erm it's for the British National Corpus</u>
+<u n="244" who="S0677" whoConfidence="low">what's that mean?</u>
+<u n="245" who="S0671">so erm</u>
+<u n="246" who="S0675"><unclear/> analyse the way you think</u>
+<u n="247" who="S0671">so they like if someone wants to do research</u>
+<u n="248" who="S0677" trans="overlap" whoConfidence="low">oh right right</u>
+<u n="249" who="S0671">they search the corpus for like the words they're looking for do like say if they're doing research on elderly</u>
+<u n="250" who="S0675" trans="overlap">that was J</u>
+<u n="251" who="S0677" whoConfidence="low">mm?</u>
+<u n="252" who="S0671">elderly people they'd like search the corpus for elderly and see like what people are talking about in terms of elderly people in the UK</u>
+<u n="253" who="S0677" whoConfidence="low"><unclear>wow</unclear></u>
+<u n="254" who="S0671">so if someone keep if everyone's saying elderly people are fat</u>
+<u n="255" who="S0677" trans="overlap" whoConfidence="low">so if they search gradually they'll just find someone erm talk about <unclear>what the elderly</unclear></u>
+<u n="256" who="S0675">the amount of conversation they must have that's people explaining to other people the purpose of the conversation</u>
+<u n="257" who="S0671" trans="overlap">yeah it's like like yeah</u>
+<u n="258" who="S0677" trans="overlap" whoConfidence="low">so if you type in <trunc>cor</trunc> what's it called? the corpus?</u>
+<u n="259" who="S0671" trans="overlap">yeah <trunc>BNC</trunc> the British National Corpus yeah they <unclear/></u>
+<u n="260" who="S0677" trans="overlap" whoConfidence="low">oh yeah all it'll be is</u>
+<u n="261" who="S0671"><vocal desc="laugh"/></u>
+<u n="262" who="S0677" whoConfidence="low">what is the corpus? and then someone who's saying it</u>
+<u n="263" who="S0671" trans="overlap"><vocal desc="laugh"/></u>
+<u n="264" who="S0675">hopefully if the recording goes on for long enough we'll come up with some other interesting stuff to talk about</u>
+<u n="265" who="S0677" trans="overlap" whoConfidence="low"><unclear>probably</unclear></u>
+<u n="266" who="S0671">yeah</u>
+<u n="267" who="S0677" whoConfidence="low">you won't you're not very interesting</u>
+<u n="268" who="S0673" trans="overlap" whoConfidence="low">oh it's my go ah <unclear>what's</unclear> the question?</u>
+<u n="269" who="S0671" trans="overlap">woah erm who are you flying with <anon type="name" nameType="f"/>?</u>
+<u n="270" who="S0675">what's with the chatting?</u>
+<u n="271" who="S0673">which flight was it you were booking?</u>
+<u n="272" who="S0671">yeah</u>
+<u n="273" who="S0677">that was the erm <unclear>sofa not mine</unclear></u>
+<u n="274" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="275" who="S0675">sure</u>
+<u n="276" who="S0671"><unclear/> just <unclear/></u>
+<u n="277" who="S0675" trans="overlap"><unclear/></u>
+<u n="278" who="S0671"><unclear/> eighteen nineteen</u>
+<u n="279" who="S0675">mm those sausages smell yummy</u>
+<u n="280" who="S0677" whoConfidence="low">mm yum</u>
+<u n="281" who="S0675">mm</u>
+<u n="282" who="S0673">there's quite a bit more in that pan I'm quite hungry so I might just eat it</u>
+<u n="283" who="S0675"><vocal desc="laugh"/></u>
+<u n="284" who="S0677" trans="overlap">where's <anon type="name" nameType="m"/>?</u>
+<u n="285" who="S0675"><vocal desc="laugh"/> he's literally we were like <trunc>n</trunc> <unclear/> midway through the conversation he went oh my god I've gotta be at a meeting in minus ten minutes and <vocal desc="laugh"/> ran out the room <vocal desc="laugh"/></u>
+<u n="286" who="S0677">oh fair enough</u>
+<u n="287" who="S0675">yeah</u>
+<u n="288" who="S0673" trans="overlap">as I was like halfway through cooking us dinner</u>
+<u n="289" who="S0677">erm so I'll have his dinner</u>
+<u n="290" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="291" who="S0677" whoConfidence="low">alright</u>
+<u n="292" who="S0675">have some food</u>
+<u n="293" who="S0677" whoConfidence="low">I've eaten today</u>
+<u n="294" who="S0675">er</u>
+<u n="295" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="296" who="UNKMALE" whoConfidence="low">having cheese does not count as a meal</u>
+<u n="297" who="S0673" trans="overlap">you've not eaten dinner though</u>
+<u n="298" who="S0677" trans="overlap">yeah I have eaten I've properly eaten</u>
+<u n="299" who="S0675">what? really?</u>
+<u n="300" who="S0677">yeah</u>
+<u n="301" who="S0673">what have you eaten?</u>
+<u n="302" who="S0675" trans="overlap">what have you eaten? chow mein?</u>
+<u n="303" who="S0677" trans="overlap">I had breakfast lunch and dinner <vocal desc="laugh"/></u>
+<u n="304" who="S0673">what did you have for those meals?</u>
+<u n="305" who="S0671"><vocal desc="laugh"/></u>
+<u n="306" who="S0675">come on own up</u>
+<u n="307" who="S0677" trans="overlap">so I had granola for breakfast</u>
+<u n="308" who="S0675">okay</u>
+<u n="309" who="S0671">good start</u>
+<u n="310" who="S0677" trans="overlap">and a Boots Meal Deal for lunch</u>
+<u n="311" who="S0673">erm okay</u>
+<u n="312" who="S0677">and er <trunc>s</trunc></u>
+<u n="313" who="S0675">salad?</u>
+<u n="314" who="S0677"><unclear>something</unclear> like</u>
+<u n="315" who="S0675">ham and cheese then? <vocal desc="laugh"/> <unclear/></u>
+<u n="316" who="S0677" trans="overlap">no no I didn't I had erm</u>
+<u n="317" who="S0675">yeah I saw you eating it don't try and deny it</u>
+<u n="318" who="S0677" trans="overlap">that was a they're just snacks</u>
+<u n="319" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="320" who="S0675" trans="overlap">so you've had breakfast lunch and dinner and snacks</u>
+<u n="321" who="S0671" trans="overlap">peaks so when <anon type="name" nameType="f"/> where <anon type="name" nameType="f"/> laughs the peaks are just like psh psh</u>
+<u n="322" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="323" who="S0677" trans="overlap">do you know I had cannelloni spinach and ricotta cannelloni</u>
+<u n="324" who="UNKMALE" trans="overlap" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="325" who="S0675" trans="overlap"><unclear/> you're a shrinker</u>
+<u n="326" who="S0677" trans="overlap"><unclear>you got sweeties here</unclear></u>
+<u n="327" who="S0673" trans="overlap"><unclear>oh yeah</unclear></u>
+<u n="328" who="UNKMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="329" who="S0677" trans="overlap">you were going like <unclear/></u>
+<u n="330" who="S0675" trans="overlap">a can of a can of who?</u>
+<u n="331" who="S0677"><vocal desc="laugh"/> can of who spinach and ricotta cannelloni</u>
+<u n="332" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="333" who="S0675">spinach and ricotta cannelloni?</u>
+<u n="334" who="S0677">yeah that's a thing</u>
+<u n="335" who="S0675"><unclear/></u>
+<u n="336" who="S0671">calzone?</u>
+<u n="337" who="S0673" whoConfidence="low">that's yum</u>
+<u n="338" who="S0677" trans="overlap" whoConfidence="low"><unclear/> cannelloni</u>
+<u n="339" who="S0673" whoConfidence="low">it's really yummy</u>
+<u n="340" who="S0677" whoConfidence="low">it's like a</u>
+<u n="341" who="S0671" trans="overlap">is it like tortellini?</u>
+<u n="342" who="S0677" whoConfidence="low"><vocal desc="laugh"/> no</u>
+<u n="343" who="S0675">is he a footballer?</u>
+<u n="344" who="S0677" trans="overlap">so it's like a like a</u>
+<u n="345" who="S0671" trans="overlap"><vocal desc="laugh"/></u>
+<u n="346" who="S0673" trans="overlap">it's pasta <unclear>man</unclear> <vocal desc="laugh"/></u>
+<u n="347" who="S0677">yeah it's like a pasta but it's basically like lasagne sheets but it's like rolled and they're like tubes</u>
+<u n="348" who="S0671" trans="overlap">Francesco Totti</u>
+<u n="349" who="S0673">they're really yummy</u>
+<u n="350" who="S0675" trans="overlap">where's mine? didn't tell me about this?</u>
+<u n="351" who="S0673" trans="overlap" whoConfidence="low">where's yours? erm <unclear/></u>
+<u n="352" who="S0675">yeah that's the deal isn't it? chocolate for posh Italian pasta?</u>
+<u n="353" who="S0677" trans="overlap" whoConfidence="low">well for cannelloni</u>
+<u n="354" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="355" who="UNKFEMALE" whoConfidence="low"><unclear>yeah no I like this</unclear></u>
+<u n="356" who="S0675"><vocal desc="laugh"/></u>
+<u n="357" who="S0677">yeah just <unclear/></u>
+<u n="358" who="S0675" trans="overlap"><unclear/></u>
+<u n="359" who="S0673">erm</u>
+<u n="360" who="S0677">yeah you're a bit fucked aren't you?</u>
+<u n="361" who="S0673" trans="overlap">think of a word</u>
+<u n="362" who="S0677">I'd've put <unclear/></u>
+<u n="363" who="S0675" trans="overlap"><unclear/></u>
+<u n="364" who="S0671">erm</u>
+<u n="365" who="S0675"><unclear>I only want interesting letters</unclear> get you more points</u>
+<u n="366" who="S0671" trans="overlap"><unclear/></u>
+<u n="367" who="S0673">okay</u>
+<u n="368" who="S0677">what like is crone?</u>
+<u n="369" who="S0675">erm an old crone like a hag</u>
+<u n="370" who="S0671">elderly crone</u>
+<u n="371" who="S0673" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="372" who="S0675">yeah like geriatric</u>
+<u n="373" who="S0677" trans="overlap" whoConfidence="low">like an old hag</u>
+<u n="374" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="375" who="S0673" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="376" who="S0675" trans="overlap">huh? <unclear/></u>
+<u n="377" who="S0673" trans="overlap">I love how it went from a hag to a geriatric</u>
+<u n="378" who="S0675"><vocal desc="laugh"/></u>
+<u n="379" who="S0673">suddenly got your</u>
+<u n="380" who="S0675">I was trying to get something like related to what <anon type="name" nameType="f"/> you know</u>
+<u n="381" who="S0673">understands?</u>
+<u n="382" who="S0675" trans="overlap">erm <anon type="name" nameType="f"/> thinks medical <vocal desc="laugh"/> so I <trunc>d</trunc> <vocal desc="laugh"/> what's the medical term for a crone?</u>
+<u n="383" who="S0671">aged</u>
+<u n="384" who="S0677" whoConfidence="low">crone <unclear>moans</unclear> yeah</u>
+<u n="385" who="S0673" whoConfidence="low">erm</u>
+<u n="386" who="S0671">crones <vocal desc="laugh"/></u>
+<u n="387" who="S0677" whoConfidence="low">no <vocal desc="laugh"/></u>
+<u n="388" who="S0675">crony is <trunc>i</trunc> <trunc>ha</trunc> is crony double E?</u>
+<u n="389" who="S0677" trans="overlap" whoConfidence="low">I <unclear>would think</unclear> so many of these <trunc>m</trunc>medical conditions from <unclear>Google</unclear></u>
+<u n="390" who="S0671" trans="overlap">think it might be actually so <unclear/> words innit?</u>
+<u n="391" who="S0677" trans="overlap" whoConfidence="low"><unclear/> can you add to someone else's word?</u>
+<u n="392" who="S0673" whoConfidence="low">yeah</u>
+<u n="393" who="S0675">erm you can add one letter and then</u>
+<u n="394" who="S0677" trans="overlap" whoConfidence="low">is that it?</u>
+<u n="395" who="S0675">build off it</u>
+<u n="396" who="S0677" whoConfidence="low">could you go like</u>
+<u n="397" who="S0673" trans="overlap" whoConfidence="low">oh yeah</u>
+<u n="398" who="S0677" whoConfidence="low">like say you had a G O N could you make jargon off jar?</u>
+<u n="399" who="S0675" trans="overlap">yes but I haven't got an N it had occurred to me sadly</u>
+<u n="400" who="S0677">oh sorry it has already occurred to you</u>
+<u n="401" who="S0675" trans="overlap"><vocal desc="laugh"/></u>
+<u n="402" who="S0673" trans="overlap">yes you could do that</u>
+<u n="403" who="S0671">could you have jargonised?</u>
+<u n="404" who="S0675" trans="overlap">erm sorry er</u>
+<u n="405" who="S0671">if you were feeling ambitious</u>
+<u n="406" who="S0677" trans="overlap" whoConfidence="low">it was really rubbish but it was like seven <unclear/></u>
+<u n="407" who="S0671" trans="overlap">oh sorry seven yeah?</u>
+<u n="408" who="S0675" trans="overlap">er no er</u>
+<u n="409" who="S0677" trans="overlap" whoConfidence="low">yeah</u>
+<u n="410" who="S0673" whoConfidence="low">I was really struggling</u>
+<u n="411" who="S0675">it's odd</u>
+<u n="412" who="S0677" whoConfidence="low">he's not got great letters has he?</u>
+<u n="413" who="S0675">I wanna use the <trunc>tr</trunc> <vocal desc="laugh"/> <trunc>s</trunc></u>
+<u n="414" who="S0673" trans="overlap" whoConfidence="low">no</u>
+<u n="415" who="S0677" whoConfidence="low">is that the only letters you have? where are the letter <unclear>buckets</unclear>?</u>
+<u n="416" who="S0673" trans="overlap" whoConfidence="low">I'll pick some more up in a minute</u>
+<u n="417" who="S0675">good</u>
+<u n="418" who="S0673" whoConfidence="low"><anon type="name" nameType="m"/>'s busy</u>
+<u n="419" who="S0675"><vocal desc="misc"/> oh yeah sorry erm</u>
+<u n="420" who="S0673">want an egg?</u>
+<u n="421" who="S0677">no egg</u>
+<u n="422" who="S0671"><unclear>stick them all</unclear> here and we can just play with the letters we've got</u>
+<u n="423" who="S0673" trans="overlap" whoConfidence="low">these these yeah</u>
+<u n="424" who="S0675">er</u>
+<u n="425" who="S0671" trans="overlap">two three four five six</u>
+<u n="426" who="S0675" trans="overlap"><vocal desc="misc"/> that's not working okay</u>
+<u n="427" who="S0671" trans="overlap">how's er how's your work going?</u>
+<u n="428" who="S0673" whoConfidence="low">er <unclear>boring</unclear></u>
+<u n="429" who="S0677" trans="overlap" whoConfidence="low">have you had a productive day?</u>
+<u n="430" who="S0673" whoConfidence="low">erm I was in the library today yeah but from like ten till five</u>
+<u n="431" who="S0677" whoConfidence="low"><unclear>nice</unclear></u>
+<u n="432" who="S0671">nice</u>
+<u n="433" who="S0677" whoConfidence="low"><unclear>a lot of time</unclear></u>
+<u n="434" who="S0673" whoConfidence="low">but I dunno I didn't get done what I wanted to get done I always set myself like really unrealistic <trunc>gil</trunc>goals and I'm like oh yeah I can do all the</u>
+<u n="435" who="S0675" trans="overlap">gills?</u>
+<u n="436" who="S0673" whoConfidence="low">gills</u>
+<u n="437" who="S0677" whoConfidence="low">gills</u>
+<u n="438" who="S0676" whoConfidence="low">gills</u>
+<u n="439" who="S0673" trans="overlap"><trunc>real</trunc>unrealistic gills and I couldn't do them all cos there's too many</u>
+<u n="440" who="S0675" trans="overlap">yeah</u>
+<u n="441" who="S0673" whoConfidence="low">so</u>
+<u n="442" who="S0677" whoConfidence="low">fair enough</u>
+<u n="443" who="S0673" whoConfidence="low">then I get really depressed like I do this every time I'm like I'll set like <unclear>like</unclear></u>
+<u n="444" who="S0675" trans="overlap">it was like when you were writing the words <unclear>depression in the</unclear> <unclear/> <vocal desc="laugh"/></u>
+<u n="445" who="S0673" whoConfidence="low">yeah</u>
+<u n="446" who="S0677" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="447" who="S0675">ah</u>
+<u n="448" who="S0673" whoConfidence="low">oh</u>
+<u n="449" who="S0675">you got the sack</u>
+<u n="450" who="S0671" trans="overlap">it's probably good though cos you're like stretching yourself I guess</u>
+<u n="451" who="S0673" whoConfidence="low">mm</u>
+<u n="452" who="S0675"><vocal desc="misc"/></u>
+<u n="453" who="S0673" whoConfidence="low">I'd much rather aim high and then not do that as well as I'd hoped than aim low and then like go <unclear/> because</u>
+<u n="454" who="S0671">aim for perfection settle for excellence</u>
+<u n="455" who="S0673" trans="overlap" whoConfidence="low"><unclear>I'm like</unclear> <pause dur="short"/> yeah basically than like aim for like average and then kind of just be like okay</u>
+<u n="456" who="S0671" trans="overlap">aim for excellence and settle for yeah yeah</u>
+<u n="457" who="S0673" whoConfidence="low">you know? yeah</u>
+<u n="458" who="S0671">yeah</u>
+<u n="459" who="S0673" whoConfidence="low"><unclear/></u>
+<u n="460" who="S0671">I know what you mean yeah</u>
+<u n="461" who="S0675"><vocal desc="misc"/></u>
+<u n="462" who="S0671">it's good to set goals at least as well</u>
+<u n="463" who="S0673" trans="overlap" whoConfidence="low">oh got one my go can I have a go?</u>
+<u n="464" who="S0675">no no I'm <trunc>t</trunc> <unclear>honant</unclear></u>
+<u n="465" who="S0673" trans="overlap" whoConfidence="low"><anon type="name" nameType="m"/> you're screwed there is nothing you can make from that</u>
+<u n="466" who="S0675" trans="overlap">shh yeah of course there is I'm a genius</u>
+<u n="467" who="S0673" trans="overlap" whoConfidence="low">okay and I only got seven</u>
+<u n="468" who="S0677" whoConfidence="low">he really can't like he's got <unclear/></u>
+<u n="469" who="S0675" trans="overlap">the problem the problem is I've got my eyes set on the high scoring bits and I could just need to put something anywhere that</u>
+<u n="470" who="S0673" trans="overlap">I know that's the problem isn't it?</u>
+<u n="471" who="S0675">erm</u>
+<u n="472" who="S0677" trans="overlap">well you could make jars</u>
+<u n="473" who="S0675"><trunc>s</trunc> <vocal desc="laugh"/></u>
+<u n="474" who="S0677">or tape</u>
+<u n="475" who="S0675">shh</u>
+<u n="476" who="S0677">or lists</u>
+<u n="477" who="S0675">sss spag spog spig spam spom</u>
+<u n="478" who="S0671">spin</u>
+<u n="479" who="S0675"><vocal desc="laugh"/> gomps <vocal desc="laugh"/></u>
+<u n="480" who="S0671">is that a word? <vocal desc="laugh"/></u>
+<u n="481" who="S0675">er</u>
+<u n="482" who="S0673">I don't think so</u>
+<u n="483" who="S0675"><unclear>no erm</unclear></u>
+<u n="484" who="S0671">shall we ask the corpus?</u>
+<u n="485" who="S0673" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="486" who="S0677" whoConfidence="low">do goo cos that's what you are</u>
+<u n="487" who="S0671" trans="overlap">someone's <vocal desc="laugh"/> someone's doing their research on scomps and they're like yes</u>
+<u n="488" who="S0673" trans="overlap"><unclear/></u>
+<u n="489" who="S0675" trans="overlap"><unclear/></u>
+<u n="490" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="491" who="S0675"><unclear/> <unclear>on their own</unclear></u>
+<u n="492" who="S0677">er <unclear/> I can see</u>
+<u n="493" who="S0673" trans="overlap">I got <unclear/></u>
+<u n="494" who="S0671" trans="overlap">yes <vocal desc="laugh"/></u>
+<u n="495" who="S0675" trans="overlap"><vocal desc="laugh"/></u>
+<u n="496" who="S0671">playing you off <unclear>and that was the end of you</unclear> <vocal desc="laugh"/></u>
+<u n="497" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="498" who="S0675">erm er <trunc>d</trunc> erm oh that looks right erm</u>
+<u n="499" who="S0671">that's alright yeah</u>
+<u n="500" who="S0677" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="501" who="S0671">I'm having a wee bit of difficulty <unclear>miss enough</unclear> to be completely honest with you</u>
+<u n="502" who="S0677" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="503" who="S0675">they're get on the recording they're gonna go who the fuck is that? <vocal desc="laugh"/></u>
+<u n="504" who="S0677" trans="overlap" whoConfidence="low">who? who's oh this Scottish person's just walked in hey <anon type="name" nameType="m"/>?</u>
+<u n="505" who="S0671"><unclear>I do feel like</unclear> I'm simple</u>
+<u n="506" who="S0677" trans="overlap" whoConfidence="low">what's a Scottish person say?</u>
+<u n="507" who="S0675" trans="overlap">you sound like that guy oh who</u>
+<u n="508" who="S0673" trans="overlap" whoConfidence="low">oh</u>
+<u n="509" who="S0675">you were were you at the comedy club with us? I can't remember</u>
+<u n="510" who="S0671">no I wasn't there</u>
+<u n="511" who="S0675">like oh there was the the last comedian</u>
+<u n="512" who="S0671" trans="overlap">I was there in spirit</u>
+<u n="513" who="S0675">the erm the the final comedian sounded a little bit like that actually</u>
+<u n="514" who="S0671">what? Scottish?</u>
+<u n="515" who="S0675">yeah</u>
+<u n="516" who="S0671">okay</u>
+<u n="517" who="S0675">but just like your accent</u>
+<u n="518" who="S0677" trans="overlap" whoConfidence="low">oh yeah he was quite funny I liked him but <unclear/></u>
+<u n="519" who="S0673" trans="overlap" whoConfidence="low">he was funny</u>
+<u n="520" who="S0675" trans="overlap">I <trunc>d</trunc> sorry <foreign lang="ger">sprechen Sie Englisch?</foreign> <vocal desc="laugh"/> not yawn <vocal desc="laugh"/></u>
+<u n="521" who="S0677" trans="overlap" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="522" who="S0675" trans="overlap">oh yeah I love that guy <unclear/></u>
+<u n="523" who="S0677" trans="overlap" whoConfidence="low">the Irish guy who was really weird</u>
+<u n="524" who="S0671" trans="overlap"><unclear>your</unclear> <vocal desc="laugh"/></u>
+<u n="525" who="S0675" trans="overlap">sound like the Animal off The Muppets</u>
+<u n="526" who="S0673" trans="overlap" whoConfidence="low">sorry erm who's taking half an hour to do one Scrabble bit? just saying</u>
+<u n="527" who="S0675" trans="overlap">I'm sorry it's really difficult</u>
+<u n="528" who="S0673" whoConfidence="low">it's really really difficult</u>
+<u n="529" who="S0675">erm er hold on hold on okay okay okay last okay I'm just</u>
+<u n="530" who="S0673" trans="overlap" whoConfidence="low">you can angriness I can't remember his name</u>
+<u n="531" who="S0677" whoConfidence="low">the what? the Irish comedian?</u>
+<u n="532" who="S0675"><unclear/></u>
+<u n="533" who="S0673" whoConfidence="low">oh yeah he was <unclear>so funny</unclear></u>
+<u n="534" who="S0677" trans="overlap" whoConfidence="low">he was <unclear>fat</unclear> very camp</u>
+<u n="535" who="S0675">yeah?</u>
+<u n="536" who="S0673" whoConfidence="low">very camp but very good</u>
+<u n="537" who="S0677" trans="overlap" whoConfidence="low">very gay but played on it</u>
+<u n="538" who="S0673" whoConfidence="low">yeah and it was brilliant</u>
+<u n="539" who="S0671" trans="overlap">okay <trunc>g</trunc>great a bit like erm <trunc>an</trunc> oh no like Jack Whitehall isn't gay is he?</u>
+<u n="540" who="S0673" whoConfidence="low">no but that kind of <unclear>look</unclear></u>
+<u n="541" who="S0677" trans="overlap" whoConfidence="low">Alan Carr's gay</u>
+<u n="542" who="S0671">kind of like</u>
+<u n="543" who="S0675">mm</u>
+<u n="544" who="S0677" whoConfidence="low">yeah</u>
+<u n="545" who="S0673" whoConfidence="low">he was brillo <unclear/> on the stage</u>
+<u n="546" who="S0677" trans="overlap" whoConfidence="low">he was <unclear>jumping</unclear></u>
+<u n="547" who="S0671">really? <vocal desc="laugh"/></u>
+<u n="548" who="S0677" whoConfidence="low">he never stopped talking so much energy</u>
+<u n="549" who="S0673" whoConfidence="low">yeah</u>
+<u n="550" who="S0677" whoConfidence="low">he was really funny</u>
+<u n="551" who="S0673" whoConfidence="low">he was really good</u>
+<u n="552" who="S0677" trans="overlap" whoConfidence="low">he did a good job of it</u>
+<u n="553" who="S0673" whoConfidence="low">I wanna go there again like that was really funny that was such a good night</u>
+<u n="554" who="S0677" whoConfidence="low">it was a really good night</u>
+<u n="555" who="S0671">are there places to go out like near there? <unclear/></u>
+<u n="556" who="S0675" trans="overlap">sog is a word isn't it?</u>
+<u n="557" who="S0673" whoConfidence="low">sog</u>
+<u n="558" who="S0675">eat your <unclear>mussel</unclear> and potato sog</u>
+<u n="559" who="S0673" whoConfidence="low">no</u>
+<u n="560" who="S0675">it's a line from a book</u>
+<u n="561" who="S0673" whoConfidence="low">never heard of it</u>
+<u n="562" who="S0675" trans="overlap">which which means it's a word in my mind</u>
+<u n="563" who="S0673" whoConfidence="low">no you're just cheating</u>
+<u n="564" who="S0671">do you know which book it's from?</u>
+<u n="565" who="S0675" trans="overlap">crones and sog</u>
+<u n="566" who="S0673" whoConfidence="low">crones? what are crones?</u>
+<u n="567" who="S0675">Crohn's disease</u>
+<u n="568" who="S0673" whoConfidence="low">no it's a got a H in it you're spelling it wrong</u>
+<u n="569" who="S0675" trans="overlap">well I'm going with the original crone multiple</u>
+<u n="570" who="S0673" whoConfidence="low">multiple crones?</u>
+<u n="571" who="S0675" trans="overlap">multiple old people</u>
+<u n="572" who="S0673" whoConfidence="low">multiple hags <vocal desc="laugh"/></u>
+<u n="573" who="S0675">er three four five six seven eight</u>
+<u n="574" who="S0677" trans="overlap" whoConfidence="low">you're making up words I couldn't play this I'd get too annoyed</u>
+<u n="575" who="S0675">one two three four five six</u>
+<u n="576" who="S0677" trans="overlap" whoConfidence="low">I struggle with English enough as it is erm makes fourteen</u>
+<u n="577" who="S0675">okay please</u>
+<u n="578" who="S0671">oh sorry sorry sorry what?</u>
+<u n="579" who="S0677" whoConfidence="low">fourteen</u>
+<u n="580" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="581" who="S0677" whoConfidence="low">you're too nice for this <unclear/></u>
+<u n="582" who="S0675" trans="overlap">spaced out over there</u>
+<u n="583" who="S0677" trans="overlap" whoConfidence="low">this poor sog with Crohn's disease</u>
+<u n="584" who="S0675" trans="overlap">er <vocal desc="laugh"/></u>
+<u n="585" who="S0675">getting the chimmery done oh it was it wasn't Mrs Armitage it was like a kids' book erm</u>
+<u n="586" who="S0673" whoConfidence="low">I've read lots of kids' books</u>
+<u n="587" who="S0677" whoConfidence="low">I have read lots of kids' books</u>
+<u n="588" who="S0675" trans="overlap">yes</u>
+<u n="589" who="S0673" whoConfidence="low">but I wouldn't've memorised lines from them</u>
+<u n="590" who="S0675">and</u>
+<u n="591" who="S0677" whoConfidence="low">no</u>
+<u n="592" who="S0675">no there was this particular like</u>
+<u n="593" who="S0677" trans="overlap" whoConfidence="low">he's just making things up</u>
+<u n="594" who="S0675" trans="overlap">she was a crone she was an old horrible and she'd eat your mushroom and potato sog</u>
+<u n="595" who="S0677" trans="overlap" whoConfidence="low">oh yeah <pause dur="short"/> yeah <pause dur="short"/> well you know oh well there was a book that I read in my childhood and vkubu was a word too so</u>
+<u n="596" who="S0673" trans="overlap" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="597" who="S0675">um <trunc>sh</trunc> <trunc>k</trunc> shut up alright like it it is a word and</u>
+<u n="598" who="S0677" trans="overlap" whoConfidence="low"><unclear>no oh</unclear></u>
+<u n="599" who="S0675">Jabberwocky</u>
+<u n="600" who="S0677" trans="overlap" whoConfidence="low"><unclear>The Savoy</unclear></u>
+<u n="601" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="602" who="S0677" whoConfidence="low">my favourite childhood book was called <unclear>The Savoy</unclear></u>
+<u n="603" who="S0673" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="604" who="S0675" trans="overlap">I thought that I thought that was a kind of wine actually erm</u>
+<u n="605" who="S0671">Jabberwocky</u>
+<event desc="sound of hands tapping"/>
+<u n="606" who="S0675">if you can get that on the board I will</u>
+<u n="607" who="S0671" trans="overlap">sorry</u>
+<u n="608" who="S0677" whoConfidence="low">I'd be very impressed</u>
+<u n="609" who="S0673" whoConfidence="low">I'd be very impressed</u>
+<u n="610" who="S0675" trans="overlap">pay</u>
+<u n="611" who="S0671">well <trunc>j</trunc><trunc>j</trunc><trunc>j</trunc> sorry erm where are the other letters?</u>
+<u n="612" who="S0673" trans="overlap" whoConfidence="low">if you can get Jabberwocky <anon type="name" nameType="m"/> has to</u>
+<u n="613" who="S0675" trans="overlap">I have to recite it</u>
+<u n="614" who="S0673" whoConfidence="low">no you have you have to learn it word for word</u>
+<u n="615" who="S0675" trans="overlap">it's the only poem it's the only poem I know</u>
+<u n="616" who="S0673" trans="overlap" whoConfidence="low">and stick it naked on <unclear>they hay</unclear></u>
+<u n="617" who="S0675">'twas brillig and the slithy toves did gyre and gimble in the wabe</u>
+<u n="618" who="S0671" trans="overlap"><unclear/> <vocal desc="laugh"/></u>
+<u n="619" who="S0675">where's all where the <unclear>merchandise</unclear> gone?</u>
+<u n="620" who="S0673" whoConfidence="low">oh I've got it</u>
+<u n="621" who="S0677" trans="overlap">oh I've got it</u>
+<u n="622" who="S0673" whoConfidence="low">right here</u>
+<u n="623" who="S0671">oh I want</u>
+<u n="624" who="S0673" trans="overlap" whoConfidence="low"><unclear/> from me but I thought I'd have it <unclear/></u>
+<u n="625" who="S0675" trans="overlap"><unclear>together</unclear></u>
+<u n="626" who="S0671" trans="overlap">I want to get acacia in there</u>
+<u n="627" who="S0675" trans="overlap">oh acacia oh that's possible isn't it?</u>
+<u n="628" who="S0671" trans="overlap">as in acacia wood</u>
+<u n="629" who="S0675" trans="overlap">A C</u>
+<u n="630" who="S0675">A C</u>
+<u n="631" who="S0677" trans="overlap">oh god you guys make up words so <unclear>bad</unclear></u>
+<u n="632" who="S0671">four five six</u>
+<u n="633" who="S0675">just cos you don't know the words</u>
+<u n="634" who="S0673" trans="overlap" whoConfidence="low">like <unclear/></u>
+<u n="635" who="S0677" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="636" who="S0673" whoConfidence="low">is oh sorry okay but crones is definitely made up</u>
+<u n="637" who="S0671">acacia is</u>
+<u n="638" who="S0675">oh my god no <unclear>connects</unclear> <vocal desc="laugh"/></u>
+<u n="639" who="S0671">I'm so sorry guys hey come on this game should be easy</u>
+<u n="640" who="S0673">oh wow yeah that's worse than mine <vocal desc="laugh"/></u>
+<u n="641" who="S0671">oh my days</u>
+<u n="642" who="S0677" trans="overlap">you can get you can get box <pause dur="short"/> on the O</u>
+<u n="643" who="S0675">I'm gonna be doing that really to be honest <vocal desc="laugh"/></u>
+<u n="644" who="S0677" trans="overlap">yeah cos there's such a there's <unclear/> letter there</u>
+<u n="645" who="S0673" trans="overlap">took some effort though you'll be alright</u>
+<u n="646" who="S0671"><vocal desc="laugh"/></u>
+<u n="647" who="S0677"><unclear>yeah but like having a</unclear> three</u>
+<u n="648" who="S0671"><unclear/> <vocal desc="laugh"/></u>
+<u n="649" who="S0673" whoConfidence="low">oh <anon type="name" nameType="m"/> that's where I wanted to go</u>
+<u n="650" who="S0671">sorry it was the only place I could go</u>
+<u n="651" who="S0675" trans="overlap"><unclear/> one more one more poor</u>
+<u n="652" who="S0677" whoConfidence="low">you could do raid paid laid said</u>
+<u n="653" who="S0675">hold on hold on hold on</u>
+<u n="654" who="S0671" trans="overlap"><vocal desc="laugh"/></u>
+<u n="655" who="S0677" whoConfidence="low">as in said it works but <vocal desc="laugh"/></u>
+<u n="656" who="S0675" trans="overlap"><vocal desc="laugh"/></u>
+<u n="657" who="S0677" whoConfidence="low">just going on like same line</u>
+<u n="658" who="S0675"><vocal desc="laugh"/></u>
+<u n="659" who="S0673" whoConfidence="low">said oh yeah <vocal desc="laugh"/></u>
+<u n="660" who="S0671" trans="overlap">yeah anyway</u>
+<u n="661" who="S0677" whoConfidence="low">English language is so weird</u>
+<u n="662" who="S0674" trans="overlap">have you seen the thing where they say?</u>
+<u n="663" who="S0671" trans="overlap">are we still erm? hold on</u>
+<u n="664" who="S0674" trans="overlap">they go I used to love erm</u>
+<u n="665" who="S0677" trans="overlap" whoConfidence="low">hey</u>
+<u n="666" who="S0671">sorry</u>
+<u n="667" who="S0674">the Horrid Henry books cos I remember like a real friend doesn't mind whether you spelt said S A I D or S E D</u>
+<u n="668" who="S0673" trans="overlap" whoConfidence="low"><unclear>said</unclear> that's okay go ahead</u>
+<u n="669" who="S0671" trans="overlap">it's in the spirit of erm</u>
+<u n="670" who="S0677" whoConfidence="low">nice</u>
+<u n="671" who="UNKMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="672" who="S0674">that's how I spell it</u>
+<u n="673" who="S0671"><unclear>four</unclear> triple word do I get that as well?</u>
+<u n="674" who="S0677" whoConfidence="low">nice</u>
+<u n="675" who="S0675">oh damn it you've just scored loads of points <vocal desc="laugh"/></u>
+<u n="676" who="S0677" trans="overlap" whoConfidence="low">yeah</u>
+<u n="677" who="S0671" trans="overlap">four five six</u>
+<u n="678" who="S0675" trans="overlap">why did we encourage him? <vocal desc="laugh"/></u>
+<u n="679" who="S0677" trans="overlap" whoConfidence="low">oh do you get that? I don't know</u>
+<u n="680" who="S0675">what?</u>
+<u n="681" who="S0671">do I get the? I don't get the points in the double S do I?</u>
+<u n="682" who="S0675">no</u>
+<u n="683" who="S0674" trans="overlap">no cos it's already been</u>
+<u n="684" who="S0673" trans="overlap" whoConfidence="low">that's already down</u>
+<u n="685" who="S0677" whoConfidence="low">no</u>
+<u n="686" who="S0675"><vocal desc="misc"/></u>
+<u n="687" who="S0671" trans="overlap">one two three four</u>
+<u n="688" who="S0675">still get four five six seven eight <unclear/></u>
+<u n="689" who="S0673" whoConfidence="low">oh no I was going there</u>
+<u n="690" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="691" who="S0675">oh well we should've just let him have his measly eight and got him like four <vocal desc="laugh"/></u>
+<u n="692" who="S0671" trans="overlap">six seven eight</u>
+<u n="693" who="S0673" whoConfidence="low">it wouldn't've helped me <vocal desc="laugh"/></u>
+<u n="694" who="S0675">cos you could've gone there <vocal desc="laugh"/></u>
+<u n="695" who="S0674">have you seen the thing where they like what does Y E S spell? and they say yes and they say what does E Y E S spell?</u>
+<u n="696" who="S0677">and then everyone goes e-yes e-yes and it's just eyes</u>
+<u n="697" who="S0674" trans="overlap">yeah <vocal desc="laugh"/> but everyone fucks it up</u>
+<u n="698" who="S0677">they're like</u>
+<u n="699" who="S0673" trans="overlap">really?</u>
+<u n="700" who="S0677">e-yes</u>
+<u n="701" who="S0674" trans="overlap">yeah so e-yes that isn't a word it's like it is <vocal desc="laugh"/></u>
+<u n="702" who="S0675" trans="overlap">E Y E S yes eyes</u>
+<u n="703" who="S0677">yes and they're like e-yes e-yes e-yes and you like write it out and they're like oh</u>
+<u n="704" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="705" who="S0677">I probably shouldn't've said it we definitely could've caught <anon type="name" nameType="m"/></u>
+<u n="706" who="S0675" trans="overlap">so eye</u>
+<u n="707" who="S0674">yeah</u>
+<u n="708" who="S0675">I'm far too quick-witted</u>
+<u n="709" who="UNKFEMALE" trans="overlap" whoConfidence="low"><unclear/></u>
+	
+	</body>
+</text>

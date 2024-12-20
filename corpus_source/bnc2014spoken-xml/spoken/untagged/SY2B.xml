@@ -1,0 +1,1738 @@
+<text id="SY2B">
+	<header>
+		<rec_length>1:00:28</rec_length>
+		<rec_date>2014-10-26</rec_date>
+		<rec_year>2014</rec_year>
+		<rec_period>2014_Q4</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0266 S0268 S0311 S0312 S0313</list_speakers>
+		<rec_loc>ANON's home</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Code of dress at work; the walk and lunch in the pub beforehand; clocks going back; price of candles; early morning deliveries; parking and traffic jam problems to/from place of work; food bought in Lidl; Jamie Oliver’s 15 minute meals; a new jumper from Zara; the warmth of the room; sharing round mini-muffins; beards; Metrology department at work; slide rules; Halloween</topics>
+		<activity>Chat while playing cards</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, advising</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T18</transcriber>
+		<speakerInfo>
+			<speaker id="S0266">
+				<exactage>62</exactage>
+				<age1994>60plus</age1994>
+				<agerange>60_69</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Almondsbury, Gloucestershire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>neutral</dialect_rep>
+				<hab_city>Dursley</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>25</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Retired EFL teacher</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0268">
+				<exactage>67</exactage>
+				<age1994>60plus</age1994>
+				<agerange>60_69</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Ramsgate</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Dursley</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>7</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Retired teacher</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls>Arabic -- Beginner</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0311">
+				<exactage>30</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Bristol</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>neutral</dialect_rep>
+				<hab_city>Bristol</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>6 years</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Customer business manager</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Greek -- level unspecified; Mandarin -- level unspecified; Spanish -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0312">
+				<exactage>32</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Coventry</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>Scotland</lingorig>
+				<dialect_rep>Fife</dialect_rep>
+				<hab_city>Bristol</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>7 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>scotland</dialect_l2>
+				<dialect_l3>scotland</dialect_l3>
+				<dialect_l4>scotland</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Senior design engineer</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0313">
+				<exactage>27</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Bristol</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>English</dialect_rep>
+				<hab_city>Surrey</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>National account manager</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>Italian -- level unspecified; Spanish -- level unspecified; Greek -- level unspecified; French -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0266">whose turn is it?</u>
+<u n="2" who="S0311" trans="overlap">right whose go is it? mum it's your go <pause dur="short"/></u>
+<u n="3" who="S0266">right I can hardly reach the cards but there you go</u>
+<u n="4" who="S0311" trans="overlap">sorry I'll move them over</u>
+<u n="5" who="S0266">erm okay</u>
+<u n="6" who="S0311">right six of hearts</u>
+<u n="7" who="S0268">whose go is it?</u>
+<u n="8" who="S0312">it's mine</u>
+<u n="9" who="S0311">so who's winning cards?</u>
+<u n="10" who="S0313">I am</u>
+<u n="11" who="S0266">you're winning aren't you?</u>
+<u n="12" who="S0311" trans="overlap"><anon type="name" nameType="f"/> is on zero and how many did I get oh sixty-two rubbish</u>
+<u n="13" who="S0313"><vocal desc="laugh"/></u>
+<u n="14" who="S0268">whose go is it?</u>
+<u n="15" who="S0266"><anon type="name" nameType="m"/>'s go he's going</u>
+<u n="16" who="S0313">oh he's barking in his sleep</u>
+<u n="17" who="S0268" trans="overlap">right</u>
+<u n="18" who="S0266">thank you <anon type="name" nameType="m"/></u>
+<u n="19" who="S0313">mum he's barking in his sleep</u>
+<u n="20" who="S0266">he's barking in his sleep cos he had a good walk</u>
+<u n="21" who="S0313" trans="overlap">look</u>
+<u n="22" who="S0266"><anon type="name" nameType="m"/>'s erm <anon type="name" nameType="m"/>'s dreaming? <anon type="name" nameType="m"/>'s dreaming start barking again in a minute right <anon type="name" nameType="f"/> it's your go</u>
+<u n="23" who="S0313">thanks <anon type="name" nameType="f"/> going to throw out this eight of clubs? do you want that <anon type="name" nameType="m"/>?</u>
+<u n="24" who="S0268">you probably know very well that I don't</u>
+<u n="25" who="S0311">oh <anon type="name" nameType="m"/>'s after it stop cheating <anon type="name" nameType="m"/></u>
+<u n="26" who="S0312">definitely not I just like them in neat piles</u>
+<u n="27" who="S0311">mm</u>
+<u n="28" who="S0268">mm</u>
+<u n="29" who="S0313">so <anon type="name" nameType="m"/> are you looking forward to your week at work?</u>
+<u n="30" who="S0312">yep</u>
+<u n="31" who="S0313">got a busy week?</u>
+<u n="32" who="S0312">yeah fairly busy actually</u>
+<u n="33" who="S0313">really?</u>
+<u n="34" who="S0312">crazy busy</u>
+<u n="35" who="S0311">have you got lots of meetings?</u>
+<u n="36" who="S0312">probably many meetings yeah</u>
+<u n="37" who="S0313">will you wear a suit to your meetings?</u>
+<u n="38" who="S0312">no I'll be <trunc>cas</trunc></u>
+<u n="39" who="S0313"><trunc>casu</trunc></u>
+<u n="40" who="S0268">mm</u>
+<u n="41" who="S0311">does everyone wear suits or is it casual?</u>
+<u n="42" who="S0312" trans="overlap">no it's all cas'</u>
+<u n="43" who="S0311">is it?</u>
+<u n="44" who="S0312">yeah</u>
+<u n="45" who="S0311">throughout the business? or just in your department?</u>
+<u n="46" who="S0312">in the whole business</u>
+<u n="47" who="S0311">really?</u>
+<u n="48" who="S0312">mm doesn't believe in that</u>
+<u n="49" who="S0311" trans="overlap">what does the <unclear/>?</u>
+<u n="50" who="S0312">doesn't believe in it?</u>
+<u n="51" who="S0311">really?</u>
+<u n="52" who="S0312">yeah</u>
+<u n="53" who="S0313">never wears a suit even when he's meeting really important clients?</u>
+<u n="54" who="S0312" trans="overlap">never wears a suit no he's an eccentric he doesn't like that</u>
+<u n="55" who="S0313">mm</u>
+<u n="56" who="S0313"><vocal desc="misc"/></u>
+<u n="57" who="S0268">mm</u>
+<u n="58" who="S0313" trans="overlap">see where things like flip flops</u>
+<u n="59" who="S0268" trans="overlap">some companies are like that</u>
+<u n="60" who="S0313">pardon?</u>
+<u n="61" who="S0268">some companies are like that</u>
+<u n="62" who="S0311">mm</u>
+<u n="63" who="S0313">is <anon type="place"/> like that?</u>
+<u n="64" who="S0268">yeah</u>
+<u n="65" who="S0313"><vocal desc="laugh"/></u>
+<u n="66" who="S0268">yeah</u>
+<u n="67" who="S0311">they wear their pyjamas to work</u>
+<u n="68" who="S0268">PJs</u>
+<u n="69" who="S0313"><vocal desc="laugh"/></u>
+<u n="70" who="S0311">I still have my <anon type="place"/> t-shirt</u>
+<u n="71" who="S0268">well yeah I have to have that back soon</u>
+<u n="72" who="S0313">what is <anon type="place"/>? should we be buying them? <vocal desc="laugh"/></u>
+<u n="73" who="S0311">mm right your go</u>
+<u n="74" who="S0313">I don't want that card</u>
+<u n="75" who="S0266">I do</u>
+<u n="76" who="S0313">bet you do</u>
+<u n="77" who="S0268">too late</u>
+<u n="78" who="S0311">such a lovely lunch in that pub very good <anon type="name" nameType="m"/> was raving about the eh curry</u>
+<u n="79" who="S0266">but he didn't eat all of it</u>
+<u n="80" who="S0311">yeah but it was quite a big portion it was huge</u>
+<u n="81" who="S0313">I didn't think it was that big for <anon type="name" nameType="m"/></u>
+<u n="82" who="S0311">well he's not a pig</u>
+<u n="83" who="S0313">no but it didn't look like it was a huge amount</u>
+<u n="84" who="S0311">well it was a whole platter?</u>
+<u n="85" who="S0313">oh was it?</u>
+<u n="86" who="S0311"><unclear/></u>
+<u n="87" who="S0266">was your?</u>
+<u n="88" who="S0312" trans="overlap">mm yeah <unclear/></u>
+<u n="89" who="S0313">whose go is it?</u>
+<u n="90" who="S0312">eh not mine it's <anon type="name" nameType="m"/>'s</u>
+<u n="91" who="S0268">I'm in the middle of my go</u>
+<u n="92" who="S0266">holding up holding up play</u>
+<u n="93" who="S0313"><vocal desc="laugh"/></u>
+<u n="94" who="S0268">slightly</u>
+<u n="95" who="S0312">what happens if you put down a <unclear/></u>
+<u n="96" who="S0266" trans="overlap">come on <anon type="name" nameType="m"/></u>
+<u n="97" who="S0311">you get minus twenty-five points</u>
+<u n="98" who="S0313">so it's a game of risk really it's whether you want to play strategically or risk it</u>
+<u n="99" who="S0312" trans="overlap">mm</u>
+<u n="100" who="S0311">however yeah but however as you saw in my last <unclear/></u>
+<u n="101" who="S0268" trans="overlap"><unclear/></u>
+<u n="102" who="S0313" trans="overlap">what score are you on? eight</u>
+<u n="103" who="S0311">however there</u>
+<u n="104" who="S0313" trans="overlap">you could probably play it strategically for a while</u>
+<u n="105" who="S0311">but on my last go you saw that I couldn't play anything so I had to shift as many high cards as possible</u>
+<u n="106" who="S0312" trans="overlap">mm <unclear/></u>
+<u n="107" who="S0313">I noticed that yeah</u>
+<u n="108" who="S0312" trans="overlap">you don't want to get too cocky do you?</u>
+<u n="109" who="S0311">absolutely not oh mum are you out?</u>
+<u n="110" who="S0313" trans="overlap">oh</u>
+<u n="111" who="S0312">is that a <unclear/>?</u>
+<u n="112" who="S0313">mum's being a chicken she's not keeping hold of her cards <vocal desc="gasp"/> she is out are you out? <vocal desc="gasp"/> she's out</u>
+<u n="113" who="S0311" trans="overlap">she's out</u>
+<u n="114" who="S0268"><vocal desc="misc"/></u>
+<u n="115" who="S0313" trans="overlap">oh</u>
+<u n="116" who="S0311" trans="overlap">well done</u>
+<u n="117" who="S0313" trans="overlap">well done mummy</u>
+<u n="118" who="S0311">minus twenty-five</u>
+<u n="119" who="S0312">right let's <unclear>check</unclear> them first</u>
+<u n="120" who="S0311"><vocal desc="laugh"/></u>
+<u n="121" who="S0266">check all you want it's correct</u>
+<u n="122" who="S0268">yes you won't catch her out</u>
+<u n="123" who="S0311">forty</u>
+<u n="124" who="S0268">mm</u>
+<u n="125" who="S0311">we should get counting your cards <unclear/></u>
+<u n="126" who="S0268"><unclear/></u>
+<u n="127" who="S0312" trans="overlap">well I'm in <trunc>tr</trunc> I'm in trouble</u>
+<u n="128" who="S0313">you can't be more in trouble than I am</u>
+<event desc="begin overlap"/>
+<u n="129" who="S0268" trans="overlap">twenty-five thirty-five thirty-five forty-three fifty-two sixty-two seventy-seventy-seven what's a joker? thirty-two fourty fifty fifty-nine sixty-seven seventy-seven eighty-seven eight seven ninety-six ninety-nine hundred and two</u>
+<u n="130" who="S0311" trans="overlap">sixty-seventy-four sixty</u>
+<u n="131" who="S0313">eighty-five <vocal desc="laugh"/></u>
+<u n="132" who="S0311">eighty-four eighty-five <trunc>eig</trunc> twenty-five</u>
+<u n="133" who="S0266" trans="overlap">twenty-four oh no <anon type="name" nameType="m"/>'s got two jokers</u>
+<u n="134" who="S0268">twenty-seven and twenty-five</u>
+<u n="135" who="S0313" trans="overlap">I've just forgotten twenty-five</u>
+<u n="136" who="S0312">how much is a joker?</u>
+<u n="137" who="S0311">eh twenty-five oh my goodness</u>
+<u n="138" who="S0313">no mum it's here</u>
+<u n="139" who="S0311">eighty-nine</u>
+<event desc="end overlap"/>
+<u n="140" who="S0311">oh huge scores</u>
+<u n="141" who="S0312">hundred and two hundred and a hundred and eight</u>
+<u n="142" who="S0313" trans="overlap">you've caught us all there</u>
+<u n="143" who="S0311">a hundred and eight <anon type="name" nameType="m"/>?</u>
+<u n="144" who="S0312">yeah</u>
+<u n="145" who="S0313">over here please</u>
+<u n="146" who="S0268">hundred and two me</u>
+<u n="147" who="S0312" trans="overlap"><unclear/></u>
+<u n="148" who="S0313">two jokers here darling you did very well to get those</u>
+<u n="149" who="S0311" trans="overlap">mum had completely cheated us all</u>
+<u n="150" who="S0268" trans="overlap">well why didn't you give me the nod then? if you were going out? then I could've put down</u>
+<u n="151" who="S0311">hey you're not allowed to cheated</u>
+<u n="152" who="S0266" trans="overlap">cos you're my opponent</u>
+<u n="153" who="S0313">I <trunc>didn</trunc> did we did I even have a first go?</u>
+<u n="154" who="S0266">oh come on</u>
+<u n="155" who="S0313"><vocal desc="laugh"/></u>
+<u n="156" who="S0311">give them a good shuffle <unclear/> well done mum very good <unclear/></u>
+<u n="157" who="S0313" trans="overlap">I will</u>
+<u n="158" who="S0266">I only have one joker</u>
+<u n="159" who="S0268">I think that</u>
+<u n="160" who="S0311" trans="overlap">minus twenty-five what was your score before?</u>
+<u n="161" who="S0268">I think that was a bit naughty</u>
+<u n="162" who="S0266" trans="overlap">erm oh <trunc>s</trunc>sixteen very very good</u>
+<u n="163" who="S0268">does your mum always win?</u>
+<u n="164" who="S0311">usually</u>
+<u n="165" who="S0313" trans="overlap">yes</u>
+<u n="166" who="S0266">no it's not true <unclear/></u>
+<u n="167" who="S0313" trans="overlap">sometimes you do though</u>
+<u n="168" who="S0266"><vocal desc="misc"/></u>
+<u n="169" who="S0313"><anon type="name" nameType="m"/> do you think cards do you think it's luck? or do you think it's strategy?</u>
+<u n="170" who="S0311" trans="overlap">lucky in cards lucky in love</u>
+<u n="171" who="S0266">skill</u>
+<u n="172" who="S0268">bit of both</u>
+<u n="173" who="S0313">why?</u>
+<u n="174" who="S0268">eighty percent luck twenty percent strategy</u>
+<u n="175" who="S0266">I think a hundred percent luck</u>
+<u n="176" who="S0313">I think it's all strategy</u>
+<u n="177" who="S0266">ninety-nine percent luck one percent skill</u>
+<u n="178" who="S0313" trans="overlap">I think it's strategy</u>
+<u n="179" who="S0268">it's tragedy or strategy?</u>
+<u n="180" who="S0313">strategy</u>
+<u n="181" who="S0268">mm yeah</u>
+<u n="182" who="S0266">well what strategy's involved in this game?</u>
+<u n="183" who="S0313">because you have to think it's quite mathematical you have to think what what's the risk? how many of the cards are left in the deck of the same that you're looking for</u>
+<u n="184" who="S0268" trans="overlap">yeah yeah it's a bit</u>
+<u n="185" who="S0311">or probability of the cards coming up</u>
+<u n="186" who="S0313" trans="overlap">exactly</u>
+<event desc="sound of phone"/>
+<u n="187" who="S0268">I bet it's my brother</u>
+<event desc="sound of phone"/>
+<u n="188" who="S0313">oh is that someone on the phone?</u>
+<u n="189" who="S0268">it's my brother I think</u>
+<u n="190" who="S0311">is that uncle <anon type="name" nameType="m"/>?</u>
+<u n="191" who="S0268" trans="overlap">is it oh one one five?</u>
+<u n="192" who="S0311">yes</u>
+<u n="193" who="S0268">mm</u>
+<u n="194" who="S0311">should I answer it?</u>
+<u n="195" who="S0266" trans="overlap">leave it or else we'll never play cards</u>
+<u n="196" who="S0268">right</u>
+<u n="197" who="S0311">poor uncle <anon type="name" nameType="m"/> <vocal desc="laugh"/></u>
+<u n="198" who="S0266">well he'll go on for hours and we'll won't unless you want to stop playing cards</u>
+<u n="199" who="S0268">no</u>
+<u n="200" who="S0266">he's gone now anyway</u>
+<u n="201" who="S0311" trans="overlap">he's gone now</u>
+<u n="202" who="S0266">I hope there wasn't a thunderstorm and he's hiding under the bed like normal</u>
+<u n="203" who="S0268">mm</u>
+<u n="204" who="UNKMULTI"><vocal desc="laugh"/></u>
+<event desc="sound of voice phone"/>
+<u n="205" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="206" who="S0268">can he hear?</u>
+<u n="207" who="S0266">I don't think he can hear</u>
+<u n="208" who="S0311" trans="overlap">no</u>
+<u n="209" who="S0313">he can't hear in he's on a voice recorder <vocal desc="laugh"/></u>
+<u n="210" who="S0268">I don't know he's very grumpy</u>
+<u n="211" who="S0313">didn't you say something about him? erm oh no <vocal desc="laugh"/></u>
+<u n="212" who="S0268">he's very grumpy if erm well he's got my train set</u>
+<u n="213" who="S0313">yeah <vocal desc="laugh"/></u>
+<u n="214" who="S0268">yeah my brother took all the goodies took all the toys and everything</u>
+<u n="215" who="S0311">inherited</u>
+<u n="216" who="S0268" trans="overlap">probably worth a worth a lot of money</u>
+<u n="217" who="S0312">come on</u>
+<u n="218" who="S0311">come on hurry up and deal you're so slow</u>
+<u n="219" who="S0313" trans="overlap">I'm shuffling so that you know</u>
+<u n="220" who="S0311">such a slow coach <vocal desc="laugh"/></u>
+<u n="221" who="S0268">right let's go</u>
+<u n="222" who="S0312" whoConfidence="low"><vocal desc="sigh"/></u>
+<u n="223" who="S0266">it's a heavy sigh there <anon type="name" nameType="m"/> are you not are you not enjoying it?</u>
+<u n="224" who="S0312" trans="overlap">yeah I get frustrated at the erm the time shuffling</u>
+<u n="225" who="S0266">the slow play</u>
+<u n="226" who="S0312">yeah I'd rather get on with it cos I've I've lost points there so I just want to get on and regain some points</u>
+<u n="227" who="S0313" trans="overlap"><vocal desc="laugh"/></u>
+<u n="228" who="S0268">no no chance</u>
+<u n="229" who="S0266">it's it's quite good to have it <trunc>shuf</trunc>shuffled well so that all jokers don't stick together</u>
+<u n="230" who="S0312" trans="overlap">yeah well I like to just get on with it</u>
+<u n="231" who="S0311">but it's luck so even if you don't shuffle one might say that it's the same as shuffling luck of the cards</u>
+<u n="232" who="S0313" trans="overlap">can you just count them? is that ten?</u>
+<u n="233" who="S0311">true isn't it depressing? six o'clock and it's pitch black</u>
+<u n="234" who="S0268" trans="overlap">correct ten</u>
+<u n="235" who="S0311">have you <trunc>cha</trunc> you have changed that clock haven't you?</u>
+<u n="236" who="S0266" trans="overlap">I've changed that clock yeah I've not changed all of them</u>
+<u n="237" who="S0313"><anon type="name" nameType="m"/> changed the clock in my car</u>
+<u n="238" who="S0266">I I didn't have the the erm clock change in my car</u>
+<u n="239" who="S0268">I haven't changed mine from last year yet</u>
+<u n="240" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="241" who="S0311">I don't well you'll be alright then</u>
+<u n="242" who="S0313">then you'll be fine</u>
+<u n="243" who="S0311">so you're normal now</u>
+<u n="244" who="S0268">mm</u>
+<u n="245" who="S0311">correct time well that's the way to do it isn't it?</u>
+<u n="246" who="S0268">mm</u>
+<u n="247" who="S0311">long as you remember</u>
+<u n="248" who="S0268">what goes around comes around</u>
+<u n="249" who="S0311">absolutely erm right <anon type="name" nameType="m"/> to start</u>
+<u n="250" who="S0266" trans="overlap">who starts?</u>
+<u n="251" who="S0268">I didn't like scoring a hundred and seven whatever it was was I a hundred and what?</u>
+<u n="252" who="S0313"><anon type="name" nameType="m"/>? are you scoring?</u>
+<u n="253" who="S0312">I've got twelve cards</u>
+<u n="254" who="S0311">one two three four five six seven eight nine I've got eleven I've got eleven</u>
+<u n="255" who="S0312">and I've got eleven</u>
+<u n="256" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="257" who="S0312"><unclear/></u>
+<u n="258" who="S0268">oh dear</u>
+<u n="259" who="S0311" trans="overlap">that old chestnut</u>
+<u n="260" who="S0313" trans="overlap">that old chestnut</u>
+<u n="261" who="S0268"><unclear/></u>
+<u n="262" who="S0313" trans="overlap">wants to give them back they need to be shuffled and dealt another one</u>
+<u n="263" who="S0311">mm it's a pity to get rid of these cards</u>
+<u n="264" who="S0313">right come on then <anon type="name" nameType="m"/> chop chop</u>
+<u n="265" who="S0268">don't be condescending</u>
+<u n="266" who="S0313">that means talking down to people</u>
+<u n="267" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="268" who="S0268" trans="overlap">exactly do I need that two?</u>
+<u n="269" who="S0313">yeah</u>
+<u n="270" who="S0268">mm mm could take it</u>
+<u n="271" who="S0313">have you got a busy week this week? <anon type="name" nameType="f"/>?</u>
+<u n="272" who="S0311">erm let me think to be honest erm how many meetings have I got? erm</u>
+<u n="273" who="S0268">your go dear</u>
+<u n="274" who="S0266">thank you</u>
+<u n="275" who="S0312">I've got awful cards</u>
+<u n="276" who="S0313">you've got awful cards?</u>
+<u n="277" who="S0312" trans="overlap">yeah</u>
+<u n="278" who="S0313">have you?</u>
+<u n="279" who="S0266">well so have I <anon type="name" nameType="m"/> let me tell you that?</u>
+<u n="280" who="S0312" trans="overlap">mm</u>
+<u n="281" who="S0311">yeah I have got quite a busy week</u>
+<u n="282" who="S0313">have you?</u>
+<u n="283" who="S0311">mm but my meetings it's not as bad as last week where I had meetings all over the country</u>
+<u n="284" who="S0268" trans="overlap">life isn't a matter of holding good cards but playing a bad hand well</u>
+<u n="285" who="UNKMULTI" whoConfidence="low">mm</u>
+<u n="286" who="S0268">think about that you like that one?</u>
+<u n="287" who="S0311">love that one</u>
+<u n="288" who="S0268">playing a bad hand well</u>
+<u n="289" who="S0313">great saying <anon type="name" nameType="m"/></u>
+<u n="290" who="S0268">there we are</u>
+<u n="291" who="S0313"><vocal desc="laugh"/></u>
+<u n="292" who="S0268">I think it <trunc>i</trunc> I think it is no it's a well known <trunc>say</trunc></u>
+<u n="293" who="S0311" trans="overlap">how long did it take for you to come up with that one?</u>
+<u n="294" who="S0313">did that come out on a fortune cookie?</u>
+<u n="295" who="S0268" trans="overlap"><trunc>s</trunc> no it's a well known saying</u>
+<u n="296" who="S0266">from?</u>
+<u n="297" who="S0268">erm don't know some thinker like Orson Wells or something</u>
+<u n="298" who="S0311" trans="overlap"><unclear>Kipling</unclear>?</u>
+<u n="299" who="S0268">whose go is it?</u>
+<u n="300" who="S0311"><anon type="name" nameType="m"/>'s <unclear>play</unclear></u>
+<u n="301" who="S0312"><anon type="name" nameType="f"/>'s</u>
+<u n="302" who="S0313">erm <anon type="name" nameType="m"/> you look you like you're concentrating to quite some extent</u>
+<u n="303" who="S0312">well I am <pause dur="short"/></u>
+<u n="304" who="S0268">what's flavour is that?</u>
+<u n="305" who="S0266">what? the candle?</u>
+<u n="306" who="S0268">is it cheese and onion or</u>
+<u n="307" who="S0313">cheese and onion?</u>
+<u n="308" who="S0311">lemongrass <anon type="name" nameType="m"/></u>
+<u n="309" who="S0266" trans="overlap">it's vanilla</u>
+<u n="310" who="S0311">oh vanilla</u>
+<u n="311" who="S0268">it's vanilla well vanilla's rubbish vanilla has</u>
+<u n="312" who="S0311" trans="overlap" whoConfidence="low">they were such a bargain</u>
+<u n="313" who="S0266" trans="overlap">I think it's your go do you want to play?</u>
+<u n="314" who="S0268">mm well</u>
+<u n="315" who="S0311" whoConfidence="low">they were such a bargain weren't they?</u>
+<u n="316" who="S0268">well nothing's a <trunc>bar</trunc> <pause dur="short"/> nothing's a bargain if you don't want it</u>
+<u n="317" who="S0266" trans="overlap">on The Apprentice it was they were trying to sell candles for forty pounds</u>
+<u n="318" who="S0311" trans="overlap">forty pounds</u>
+<u n="319" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="320" who="S0313">you do buy people do but candles for forty pounds though</u>
+<u n="321" who="S0268">do they?</u>
+<u n="322" who="S0313">yeah</u>
+<u n="323" who="S0266">some do</u>
+<u n="324" who="S0313">like look at the white erm well not the White Company <unclear>Jo Malone</unclear></u>
+<u n="325" who="S0268">well they've got more money than sense</u>
+<u n="326" who="S0311">well they had erm the <unclear>Jo Malone</unclear> director or the owner actually</u>
+<u n="327" who="S0313">no she sold it to Este Lauder</u>
+<u n="328" who="S0311">yeah</u>
+<u n="329" who="S0313">mm</u>
+<u n="330" who="S0311">but she was on The Apprentice you're fired program</u>
+<u n="331" who="S0313" trans="overlap">oh was she?</u>
+<u n="332" who="UNKFEMALE" whoConfidence="low">mm <vocal desc="sigh"/></u>
+<u n="333" who="S0311">Downton tonight</u>
+<u n="334" who="S0313">I haven't watched any of Downton</u>
+<u n="335" who="S0311" trans="overlap">oh I have absolutely love it</u>
+<u n="336" who="S0313" trans="overlap">I don't like to watch TV I like to sort of read books</u>
+<u n="337" who="S0311">that's cos you don't own a TV</u>
+<u n="338" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="339" who="S0311">missing out on all these great programs</u>
+<u n="340" who="S0313">I've had a I've ordered something online and it's being delivered here as well so do you mind? <vocal desc="laugh"/></u>
+<u n="341" who="S0266">oh that's great what time will it be coming in the morning? before eight? just to make sure we're all up</u>
+<u n="342" who="S0313"><vocal desc="laugh"/> I'm sorry my letter box is too small</u>
+<u n="343" who="S0268">I I have to go down in my PJs to collect these parcels <trunc>ev</trunc>every morning</u>
+<u n="344" who="S0313" trans="overlap">I can only apologise <anon type="name" nameType="m"/></u>
+<u n="345" who="S0268">no I I love doing it <unclear/></u>
+<u n="346" who="S0311" trans="overlap">why what time did they come?</u>
+<u n="347" who="S0268">half eight</u>
+<u n="348" who="S0311">mm</u>
+<u n="349" who="S0313"><vocal desc="laugh"/></u>
+<u n="350" who="S0266">cheeky</u>
+<u n="351" who="S0268">but that's fine the things I do for my stepdaughter</u>
+<u n="352" who="S0311">where's your nearest sorting office then?</u>
+<u n="353" who="S0313">oh just up the road <vocal desc="laugh"/></u>
+<u n="354" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="355" who="S0268">well it's sorted then I'd say</u>
+<u n="356" who="S0313">no but the only day that they're open past is a wednesday yeah</u>
+<u n="357" who="S0266" trans="overlap">late is a a wednesday normally well that's fine</u>
+<u n="358" who="S0313">wow</u>
+<u n="359" who="S0266">you could go on your lunch hour?</u>
+<u n="360" who="S0313">no cos I can't get out</u>
+<u n="361" who="S0266">what? not even on your lunch hour</u>
+<u n="362" who="S0313">with the parking</u>
+<u n="363" who="S0266">oh why? why is that?</u>
+<u n="364" who="S0313">cos of the roadworks</u>
+<u n="365" who="S0266">oh I see</u>
+<u n="366" who="S0311">what? even if you leave at lunchtime?</u>
+<u n="367" who="S0313">yeah it's it's twenty-four hours</u>
+<u n="368" who="S0266">it's just awful I can't believe they're having what have they got? two sets of sorry <anon type="name" nameType="m"/> I just kicked you two sets of roadworks on the same road it's appalling</u>
+<u n="369" who="S0313" trans="overlap">yeah it really is</u>
+<u n="370" who="S0268" trans="overlap">that's ridiculous</u>
+<u n="371" who="S0313">I bet there's a lot of resentment</u>
+<u n="372" who="S0311">mm</u>
+<u n="373" who="S0313">well I just it hasn't been thought out very clearly has it to have two on at the same time</u>
+<u n="374" who="S0266" trans="overlap">well you leave your office when?</u>
+<u n="375" who="S0313">at six thirty</u>
+<u n="376" who="S0311">six thirty and normally it takes ten minutes to drive to back to her flat and before she can even get on the road so the drive to the erm the actual physical drive to the office is taking her an hour and a half just to get out onto the road out of the office yeah</u>
+<u n="377" who="S0268" trans="overlap">no</u>
+<u n="378" who="S0266">I can't believe an hour and a half</u>
+<u n="379" who="S0311">because it comes out onto the roundabout so you have to give way to the right</u>
+<u n="380" who="S0266" trans="overlap">what do you do for an hour and a half?</u>
+<u n="381" who="S0313">I just sort of listen to the radio but sometimes I'd leave I don't leave till seven thirty and even then it takes forty-five minutes</u>
+<u n="382" who="S0268">that's ridiculous</u>
+<u n="383" who="S0266" trans="overlap">that's ridiculous</u>
+<u n="384" who="S0311">mm so bad</u>
+<u n="385" who="S0268">well aren't they going to do anything about it?</u>
+<u n="386" who="S0266" trans="overlap">would you mind if I lay your card out a bit more sort of openly</u>
+<u n="387" who="S0312" trans="overlap">no that's fine that's fine</u>
+<u n="388" who="S0313" trans="overlap">that's a criticism of <anon type="name" nameType="m"/></u>
+<u n="389" who="S0266">no it's a criticism it's a suggestion</u>
+<u n="390" who="S0312">no that's absolutely fine fine by me but once I've got rid of them I don't mind what happens to them</u>
+<u n="391" who="S0266">oh okay</u>
+<u n="392" who="S0313" trans="overlap"><vocal desc="laugh"/></u>
+<u n="393" who="S0266">do you feel you no longer have ownership?</u>
+<u n="394" who="S0313" trans="overlap">she's she she's criticising you</u>
+<u n="395" who="S0312">yeah</u>
+<u n="396" who="S0266">I'm not criticising you at all it's just I like to see what cards are down on the table very wise well I'd have thought the company</u>
+<u n="397" who="S0313" trans="overlap">would anyone else like to go <unclear/>?</u>
+<u n="398" who="S0266">no thanks</u>
+<u n="399" who="S0312" trans="overlap"><unclear/></u>
+<u n="400" who="S0313">I've had I've got the worst hand</u>
+<u n="401" who="S0266" trans="overlap">you're very quiet is that cos you've got an awful hand?</u>
+<u n="402" who="S0312">yeah that's right yeah</u>
+<u n="403" who="S0313">are you worried about your bite?</u>
+<u n="404" who="S0266" trans="overlap"><unclear/> in a minute</u>
+<u n="405" who="S0311">whose go is it?</u>
+<u n="406" who="S0266"><vocal desc="laugh"/></u>
+<u n="407" who="S0312" trans="overlap">well that's it I I'm trying to just <unclear/></u>
+<u n="408" who="S0313" trans="overlap">how much are we all on?</u>
+<u n="409" who="S0312">eh one 0 seven one four six eighty-nine</u>
+<u n="410" who="S0266" trans="overlap"><anon type="name" nameType="m"/> it's your go</u>
+<u n="411" who="S0313">am I supposed to know who you're calling out?</u>
+<u n="412" who="S0312">you're eighty-nine</u>
+<u n="413" who="S0313">yeah</u>
+<u n="414" who="S0312"><anon type="name" nameType="f"/> is one four six</u>
+<u n="415" who="S0313">mm</u>
+<u n="416" who="S0312"><anon type="name" nameType="m"/> is one 0 seven</u>
+<u n="417" who="S0313">mm</u>
+<u n="418" who="S0312">and I'm one one six</u>
+<u n="419" who="S0266">what? what am I <anon type="name" nameType="m"/>?</u>
+<u n="420" who="S0313" trans="overlap">and mum</u>
+<u n="421" who="S0312">minus nine</u>
+<u n="422" who="S0266">minus nine?</u>
+<u n="423" who="UNKFEMALE" trans="overlap" whoConfidence="low">oh</u>
+<u n="424" who="S0312">mm</u>
+<u n="425" who="S0313">you've done well there</u>
+<u n="426" who="S0268">so what are we saying? that we're all going to throw our cards in?</u>
+<u n="427" who="S0311">no definitely not</u>
+<u n="428" who="S0313" trans="overlap">I would be up for that</u>
+<u n="429" who="S0311">definitely not <pause dur="short"/> oh dog's awake</u>
+<u n="430" who="S0266">I was only teasing when I said I'm going out</u>
+<u n="431" who="S0313"><vocal desc="laugh"/></u>
+<u n="432" who="S0311">oh oh</u>
+<u n="433" who="S0268">oh</u>
+<u n="434" who="S0311">you going putting more cards down?</u>
+<u n="435" who="UNKFEMALE" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="436" who="S0313"><anon type="name" nameType="m"/> seems to have all the cards that I need <vocal desc="laugh"/></u>
+<u n="437" who="S0266">the player you say who's got rubbish cards seems to be putting all the <unclear/> down</u>
+<u n="438" who="S0268" trans="overlap">you see that's where the skills come in you then look at</u>
+<u n="439" who="S0312" trans="overlap"><unclear/></u>
+<u n="440" who="S0311">luck</u>
+<u n="441" who="S0268">and then you know what to pick up</u>
+<u n="442" who="S0311">it's all luck <anon type="name" nameType="m"/></u>
+<u n="443" who="S0268">no</u>
+<u n="444" who="S0311">yeah</u>
+<u n="445" who="S0268">because you look at the cards that <anon type="name" nameType="m"/>'s put down</u>
+<u n="446" who="S0266" trans="overlap">yeah but that's just basics it's nothing clever it's a lot of luck</u>
+<u n="447" who="S0268" trans="overlap">no but it's you've got to think <trunc>a</trunc> it's not that's not luck that's thinking about it</u>
+<u n="448" who="S0266">oh she's throwing out an ace <unclear/> here</u>
+<u n="449" who="S0313">oh I don't know what to do</u>
+<u n="450" who="S0266"><anon type="name" nameType="m"/> looks so tired after his sorry I keep kicking you after his walk come here</u>
+<u n="451" who="S0313">no he's tired <pause dur="short"/> I've committed to something now</u>
+<u n="452" who="S0266">oh no are you out?</u>
+<u n="453" who="S0313">no nowhere near <pause dur="short"/></u>
+<u n="454" who="S0311">come on <anon type="name" nameType="f"/> oh are you two cheating?</u>
+<u n="455" who="S0313">how would we cheat? we're sitting across from each other</u>
+<u n="456" who="S0311" trans="overlap">eye <trunc>s</trunc> eye signals</u>
+<u n="457" who="S0266" trans="overlap">I I want that card</u>
+<u n="458" who="S0311">you want that card?</u>
+<u n="459" who="S0266">mm</u>
+<u n="460" who="S0313">yeah I know you do cos you've have you picked up the ten of clubs?</u>
+<u n="461" who="S0266">no I want <unclear/></u>
+<u n="462" who="S0313">oh <anon type="name" nameType="m"/> are you out?</u>
+<u n="463" who="S0312" trans="overlap"><unclear/></u>
+<u n="464" who="S0313"><vocal desc="laugh"/></u>
+<u n="465" who="S0266">stop looking at your cards</u>
+<u n="466" who="S0268" trans="overlap">she's knows <trunc>exa</trunc> she's awful</u>
+<u n="467" who="S0266">you're such a cheat</u>
+<u n="468" who="S0313">how can I benefit from knowing his cards?</u>
+<u n="469" who="S0266"><unclear/></u>
+<u n="470" who="S0312">you know <unclear/></u>
+<u n="471" who="S0313" trans="overlap">you going out? no he's not going out</u>
+<u n="472" who="S0312">you would you would <trunc>no</trunc> you would see <unclear/></u>
+<u n="473" who="S0313" trans="overlap">if I could put down <unclear/></u>
+<u n="474" who="S0268" trans="overlap">oh can I?</u>
+<u n="475" who="S0311">no you've put it down</u>
+<u n="476" who="S0312">no because you'd be you could be holding on to try and get the <unclear/> deck</u>
+<u n="477" who="S0268">alright <pause dur="short"/> well you hold on to get the twenty-five</u>
+<u n="478" who="S0313" trans="overlap">a full what?</u>
+<u n="479" who="S0312">a full deck</u>
+<u n="480" who="S0313">oh full deck</u>
+<u n="481" who="S0268">you hold on to get the twenty-five minus</u>
+<u n="482" who="S0312" trans="overlap">yeah</u>
+<u n="483" who="S0311">oh mum's picked it up</u>
+<u n="484" who="S0312" trans="overlap"><unclear/> <anon type="name" nameType="m"/> about to go down</u>
+<u n="485" who="S0313">I still couldn't put my cards out</u>
+<u n="486" who="S0311">oh mum's out you can see the twinkle in her eye</u>
+<u n="487" who="S0313" trans="overlap">oh you've got the other one I want</u>
+<u n="488" who="S0268">no she was she wouldn't be out twice in a row</u>
+<u n="489" who="S0313">oh she would look she would be</u>
+<u n="490" who="S0268" trans="overlap">that's impossible</u>
+<u n="491" who="S0313">she's got the sort of arrogance of of play the swagger</u>
+<u n="492" who="S0268">no she wouldn't do it</u>
+<u n="493" who="S0313">she's done it she's done it</u>
+<u n="494" who="S0311" trans="overlap">she's out <anon type="name" nameType="m"/> she's out oh she's got two jokers</u>
+<u n="495" who="S0268">no she wouldn't do it</u>
+<u n="496" who="S0311">two jokers she's bossed it champion champion of champions</u>
+<u n="497" who="S0313" trans="overlap">oh mum</u>
+<u n="498" who="S0268" trans="overlap">she's not out she's not no she's got three left</u>
+<u n="499" who="S0313" trans="overlap">she's bossed it she's bossed it</u>
+<u n="500" who="S0311">champion of all mega tournaments</u>
+<u n="501" who="S0268">no <unclear/></u>
+<u n="502" who="S0311" trans="overlap">four</u>
+<u n="503" who="S0313" trans="overlap">oh</u>
+<u n="504" who="UNKFEMALE" trans="overlap" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="505" who="S0311">very well played mum what's that? seven eight nine of hearts</u>
+<u n="506" who="S0268">eight eight of hearts and the queen of clubs would be useful to get to</u>
+<u n="507" who="S0266">well there's the queen of clubs</u>
+<u n="508" who="S0268">alright big head</u>
+<u n="509" who="S0266"><trunc>w</trunc>why big head? it's gone I wanted it</u>
+<u n="510" who="S0311"><anon type="name" nameType="m"/> please can you fan your cards out accordingly follow the card protocol please</u>
+<u n="511" who="S0313"><vocal desc="laugh"/></u>
+<u n="512" who="S0268">what? in my hand?</u>
+<u n="513" who="UNKMULTI" whoConfidence="low">no</u>
+<u n="514" who="S0311">the ones on the I can't see what what they supposed to be five six seven</u>
+<u n="515" who="S0313" trans="overlap"><unclear/></u>
+<u n="516" who="S0268" trans="overlap">five six seven</u>
+<u n="517" who="S0312">alright erm <unclear/> can I get some <unclear/></u>
+<u n="518" who="S0268" trans="overlap">yeah</u>
+<u n="519" who="S0266" trans="overlap">yeah but can you spread them out?</u>
+<u n="520" who="S0268" trans="overlap">can't you can't see that? do you do you need a white stick?</u>
+<u n="521" who="S0311"><vocal desc="laugh"/> can you fan out these cards?</u>
+<u n="522" who="S0312">if I put that there as well okay?</u>
+<u n="523" who="S0268" trans="overlap"><vocal desc="misc"/></u>
+<u n="524" who="S0311">yeah that's fine</u>
+<u n="525" who="S0313" trans="overlap">yeah that's fine</u>
+<u n="526" who="S0268">yes</u>
+<u n="527" who="S0312">and if I was to put</u>
+<u n="528" who="S0266">yep <unclear/></u>
+<event desc="unintelligible"/>
+<u n="529" who="S0311">looks like you're going to be out</u>
+<u n="530" who="S0313">he's out now <anon type="name" nameType="f"/></u>
+<u n="531" who="S0312" trans="overlap">and I and I take that joker</u>
+<u n="532" who="S0266"><anon type="name" nameType="f"/>? is he out?</u>
+<u n="533" who="S0312">erm</u>
+<u n="534" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="535" who="S0312"><unclear/></u>
+<u n="536" who="S0266">would you like me to move the scoreboard so you have a bit more room? <pause dur="short"/></u>
+<u n="537" who="S0268">I don't like the way the discard pile isn't very tidy</u>
+<u n="538" who="S0312">you can use jokers any which way you want right?</u>
+<u n="539" who="UNKMULTI" whoConfidence="low">yeah</u>
+<u n="540" who="S0268" trans="overlap">I'd like the discard I'd like the discard</u>
+<u n="541" who="S0312" trans="overlap"><unclear/> that</u>
+<u n="542" who="S0311"><vocal desc="gasp"/></u>
+<u n="543" who="S0313">oh <anon type="name" nameType="m"/></u>
+<u n="544" who="S0268" trans="overlap">oh oh</u>
+<u n="545" who="S0311" trans="overlap">well done <anon type="name" nameType="m"/> well done <anon type="name" nameType="m"/></u>
+<u n="546" who="S0266" trans="overlap">well done <anon type="name" nameType="m"/> oh no I've got a huge hand</u>
+<u n="547" who="S0313" trans="overlap">ten twenty thirty</u>
+<u n="548" who="S0268">oh dear</u>
+<u n="549" who="S0266" trans="overlap">right I've got five</u>
+<u n="550" who="S0312">okay <unclear/></u>
+<u n="551" who="S0268">alright don't <trunc>bra</trunc> don't brag about it</u>
+<u n="552" who="S0266">well I was just</u>
+<u n="553" who="S0313">ah I just dropped my card</u>
+<event desc="unintelligible"/>
+<u n="554" who="S0268">sixteen seventeen twenty-four twenty-nine sorry <anon type="name" nameType="f"/> I should have got that for you</u>
+<u n="555" who="S0311">no total score of ninety for me</u>
+<u n="556" who="S0313" trans="overlap">don't take my cards</u>
+<u n="557" who="S0266">you're not you're just nought well you're not minus-twenty-five are you?</u>
+<u n="558" who="S0313">no <anon type="name" nameType="m"/> can do his own scores can't he?</u>
+<u n="559" who="S0312">yeah but I can't I need <unclear/> calculator</u>
+<u n="560" who="S0266" trans="overlap"><anon type="name" nameType="m"/> how many are you?</u>
+<u n="561" who="S0311">ninety</u>
+<u n="562" who="S0266">ninety?</u>
+<u n="563" who="S0311">yes</u>
+<u n="564" who="S0268" trans="overlap">just the ninety <anon type="name" nameType="f"/></u>
+<u n="565" who="S0313" trans="overlap">well do you want me to do the scores?</u>
+<u n="566" who="S0266">ah <anon type="name" nameType="f"/> how much are you?</u>
+<u n="567" who="S0313">it's less pressure I'll just do them I don't know yet mum I'm still counting sorry</u>
+<u n="568" who="S0266">right who's dealing?</u>
+<u n="569" who="S0312"><unclear/> hurry up <unclear/></u>
+<u n="570" who="S0313">yeah okay</u>
+<u n="571" who="S0266" trans="overlap">who's dealing?</u>
+<u n="572" who="S0311"><anon type="name" nameType="m"/>'s dealing</u>
+<u n="573" who="S0268">twenty-nine me</u>
+<u n="574" who="S0311">I thought you was twenty-nine</u>
+<u n="575" who="S0268">right</u>
+<u n="576" who="S0311">so what else did you buy from Lidl then? <unclear/></u>
+<u n="577" who="S0312" trans="overlap">I got some bratwurst</u>
+<u n="578" who="S0268" trans="overlap">well where's the</u>
+<u n="579" who="S0311">some breakfast?</u>
+<u n="580" who="S0312"><trunc>brat</trunc>bratwurst</u>
+<u n="581" who="S0311"><unclear/>?</u>
+<u n="582" who="S0312">it's the sausages german sausages bratwurst</u>
+<u n="583" who="S0311" trans="overlap">oh</u>
+<u n="584" who="S0312" trans="overlap">bratwurst bratwurst</u>
+<u n="585" who="S0311" trans="overlap">bratwurst</u>
+<u n="586" who="S0266"><anon type="name" nameType="f"/>?</u>
+<u n="587" who="S0313" trans="overlap"><unclear/> fifty-seven sixty-one sixty-one sixty-six please pass it here <unclear/></u>
+<u n="588" who="S0311">sixty-six</u>
+<u n="589" who="S0268">next</u>
+<u n="590" who="S0311">so you got german sausages</u>
+<u n="591" who="S0313">I wouldn't eat those sausages I don't know what their meat content is</u>
+<u n="592" who="S0266">what's this for?</u>
+<u n="593" who="S0313">he bought sausages in Lidl</u>
+<u n="594" who="S0311" trans="overlap">I asked <anon type="name" nameType="m"/> what else they bought from Lidl did you just buy?</u>
+<u n="595" who="S0313">I bought I bought a cereal and I didn't buy milk which was really stupid</u>
+<u n="596" who="S0311">mm</u>
+<u n="597" who="S0313">erm and I bought those brazil nuts for us to eat and I bought a Ribena diluting juice drink and I bought some</u>
+<u n="598" who="S0311" trans="overlap">squash?</u>
+<u n="599" who="S0313">squash yeah like squash but blackcurrants</u>
+<u n="600" who="S0266">mm</u>
+<u n="601" who="S0313">and then I bought two medium wear toothbrushes <vocal desc="laugh"/></u>
+<u n="602" who="S0311">splashing out then</u>
+<u n="603" who="S0313">in a dual pack</u>
+<u n="604" who="S0311">big spender</u>
+<u n="605" who="S0313">big spender</u>
+<u n="606" who="S0311">I was going to cook one of erm Jamie's fifteen minute meals</u>
+<u n="607" who="S0313">I can't believe you made croissants that's so impressive</u>
+<u n="608" who="S0311">I did they were I didn't make them from scratch though they were the just roll ones</u>
+<u n="609" who="S0313" trans="overlap">you shuffled them?</u>
+<u n="610" who="S0268" trans="overlap">yep</u>
+<u n="611" who="S0313">yes</u>
+<u n="612" who="S0311">I literally had to add these sticks of chocolate and then they <unclear/></u>
+<u n="613" who="S0313" trans="overlap">what chocolate was it that you added?</u>
+<u n="614" who="S0311">think it was dark in the end</u>
+<u n="615" who="S0313">did <anon type="name" nameType="m"/> like them?</u>
+<u n="616" who="S0311">yeah he loved them</u>
+<u n="617" who="S0313">what's your favourite food?</u>
+<u n="618" who="S0268" trans="overlap">tell me when to stop</u>
+<u n="619" who="S0311">these days to cook</u>
+<u n="620" who="S0266">seven</u>
+<u n="621" who="S0311">well I've been cooking is it <unclear/> erm Jamie's fifteen meal fifteen minute meals and although it says fifteen minute meals the preparation is over an hour</u>
+<u n="622" who="S0266" trans="overlap">eight nine ten</u>
+<u n="623" who="S0311">can you believe it? one two three four five six seven eight nine</u>
+<u n="624" who="S0266" trans="overlap">that's ten</u>
+<u n="625" who="S0312" trans="overlap">that's ten</u>
+<u n="626" who="S0311">I've got nine</u>
+<u n="627" who="S0313">I've got nine oh ten <anon type="name" nameType="f"/> here one right in front of you</u>
+<u n="628" who="S0266">eleven</u>
+<u n="629" who="S0313">three six nine ten eleven</u>
+<u n="630" who="S0266" trans="overlap">right who wants to go for other cards? I'm in and I'll put my cards down to prove it</u>
+<u n="631" who="S0268"><unclear/> <pause dur="short"/></u>
+<u n="632" who="S0266">anyone joining me?</u>
+<u n="633" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="634" who="S0266">I'll just turn over the top <trunc>ca</trunc>card in case it's a joker <unclear/></u>
+<u n="635" who="S0311" trans="overlap">no you can't possibly that</u>
+<u n="636" who="S0313">no it's not you're allowed to do that <pause dur="short"/> I think <anon type="name" nameType="m"/>'s done really well there</u>
+<u n="637" who="S0311">as a beginner</u>
+<u n="638" who="S0268">well why why do we have to</u>
+<u n="639" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="640" who="S0311">anyway I was telling you about Lidl so I was cooking I was wanting to</u>
+<u n="641" who="S0313" trans="overlap"><unclear/></u>
+<u n="642" who="S0313" trans="overlap"><unclear/> very patronising</u>
+<u n="643" who="S0311"><vocal desc="laugh"/> I was wanting to cook a erm chinese sticky chicken dish and you needed</u>
+<u n="644" who="S0313" trans="overlap">is that a ginger chicken?</u>
+<u n="645" who="S0311">no it's</u>
+<u n="646" who="S0266">does anyone want to go for other cards?</u>
+<u n="647" who="S0312">no thank you</u>
+<u n="648" who="S0312" trans="overlap">no thank you</u>
+<u n="649" who="S0313">is it chilli chicken?</u>
+<u n="650" who="S0311">it's chilli it's a satay type dish but not too spicy</u>
+<u n="651" who="S0313">okay</u>
+<u n="652" who="S0311">and one of the key ingredients was sesame oil and I searched high and I searched high and low and I thought oh great I'm never going to be able to find sesame oil</u>
+<u n="653" who="S0313" trans="overlap">oh do they sell that?</u>
+<u n="654" who="S0311">I walked into Lidl</u>
+<u n="655" who="S0313" trans="overlap">Waitrose stock it</u>
+<u n="656" who="S0311">yeah apart from Waitrose unless you want to pay a fortune</u>
+<u n="657" who="S0313">mm</u>
+<u n="658" who="S0311">and I walked into Lidl and it was the first thing at the end of the aisle one pound twenty-nine huge bottle</u>
+<u n="659" who="S0313">brilliant</u>
+<u n="660" who="S0311">bargain</u>
+<u n="661" who="S0313">that's really good</u>
+<u n="662" who="S0311">so</u>
+<u n="663" who="S0313">you've done well there</u>
+<u n="664" who="S0311">brilliant such good value for money</u>
+<u n="665" who="S0313" trans="overlap"><anon type="name" nameType="m"/>? <anon type="name" nameType="m"/>? stop with that paw good boy good boy</u>
+<u n="666" who="S0311">right whose go is it? time limit</u>
+<u n="667" who="S0268">two kings <unclear/></u>
+<u n="668" who="S0313" trans="overlap"><unclear/> no <anon type="name" nameType="f"/> tell him</u>
+<u n="669" who="S0266" trans="overlap"><unclear/>?</u>
+<u n="670" who="S0312">mm hm <unclear/> <unclear>jack</unclear> I picked up</u>
+<u n="671" who="S0313">don't think it was</u>
+<u n="672" who="S0266">I thought I threw out a king</u>
+<u n="673" who="S0268">no I turned over the king</u>
+<u n="674" who="S0313">I couldn't possibly beat <unclear/> can I have a little bit of help? <pause dur="short"/></u>
+<u n="675" who="S0311">come on then</u>
+<u n="676" who="S0313">alright I'm playing my cards</u>
+<u n="677" who="S0268">what is it?</u>
+<u n="678" who="S0266">jack of spades</u>
+<u n="679" who="S0311">stop looking at my cards</u>
+<u n="680" who="S0313" trans="overlap">I was looking at the dog he keeps licking his paw how do you feel about this game? do you feel confident?</u>
+<u n="681" who="S0266"><anon type="name" nameType="m"/>? do you play cards with your family?</u>
+<u n="682" who="S0312">no</u>
+<u n="683" who="S0313">have you ever played cards recently</u>
+<u n="684" who="S0312">no</u>
+<u n="685" who="S0266">are you thinking of introducing it to your family?</u>
+<u n="686" who="S0312">could do yeah</u>
+<u n="687" who="S0266">would they want to play?</u>
+<u n="688" who="S0312">yeah</u>
+<u n="689" who="S0313">what's your favourite element of cards?</u>
+<u n="690" who="S0268">oh it's the luck</u>
+<u n="691" who="S0312" trans="overlap">the winning</u>
+<u n="692" who="S0313">the winning?</u>
+<u n="693" who="S0311">it's a bit tricky</u>
+<u n="694" who="S0313">when you say the winning say you do a hundred and sixteen</u>
+<u n="695" who="S0311">wasn't bad</u>
+<u n="696" who="S0311">what's my score?</u>
+<u n="697" who="S0266">don't you play for the sport?</u>
+<u n="698" who="S0313">oh <anon type="name" nameType="f"/> you're not doing so well</u>
+<u n="699" who="S0312">yeah but that is the sport isn't it? the winning</u>
+<u n="700" who="S0266">well there's also the sort of like you know chit chat between</u>
+<u n="701" who="S0311">I only play to win</u>
+<u n="702" who="S0266">alright</u>
+<u n="703" who="S0311"><vocal desc="laugh"/></u>
+<u n="704" who="S0313">you're currently losing with two hundred and thirty-six <vocal desc="laugh"/></u>
+<u n="705" who="S0311">have we set a limit of three hundred and then we stop?</u>
+<u n="706" who="S0313">three fifty a mega tournament mega tournament is three fifty</u>
+<u n="707" who="S0311" trans="overlap"><unclear/></u>
+<u n="708" who="S0266" trans="overlap">whose turn is it? it seems to be going very slowly this game</u>
+<u n="709" who="S0313" trans="overlap"><anon type="name" nameType="m"/>'s</u>
+<u n="710" who="S0266">no</u>
+<u n="711" who="S0312" trans="overlap">it's not mine</u>
+<u n="712" who="S0313">I haven't had a go in ages</u>
+<u n="713" who="S0268">yeah it's your go dear</u>
+<u n="714" who="S0266">oh right</u>
+<u n="715" who="S0268">I put the queen of hearts down</u>
+<u n="716" who="S0313">I haven't had a go yet this time</u>
+<u n="717" who="UNKMULTI" whoConfidence="low">yes you have</u>
+<u n="718" who="S0313">I forgot <anon type="name" nameType="m"/>'s looking at your cards <vocal desc="laugh"/></u>
+<u n="719" who="S0311"><anon type="name" nameType="m"/></u>
+<u n="720" who="S0313">I saw him he went like this</u>
+<u n="721" who="S0312" trans="overlap">I've opened my arm but you can see <unclear/></u>
+<u n="722" who="S0313">no look at this dog he's just look at him complete greedy slob</u>
+<u n="723" who="S0266" trans="overlap">ah he did a lot of exercise today people were so nice on the walk everyone we walked past was saying hello and good afternoon</u>
+<u n="724" who="S0268">one couple didn't</u>
+<u n="725" who="S0313">I know I thought they were very rude</u>
+<u n="726" who="S0268">I thought they were very rude</u>
+<u n="727" who="S0266">which couple was that?</u>
+<u n="728" who="S0268">the last one</u>
+<u n="729" who="S0313">the grey haired man</u>
+<u n="730" who="S0266">I think they were they were having an argument</u>
+<u n="731" who="S0311" trans="overlap">oh yes oh when <trunc>w</trunc>when we were waiting on the bridge</u>
+<u n="732" who="S0268">oh that old chestnut arguments</u>
+<u n="733" who="S0311" trans="overlap">before I <trunc>ta</trunc> before I take the photo <unclear/></u>
+<u n="734" who="S0266" trans="overlap">is it your turn?</u>
+<u n="735" who="S0311">no it's <anon type="name" nameType="m"/>'s</u>
+<u n="736" who="S0312" trans="overlap">no it's mine</u>
+<u n="737" who="S0268">yeah <unclear/></u>
+<u n="738" who="S0311" trans="overlap">when I took the photo on the bridge that couple didn't seem <unclear/></u>
+<u n="739" who="S0266" trans="overlap">mm oh they did they <trunc>spo</trunc> they spoke</u>
+<u n="740" who="S0311">I didn't hear them</u>
+<u n="741" who="S0266">they said thank you for holding the dog back</u>
+<u n="742" who="S0311">I didn't hear that a different couple</u>
+<u n="743" who="S0313"><unclear/></u>
+<u n="744" who="S0266"><unclear/> I'm getting confused</u>
+<u n="745" who="S0313">oh that's that's an opportunity that's presented itself there</u>
+<u n="746" who="S0266">come on less card chat more play</u>
+<u n="747" who="S0313">I'll take it thank you</u>
+<u n="748" who="S0311">where did you get that jumper from?</u>
+<u n="749" who="S0313">I bought it in Zara</u>
+<u n="750" who="S0311">are the buttons supposed to be not quite straight?</u>
+<u n="751" who="S0313">yes they are</u>
+<u n="752" who="S0311">very fashionable</u>
+<u n="753" who="S0313">thanks they're <trunc>ac</trunc> they're actually poppers</u>
+<u n="754" who="S0311">are they?</u>
+<u n="755" who="S0313">yeah</u>
+<u n="756" who="S0311">that's very cool which Zara was that? <anon type="place"/>?</u>
+<u n="757" who="S0313" trans="overlap">the Zara in just off <anon type="place"/> in <anon type="place"/></u>
+<u n="758" who="S0311">oh you didn't buy it this weekend then in <anon type="place"/>?</u>
+<u n="759" who="S0313">no that was probably the best Zara I've been to actually</u>
+<u n="760" who="S0311">really?</u>
+<u n="761" who="S0313">yeah it was really good</u>
+<u n="762" who="S0311">is it big?</u>
+<u n="763" who="S0313">yeah but it's like it's off the main drag of tourist shops and it's quiet and it's not busy</u>
+<u n="764" who="S0311">oh I need that card</u>
+<u n="765" who="S0313">I don't know what I'm doing with all these cards I really don't would <anon type="name" nameType="f"/>?</u>
+<u n="766" who="S0266">well I said let's go for other cards no one would change cards</u>
+<u n="767" who="S0268" trans="overlap"><unclear/></u>
+<u n="768" who="S0311"><vocal desc="gasp"/> <anon type="name" nameType="m"/> ace two joker four five gosh</u>
+<u n="769" who="S0266" trans="overlap"><anon type="name" nameType="m"/></u>
+<u n="770" who="S0268">he's getting all the L U C K</u>
+<u n="771" who="S0313">he's not</u>
+<u n="772" who="S0312" trans="overlap">ah there's no luck in this game I thought</u>
+<u n="773" who="S0311">it's all luck another joker <vocal desc="gasp"/></u>
+<u n="774" who="S0313" trans="overlap">it's all luck I <trunc>hav</trunc> I haven't had a joker in so many games</u>
+<u n="775" who="S0268" trans="overlap">I think I think he's got sticky fingers and he just picks the jokers out</u>
+<u n="776" who="S0313">can we fan out our cards darling?</u>
+<u n="777" who="S0266">men don't seem to be able to do that</u>
+<u n="778" who="S0313" trans="overlap"><anon type="name" nameType="f"/> your go</u>
+<u n="779" who="S0311">I know I'm just thinking</u>
+<u n="780" who="S0268" trans="overlap"><unclear/></u>
+<u n="781" who="S0312" trans="overlap">I <trunc>t</trunc> I think you could see half the card <unclear/></u>
+<u n="782" who="S0268"><anon type="name" nameType="m"/> I quite agree</u>
+<u n="783" who="S0266">it's not enough it's not enough</u>
+<u n="784" who="S0312">you don't need to see <unclear/></u>
+<u n="785" who="S0268" trans="overlap">it's women these women need to see the whole subject don't they?</u>
+<u n="786" who="S0266">yep no mystery no mystery</u>
+<u n="787" who="S0312" trans="overlap"><unclear/></u>
+<u n="788" who="S0268">I think it's very strange I much prefer put them in a group</u>
+<u n="789" who="S0311" trans="overlap">I'm sorry I'm going to have to be a chicken put some cards down</u>
+<u n="790" who="UNKFEMALE" trans="overlap" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="791" who="S0313">I can't bear to have a high hand again</u>
+<u n="792" who="S0266">have you got two kings the same there?</u>
+<u n="793" who="S0312" trans="overlap"><unclear/> too many times</u>
+<u n="794" who="S0313">no ace king queen</u>
+<u n="795" who="S0266">oh I thought sorry I from a distance I thought that was two kings I don't cheat</u>
+<u n="796" who="S0311">erm</u>
+<u n="797" who="S0266" trans="overlap">have you played?</u>
+<u n="798" who="S0311">no not quite yet I'm still contemplating erm what shall I play?</u>
+<u n="799" who="S0313">you've done very well haven't you?</u>
+<u n="800" who="S0312">I have done very well yeah</u>
+<u n="801" who="S0311" trans="overlap">thank oh I thought you meant me</u>
+<u n="802" who="S0313">I'm surprised you didn't keep them up</u>
+<u n="803" who="S0311">three fives</u>
+<u n="804" who="S0313">so you can get minus twenty-five</u>
+<u n="805" who="S0312">I've been burned too many times you see but <unclear/></u>
+<u n="806" who="S0313">you've been burnt once <vocal desc="laugh"/></u>
+<u n="807" who="S0311">I've been burnt way too many times and I only play to win</u>
+<u n="808" who="S0312">mm I'm going to go slow and steady</u>
+<u n="809" who="S0266">what's that over there? fives?</u>
+<u n="810" who="S0311">yes five of hearts five of spades the joker can be either clubs or diamonds</u>
+<u n="811" who="S0266">someone's tired tired over there? you over tired?</u>
+<u n="812" who="S0312" trans="overlap">definitely</u>
+<u n="813" who="S0311"><vocal desc="laugh"/> tired or overtired?</u>
+<u n="814" who="S0268">no eh <unclear/></u>
+<u n="815" who="S0312" trans="overlap"><unclear/> or is it just one?</u>
+<u n="816" who="S0266"><unclear/> what sorry?</u>
+<u n="817" who="S0312">ace can it go on the end?</u>
+<u n="818" who="S0266">whereabouts?</u>
+<u n="819" who="S0312">the end of a run of like king king queen</u>
+<u n="820" who="S0266" trans="overlap">yes yes</u>
+<u n="821" who="S0312">it can</u>
+<u n="822" who="S0266">you can go ace king queen or you can go ace two three</u>
+<u n="823" who="S0312">yeah</u>
+<u n="824" who="S0266">or you can have three aces obviously</u>
+<u n="825" who="S0313">oh here he is then</u>
+<u n="826" who="S0266">not fanning out</u>
+<u n="827" who="S0311">can you fan your cards out please sir?</u>
+<u n="828" who="S0268">no they're fine</u>
+<u n="829" who="S0313">you are quite unruly are you not?</u>
+<u n="830" who="S0268">mm not very good</u>
+<u n="831" who="S0311">come on then time limit</u>
+<u n="832" who="S0268">mm</u>
+<u n="833" who="S0313">quite warm in here now isn't it? <vocal desc="laugh"/></u>
+<u n="834" who="S0311">we need to open the door</u>
+<u n="835" who="S0313"><unclear/> ever so sleepy and it's only quarter past six <pause dur="short"/> <anon type="name" nameType="m"/> you look slightly confused there are you okay?</u>
+<u n="836" who="S0312">I'm I'm not confused don't confuse that with me being confused</u>
+<u n="837" who="S0313">okay</u>
+<u n="838" who="S0311">slightly patronising</u>
+<u n="839" who="S0268">don't confuse the issue</u>
+<u n="840" who="S0313">sevens eh?</u>
+<u n="841" who="S0311">stop looking at his cards you're not meant to</u>
+<u n="842" who="S0266" trans="overlap">I'm not looking at his cards it's just the mirror behind I look in to</u>
+<u n="843" who="S0313"><vocal desc="laugh"/></u>
+<u n="844" who="S0311">oh he's got the joker well done <anon type="name" nameType="m"/> come on <anon type="name" nameType="m"/></u>
+<event desc="sound of barking"/>
+<u n="845" who="S0268">shut up you</u>
+<u n="846" who="S0311"><anon type="name" nameType="m"/>?</u>
+<event desc="sound of barking"/>
+<u n="847" who="S0311">it's okay it's alright</u>
+<event desc="sound of barking"/>
+<u n="848" who="S0311">such a good guard dog</u>
+<u n="849" who="S0313">is your <unclear/> on?</u>
+<event desc="sound of barking"/>
+<u n="850" who="S0313">sound like a lion</u>
+<u n="851" who="S0268">crazy dog</u>
+<u n="852" who="S0313">sound like a lion</u>
+<u n="853" who="S0312">so could I put the joker back in and swap it with something else? is that? is that something you can do?</u>
+<u n="854" who="S0311" trans="overlap">oh you haven't got any energy even to jump up</u>
+<u n="855" who="S0268">it's it's wise strategy to hang on to your joker I'd have thought</u>
+<u n="856" who="S0312">no <unclear/></u>
+<u n="857" who="S0266" trans="overlap">that's that's very bad advice you've just</u>
+<u n="858" who="S0311" trans="overlap">did you have a sleep you little dog?</u>
+<u n="859" who="S0268">well a joker can be anything</u>
+<u n="860" who="S0313" trans="overlap">he hasn't got any energy he couldn't even jump up then</u>
+<u n="861" who="S0311">are you tired?</u>
+<u n="862" who="S0266" trans="overlap">it's not good to hold onto it when you've got it in your hand</u>
+<u n="863" who="S0312"><unclear/></u>
+<u n="864" who="S0266" trans="overlap">come on whose go? come on <anon type="name" nameType="m"/></u>
+<u n="865" who="S0313" trans="overlap">I'd hold onto the joker</u>
+<u n="866" who="S0311" trans="overlap">no cos it means</u>
+<u n="867" who="S0312" trans="overlap"><unclear/> I think that's bad advice</u>
+<u n="868" who="S0266">of course it is cos it bumps your score up by twenty-five</u>
+<u n="869" who="S0312" trans="overlap">yeah</u>
+<event desc="unintelligible"/>
+<u n="870" who="S0311">give me the cards</u>
+<u n="871" who="S0313">you add yeah but you add it to something else and then chuck out another one of your cards</u>
+<u n="872" who="S0311">thanks <anon type="name" nameType="m"/></u>
+<u n="873" who="S0268">you've given the joker to someone</u>
+<u n="874" who="S0312">well I didn't know that did I?</u>
+<u n="875" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="876" who="S0311"><vocal desc="laugh"/> <anon type="name" nameType="m"/></u>
+<u n="877" who="S0268"><unclear/></u>
+<u n="878" who="S0311" trans="overlap">you're doing it to be outrageous</u>
+<u n="879" who="S0268">I was saying to you that it's not a good strategy to throw out the joker and you were saying no</u>
+<u n="880" who="S0268" trans="overlap">that is such an outrageous move</u>
+<u n="881" who="S0313">no you add it to anything when there are not you add it when there's the least chance that <trunc>som</trunc></u>
+<u n="882" who="S0312" trans="overlap"><unclear/> needed</u>
+<u n="883" who="S0313">yeah but you don't give it to <anon type="name" nameType="f"/> you're giving her competitive <trunc>adva</trunc> no she's out</u>
+<u n="884" who="S0311"><vocal desc="laugh"/></u>
+<u n="885" who="S0312"><unclear/> two hundred and nine or something</u>
+<u n="886" who="S0311">ah thanks <anon type="name" nameType="m"/></u>
+<u n="887" who="S0313">no but darling you oh can someone pass me that one? I want that one</u>
+<u n="888" who="S0268">oh dear</u>
+<u n="889" who="S0311"><vocal desc="laugh"/> that's very funny</u>
+<u n="890" who="S0313" trans="overlap">that's that is so outrageous</u>
+<u n="891" who="S0311"><anon type="name" nameType="m"/> you're a good card player I say</u>
+<u n="892" who="S0312">mm</u>
+<u n="893" who="S0268">you're a very magnanimous card player</u>
+<u n="894" who="S0266" trans="overlap">well couldn't you have something tacked</u>
+<u n="895" who="S0312" trans="overlap">no because I couldn't run the risk of someone else going out and me being <unclear/></u>
+<u n="896" who="S0313" trans="overlap">yeah but you could have got rid of another one of your cards</u>
+<u n="897" who="S0266" trans="overlap">yeah but you could have tacked it on with one of your cards so tacked it on to another</u>
+<u n="898" who="S0312">no I didn't I didn't have any <unclear/></u>
+<u n="899" who="S0266">well then did you just dump it down there</u>
+<u n="900" who="S0268">anywhere</u>
+<u n="901" who="S0266">and chucked another of your cards out so you get rid of one of your</u>
+<u n="902" who="S0312">ah you didn't tell me that</u>
+<u n="903" who="S0313">have you only just worked out what we're laughing about?</u>
+<u n="904" who="S0312">yeah</u>
+<u n="905" who="S0313">I just said that so you could lower your score so you can add it on to here</u>
+<u n="906" who="S0312" trans="overlap">well you didn't tell me you didn't tell me that</u>
+<u n="907" who="S0313">bubbings</u>
+<u n="908" who="S0268">well I did say it wasn't a good strategy to throw out the card</u>
+<u n="909" who="S0313">can I have your joker?</u>
+<u n="910" who="S0311">oh no you were just</u>
+<u n="911" who="S0312" trans="overlap">well that was a bad advice wasn't it?</u>
+<u n="912" who="S0266">well the way you were saying it yes because you were saying to hang on to it</u>
+<u n="913" who="S0268">I I thought you meant discarding</u>
+<u n="914" who="S0312">no no</u>
+<u n="915" who="S0268">what's going on?</u>
+<u n="916" who="S0313"><vocal desc="laugh"/></u>
+<u n="917" who="S0268">get off my cards</u>
+<u n="918" who="S0311" trans="overlap">you're such a cheat</u>
+<u n="919" who="S0313">that's a diamond <vocal desc="laugh"/></u>
+<u n="920" who="S0268">can it can it be a spade?</u>
+<u n="921" who="S0313">no</u>
+<u n="922" who="S0268">yes it can course it can course it can course it can</u>
+<u n="923" who="S0313" trans="overlap">no no no no no finish already</u>
+<u n="924" who="S0268">finished?</u>
+<u n="925" who="S0313">no</u>
+<u n="926" who="S0311">oh that's a great run six seven eight nine ten</u>
+<u n="927" who="S0313">thanks <anon type="name" nameType="f"/> <pause dur="short"/> oh I could chuck out that for you couldn't I? but I won't</u>
+<u n="928" who="S0311" trans="overlap">stop cheating</u>
+<u n="929" who="S0312">stop cheating it spoils it for everyone</u>
+<u n="930" who="S0313">says the man who goes chucking out jokers</u>
+<u n="931" who="S0312">I've got so many jokers <anon type="name" nameType="f"/> come on</u>
+<u n="932" who="S0313">I couldn't believe that</u>
+<u n="933" who="S0266">this dog smells</u>
+<u n="934" who="S0313"><vocal desc="laugh"/></u>
+<u n="935" who="S0311">no he doesn't he's a beautiful animal</u>
+<u n="936" who="S0266"><unclear/> beautiful you just smell a bit</u>
+<u n="937" who="S0313">I think he's just hot in here it's very hot</u>
+<u n="938" who="S0266">I know</u>
+<u n="939" who="S0311">the <unclear>argo</unclear> is on</u>
+<u n="940" who="S0313">the what's on?</u>
+<u n="941" who="S0311">the <unclear>argo</unclear> doors are closed <unclear>argo's</unclear> full blast</u>
+<u n="942" who="S0313">can we open a door?</u>
+<u n="943" who="S0311">mm</u>
+<u n="944" who="S0313"><anon type="name" nameType="m"/> can you open the door?</u>
+<u n="945" who="S0312"><vocal desc="laugh"/> no you get up</u>
+<u n="946" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="947" who="S0313">I can't I'm in the comfy <unclear>everyone knows</unclear> if you're in the comfy it's very hard</u>
+<u n="948" who="S0312" trans="overlap"><unclear/> picked up two jokers</u>
+<u n="949" who="S0266" trans="overlap">comfy what?</u>
+<u n="950" who="S0313">he's just picked up two jokers</u>
+<u n="951" who="S0266">comfy what?</u>
+<u n="952" who="S0313">he's picked up two jokers</u>
+<u n="953" who="S0311">mm</u>
+<u n="954" who="S0312">mm</u>
+<u n="955" who="S0313">quick <anon type="name" nameType="m"/> throw another joker to <anon type="name" nameType="f"/></u>
+<u n="956" who="S0266" trans="overlap">comfy what?</u>
+<u n="957" who="S0311"><vocal desc="laugh"/></u>
+<u n="958" who="S0313">the comfy chair</u>
+<u n="959" who="S0266">mm</u>
+<u n="960" who="S0311">hello <anon type="name" nameType="m"/> <pause dur="short"/> oh it's getting a bit slow this game</u>
+<u n="961" who="S0312">this badly needs a <unclear/></u>
+<u n="962" who="S0311"><anon type="name" nameType="m"/> is so sleepy</u>
+<u n="963" who="S0268" trans="overlap">no don't need a seven <unclear/></u>
+<u n="964" who="S0311">no he's in the group of cards he's allowed to play he doesn't have to sign a contract to play cards <vocal desc="laugh"/></u>
+<u n="965" who="S0313">do you? good doggy</u>
+<u n="966" who="S0268">get off looking at my cards</u>
+<u n="967" who="S0313">I'm not looking at <trunc>yo</trunc> I I'll give you that for free</u>
+<u n="968" who="S0311" trans="overlap">come on <anon type="name" nameType="m"/></u>
+<u n="969" who="S0312">oh this is</u>
+<u n="970" who="S0311">oh <unclear>you're</unclear> so cute</u>
+<u n="971" who="S0313">that's an interesting move <anon type="name" nameType="m"/></u>
+<u n="972" who="S0311">so cute</u>
+<u n="973" who="S0266">oh he's taken that joker now I can't do anything</u>
+<u n="974" who="S0313" trans="overlap">he's kept it in his hand</u>
+<u n="975" who="S0312"><unclear>he's</unclear> kept it that's bad advice</u>
+<u n="976" who="S0313">I <trunc>s</trunc> you could have <trunc>risk</trunc> you could have risked holding it for a while longer</u>
+<pause dur="long"/>
+<u n="977" who="S0311">oh well done mum</u>
+<u n="978" who="S0312">can you fan those out a bit please?</u>
+<u n="979" who="S0313"><vocal desc="laugh"/></u>
+<u n="980" who="S0266">well ask him to do it as well</u>
+<u n="981" who="S0311"><unclear/></u>
+<u n="982" who="S0268">does he take sugar?</u>
+<u n="983" who="S0311"><unclear>A class</unclear> I can't <trunc>s</trunc> I can't even see I need my binoculars what's up there? ace king</u>
+<u n="984" who="S0266" trans="overlap">I've given up asking you because</u>
+<u n="985" who="S0313">ace king queen jack</u>
+<u n="986" who="S0268" trans="overlap">queen <pause dur="short"/> that's a queen of diamonds</u>
+<u n="987" who="S0311" trans="overlap">diamonds and what's that over there?</u>
+<u n="988" who="S0313">hearts eight nine ten</u>
+<u n="989" who="S0268">she's a diamond</u>
+<u n="990" who="S0313">control your dog</u>
+<u n="991" who="S0311">go to <anon type="name" nameType="f"/></u>
+<u n="992" who="S0313">no he can't come over here he just wants to sit down</u>
+<u n="993" who="S0311">well he can't</u>
+<u n="994" who="S0313">he's happy as he is</u>
+<u n="995" who="S0311">what do you want?</u>
+<u n="996" who="S0313">nothing</u>
+<u n="997" who="S0311">erm</u>
+<u n="998" who="S0266">right what's left? are there any spades anywhere?</u>
+<u n="999" who="S0311">yes here</u>
+<u n="1000" who="S0266">mm</u>
+<u n="1001" who="S0313">did you have a nice sleep you little dog? oh you're having a dream</u>
+<u n="1002" who="S0311" trans="overlap">why don't you climb over to <anon type="name" nameType="f"/>? come on <pause dur="short"/></u>
+<u n="1003" who="S0266">right your turn <anon type="name" nameType="m"/></u>
+<u n="1004" who="S0312">mm</u>
+<u n="1005" who="S0313"><vocal desc="laugh"/></u>
+<u n="1006" who="S0266">so hot in here</u>
+<u n="1007" who="S0311">I'm hallucinating slightly with the heat</u>
+<u n="1008" who="S0268">why's it hot? it's cos the candles on?</u>
+<u n="1009" who="S0313">it's not the candle</u>
+<u n="1010" who="S0311"><unclear/> one pound candle keeping us warm</u>
+<u n="1011" who="S0268" trans="overlap"><vocal desc="laugh"/> vanilla</u>
+<u n="1012" who="S0311">hello</u>
+<u n="1013" who="S0266">come on then <anon type="name" nameType="m"/> chuck out another joker for me</u>
+<u n="1014" who="S0313" trans="overlap">you want you want <unclear/> he'll he'll never forget that which is good he'll he won't do it again <vocal desc="laugh"/></u>
+<u n="1015" who="S0266">but it didn't help you to win did it?</u>
+<u n="1016" who="S0311">no</u>
+<u n="1017" who="S0313"><vocal desc="laugh"/></u>
+<u n="1018" who="S0268">stop being <unclear>lascivious</unclear></u>
+<u n="1019" who="S0266">can you pass me a card?</u>
+<u n="1020" who="S0313"><unclear>vicivious</unclear>?</u>
+<u n="1021" who="S0268">lascivious</u>
+<u n="1022" who="S0313">oh lascivious</u>
+<u n="1023" who="S0311">erm right</u>
+<u n="1024" who="S0313" trans="overlap">you just put down? your one card? how many cards are you on?</u>
+<u n="1025" who="S0311">erm</u>
+<u n="1026" who="S0312">three</u>
+<u n="1027" who="S0313">could've been two <vocal desc="laugh"/></u>
+<u n="1028" who="S0312">could've been two could've been two</u>
+<u n="1029" who="S0313">can you open that door?</u>
+<u n="1030" who="S0268">god no</u>
+<u n="1031" who="S0311">can you throw that out for me please?</u>
+<u n="1032" who="S0313">are you sure you want me to throw that out for you?</u>
+<u n="1033" who="S0311" trans="overlap">come on you're going to get down going to get down</u>
+<u n="1034" who="S0313">no cos he'll think that <anon type="name" nameType="m"/>'s taking him outside</u>
+<u n="1035" who="S0311">you going to climb down? oh he's so tired he just fell off</u>
+<u n="1036" who="S0313">do you see what he's done to his paw though?</u>
+<u n="1037" who="S0311">I know</u>
+<u n="1038" who="S0268">I know</u>
+<u n="1039" who="S0266">whose turn is it?</u>
+<u n="1040" who="S0311">very tired shall we put you in your basket I think you're overtired <unclear/></u>
+<u n="1041" who="S0313" trans="overlap"><vocal desc="laugh"/></u>
+<u n="1042" who="S0311">no no no it's okay gently</u>
+<u n="1043" who="S0313">don't hold his front then he can't jump if you hold his front <vocal desc="laugh"/></u>
+<u n="1044" who="S0311">good boy come in here</u>
+<u n="1045" who="S0268">how long have you had that down?</u>
+<u n="1046" who="S0266">oh about</u>
+<u n="1047" who="S0313">four hours</u>
+<u n="1048" who="S0268">no you haven't</u>
+<u n="1049" who="S0313">when this game when this round</u>
+<u n="1050" who="S0266" trans="overlap">seven turns</u>
+<u n="1051" who="S0311" trans="overlap">oh no has he not got his water bowl?</u>
+<u n="1052" who="S0313">he hasn't got he's dying for a drink</u>
+<u n="1053" who="S0266">no he's not we've put him at different you've got actually his water bowl in the back of your car</u>
+<u n="1054" who="S0311" trans="overlap">yeah I have</u>
+<u n="1055" who="S0313">have you given him another water bowl?</u>
+<u n="1056" who="S0266">yep</u>
+<u n="1057" who="S0313">have you given <trunc>m</trunc></u>
+<u n="1058" who="S0312">this is the longest game I've ever had this</u>
+<u n="1059" who="S0268">mm</u>
+<u n="1060" who="S0266">isn't it fun?</u>
+<u n="1061" who="S0312">mm</u>
+<u n="1062" who="S0313">I feel don't put it in his bed</u>
+<u n="1063" who="S0266">he's got water</u>
+<u n="1064" who="S0313">it's your go</u>
+<u n="1065" who="S0268">he just gave me</u>
+<u n="1066" who="S0312">he's just gone out</u>
+<u n="1067" who="S0313">good well it ends ends the round <vocal desc="laugh"/></u>
+<u n="1068" who="S0311">oh are we still playing?</u>
+<u n="1069" who="S0313">no you'd already chucked out your card I'm sorry</u>
+<u n="1070" who="S0268">no</u>
+<u n="1071" who="S0313">yeah</u>
+<u n="1072" who="S0268">I hadn't</u>
+<u n="1073" who="S0311">well why</u>
+<u n="1074" who="S0313" trans="overlap">you <trunc>chu</trunc> that hit the deck before these did</u>
+<u n="1075" who="S0268">oh don't be silly</u>
+<u n="1076" who="S0311"><anon type="name" nameType="m"/> <unclear/> game on</u>
+<u n="1077" who="S0266" trans="overlap">right I'm picking this up</u>
+<u n="1078" who="S0313"><vocal desc="laugh"/> <unclear/></u>
+<u n="1079" who="S0312" trans="overlap"><unclear/></u>
+<u n="1080" who="S0311">no who's won?</u>
+<u n="1081" who="S0266">are you out?</u>
+<u n="1082" who="S0268">yes</u>
+<u n="1083" who="S0313">we we need a technicality <anon type="name" nameType="f"/></u>
+<u n="1084" who="S0268" trans="overlap">no no</u>
+<u n="1085" who="S0311" trans="overlap">no no <anon type="name" nameType="f"/> come on</u>
+<u n="1086" who="S0266" trans="overlap">are you out?</u>
+<u n="1087" who="S0268">yes</u>
+<u n="1088" who="S0311">it doesn't matter if you put yes he <trunc>i</trunc> no</u>
+<u n="1089" who="S0313" trans="overlap">no you can't mum's playing them all</u>
+<u n="1090" who="S0311">mum I was about to take that joker right I have three which is a great score</u>
+<u n="1091" who="S0313" trans="overlap"><vocal desc="laugh"/> no</u>
+<u n="1092" who="S0268">I'm out</u>
+<u n="1093" who="S0266">well done congratulations</u>
+<u n="1094" who="S0268">thank you</u>
+<u n="1095" who="S0311">mum it's your deal</u>
+<u n="1096" who="S0312">seven for me</u>
+<u n="1097" who="S0268">what? what is this order of things? you've got to put down before you throw out or you've got to throw out before you put down</u>
+<u n="1098" who="S0313" trans="overlap">how many did you have <anon type="name" nameType="f"/>?</u>
+<u n="1099" who="S0311" trans="overlap">three</u>
+<u n="1100" who="S0266">are you?</u>
+<u n="1101" who="S0312">you can't write <trunc>the</trunc> you can't write them on like that <unclear/></u>
+<u n="1102" who="S0266" trans="overlap">six twelve fourteen</u>
+<u n="1103" who="S0313">how many? oh I'm doing the scores now mum what have you got?</u>
+<u n="1104" who="S0266">oh</u>
+<u n="1105" who="S0268">scores on the doors</u>
+<u n="1106" who="S0313">how many?</u>
+<u n="1107" who="S0266">eh eh twelve fourteen sixteen</u>
+<u n="1108" who="S0311">has the dog been fed yet?</u>
+<u n="1109" who="UNKMULTI" whoConfidence="low">yes <pause dur="short"/></u>
+<u n="1110" who="S0311">right mum's deal scores on the doors please</u>
+<u n="1111" who="S0268">maybe the dog would like a T R E A T</u>
+<u n="1112" who="S0313">no don't</u>
+<u n="1113" who="S0268">because just to clear him out a bit</u>
+<u n="1114" who="S0313" trans="overlap">he's had so many treats today</u>
+<u n="1115" who="S0266">are those cards? are you cheating keeping all those cards?</u>
+<u n="1116" who="S0313" trans="overlap">no</u>
+<u n="1117" who="S0266">pass them over then</u>
+<u n="1118" who="S0313">right scores on the doors</u>
+<u n="1119" who="S0266" trans="overlap">I thought <anon type="name" nameType="m"/> was doing the scoring?</u>
+<u n="1120" who="S0312">no I got demoted</u>
+<u n="1121" who="S0313">to ribbon cutter <vocal desc="laugh"/></u>
+<u n="1122" who="S0268">is this the apprentice?</u>
+<u n="1123" who="S0312" trans="overlap">who've we got then? who've we got?</u>
+<u n="1124" who="S0313">okay so</u>
+<u n="1125" who="S0268">are you? are you project manager now?</u>
+<u n="1126" who="S0313">yep</u>
+<u n="1127" who="S0268">alright</u>
+<u n="1128" who="S0313">mum is winning and she's got twelve</u>
+<u n="1129" who="S0268" trans="overlap">who are you going to take into the boardroom?</u>
+<u n="1130" who="S0313"><anon type="name" nameType="m"/></u>
+<u n="1131" who="S0311"><vocal desc="laugh"/></u>
+<u n="1132" who="S0313">after that diabolical giving away of the joker</u>
+<u n="1133" who="S0268">going <trunc>t</trunc> going to take me into the boardroom?</u>
+<u n="1134" who="S0313" trans="overlap"><anon type="name" nameType="f"/>'s got twelve followed by <anon type="name" nameType="m"/> who's got a hundred and twenty-three</u>
+<u n="1135" who="S0266">oh</u>
+<u n="1136" who="S0313">followed by <anon type="name" nameType="m"/> with a hundred and thirty-six then there's me on a hundred and sixty-one and <anon type="name" nameType="f"/> on two hundred and thirty-nine</u>
+<u n="1137" who="S0268">way</u>
+<u n="1138" who="S0311" trans="overlap">oh</u>
+<u n="1139" who="S0313">just to clarify the rules we start a new tournament at three hundred and fifty points so <anon type="name" nameType="f"/> needs to score less than eleven oh no less than a hundred and eleven</u>
+<u n="1140" who="S0311">that's fine and dandy</u>
+<u n="1141" who="S0313">can you do less than a hundred and eleven?</u>
+<u n="1142" who="S0266">right who'd like to cut?</u>
+<u n="1143" who="S0313">me I'm going for a black magic</u>
+<u n="1144" who="S0311">can I have one of these mini muffins?</u>
+<u n="1145" who="S0268">yes of course could you bring one for everybody?</u>
+<u n="1146" who="S0313"><vocal desc="laugh"/></u>
+<u n="1147" who="S0268">okay could you put them on the table?</u>
+<u n="1148" who="S0313" trans="overlap">could you bring could you bring one with a thank you card? <vocal desc="laugh"/> I'm joking</u>
+<u n="1149" who="S0311">I've said I'm sorry my thank you cards have been delayed</u>
+<u n="1150" who="S0313">from print?</u>
+<u n="1151" who="S0311">from the printers anyone else like a blueberry mini muffin? no?</u>
+<u n="1152" who="S0268" trans="overlap">I think you ought to send people a card that their cards have been delayed</u>
+<u n="1153" who="S0313">might as well just put a picture of you you and <anon type="name" nameType="m"/> in the snow on it and send it as a Christmas card</u>
+<u n="1154" who="S0311">no</u>
+<u n="1155" who="S0268"><vocal desc="laugh"/></u>
+<u n="1156" who="S0313">can I have a mini muffin please? do you not want one <anon type="name" nameType="m"/>?</u>
+<u n="1157" who="S0312">I quite like <unclear/></u>
+<u n="1158" who="S0266" trans="overlap">could you just check that's ten?</u>
+<u n="1159" who="S0313">I know that you left <unclear/></u>
+<u n="1160" who="S0311" trans="overlap">are these the <unclear/> special?</u>
+<u n="1161" who="S0268">we're eleven even</u>
+<u n="1162" who="S0311"><anon type="name" nameType="m"/> these are <unclear/> special?</u>
+<u n="1163" who="S0268">eh they it's funny you should say that <unclear/></u>
+<u n="1164" who="S0312" trans="overlap"><unclear/> yeah</u>
+<u n="1165" who="S0266" trans="overlap">eleven eleven eleven eleven eleven</u>
+<u n="1166" who="S0268">every little helps</u>
+<u n="1167" who="S0313"><anon type="name" nameType="m"/> could you pass me? Oh</u>
+<u n="1168" who="S0311">sorry <anon type="name" nameType="f"/> you were out by four cards and you cut</u>
+<u n="1169" who="S0313">I'll try better next time</u>
+<u n="1170" who="S0268" trans="overlap">ah can I have another one?</u>
+<u n="1171" who="S0311" trans="overlap">can I have one?</u>
+<u n="1172" who="S0266">it's there in front of you</u>
+<u n="1173" who="S0268">thank you very much dear</u>
+<u n="1174" who="S0266">would anyone else like to go for other cards? I would <pause dur="short"/></u>
+<u n="1175" who="S0311">practice what you preach <anon type="name" nameType="m"/></u>
+<u n="1176" who="S0313">I would my cards are in</u>
+<u n="1177" who="S0266">my cards are in please can we go for others?</u>
+<u n="1178" who="S0311">these mini muffins are delicious</u>
+<u n="1179" who="S0268">good</u>
+<u n="1180" who="S0266">I don't think I want to for <unclear/> on this occasion</u>
+<u n="1181" who="S0311" trans="overlap">oh come on mum please</u>
+<u n="1182" who="S0266">no cos when I always want to no one else will</u>
+<u n="1183" who="S0311">I always do</u>
+<u n="1184" who="S0313">right get all your cards down</u>
+<u n="1185" who="S0311">don't have any to put down</u>
+<u n="1186" who="S0313">I'll swap you some cards?</u>
+<u n="1187" who="S0311">her cards are down</u>
+<u n="1188" who="S0313">oh</u>
+<u n="1189" who="S0311">she said go for others cards are down</u>
+<u n="1190" who="S0266">I'm just resting to eat a muffin</u>
+<u n="1191" who="S0311"><anon type="name" nameType="m"/>?</u>
+<u n="1192" who="S0313"><anon type="name" nameType="m"/> you're</u>
+<u n="1193" who="S0312">I think I I think I'm good thanks</u>
+<u n="1194" who="S0268">my legs are cold</u>
+<u n="1195" who="S0266">you're to start <anon type="name" nameType="m"/></u>
+<u n="1196" who="S0312">okay</u>
+<u n="1197" who="S0311">there's a bit of a draft now with the door open</u>
+<u n="1198" who="S0313">I know if anything it's cold</u>
+<u n="1199" who="S0311">oxygen</u>
+<u n="1200" who="S0268">everybody enjoy their muffins?</u>
+<u n="1201" who="S0313">I might have another</u>
+<u n="1202" who="S0311" trans="overlap">yeah they were absolutely delicious</u>
+<u n="1203" who="S0313">my cards are really bad</u>
+<u n="1204" who="S0311">mm awful watch <anon type="name" nameType="m"/> he's going to go out in one</u>
+<u n="1205" who="S0313">he's become <vocal desc="laugh"/> quite the cardsman can I have a mini muffin <anon type="name" nameType="m"/>? oh <anon type="name" nameType="m"/> you're always with the sixes aren't you? <vocal desc="laugh"/></u>
+<u n="1206" who="S0311">stop cheating</u>
+<u n="1207" who="S0312" trans="overlap">that is ridiculous</u>
+<u n="1208" who="S0311">so naughty to cheat</u>
+<u n="1209" who="S0312" trans="overlap">nobody likes it</u>
+<u n="1210" who="S0313">no one likes what?</u>
+<u n="1211" who="S0312">when you look at peoples cards</u>
+<u n="1212" who="S0311">yeah</u>
+<u n="1213" who="S0266"><unclear/> looking at mine?</u>
+<u n="1214" who="S0311"><unclear/> I took</u>
+<u n="1215" who="S0266">whose turn is it?</u>
+<u n="1216" who="S0311">come on <anon type="name" nameType="f"/></u>
+<u n="1217" who="S0313">I'm on I do you know I haven't even touched a joker in I don't know how long</u>
+<u n="1218" who="S0311">I haven't been dealt a long time</u>
+<u n="1219" who="S0313">no I'm not just talking about dealt though <anon type="name" nameType="f"/> I'm talking about</u>
+<u n="1220" who="S0268">I'd like to be clear on how many jokers there are</u>
+<u n="1221" who="S0313">twelve</u>
+<u n="1222" who="S0268">no</u>
+<u n="1223" who="S0311" trans="overlap">no there's six</u>
+<u n="1224" who="S0268">that's too many</u>
+<u n="1225" who="S0266">no cos there are extra ones there's ones there's jokers and there's one it says fifty points wild</u>
+<u n="1226" who="S0313" trans="overlap"><unclear/></u>
+<u n="1227" who="S0312" trans="overlap"><unclear/></u>
+<u n="1228" who="S0313" trans="overlap">it's your dog <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> good boy good boy good boy</u>
+<u n="1229" who="S0266">there's different types of jokers if you look at them in your hand</u>
+<u n="1230" who="S0311">yeah but there's four there's two in each pack there are two packs of cards so there's four in total and there's two extra</u>
+<u n="1231" who="S0266" trans="overlap">whose go is it?</u>
+<u n="1232" who="S0312" trans="overlap"><unclear/></u>
+<u n="1233" who="S0266" trans="overlap">have you played dear? <pause dur="short"/></u>
+<u n="1234" who="S0313">do you eat the paper on these?</u>
+<u n="1235" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1236" who="S0311">I think so give it a go</u>
+<u n="1237" who="S0268" trans="overlap">it's not <unclear/> paper</u>
+<u n="1238" who="S0311">try it try it and see I'm pretty sure it's rice paper</u>
+<u n="1239" who="S0313"><vocal desc="laugh"/></u>
+<u n="1240" who="S0268">you're very cruel to each other very very cruel to each other</u>
+<u n="1241" who="S0311" trans="overlap">I love my sister oh look she's choking</u>
+<u n="1242" who="S0313"><vocal desc="laugh"/></u>
+<u n="1243" who="S0268">that is playing a trick <unclear/></u>
+<u n="1244" who="S0311" trans="overlap">do you want my paper as well? that's what you call attention seeking</u>
+<u n="1245" who="UNKMULTI" whoConfidence="low"><anon type="name" nameType="m"/></u>
+<u n="1246" who="S0313"><anon type="name" nameType="m"/> Paolo Nutini</u>
+<u n="1247" who="S0268">I like it better when</u>
+<u n="1248" who="S0313">I don't understand why he doesn't keep them oh that's why</u>
+<u n="1249" who="S0311"><anon type="name" nameType="m"/></u>
+<u n="1250" who="S0268">mm very precise</u>
+<u n="1251" who="S0312">erm</u>
+<u n="1252" who="S0313">think there's a little arrogance as well a swagger <vocal desc="laugh"/> this like smile</u>
+<u n="1253" who="S0266">how long have you been growing your beard for? it suits you <unclear/></u>
+<u n="1254" who="S0312" trans="overlap"><unclear/></u>
+<u n="1255" who="S0313">have you ever seen him clean shaven?</u>
+<u n="1256" who="S0266">yeah for the wedding he was wasn't he?</u>
+<u n="1257" who="S0313">no he wasn't</u>
+<u n="1258" who="S0266">oh but I don't think I've ever seen it that long</u>
+<u n="1259" who="S0312">no it's like two weeks <unclear/> small sink and it's quite difficult to shave in so I just <unclear/></u>
+<u n="1260" who="S0311" trans="overlap">looks really good grow it <vocal desc="laugh"/> well that sounds very sensible</u>
+<u n="1261" who="S0312">mm</u>
+<u n="1262" who="S0311">I think it really suits you</u>
+<u n="1263" who="S0312">yeah someone at work said I look very dapper</u>
+<u n="1264" who="S0311">dapper?</u>
+<u n="1265" who="S0312">mm</u>
+<u n="1266" who="S0311">yeah I'd agree with that</u>
+<u n="1267" who="S0266">sorry? what did you say?</u>
+<u n="1268" who="S0312">some the guy in the meteorology lab at work said I looked very dapper</u>
+<u n="1269" who="S0313">well if he said that <vocal desc="laugh"/></u>
+<u n="1270" who="S0268">dapper?</u>
+<u n="1271" who="S0312">mm</u>
+<u n="1272" who="S0268">mm</u>
+<u n="1273" who="S0313">shame it isn't the girls in the P R telling you that though isn't it?</u>
+<u n="1274" who="S0312"><unclear/></u>
+<u n="1275" who="S0311">what department does he work in?</u>
+<u n="1276" who="S0312">meteorology</u>
+<u n="1277" who="S0311">mm</u>
+<u n="1278" who="S0266">what does what do they do in meteorology?</u>
+<u n="1279" who="S0312">they measure things</u>
+<u n="1280" who="S0311" trans="overlap">set <trunc>fas</trunc> set fashion trends clearly</u>
+<u n="1281" who="S0266" trans="overlap">oh right</u>
+<u n="1282" who="S0268">meteorology</u>
+<u n="1283" who="S0311">is that true? they set fashion trends?</u>
+<u n="1284" who="S0312">no definitely not</u>
+<u n="1285" who="S0313">call you dapper</u>
+<u n="1286" who="S0312">they measure things they've got all sorts of measuring equipment</u>
+<u n="1287" who="S0311">what? their job is just to measure all day long?</u>
+<u n="1288" who="S0312">mm like literally all day long yeah</u>
+<u n="1289" who="S0311">really?</u>
+<u n="1290" who="S0312">yeah</u>
+<u n="1291" who="S0268" trans="overlap">do you think they're quite boring people?</u>
+<u n="1292" who="S0312">no <unclear/> <anon type="name" nameType="m"/>'s a good guy actually</u>
+<u n="1293" who="S0268">even though he measures things all day?</u>
+<u n="1294" who="S0312">yeah he is a bit nuts though he I think it has driven him crazy</u>
+<u n="1295" who="S0268">oh right</u>
+<u n="1296" who="S0266">come on whose go?</u>
+<u n="1297" who="S0313"><anon type="name" nameType="m"/>'s of course come on</u>
+<u n="1298" who="S0268" trans="overlap">me <unclear/></u>
+<u n="1299" who="S0266">so how often do you visit the meteorology department?</u>
+<u n="1300" who="S0312">I quite like it there cos it's quite quiet and then <unclear/> it's good to just go in there and chart with them so you can just go in there and have a chat and measure some stuff and then <vocal desc="laugh"/> and then like it's quite it's really quiet and they solve loads of interesting things in there so</u>
+<u n="1301" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1302" who="S0266">what sort of things do you get them to measure <anon type="name" nameType="m"/>?</u>
+<u n="1303" who="S0312">erm parts plastic parts</u>
+<u n="1304" who="S0313">parts eh?</u>
+<u n="1305" who="S0266">parts of what?</u>
+<u n="1306" who="S0312">parts of a vacuum cleaner parts of a motor</u>
+<u n="1307" who="S0311">but surely it's it's not a full time job just to measure</u>
+<u n="1308" who="S0312" trans="overlap">absolutely full time absolutely full time</u>
+<u n="1309" who="S0311">do you ever <trunc>mensu</trunc> measure?</u>
+<u n="1310" who="S0313" trans="overlap">really?</u>
+<u n="1311" who="S0312">that's what <unclear/> that's all we <unclear/></u>
+<u n="1312" who="S0268">do they use spectrometers?</u>
+<u n="1313" who="S0311" trans="overlap">measure?</u>
+<u n="1314" who="S0312">what my job is all about <unclear/> <trunc>cal</trunc>calculating that things are going to fit together and things are going to work together and erm making sure that you when you put them into production that you understand what size they're going to come back at and if you if you get one part that comes in at that size and another part that comes in other size and another part comes in another size</u>
+<u n="1315" who="S0311" trans="overlap">measure?</u>
+<u n="1316" who="S0312">that they'll all fit together and all work to specification at the at those limits</u>
+<u n="1317" who="S0311" trans="overlap">what's that? <anon type="name" nameType="f"/>?</u>
+<u n="1318" who="S0266">yeah mm oh that's really interesting</u>
+<u n="1319" who="S0312">yeah people don't people people wouldn't even think that when you look at <unclear/></u>
+<u n="1320" who="S0266" trans="overlap">no absolutely not there's so much detail in them</u>
+<u n="1321" who="S0312">mm</u>
+<u n="1322" who="S0313">do you enjoy your job?</u>
+<u n="1323" who="S0312">yes</u>
+<u n="1324" who="S0313">what's your favourite thing?</u>
+<u n="1325" who="S0312">about my job?</u>
+<u n="1326" who="S0313">mm</u>
+<u n="1327" who="S0312">just erm coming up with ideas</u>
+<u n="1328" who="S0311">the creativity?</u>
+<u n="1329" who="S0312">mm problems solving problems</u>
+<u n="1330" who="S0313">mm could you move that muffin box someone? I can't see the cards</u>
+<u n="1331" who="S0268">mm</u>
+<u n="1332" who="S0312">right I've not been paying attention I think so what's on the table? <pause dur="short"/></u>
+<u n="1333" who="S0266">so presumably they don't just have rulers to measure?</u>
+<u n="1334" who="S0312">a bit more advanced than that</u>
+<u n="1335" who="S0311"><vocal desc="laugh"/></u>
+<u n="1336" who="S0268">is that? you know <anon type="place"/>? do they do measuring</u>
+<u n="1337" who="S0313" trans="overlap">you're on like your fourth muffin</u>
+<u n="1338" who="S0312">they make they make <trunc>rem</trunc> erm measuring equipment</u>
+<u n="1339" who="S0268">so do you use some of their equipment?</u>
+<u n="1340" who="S0312">I don't know I think maybe I'm not sure <trunc>be</trunc> they make C M M machines</u>
+<u n="1341" who="S0266">but can't you measure your own stuff? don't you know how to measure</u>
+<u n="1342" who="S0311" trans="overlap">what's C M M?</u>
+<u n="1343" who="S0312">eh no not not when you need like to the micron you don't</u>
+<u n="1344" who="S0266">mm</u>
+<u n="1345" who="S0313">yeah I mean if it's not to the micron I wouldn't bother</u>
+<u n="1346" who="S0312">erm</u>
+<u n="1347" who="S0313">when was the last time you used a protractor? <vocal desc="laugh"/></u>
+<u n="1348" who="S0268" trans="overlap"><unclear/> can't you get an app for that? <pause dur="short"/> or ruler?</u>
+<u n="1349" who="S0266">did you hear her question?</u>
+<u n="1350" who="S0312">when was the last time I used a protractor?</u>
+<u n="1351" who="S0311">mm</u>
+<u n="1352" who="S0312">a couple of weeks ago maybe?</u>
+<u n="1353" who="S0266">compass?</u>
+<u n="1354" who="S0312">all the time</u>
+<u n="1355" who="S0313"><vocal desc="laugh"/></u>
+<u n="1356" who="S0268" trans="overlap">set square?</u>
+<u n="1357" who="S0312">erm</u>
+<u n="1358" who="S0268">slide rule</u>
+<u n="1359" who="S0313" trans="overlap">what about a stapler? <vocal desc="laugh"/></u>
+<u n="1360" who="S0312">this is this is like borderline erm what do they call it?</u>
+<u n="1361" who="S0311">what?</u>
+<u n="1362" who="S0312"><unclear>sledging</unclear></u>
+<u n="1363" who="S0311">slide rule?</u>
+<u n="1364" who="S0268">slide rule</u>
+<u n="1365" who="S0266">you say you use a slide rule?</u>
+<u n="1366" who="S0311">what's a slide rule?</u>
+<u n="1367" who="S0268">it's like a computer</u>
+<u n="1368" who="S0266">it's for engineers</u>
+<u n="1369" who="S0312">I don't use a slide ruler</u>
+<u n="1370" who="S0266">do you know what one is?</u>
+<u n="1371" who="S0268">course he does he's an engineer</u>
+<u n="1372" who="S0312" trans="overlap">yeah</u>
+<u n="1373" who="S0266">but he might be too young they might use computers nowadays</u>
+<u n="1374" who="S0268">well</u>
+<u n="1375" who="S0266">instead of a slide rule</u>
+<u n="1376" who="S0268">slide rules are rulers with with another ruler imbedded in it and it goes <trunc>sl</trunc> you slide it up and down hence it's called slide rule</u>
+<u n="1377" who="S0311">very high tech</u>
+<u n="1378" who="S0313">it's hard to pretend it's interesting when he's saying it to me let alone when you're saying it to me</u>
+<u n="1379" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1380" who="S0268">mm well I try to I try to put I try to put a sort of inflection in my voice to make it more interesting</u>
+<u n="1381" who="S0313" trans="overlap">oh really? a ruler called a slide rule? yeah</u>
+<u n="1382" who="S0311">a ruler inside a ruler though?</u>
+<u n="1383" who="S0313"><vocal desc="laugh"/> <unclear/></u>
+<u n="1384" who="S0268">it's a ruler inside a ruler</u>
+<u n="1385" who="S0313">yes finally a joker</u>
+<u n="1386" who="S0268">what's going on?</u>
+<u n="1387" who="S0311">will someone help me load that mirror into my car?</u>
+<u n="1388" who="UNKFEMALE" whoConfidence="low">yes</u>
+<u n="1389" who="S0312" trans="overlap">if</u>
+<u n="1390" who="S0311">thank you</u>
+<u n="1391" who="S0312">if I've already put down and someone else puts down everything they still get twenty-five</u>
+<u n="1392" who="S0266">they get twenty-five but you don't</u>
+<u n="1393" who="S0313" trans="overlap">yeah otherwise <anon type="name" nameType="f"/> would be right</u>
+<u n="1394" who="S0312" trans="overlap">but what happens if they <unclear/> use so many other cards</u>
+<u n="1395" who="S0266">that's fine <unclear/> one go then you get minus twenty-five</u>
+<u n="1396" who="S0313" trans="overlap">no to the end</u>
+<u n="1397" who="S0311" trans="overlap">no that went in that part</u>
+<u n="1398" who="S0313">no no no</u>
+<u n="1399" who="S0312">sorry that went</u>
+<u n="1400" who="S0313">no it didn't shut up</u>
+<u n="1401" who="S0268">whose go is it?</u>
+<u n="1402" who="S0313">it's mine I'm still playing can I have that joker please?</u>
+<u n="1403" who="S0268">mm</u>
+<u n="1404" who="S0313">many thanks kind regards</u>
+<u n="1405" who="S0268" trans="overlap">I would've gone for that</u>
+<u n="1406" who="S0313">bet you would've that's what they all say</u>
+<u n="1407" who="S0268">mm</u>
+<u n="1408" who="S0311">I'd still like to go for other cards</u>
+<u n="1409" who="S0266">so would I</u>
+<u n="1410" who="S0268">no well</u>
+<u n="1411" who="S0311">go for other cards and I'll buy you a new protractor</u>
+<u n="1412" who="UNKFEMALE" trans="overlap" whoConfidence="low">well</u>
+<u n="1413" who="S0312" trans="overlap"><unclear/> you have to do that at the beginning</u>
+<u n="1414" who="S0311"><vocal desc="laugh"/> oh no you can do it at any stage throughout the game</u>
+<u n="1415" who="S0266" trans="overlap">can you do it any time?</u>
+<u n="1416" who="S0311">can you?</u>
+<u n="1417" who="S0266">yes</u>
+<u n="1418" who="S0313">what? go for others?</u>
+<u n="1419" who="S0311">you made that rule up</u>
+<u n="1420" who="S0266">right</u>
+<u n="1421" who="S0268">look at you and your jokers</u>
+<u n="1422" who="S0313">I wasn't dealt any of them I just picked one up</u>
+<u n="1423" who="S0266">do you see how they're different <unclear/></u>
+<u n="1424" who="S0268">I think there are too many jokers I think you should only have four jokers</u>
+<u n="1425" who="S0312" trans="overlap"><unclear/></u>
+<u n="1426" who="S0313" trans="overlap">what?</u>
+<u n="1427" who="S0312">you didn't pick two up did you?</u>
+<u n="1428" who="S0313">no I just got one from over there</u>
+<u n="1429" who="S0312" trans="overlap"><unclear/> yeah one</u>
+<u n="1430" who="S0268">you surely should only have four jokers it's crazy</u>
+<u n="1431" who="S0313" trans="overlap">you picked one up</u>
+<u n="1432" who="S0312" trans="overlap">so you have two</u>
+<u n="1433" who="S0313">picked one up there from there</u>
+<u n="1434" who="S0312">yeah</u>
+<u n="1435" who="S0313">and I obviously picked one up from the pile of cards</u>
+<u n="1436" who="S0312">okay</u>
+<u n="1437" who="S0313">as as someone who's more of an expert on you than jokers</u>
+<u n="1438" who="S0268">can you get on with it <anon type="name" nameType="f"/>?</u>
+<u n="1439" who="S0313"><vocal desc="laugh"/> I wouldn't comment if I was you erm</u>
+<u n="1440" who="S0268">this is the man who threw a joker out</u>
+<u n="1441" who="S0311" trans="overlap">I make that an eight</u>
+<u n="1442" who="S0266">oh is is she allowed to change?</u>
+<u n="1443" who="S0312" trans="overlap">is that allowed? Is that allowed?</u>
+<u n="1444" who="S0313">I I am I am until I've chucked out I made as many decisions as I so shall wish</u>
+<u n="1445" who="S0311" trans="overlap">no you're not allowed to change</u>
+<u n="1446" who="S0268">mm I'm not sure about that</u>
+<u n="1447" who="S0312" trans="overlap">is that not <unclear/></u>
+<u n="1448" who="S0268">wow look at you</u>
+<u n="1449" who="S0311"><anon type="name" nameType="m"/> would you like another muffin?</u>
+<u n="1450" who="S0266" trans="overlap">smarty pants</u>
+<u n="1451" who="S0312">no thanks</u>
+<u n="1452" who="S0266">do you want some more erm papers to eat? the rice papers?</u>
+<u n="1453" who="S0313">I ate the nougat that someone brought me back from <anon type="place"/> who was that?</u>
+<u n="1454" who="S0268">erm</u>
+<u n="1455" who="S0313">you?</u>
+<u n="1456" who="S0268">I think I brought it back</u>
+<u n="1457" who="S0313" trans="overlap">no it was you from honeymoon</u>
+<u n="1458" who="S0311">oh right yes</u>
+<u n="1459" who="S0313">in a desperate move to have something sugary <unclear/></u>
+<u n="1460" who="S0311" trans="overlap">oh thanks you saved my presents for desperation</u>
+<u n="1461" who="S0268" trans="overlap">desperate</u>
+<u n="1462" who="S0313" trans="overlap">I haven't no I haven't opened my sugared almonds I love them so much</u>
+<u n="1463" who="S0311">mm I bet you they've gone into that special drawer to re-gift</u>
+<u n="1464" who="S0312" trans="overlap">I got my hot chocolate my hot chocolate that I was given two years ago</u>
+<u n="1465" who="S0266">you haven't had it?</u>
+<u n="1466" who="S0312">I opened it last night</u>
+<u n="1467" who="S0266">is it horrible?</u>
+<u n="1468" who="S0312">no it was nice</u>
+<u n="1469" who="S0313">it's been it's been all the way to <anon type="place"/> and back</u>
+<u n="1470" who="S0266" trans="overlap">he's got loads <unclear/> no</u>
+<u n="1471" who="S0312" trans="overlap">that's very nice it's very nice</u>
+<u n="1472" who="S0313">it expired six months ago <vocal desc="laugh"/></u>
+<u n="1473" who="S0266">ah hot chocolate doesn't well</u>
+<u n="1474" who="S0312" trans="overlap"><unclear/> we <trunc>ha</trunc> we had one last night</u>
+<u n="1475" who="S0266">what? what make is it?</u>
+<u n="1476" who="S0312"><unclear/></u>
+<u n="1477" who="S0313"><unclear/></u>
+<u n="1478" who="S0266">I think I've got a special pot up there you might like</u>
+<u n="1479" who="S0313">crème brûlée that's around the same that's the same time we bought <unclear/></u>
+<u n="1480" who="S0266" trans="overlap">crème brûlée who likes the crème brûlée? it's disgusting</u>
+<u n="1481" who="S0268">get off my cards</u>
+<u n="1482" who="S0311">come on <anon type="name" nameType="m"/> we're all going to sleep</u>
+<u n="1483" who="S0268">I'm trying to concentrate</u>
+<u n="1484" who="S0311"><vocal desc="sigh"/></u>
+<u n="1485" who="S0313">yeah it was good hot chocolate though</u>
+<u n="1486" who="S0266">so what kind of things are you doing in your job this week then?</u>
+<u n="1487" who="S0313">crazy stuff</u>
+<u n="1488" who="S0266">creative stuff?</u>
+<u n="1489" who="S0312">no just <unclear/></u>
+<u n="1490" who="UNKMULTI" trans="overlap" whoConfidence="low">crazy stuff</u>
+<u n="1491" who="S0266">so you have a review and then what do they decide? what you should do?</u>
+<u n="1492" who="S0312" trans="overlap">well just</u>
+<u n="1493" who="S0266">and then you work on it?</u>
+<u n="1494" who="S0312">mm</u>
+<u n="1495" who="S0313">what would <anon type="name" nameType="m"/> say though?</u>
+<u n="1496" who="S0266">what would you?</u>
+<u n="1497" who="S0312">sorry?</u>
+<u n="1498" who="S0266">what was the question?</u>
+<u n="1499" who="S0313"><anon type="name" nameType="m"/> your boss</u>
+<u n="1500" who="S0311">is he a good man?</u>
+<u n="1501" who="S0312">don't know I don't know who you're talking about</u>
+<u n="1502" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1503" who="S0313">your boss</u>
+<u n="1504" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1505" who="S0268">what's <anon type="name" nameType="m"/>? good boy?</u>
+<u n="1506" who="S0313">good boy Great Britain</u>
+<u n="1507" who="S0311">Great Britain</u>
+<u n="1508" who="S0268">good boy</u>
+<u n="1509" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1510" who="S0268">right it's your go <anon type="name" nameType="f"/></u>
+<u n="1511" who="S0266">right no hearts either</u>
+<u n="1512" who="S0313"><vocal desc="laugh"/></u>
+<u n="1513" who="S0268">so</u>
+<u n="1514" who="S0313">just showing you thought you might like to look <pause dur="short"/></u>
+<u n="1515" who="S0266">what time are you setting off for <anon type="place"/>?</u>
+<u n="1516" who="S0313">probably about oh well done that's really good well done you</u>
+<u n="1517" who="S0266">patronising you are talking to him like he's a dog</u>
+<u n="1518" who="S0312">I had nine and sixes</u>
+<u n="1519" who="S0313">nines? is it the six of spades? <pause dur="short"/></u>
+<u n="1520" who="S0266"><unclear/> found out those cards there come on <anon type="name" nameType="m"/> chop chop</u>
+<u n="1521" who="S0311">yes <unclear/></u>
+<u n="1522" who="S0313" trans="overlap"><vocal desc="laugh"/></u>
+<u n="1523" who="S0311">I really wanted that card shall I gamble or shall I not? erm I'm going to go for it oh should've picked it up</u>
+<u n="1524" who="S0266">stop cheating</u>
+<u n="1525" who="S0313">how are you suddenly gone to being completely risk adverse and now you're holding up all your cards all the time?</u>
+<u n="1526" who="S0268">who? me?</u>
+<u n="1527" who="S0313">no her she always used to put all her cards down first thing</u>
+<u n="1528" who="S0268">so difficult keeping my cards from from you and still being able to see them myself <vocal desc="laugh"/></u>
+<u n="1529" who="S0313">you're showing them to mum now <vocal desc="laugh"/></u>
+<u n="1530" who="S0313">I'm sorry <anon type="name" nameType="f"/> but you need to either put down or</u>
+<u n="1531" who="S0268">give up</u>
+<u n="1532" who="S0311">or give up</u>
+<u n="1533" who="S0313">or just chuck one out then yes</u>
+<u n="1534" who="S0268">what are we all doing for halloween then?</u>
+<u n="1535" who="S0311">nothing don't believe in it</u>
+<u n="1536" who="S0268" trans="overlap">trick or treating?</u>
+<u n="1537" who="S0311">don't believe in it</u>
+<u n="1538" who="S0266">biggest load of rubbish I ever heard</u>
+<u n="1539" who="S0311" trans="overlap"><unclear/></u>
+<u n="1540" who="S0268">trick or treating?</u>
+<u n="1541" who="S0313">it's an Americanism I refuse to be part of a pagan religion which worships the dead</u>
+<u n="1542" who="S0268">oh dear</u>
+<u n="1543" who="S0312" trans="overlap">that wasn't American pagans</u>
+<u n="1544" who="S0313">no but the Americans have glamorised it haven't they?</u>
+<u n="1545" who="S0266">when is it?</u>
+<u n="1546" who="S0313">thirty-first</u>
+<u n="1547" who="S0311" trans="overlap">thirty</u>
+<u n="1548" who="S0266">which day of the week's that?</u>
+<u n="1549" who="S0313">erm a Wednesday</u>
+<u n="1550" who="S0266">we were never allowed to go trick or treating as children</u>
+<u n="1551" who="S0313">did you have a desire to?</u>
+<u n="1552" who="S0266">no I think it's scandalous</u>
+<u n="1553" who="S0313" trans="overlap">there'll be trick or treating up in <anon type="place"/></u>
+<u n="1554" who="S0266">I used to take you apple bobbing instead</u>
+<u n="1555" who="S0311">yes I remember our neighbours having great</u>
+<u n="1556" who="S0266">well and up at the farm at <anon type="place"/></u>
+<u n="1557" who="S0311">oh yeah</u>
+<u n="1558" who="S0266">oh he's out he's out well done congratulations</u>
+<u n="1559" who="S0312" trans="overlap"><unclear/></u>
+<u n="1560" who="S0268">thank you very much</u>
+<u n="1561" who="S0266">right so I think to the end of the tournament has come</u>
+<u n="1562" who="S0313" trans="overlap">no not yet she if she scores more than a hundred and eleven?</u>
+<u n="1563" who="S0266" trans="overlap">hundred and eleven</u>
+<u n="1564" who="S0311" trans="overlap">sixty-sixty</u>
+<u n="1565" who="S0266">I'm fifteen</u>
+<u n="1566" who="S0312">six for me</u>
+<u n="1567" who="S0268">mm <unclear/> soon</u>
+<u n="1568" who="S0311">seventy-nine</u>
+<u n="1569" who="S0268">got to listen to the Arches</u>
+<u n="1570" who="S0311">I love the Arches</u>
+<u n="1571" who="S0266" trans="overlap">right well I'm going to turn off this thing for the moment now cos we</u>
+	
+	</body>
+</text>

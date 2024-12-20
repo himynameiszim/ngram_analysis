@@ -1,0 +1,434 @@
+<text id="SGFN">
+	<header>
+		<rec_length>0:12:02</rec_length>
+		<rec_date>2015-08-02</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q3</rec_period>
+		<n_speakers>3</n_speakers>
+		<list_speakers>S0240 S0478 S0479</list_speakers>
+		<rec_loc>Cambridge</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Prices of food, shopping, exercises, future, careers, going to university, government spending</topics>
+		<activity>Talking over breakfast</activity>
+		<conv_type>Discussing, explaining, complaining, advising announcing</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0240">
+				<exactage>55</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Littlestone</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city></hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>lecturer</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>French -- level unspecified; Spanish -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0478">
+				<exactage>57</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Folkestone</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>3 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Retired - teacher</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls>French -- Fluent; German -- A-level; Spanish -- A-level</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0479">
+				<exactage>17</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Leeds, Yorkshire</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>slight Leeds accent</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>17 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>N/A</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- A level</fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0478">lull in <unclear>like</unclear> it's just got to be natural and normal</u>
+<u n="2" who="S0240" trans="overlap">that's fine yeah</u>
+<u n="3" who="S0478">and <unclear>stuff</unclear> so</u>
+<u n="4" who="S0240">yes well</u>
+<u n="5" who="S0478">er <trunc>i</trunc>if it's silence it's silence</u>
+<u n="6" who="S0240">the funny thing is with when <anon type="name" nameType="m"/> goes with my shopping we get what's that one? Andrex the puppy one</u>
+<u n="7" who="S0478" trans="overlap">oh god yeah</u>
+<u n="8" who="S0240" trans="overlap">and we get all the best stuff you know</u>
+<u n="9" who="S0478" trans="overlap">well <trunc>w</trunc> er I know because</u>
+<u n="10" who="S0240">he doesn't look</u>
+<u n="11" who="S0478" trans="overlap">they don't don't think</u>
+<u n="12" who="S0240">well he does</u>
+<u n="13" who="S0478" trans="overlap">and also you get all the rubbish stuff from the erm deli counter when <anon type="name" nameType="m"/> goes you know there's</u>
+<u n="14" who="S0240" trans="overlap">oh yeah</u>
+<u n="15" who="S0478" trans="overlap">gonna be the bit of ham that's on the end that</u>
+<u n="16" who="S0240" trans="overlap"><vocal desc="laugh"/></u>
+<u n="17" who="S0478" trans="overlap">I always refuse to have</u>
+<u n="18" who="S0240"><vocal desc="laugh"/></u>
+<u n="19" who="S0478">cos it's dried out</u>
+<u n="20" who="S0240"><vocal desc="laugh"/></u>
+<u n="21" who="S0478" trans="overlap">and it's the bit they want to get rid of</u>
+<u n="22" who="S0240"><vocal desc="laugh"/> yeah <pause dur="short"/> I find we I find that we get like things that we like like the cheese the cheddar cheese we'll get bargain basement we got this huge block of like value cheese which</u>
+<u n="23" who="S0478" trans="overlap">oh</u>
+<u n="24" who="S0240">honestly I don't mind value stuff but it's literally unedible isn't it? inedible isn't it <anon type="name" nameType="f"/>?</u>
+<u n="25" who="S0479" whoConfidence="low">yeah</u>
+<u n="26" who="S0478" trans="overlap">well</u>
+<u n="27" who="S0240">it's disgusting <vocal desc="laugh"/></u>
+<u n="28" who="S0478" trans="overlap">we do buy the Collier's Welsh cheese which is more expensive but</u>
+<u n="29" who="S0240">I buy whatever's on offer you know from the whole range of cheese there's always one that's a good one that's on offer and that's one and I buy <vocal desc="laugh"/> but when <anon type="name" nameType="m"/> does the shopping he's well I don't he's getting better at it actually cos he used to come back with all sorts of stuff</u>
+<u n="30" who="S0478">but you've really got to keep your eye on it because the</u>
+<u n="31" who="S0240" trans="overlap">mm</u>
+<u n="32" who="S0478" trans="overlap">cat like the cat food the big bags of cat food they're normally fourteen pound forty-nine</u>
+<u n="33" who="S0240">wow that's a lot</u>
+<u n="34" who="S0478">but occasionally it er a particular supermarket will put them down to ten pound</u>
+<u n="35" who="S0240">mm</u>
+<u n="36" who="S0478">and unfortunately I had to buy one for fourteen forty-nine just before we went away on holiday but</u>
+<u n="37" who="S0240"><vocal desc="cough"/></u>
+<u n="38" who="S0478">yesterday I noticed they were ten pound</u>
+<u n="39" who="S0240">yeah</u>
+<u n="40" who="S0478" trans="overlap">so I bought one</u>
+<u n="41" who="S0240"><vocal desc="laugh"/> you should</u>
+<u n="42" who="S0478" trans="overlap">but it's just</u>
+<u n="43" who="S0240" trans="overlap">have bought two or three</u>
+<u n="44" who="S0478">well I should have done really erm</u>
+<u n="45" who="S0240">might go off though</u>
+<u n="46" who="S0478">I know but</u>
+<u n="47" who="S0240" trans="overlap">and the cat might not like it</u>
+<u n="48" who="S0478" trans="overlap">but then and you've got to carry it all back here for him</u>
+<u n="49" who="S0240" trans="overlap">mm</u>
+<u n="50" who="S0478">erm</u>
+<u n="51" who="S0240">but some people they they go on their apps and things and find out which products</u>
+<u n="52" who="S0478" trans="overlap">well</u>
+<u n="53" who="S0240" trans="overlap">are going cheap and then go round all the different <trunc>univer</trunc> er</u>
+<u n="54" who="S0478" trans="overlap">I know but</u>
+<u n="55" who="S0240">er universities? different <trunc>sho</trunc></u>
+<u n="56" who="S0478" trans="overlap"><unclear>I ought to</unclear> do that</u>
+<u n="57" who="S0240"><vocal desc="laugh"/> shopping centres and buy like</u>
+<u n="58" who="S0479" trans="overlap" whoConfidence="low">yeah</u>
+<u n="59" who="S0240" trans="overlap">big</u>
+<u n="60" who="S0478" trans="overlap">and that the other type of cat food Waitrose sell it the cheapest or they did do <unclear/> <pause dur="short"/> you just can't</u>
+<u n="61" who="S0240" trans="overlap">Co-op</u>
+<u n="62" who="S0478" trans="overlap"><unclear/></u>
+<u n="63" who="S0240" trans="overlap">have you seen the Co-op special offers? we <trunc>ha</trunc> you can get a big pizza what did <anon type="name" nameType="m"/> get the other day? he got a huge pizza a really good one Goodfella or something onion rings erm potato wedges erm what else was there? there was loads of</u>
+<u n="64" who="S0479" trans="overlap">and Ben and Jerry's ice cream</u>
+<u n="65" who="S0240" trans="overlap">Ben and Jerry's ice cream a big one erm a baguette all of it the whole lot for five pound</u>
+<u n="66" who="S0478">oh amazing</u>
+<u n="67" who="S0240">it's ridiculous <vocal desc="laugh"/></u>
+<u n="68" who="S0479" trans="overlap">and then we went into Co-operative just up the road and the Ben and Jerry's alone was four ninety-nine</u>
+<u n="69" who="S0240"><vocal desc="laugh"/></u>
+<u n="70" who="S0478" trans="overlap">yeah yeah I don't think our Co-op does offers like that I've never seen it</u>
+<u n="71" who="S0240">it probably doesn't need to</u>
+<u n="72" who="S0478">no I don't</u>
+<u n="73" who="S0240" trans="overlap">ours is in a place where there's you know <trunc>s</trunc> there's a big estate nearby and <pause dur="short"/> they just they just they've started doing it</u>
+<u n="74" who="S0478" trans="overlap">is that too done for you?</u>
+<u n="75" who="S0479">mm</u>
+<u n="76" who="S0478">do you want me to scrape a bit off?</u>
+<u n="77" who="S0479"><trunc>y</trunc>yes please</u>
+<u n="78" who="S0240">oh <vocal desc="laugh"/> what a cheek <vocal desc="laugh"/> since you offered</u>
+<u n="79" who="S0478">well it's easy to do</u>
+<u n="80" who="S0240" trans="overlap">yeah</u>
+<u n="81" who="S0479">thank you</u>
+<u n="82" who="S0240">erm</u>
+<u n="83" who="S0478" trans="overlap"><unclear>just do that</unclear></u>
+<u n="84" who="S0240">yeah so <pause dur="short"/> hear a bit of scraping going on</u>
+<u n="85" who="S0478" trans="overlap">I know it is I but you you I can't spend my life doing it so I just I mean er things that are really expensive like cat food I do and I'll buy them on the internet if</u>
+<u n="86" who="S0240">yeah</u>
+<u n="87" who="S0478">and get them delivered to <anon type="place"/> and then <anon type="name" nameType="m"/> has to bring them down</u>
+<u n="88" who="S0240">I mean we've got</u>
+<u n="89" who="S0478"><unclear>on his bike</unclear></u>
+<u n="90" who="S0240" trans="overlap">you know because <trunc>M</trunc> because Morrisons is so handy we I tend to go there and then just find the stuff the cheaper stuff within</u>
+<u n="91" who="S0478" trans="overlap"><unclear/></u>
+<u n="92" who="S0240" trans="overlap">Morrisons and the prices have gone down actually in Morrisons but if you do go to Lidl and stuff it is a lot cheaper</u>
+<u n="93" who="S0478" trans="overlap">oh yeah</u>
+<u n="94" who="S0240">on the other hand I don't particularly like the meat</u>
+<u n="95" who="S0478" trans="overlap">but you can't do all your shopping</u>
+<u n="96" who="S0240">or the fruit the fruit's not as good as Morrisons not nearly so</u>
+<u n="97" who="S0478">oh</u>
+<u n="98" who="S0479">and the meat's not very nice</u>
+<u n="99" who="S0240">the meat's not very nice either</u>
+<u n="100" who="S0478" trans="overlap">oh no</u>
+<u n="101" who="S0240">so we don't buy it so we're not</u>
+<u n="102" who="S0478" trans="overlap">no</u>
+<u n="103" who="S0240">we end up with a loads of stuff without the meat and then you actually haven't got anything to cook so</u>
+<u n="104" who="S0478">mm the trouble is you just can't well you could spend your whole life doing it and then to be really pleased with yourself <unclear/> but then what's that?</u>
+<u n="105" who="S0240" trans="overlap">oh <unclear>that</unclear></u>
+<u n="106" who="S0478">that's not life is it?</u>
+<u n="107" who="S0240" trans="overlap">no hardly <vocal desc="laugh"/></u>
+<u n="108" who="S0478" trans="overlap">mm</u>
+<u n="109" who="S0240">it's a complete waste of time</u>
+<u n="110" who="S0478">I mean we can do all our shopping from here with the Co-op the butcher's the baker's</u>
+<u n="111" who="S0240" trans="overlap">mm</u>
+<u n="112" who="S0478">well I make bread anyway but</u>
+<u n="113" who="S0240" trans="overlap" whoConfidence="low">yeah well you could do actually but the meat's not particularly good at the Co-op is it? do you think?</u>
+<u n="114" who="S0478">oh no because we've got a butcher's</u>
+<u n="115" who="S0240">oh you've got the butcher's yeah</u>
+<u n="116" who="S0478" trans="overlap">yeah so no</u>
+<u n="117" who="S0240">well in that case you could but it's <trunc>mo</trunc></u>
+<u n="118" who="S0478" trans="overlap">erm you say that but</u>
+<u n="119" who="S0240">some of it's alright</u>
+<u n="120" who="S0478" trans="overlap">they have some nice steaks</u>
+<u n="121" who="S0240" trans="overlap">the sausages are</u>
+<u n="122" who="S0478" trans="overlap">and erm you need to be careful what you buy cos they</u>
+<u n="123" who="S0240" trans="overlap">they don't have free range do they?</u>
+<u n="124" who="S0478" trans="overlap">adulterate a lot of it you know they put like some sauce</u>
+<u n="125" who="S0240"><unclear/> oh do they?</u>
+<u n="126" who="S0478" trans="overlap">already which I don't like but the some of their steak's really good actually</u>
+<u n="127" who="S0240" trans="overlap">really?</u>
+<u n="128" who="S0478">I quite often buy a small steak and chop it up</u>
+<u n="129" who="S0240">yeah</u>
+<u n="130" who="S0478" trans="overlap">then just fry it quickly and then put it on a salad or</u>
+<u n="131" who="S0240">they probably</u>
+<u n="132" who="S0478" trans="overlap">erm</u>
+<u n="133" who="S0240" trans="overlap">have different stuff than than they do</u>
+<u n="134" who="S0478" trans="overlap">they have free range chicken and</u>
+<u n="135" who="S0240">oh do they?</u>
+<u n="136" who="S0478">yeah</u>
+<u n="137" who="S0240" trans="overlap">oh they don't in the <anon type="place"/> one</u>
+<u n="138" who="S0478" trans="overlap">ah well I think we I think ours is much better</u>
+<u n="139" who="S0240">yeah</u>
+<u n="140" who="S0478">you know</u>
+<u n="141" who="S0240" trans="overlap">ours is not very good for meat and also</u>
+<u n="142" who="S0479" trans="overlap">and it's just a smaller shop</u>
+<u n="143" who="S0240" trans="overlap">it's much more expensive it's more expensive as well you know</u>
+<u n="144" who="S0478" trans="overlap">and salmon</u>
+<u n="145" who="S0240">the wine's quite good</u>
+<u n="146" who="S0478">the stuff like milk's much more expensive because</u>
+<u n="147" who="S0240" trans="overlap">yeah</u>
+<u n="148" who="S0478">it's handy for</u>
+<u n="149" who="S0240" trans="overlap">washing up liquid's much more</u>
+<u n="150" who="S0479">can I get some orange juice? is there any?</u>
+<u n="151" who="S0478" trans="overlap">you can take some orange juice yeah I <trunc>d</trunc> only need a little bit for my recipe</u>
+<u n="152" who="S0240">mm <pause dur="short"/> dunno what time <anon type="name" nameType="m"/> and <anon type="name" nameType="n"/>'ll be up but we might go into <anon type="place"/> <anon type="name" nameType="f"/></u>
+<u n="153" who="S0479">today?</u>
+<u n="154" who="S0240">well I mean we could do cos I want to look for a present for <anon type="name" nameType="f"/> er some jewellery or something like that you know from the market</u>
+<u n="155" who="S0478" trans="overlap">actually I should have gone to the garden centre to look for those lights for her today cos I was right by it</u>
+<u n="156" who="S0240">yeah</u>
+<u n="157" who="S0478">mm</u>
+<u n="158" who="S0240">I <trunc>wou</trunc></u>
+<u n="159" who="S0479" trans="overlap"><unclear>yeah</unclear></u>
+<u n="160" who="S0240">yeah I would er quite like to</u>
+<u n="161" who="S0478" trans="overlap"><unclear/></u>
+<u n="162" who="S0240">and well we could do that while they're</u>
+<u n="163" who="S0478" trans="overlap">what do you think?</u>
+<u n="164" who="S0240">still <unclear>bottling</unclear> around getting up you know</u>
+<u n="165" who="S0478">they'll be ages getting up won't they?</u>
+<u n="166" who="S0240">yes</u>
+<u n="167" who="S0478">and so I'm going to have to do this exercise three times today</u>
+<u n="168" who="S0240">oh</u>
+<u n="169" who="S0478">and well and others I should do as well mm <pause dur="long"/></u>
+<u n="170" who="S0240">yeah I don't think they'll be up I mean we if we could wake them up if if we want to</u>
+<u n="171" who="S0478">what time do they wake up?</u>
+<u n="172" who="S0240"><anon type="name" nameType="m"/> wouldn't wake up till at least midday <pause dur="short"/> would he?</u>
+<u n="173" who="S0479">no</u>
+<u n="174" who="S0478"><trunc>h</trunc>how's he been get going and</u>
+<u n="175" who="S0240">I don't know</u>
+<u n="176" who="S0478" trans="overlap">and do anything in life?</u>
+<u n="177" who="S0240" trans="overlap">I I don't know I really don't know</u>
+<u n="178" who="S0478">I mean he's not alone at all</u>
+<u n="179" who="S0240">no no and I and I have tried you know the more you try the more he resists it so I've just tend to leave him now but I do every morning get him you know try and get him going but it's just impossible</u>
+<u n="180" who="S0479" trans="overlap">no it's cos he goes out really late and then</u>
+<u n="181" who="S0240" trans="overlap">he goes out late and he's not into a rhythm of staying up <trunc>l</trunc> you know being up in the night and <pause dur="short"/> but I think it's really unhealthy cos he doesn't really get going like he has the days when he could be looking for things you know but he doesn't you go in there and he's doing some he's not he's not actually looked on anything he says he'll do it later and then doesn't get round to</u>
+<u n="182" who="S0478" trans="overlap">he's not <vocal desc="cough"/> he's not motivated to do anything?</u>
+<u n="183" who="S0240">at the moment he's not <pause dur="short"/> I think he's a bit confused about what to do to be honest</u>
+<u n="184" who="S0478" trans="overlap">oh I'm not surprised</u>
+<u n="185" who="S0240">you know</u>
+<u n="186" who="S0478" trans="overlap">I'm still confused about what to do in life</u>
+<u n="187" who="S0240">I know</u>
+<u n="188" who="S0478">but seriously though I mean you know</u>
+<u n="189" who="S0240" trans="overlap">yeah no I know</u>
+<u n="190" who="S0478">some days I think shall I go out and get a job? or shall I not? or</u>
+<u n="191" who="S0240" trans="overlap">mm <pause dur="short"/> I know I feel the same because <unclear/></u>
+<u n="192" who="S0478" trans="overlap">and what do I want to do? what what what do I want to be in life? you know</u>
+<u n="193" who="S0240" trans="overlap">yeah and we're coming up for</u>
+<u n="194" who="S0478" trans="overlap">I think erm</u>
+<u n="195" who="S0240" trans="overlap">sixty <vocal desc="laugh"/> and we're still</u>
+<u n="196" who="S0478"><vocal desc="laugh"/></u>
+<u n="197" who="S0240">thinking it</u>
+<u n="198" who="S0478"><vocal desc="laugh"/></u>
+<u n="199" who="S0240"><vocal desc="laugh"/> <pause dur="short"/> I know I but I think it <trunc>ma</trunc> makes you realise that if you if you think that now if you do want to do something you have to get on with it because</u>
+<u n="200" who="S0478" trans="overlap">well I think if you like</u>
+<u n="201" who="S0240" trans="overlap">it all goes <trunc>pa</trunc></u>
+<u n="202" who="S0478" trans="overlap">want to be a doctor or a dentist there's you've got something specific to aim for but <pause dur="short"/> I don't think any of us are like that</u>
+<u n="203" who="S0240">no we weren't <pause dur="short"/> maybe we didn't get enough of that sort of <pause dur="short"/> well it never <trunc>s</trunc></u>
+<u n="204" who="S0478" trans="overlap">no no I just don't think we ever wanted to to be</u>
+<u n="205" who="S0240" trans="overlap">it never entered my head that I could be a doctor or a</u>
+<u n="206" who="S0478">no</u>
+<u n="207" who="S0240">it just didn't enter my head <pause dur="short"/> but <trunc>n</trunc> I don't</u>
+<u n="208" who="S0478" trans="overlap">no</u>
+<u n="209" who="S0240">remember ever having conversations about what do you want to be apart from at primary school when you said you wanted to be an air hostess or</u>
+<u n="210" who="S0478" trans="overlap">oh yeah well</u>
+<u n="211" who="S0240" trans="overlap">whatever you know I don't remember</u>
+<u n="212" who="S0478" trans="overlap">no I don't think we we at <anon type="place"/> we didn't get any careers advice</u>
+<u n="213" who="S0240" trans="overlap">no</u>
+<u n="214" who="S0478">at all</u>
+<u n="215" who="S0240">no <pause dur="short"/> or later</u>
+<u n="216" who="S0478">and er and just in <anon type="place"/> at <anon type="place"/> in the sixth form it was just erm</u>
+<u n="217" who="S0240">just <unclear>you know</unclear></u>
+<u n="218" who="S0478" trans="overlap">you know like they like</u>
+<u n="219" who="S0240" trans="overlap">aim high and <unclear/></u>
+<u n="220" who="S0478" trans="overlap">to print in the paper ninety-seven percent of our girls have gone to university</u>
+<u n="221" who="S0240">yeah</u>
+<u n="222" who="S0478">and didn't want to be one of those I wanted to ruin their statistics</u>
+<u n="223" who="S0240">but you still did it so you still went <vocal desc="laugh"/></u>
+<u n="224" who="S0478">no but <vocal desc="laugh"/> I didn't go the first year I did it on my own</u>
+<u n="225" who="S0240">oh that's right</u>
+<u n="226" who="S0478">mm</u>
+<u n="227" who="S0240" trans="overlap">yeah</u>
+<u n="228" who="S0478">mm and careers woman was she was this huge woman</u>
+<u n="229" who="S0240">pass me the crust <anon type="name" nameType="f"/></u>
+<u n="230" who="S0478" trans="overlap">I remember her</u>
+<u n="231" who="S0240">I'll eat the crust</u>
+<u n="232" who="S0479">do you want <unclear/></u>
+<u n="233" who="S0478" trans="overlap">with</u>
+<u n="234" who="S0240" trans="overlap">oh</u>
+<u n="235" who="S0478">a huge <unclear>stupid</unclear> woman with huge great breasts and obviously</u>
+<u n="236" who="S0240" trans="overlap"><vocal desc="laugh"/></u>
+<u n="237" who="S0478">no experience of life at all</u>
+<u n="238" who="S0240"><vocal desc="laugh"/></u>
+<u n="239" who="S0478">she'd just worked in a girls' school all her life</u>
+<u n="240" who="S0240">yeah</u>
+<u n="241" who="S0478">mm she was the one advising people about what to do and</u>
+<u n="242" who="S0240" trans="overlap">mm</u>
+<u n="243" who="S0478" trans="overlap">you just thought hang on a minute</u>
+<u n="244" who="S0240">well I don't think they're much better now because otherwise they would</u>
+<u n="245" who="S0478" trans="overlap">and she had her favourites you know</u>
+<u n="246" who="S0240">mm</u>
+<u n="247" who="S0478">and erm she'd known them since they were <pause dur="short"/> you know came in the first years of the school so if you came in the sixth form like I did you stood no chance</u>
+<u n="248" who="S0240"><vocal desc="laugh"/> <pause dur="short"/> I don't think people know what the possibilities are I mean I I find it difficult to well with <anon type="name" nameType="m"/> I can tell him different possibilities and that but he sort of rejects them all for some reason</u>
+<u n="249" who="S0478" trans="overlap">well cos it's you</u>
+<u n="250" who="S0240" trans="overlap">all of</u>
+<u n="251" who="S0478">cos you're his mother</u>
+<u n="252" who="S0240">I know do you think that's what it is?</u>
+<u n="253" who="S0478">yeah totally <pause dur="short"/> oh totally yeah</u>
+<u n="254" who="S0240" trans="overlap">in that case <pause dur="short"/> yeah so in a way it's better not to present things cos each one each time you present some possibility it gets ruled out so you're you sort of <trunc>d</trunc>doing a worse job than if you didn't suggest anything really</u>
+<u n="255" who="S0478" trans="overlap">yeah yeah yeah <pause dur="short"/> it's probably even more difficult</u>
+<u n="256" who="S0240" trans="overlap">yeah but you don't feel like that do you?</u>
+<u n="257" who="S0478">between mothers and daughters normally than mothers and sons</u>
+<u n="258" who="S0240" trans="overlap">but it's for us it doesn't seem to be does it <anon type="name" nameType="f"/>?</u>
+<u n="259" who="S0478">because it's not come to the crunch point yet</u>
+<u n="260" who="S0240">what what crunch point?</u>
+<u n="261" who="S0478" trans="overlap">but also yeah</u>
+<u n="262" who="S0240"><vocal desc="laugh"/></u>
+<u n="263" who="S0478">well I mean <pause dur="short"/> er <anon type="name" nameType="f"/>'s not left school or anything not in the same position as <anon type="name" nameType="m"/> but it it is a crunch point when you've got to decide what A levels to do but</u>
+<u n="264" who="S0240">I don't know I mean</u>
+<u n="265" who="S0478">it is for really difficult yeah I mean</u>
+<u n="266" who="S0240" trans="overlap">it is really difficult yeah because it's not</u>
+<u n="267" who="S0478" trans="overlap">but parents are not the best people to</u>
+<u n="268" who="S0240" trans="overlap">no</u>
+<u n="269" who="S0478">to help</u>
+<u n="270" who="S0240" trans="overlap">but the trouble is</u>
+<u n="271" who="S0478" trans="overlap">at all</u>
+<u n="272" who="S0240">you know university now for for <anon type="name" nameType="m"/> he sees it as a very untempting proposition he sees it as more study which he doesn't particularly like anyway and then he sees it as this massive debt he's gonna incur for doing something he doesn't really want to do so erm</u>
+<u n="273" who="S0478" trans="overlap">but therefore he needs to do an apprenticeship or something but they</u>
+<u n="274" who="S0240" trans="overlap">well that's what he that's what he's gonna try and do</u>
+<u n="275" who="S0478" trans="overlap">do you know we had some brilliant people to do some jobs around the house that needed doing <pause dur="short"/> erm like you know the the sealant on the shower and that sort of thing upstairs and electrical jobs and</u>
+<u n="276" who="S0240" trans="overlap">mm</u>
+<u n="277" who="S0478">erm and he was saying about the government are just cutting back on all the apprenticeship opportunities</u>
+<u n="278" who="S0240" trans="overlap">they're meant to being</u>
+<u n="279" who="S0478">they said they'd love to have an <trunc>apprenticesh</trunc> but you know apprentice to work with them</u>
+<u n="280" who="S0240">I thought they were doing the opposite I thought they were increasing</u>
+<u n="281" who="S0478" trans="overlap">mm</u>
+<u n="282" who="S0240">the numbers</u>
+<u n="283" who="S0478" trans="overlap">well well they're making</u>
+<u n="284" who="S0240" trans="overlap">they're gonna they're aiming for three million</u>
+<u n="285" who="S0478" trans="overlap">I mean and we had to have an electrician recently to do something and he's he was saying exactly the same is that erm it's there's just disincentives to do it</u>
+<u n="286" who="S0240">erm</u>
+<u n="287" who="S0478" trans="overlap">I know they're saying that they're doing it but they're not</u>
+<u n="288" who="S0240" trans="overlap">no</u>
+<u n="289" who="S0478" trans="overlap">actually doing it <pause dur="short"/> it costs small companies too much to</u>
+<u n="290" who="S0240">to have someone?</u>
+<u n="291" who="S0478">yeah</u>
+<u n="292" who="S0240" trans="overlap">yeah and the government don't want to put any money into it cos they don't want to put any money into anything do they?</u>
+<u n="293" who="S0478" trans="overlap">well exactly and I think I think also it it you know it if you say you've got to go to university to study to be an electrician or a plumber it kind of devalues it in a way</u>
+<u n="294" who="S0240" trans="overlap">mm</u>
+<u n="295" who="S0478">because <vocal desc="cough"/> what they really need to do is be out on jobs with people</u>
+<u n="296" who="S0240" trans="overlap">yeah but that's not the sort of apprenticeship <anon type="name" nameType="m"/> wants anyway</u>
+<u n="297" who="S0478" trans="overlap"><trunc>n</trunc> well no I know but</u>
+<u n="298" who="S0240" trans="overlap">he wants to get into marketing and business erm business management and marketing</u>
+<u n="299" who="S0478">he needs to erm</u>
+<u n="300" who="S0240">go to university <vocal desc="laugh"/></u>
+<u n="301" who="S0478">he needs to do an MBA or something</u>
+<u n="302" who="S0240">and he can't do that until he's done a degree so</u>
+<u n="303" who="S0478">no</u>
+<u n="304" who="S0240">erm <pause dur="short"/> I think he will find something</u>
+<u n="305" who="S0478">well he could get try and get taken on by an employer doing something and then they could</u>
+<u n="306" who="S0240">yeah and then they</u>
+<u n="307" who="S0478" trans="overlap">a lot of employers do</u>
+<u n="308" who="S0240"><vocal desc="cough"/></u>
+<u n="309" who="S0478">pay for you to do a degree and that sort of thing</u>
+<u n="310" who="S0240" trans="overlap">yeah</u>
+<u n="311" who="S0478" trans="overlap">I mean it was just a bit unlucky that they</u>
+<u n="312" who="S0240" trans="overlap">cos they would <unclear>take it off their tax</unclear> or something</u>
+<u n="313" who="S0478" trans="overlap">didn't pay for her to do her MA</u>
+<u n="314" who="S0240" trans="overlap">they might have done in this job</u>
+<u n="315" who="S0478">mm</u>
+<u n="316" who="S0240">but then she wouldn't have got the job if she hadn't been</u>
+<u n="317" who="S0478">well I I know so</u>
+<u n="318" who="S0240">mm it's lovely this bread isn't it?</u>
+<u n="319" who="S0479">yeah really it's delicious</u>
+<u n="320" who="S0478" trans="overlap">do you want some more?</u>
+<u n="321" who="S0240">erm <pause dur="short"/> mm I don't do you?</u>
+<u n="322" who="S0479">I'm fine thank you</u>
+<u n="323" who="S0240">no thanks</u>
+<u n="324" who="S0478" whoConfidence="low">mm I don't know</u>
+<u n="325" who="S0240">we could slice a piece off for <anon type="name" nameType="m"/> <pause dur="short"/> cos he won't know how to</u>
+<u n="326" who="S0478">he won't be able to cut it himself?</u>
+<u n="327" who="S0240">I don't well not evenly and if you don't want it hacked up I think he'll probably find it difficult cos we</u>
+<u n="328" who="S0478" trans="overlap">doesn't really matter I'll I will cut some more bits</u>
+<u n="329" who="S0240" whoConfidence="low">mm <pause dur="short"/> so have we done ten minutes?</u>
+<u n="330" who="S0479">yeah</u>
+<u n="331" who="S0240" whoConfidence="low">have we? stop it then</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

@@ -1,0 +1,434 @@
+<text id="SNK6">
+	<header>
+		<rec_length>0:15:16</rec_length>
+		<rec_date>2015-12-13</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q4</rec_period>
+		<n_speakers>4</n_speakers>
+		<list_speakers>S0547 S0548 S0549 S0550</list_speakers>
+		<rec_loc>Home of all the speakers, High Lane, Stockport.</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>What we would like for breakfast on Christmas day. Routine of Christmas Day – getting up and eating dinner What happened on Christmas Day in previous years Whether our Momma (Grandma) is staying over at our house on Christmas Eve Whether our Grandma and Grandad are staying Boxing Day night. Our Grandma’s diet What we are doing with Grandma and Grandad on Boxing Day during their visit People who go for walks during Christmas/Easter Christmas food When parents are working over the Christmas period Plans for New Year’s Eve What happened last year for New Year’s Eve ANON's friends and their girlfriends</topics>
+		<activity>Family talking over Sunday Dinner.</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T15</transcriber>
+		<speakerInfo>
+			<speaker id="S0547">
+				<exactage>16</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Stockport</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Stockport</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>16</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0548">
+				<exactage>46</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Macclesfield</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Stockport</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>40</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Senior supervisory support worker</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0549">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Stockport</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>19 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student at university</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0550">
+				<exactage>48</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Stockport</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Stockport</dialect_rep>
+				<hab_city>Stockport</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>48</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Service Manager</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0547">what were you gonna say?</u>
+<u n="2" who="S0548" trans="overlap" whoConfidence="low"><unclear>right</unclear></u>
+<u n="3" who="S0548">if you have any ideas over the next <pause dur="short"/> week or so <pause dur="short"/> about what you'd like for breakfast on Christmas Day</u>
+<u n="4" who="S0549">what we'd like for breakfast on Christmas Day?</u>
+<u n="5" who="S0548"><unclear>mm</unclear> <pause dur="short"/> <unclear>a lot</unclear></u>
+<u n="6" who="S0549" trans="overlap">did we did we change it last year?</u>
+<u n="7" who="S0550">did we mix it up a little bit?</u>
+<u n="8" who="S0549">I think we did</u>
+<u n="9" who="S0548">well no not last we didn't but the year before we did</u>
+<u n="10" who="S0547" whoConfidence="low">mm</u>
+<u n="11" who="S0549">cos we had croissants with <pause dur="short"/> scrambled egg and bacon</u>
+<u n="12" who="S0547">then you said you didn't them</u>
+<u n="13" who="S0549">no we had that for a few years and then <pause dur="short"/> you decided you didn't want it last year</u>
+<u n="14" who="S0547">who did? dad did?</u>
+<u n="15" who="S0549">yeah</u>
+<u n="16" who="S0548">so what do we want?</u>
+<u n="17" who="S0547">then there was the whole thing about buying frozen croissants cos there weren't any and then</u>
+<u n="18" who="S0548" whoConfidence="low">that's right <pause dur="short"/> mm</u>
+<u n="19" who="S0547">whole fiasco</u>
+<u n="20" who="S0548" whoConfidence="low">mm</u>
+<u n="21" who="S0547">I don't know what do you want?</u>
+<u n="22" who="S0548">I'm not bothered I'll have whatever</u>
+<u n="23" who="S0547">well what time will we be eating?</u>
+<u n="24" who="S0550">that very much depends on what time you two get up</u>
+<u n="25" who="S0549">we're gonna know though are we? <pause dur="short"/> what time we're gonna get up</u>
+<u n="26" who="S0548">I'm hoping to eat somewhere round about two <pause dur="short"/> on Christmas Day</u>
+<u n="27" who="S0550">yeah</u>
+<u n="28" who="S0548" whoConfidence="low">what?</u>
+<u n="29" who="S0550"><unclear>bloody hell</unclear> peaking early aren't you?</u>
+<u n="30" who="S0548">eh sorry <pause dur="short"/> when do you want to eat then?</u>
+<u n="31" who="S0549">don't we normally eat about two?</u>
+<u n="32" who="S0548">yeah <pause dur="short"/> I thought so <pause dur="short"/> about half two three o'clock?</u>
+<u n="33" who="S0549">cos don't just as we're finishing eating doesn't the queen come on?</u>
+<u n="34" who="S0548">mm</u>
+<u n="35" who="S0549">is she not at three?</u>
+<u n="36" who="S0548">mm</u>
+<u n="37" who="S0550">it's normally like like three four o'clock we eat</u>
+<u n="38" who="S0548">no <pause dur="short"/> <unclear>but</unclear></u>
+<u n="39" who="S0550" trans="overlap">mother normally's not be here till two some days</u>
+<u n="40" who="S0548">no</u>
+<u n="41" who="S0550">some years</u>
+<u n="42" who="S0547">you're making that up</u>
+<u n="43" who="S0548">I can't wait that long for my dinner</u>
+<u n="44" who="S0547">and you think it's around two so <pause dur="short"/> what time we gonna get up?</u>
+<u n="45" who="S0549">mm mm <pause dur="short"/> depends how excited I am <pause dur="short"/> that it's gonna be Christmas</u>
+<u n="46" who="S0548" whoConfidence="low"><unclear>so</unclear></u>
+<u n="47" who="S0548">I mean you don't have to up early</u>
+<u n="48" who="S0547">trying to work out <unclear>our meals</unclear></u>
+<u n="49" who="S0549" trans="overlap">did we get up about eight? <pause dur="short"/> get up about eight last year?</u>
+<u n="50" who="S0548">no</u>
+<u n="51" who="S0549">nine?</u>
+<u n="52" who="S0550">it was eight nine weren't it?</u>
+<u n="53" who="S0549" whoConfidence="low">mm</u>
+<u n="54" who="S0547">you woke me up last year <pause dur="short"/> year before <pause dur="short"/> I think <pause dur="short"/> you woke us up cos grandma and grandad were in and just sort of sat around on your own</u>
+<u n="55" who="S0549">is mama staying here?</u>
+<u n="56" who="S0548">no <pause dur="short"/> I've offered</u>
+<u n="57" who="S0547">who suggested that?</u>
+<u n="58" who="S0548">well <pause dur="short"/> she was going on about <pause dur="short"/> it would've been on waking up on Christmas Day on our own <pause dur="short"/> and how it's lonely to wake up on Christmas Day on your own I said well you don't have to</u>
+<u n="59" who="S0547">has she not done it many years before?</u>
+<u n="60" who="S0549">yeah <pause dur="short"/> are grandma and grandad staying did we say? <pause dur="short"/> on Boxing Day?</u>
+<u n="61" who="S0548">we think so</u>
+<u n="62" who="S0547">I'm I'm surprised if they do</u>
+<u n="63" who="S0548">I know I am <pause dur="short"/> we think they are but we're not sure <pause dur="short"/> so we need to sort that out <pause dur="short"/> but then of course grandma's got this eating thing hasn't she? <pause dur="short"/> I don't know what she eats actually</u>
+<u n="64" who="S0547" trans="overlap">what do you mean?</u>
+<u n="65" who="S0548">well she can only eat certain things</u>
+<u n="66" who="S0549">she didn't finish it when she came up to see me to have a meal but I'm sure she had <pause dur="short"/> she had chips I think or mash</u>
+<u n="67" who="S0548">so I don't know</u>
+<u n="68" who="S0549" trans="overlap">what did she say when you asked her?</u>
+<u n="69" who="S0548">well I'll eat anything you know me I'll just pick at whatever's there</u>
+<u n="70" who="S0547">well this is all news to me</u>
+<u n="71" who="S0549">well it was to me when I sat down at the meal with them <pause dur="short"/> apparently she's got some dietary requirements now cos she's <pause dur="short"/> <trunc>glu</trunc> not gluten-free but</u>
+<u n="72" who="S0548">mm</u>
+<u n="73" who="S0547">just for a bit of fun? <pause dur="short"/> make people</u>
+<u n="74" who="S0549">something <trunc>wro</trunc> no there's something wrong with her</u>
+<u n="75" who="S0547">just make it awkward for everyone? <pause dur="short"/> oh so it's not a lifestyle choice?</u>
+<u n="76" who="S0548">no</u>
+<u n="77" who="S0549">she has to eat very <pause dur="short"/> bland plain boring foods <pause dur="short"/> and she can't have anything fizzy</u>
+<u n="78" who="S0550">it's like an <trunc>irrita</trunc> bowel bowel thing or something isn't it?</u>
+<u n="79" who="S0548" trans="overlap">yeah but it's a bit more than that <pause dur="long"/></u>
+<u n="80" who="S0547">so gluten-free so there's no</u>
+<u n="81" who="S0549">mm</u>
+<u n="82" who="S0547" trans="overlap"><unclear>you know</unclear></u>
+<u n="83" who="S0549">I don't know if it is gluten-free</u>
+<u n="84" who="S0547"><unclear>well</unclear> <pause dur="short"/> how is she then?</u>
+<u n="85" who="S0548">I don't know <pause dur="short"/> <trunc>d</trunc> I don't think it's gluten-free <pause dur="short"/> cos if it was gluten-free I'd have to buy gluten-free bread and she's not asked me to</u>
+<u n="86" who="S0547">and you're not going to either</u>
+<u n="87" who="S0549">I don't think it is gluten-free <pause dur="short"/> it's something <pause dur="short"/> so are we doing anything with them? <pause dur="short"/> are we just <pause dur="short"/> hanging around the house and?</u>
+<u n="88" who="S0550">we'll just tie them up and put them in the garage</u>
+<u n="89" who="S0548" whoConfidence="low"><vocal desc="laugh"/> <pause dur="short"/> it depends what time they get here we dunno what time they're coming</u>
+<u n="90" who="S0549">can you imagine in years to come if we said that about you two?</u>
+<u n="91" who="S0548">you probably will</u>
+<u n="92" who="S0550" trans="overlap">probably <pause dur="short"/> probably already</u>
+<u n="93" who="S0547">tie <vocal desc="laugh"/> them up in the garage <vocal desc="laugh"/> <pause dur="short"/> mm <pause dur="short"/> no <pause dur="short"/> that's a good point actually <pause dur="short"/> cos Boxing Day <pause dur="short"/> is usually just sort of like</u>
+<u n="94" who="S0549">slob out day <pause dur="short"/> going on a walk</u>
+<u n="95" who="S0547">mm</u>
+<u n="96" who="S0549">usually someone's ill <pause dur="short"/> so they stay in bed all day usually mum</u>
+<u n="97" who="S0548">I'm not</u>
+<u n="98" who="S0547">you are</u>
+<u n="99" who="S0549">come on <pause dur="short"/> you either have to be ill on Christmas Day Boxing Day or New Year's Day otherwise <pause dur="short"/> it's not Christmas</u>
+<u n="100" who="S0548">oh sorry</u>
+<u n="101" who="S0549">am I right?</u>
+<u n="102" who="S0547">mm</u>
+<u n="103" who="S0550"><unclear>I've time</unclear> to bring their walking stuff and I'll take them to <anon type="place"/> for a couple hours <pause dur="long"/></u>
+<u n="104" who="S0547">that's where everyone goes on Boxing Day that</u>
+<u n="105" who="S0550">mm <pause dur="short"/> some people go on Christmas Day</u>
+<u n="106" who="S0547">well yeah <pause dur="short"/> the Muslims usually do don't they?</u>
+<u n="107" who="S0548"><vocal desc="laugh"/> oh do they?</u>
+<u n="108" who="S0547">yeah <pause dur="short"/> no on <trunc>n</trunc> <pause dur="short"/> I think they do on <pause dur="short"/> easter <pause dur="short"/> we've seen them on Easter</u>
+<u n="109" who="S0549">they probably just fancied a walk</u>
+<u n="110" who="S0547">no no <pause dur="short"/> we've seen them haven't we? dad</u>
+<u n="111" who="S0550">mm</u>
+<u n="112" who="S0547">and they sit down <pause dur="short"/> near <pause dur="short"/> the end car park near <anon type="place"/> <pause dur="short"/> they sit down <pause dur="short"/> and they erm <pause dur="short"/> have like a barbecue and stuff like that</u>
+<u n="113" who="S0550">he's telling the truth</u>
+<u n="114" who="S0549">what every Easter you've got a correlational study to <trunc>s</trunc>show you this?</u>
+<u n="115" who="S0547">no cos I'm not that sad but <pause dur="short"/> it's true</u>
+<u n="116" who="S0548">anyway <pause dur="short"/> so <pause dur="short"/> any ideas would be gratefully received <pause dur="short"/> I've done an online shop <pause dur="short"/> so I've got most of the stuff coming on the Tuesday evening</u>
+<u n="117" who="S0549">so what are the options?</u>
+<u n="118" who="S0550">whatever <trunc>g</trunc> something new something different</u>
+<u n="119" who="S0548">whatever you choose</u>
+<u n="120" who="S0547">like <pause dur="short"/> what do you recommend? what do you suggest?</u>
+<u n="121" who="S0550">whatever takes your fancy</u>
+<u n="122" who="S0548">not suggesting anything</u>
+<u n="123" who="S0547"><unclear>fine we'll all have Weetabix</unclear></u>
+<u n="124" who="S0549"><vocal desc="laugh"/></u>
+<u n="125" who="S0550">okay</u>
+<u n="126" who="S0548">if that's what you want you have that</u>
+<u n="127" who="S0547">sarcasm</u>
+<u n="128" who="S0548">erm <pause dur="short"/> and then on the Wednesday</u>
+<u n="129" who="S0549">and then what day's Wednesday?</u>
+<u n="130" who="S0550">moving around at lot at the minute aren't you?</u>
+<u n="131" who="S0549" trans="overlap">what day's <pause dur="short"/> what day's Wednesday? when's next Wednesday?</u>
+<u n="132" who="S0548">ha ha ha</u>
+<u n="133" who="S0547">the day before Christmas Eve</u>
+<u n="134" who="S0548">why am I moving around a lot?</u>
+<u n="135" who="S0550">you were on Christmas breakfast a minute ago</u>
+<u n="136" who="S0548" trans="overlap">I said about the Tuesday <pause dur="short"/> yeah but the Tuesday I've got my shop being delivered <pause dur="short"/> wednesday <pause dur="short"/> I've got to go to Waitrose to pick up the turkey <pause dur="long"/></u>
+<u n="137" who="S0547">when are you working and stuff like that?</u>
+<u n="138" who="S0550">I thought you were getting turkey Thursday</u>
+<u n="139" who="S0548">no <pause dur="short"/> getting the turkey Wednesday after work</u>
+<u n="140" who="S0547">where you gonna put it?</u>
+<u n="141" who="S0550">just put it in the garden</u>
+<u n="142" who="S0547">where are you gonna put it?</u>
+<u n="143" who="S0548">gonna put it in the fridge</u>
+<u n="144" who="S0547"><unclear/></u>
+<u n="145" who="S0549" trans="overlap">normally the camping fridge comes out don't it?</u>
+<u n="146" who="S0548">mm</u>
+<u n="147" who="S0549">and it stays in there for a few days</u>
+<u n="148" who="S0548">it does</u>
+<u n="149" who="S0549">then all the alcohol goes in there instead</u>
+<u n="150" who="S0548">mm <pause dur="long"/> erm</u>
+<u n="151" who="S0550"><unclear>tell your grandma I'm out</unclear> and that's it it's done</u>
+<u n="152" who="S0548"><vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="153" who="S0547">what days are you working over Christmas?</u>
+<u n="154" who="S0548">I'm working <pause dur="short"/> I'm off Christmas Eve I'm working the Tuesday Wednesday <pause dur="short"/> I'm off Christmas Eve</u>
+<u n="155" who="S0549">she's off Christmas Eve she's working the Tuesday Wednesday then she's off Christmas Eve</u>
+<u n="156" who="S0547" trans="overlap">mm</u>
+<u n="157" who="S0549">did you know that?</u>
+<u n="158" who="S0547">going back in time</u>
+<u n="159" who="S0550">just two days <pause dur="short"/> mother's working after Christmas</u>
+<u n="160" who="S0549">you repeated yourself</u>
+<u n="161" who="S0548">I know <pause dur="short"/> and then <pause dur="short"/> I'm working <pause dur="short"/> the <pause dur="short"/> tuesday Wednesday Thursday</u>
+<u n="162" who="S0549">after Christmas?</u>
+<u n="163" who="S0548">mm hm</u>
+<u n="164" who="S0549">what day is New Year's Eve?</u>
+<u n="165" who="S0548">Thursday</u>
+<u n="166" who="S0547">what days do you get off?</u>
+<u n="167" who="S0550">I'm working the Tuesday Wednesday Thursday</u>
+<u n="168" who="S0549"><anon type="name" nameType="m"/> have you got any plans for New Year's Eve yet?</u>
+<u n="169" who="S0550">I'll finish at <pause dur="short"/> I'll finish</u>
+<u n="170" who="S0547" trans="overlap"><unclear>no</unclear></u>
+<u n="171" who="S0550">I'll finish lunchtime Christmas Eve and New Year's Eve</u>
+<u n="172" who="S0548"><unclear>I won't on</unclear> New Year's Eve</u>
+<u n="173" who="S0547">why?</u>
+<u n="174" who="S0550"><unclear>why you taking that off</unclear>?</u>
+<u n="175" who="S0548"><unclear>no</unclear></u>
+<u n="176" who="S0547">come on</u>
+<u n="177" who="S0549">well we don't know what we're doing? <pause dur="short"/> erm</u>
+<u n="178" who="S0548" trans="overlap">we <pause dur="short"/> who's the we?</u>
+<u n="179" who="S0549">well me and <anon type="name" nameType="f"/> have <unclear>only</unclear> talked about it so far</u>
+<u n="180" who="S0548">mm</u>
+<u n="181" who="S0549">erm <pause dur="short"/> cos she was saying that last year there was such a mix of different people <pause dur="short"/> and we definitely didn't want to go to <anon type="place"/> cos <anon type="place"/>'s grim</u>
+<u n="182" who="S0547">yeah</u>
+<u n="183" who="S0549">and we won't get in anywhere</u>
+<u n="184" who="S0548">yeah <unclear>frustrating</unclear></u>
+<u n="185" who="S0549" trans="overlap">then we said about <anon type="place"/> we said but <anon type="place"/> be too expensive and too busy and stuff but since then I was talking to <anon type="name" nameType="m"/> and <anon type="name" nameType="n"/> and they both spent New Year's Eve in <anon type="place"/> and they said it was really good <pause dur="short"/> and it's not as bad as it sounds <pause dur="short"/> but we're not we're only going off what it we imagine it to be</u>
+<u n="186" who="S0548">mm</u>
+<u n="187" who="S0549">not what we actually know so I don't know I might put that forward it might be worth <pause dur="short"/> thinking about but <anon type="name" nameType="f"/> suggested if it was only <pause dur="short"/> erm <pause dur="short"/> like me <anon type="name" nameType="f"/> erm <pause dur="short"/> <anon type="name" nameType="n"/> and <anon type="name" nameType="m"/> <pause dur="short"/> can't remember who else she said maybe a couple of other people <pause dur="short"/> like <anon type="name" nameType="f"/> and <anon type="name" nameType="f"/> <pause dur="short"/> said she'd like cook a meal for us and we'll all just stay at hers <pause dur="short"/> and then just drink and just sit in the lounge and</u>
+<u n="188" who="S0548" trans="overlap"><unclear/> going out?</u>
+<u n="189" who="S0549">well no that was the thing that we don't know what <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> are doing we didn't know if <pause dur="short"/> cos I said that they could do it here if you wanted really so but it's just where the boys go we're gonna have the boys in one house aren't we probably and the girls in another</u>
+<u n="190" who="S0550"><unclear>who are all these</unclear> girlfriends?</u>
+<u n="191" who="S0548">mm</u>
+<u n="192" who="S0549">well that was the other thing so we don't know <pause dur="short"/> we don't know where <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> are going she said she's not spoken to <unclear>her</unclear> mum or dad about it so it's all a bit up in the air at the minute</u>
+<u n="193" who="S0548" trans="overlap">well <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> usually spend New Year with <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/></u>
+<u n="194" who="S0549">they're not friends any more</u>
+<u n="195" who="S0547">they haven't done it for the last couple of years</u>
+<u n="196" who="S0549">no they've not</u>
+<u n="197" who="S0547">no they've not</u>
+<u n="198" who="S0548">did they not do it last year?</u>
+<u n="199" who="S0547">no they went to some <pause dur="short"/> <trunc>s</trunc> <pause dur="short"/> some stranger in <anon type="place"/></u>
+<u n="200" who="S0548" trans="overlap">oh they did <pause dur="short"/> they did</u>
+<u n="201" who="S0549">they went to a stranger in <anon type="place"/>?</u>
+<u n="202" who="S0548">they went to somebody <anon type="name" nameType="m"/> played golf with or something</u>
+<u n="203" who="S0547"><vocal desc="laugh"/> that was all a bit weird</u>
+<u n="204" who="S0548">cos they walked past the end of our road on the way home</u>
+<u n="205" who="S0549">oh</u>
+<u n="206" who="S0547">you were ill last time</u>
+<u n="207" who="S0548">I was ill</u>
+<u n="208" who="S0550">we were home alone weren't we?</u>
+<u n="209" who="S0549" trans="overlap" whoConfidence="low"><unclear>so</unclear></u>
+<u n="210" who="S0548">well I was in bed by ten o'clock</u>
+<u n="211" who="S0550">well you were at that strange place the <anon type="place"/> weren't you?</u>
+<u n="212" who="S0549">yeah</u>
+<u n="213" who="S0548">what strange place?</u>
+<u n="214" who="S0547" trans="overlap">just like <anon type="name" nameType="m"/></u>
+<u n="215" who="S0550">you weren't well either</u>
+<u n="216" who="S0549" whoConfidence="low"><vocal desc="laugh"/> no</u>
+<u n="217" who="S0548">what strange place?</u>
+<u n="218" who="S0547">why? what happened last year</u>
+<u n="219" who="S0549">she got drunk</u>
+<u n="220" who="S0547">did you? <unclear>right</unclear> <pause dur="short"/> <unclear/></u>
+<u n="221" who="S0548" trans="overlap">you threw up</u>
+<u n="222" who="S0549">I didn't throw up <pause dur="short"/> I've only been sick twice</u>
+<u n="223" who="S0547" trans="overlap">like as in <pause dur="short"/> you didn't know where you were?</u>
+<u n="224" who="S0549" trans="overlap"><unclear>that night was</unclear></u>
+<u n="225" who="S0550" whoConfidence="low">she got up and went to sleep</u>
+<u n="226" who="S0549">seriously <pause dur="short"/> my body was just like no thank you had enough</u>
+<u n="227" who="S0547">that's bad</u>
+<u n="228" who="S0549">why's it bad?</u>
+<u n="229" who="S0547">is that what you want?</u>
+<u n="230" who="S0548">yeah you met <anon type="name" nameType="m"/> in the pub didn't you?</u>
+<u n="231" who="S0549"><vocal desc="laugh"/> yeah <pause dur="short"/> we all threw ourselves at him <vocal desc="laugh"/> <pause dur="short"/> the whole <trunc>gr</trunc></u>
+<u n="232" who="S0548" trans="overlap">at <anon type="name" nameType="m"/></u>
+<u n="233" who="S0549">the whole group of us ran in and then it's me <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> <pause dur="short"/> I think even <anon type="name" nameType="n"/> <pause dur="short"/> we all just ran at him like <anon type="name" nameType="m"/> happy birthday for in a few hours</u>
+<u n="234" who="S0547">what?</u>
+<u n="235" who="S0549">and we all just threw ourselves at him <pause dur="short"/> and he was like oh my god <vocal desc="laugh"/></u>
+<u n="236" who="S0547">what were you drinking?</u>
+<u n="237" who="S0549">I dunno <pause dur="short"/> can't remember <pause dur="short"/> can't remember over a year ago what I was drinking</u>
+<u n="238" who="S0548" trans="overlap">well <pause dur="short"/> it's nearly twelve months ago <anon type="name" nameType="m"/></u>
+<u n="239" who="S0547">yeah but I can imagine if she's like that bad then you're like having all that Lambrini or whatever</u>
+<u n="240" who="S0548">she'll've been on the mulled wine probably</u>
+<u n="241" who="S0549" trans="overlap">no I've only had Lambrini once in my life I'm never touching it again <pause dur="short"/> vowed that</u>
+<u n="242" who="S0547">fair enough no I don't know what the plans are this year</u>
+<u n="243" who="S0550">it's usually <pause dur="short"/> it's been you er <pause dur="short"/> <anon type="name" nameType="n"/> and <anon type="name" nameType="m"/> last couple of years isn't it? <pause dur="short"/> <anon type="name" nameType="m"/></u>
+<u n="244" who="S0549">yeah but they've all got girlfriends now</u>
+<u n="245" who="S0547" trans="overlap"><anon type="name" nameType="m"/>'s in Australia</u>
+<u n="246" who="S0548">has <anon type="name" nameType="m"/> got a girlfriend?</u>
+<u n="247" who="S0549">yeah</u>
+<u n="248" who="S0548">has he?</u>
+<u n="249" who="S0549">according to <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> is going out with <anon type="name" nameType="m"/>'s ex girlfriend <pause dur="short"/> and they didn't see why that was weird</u>
+<u n="250" who="S0547">no he's not that's all a bit</u>
+<u n="251" who="S0549">that's what <anon type="name" nameType="m"/> said</u>
+<u n="252" who="S0547"><anon type="name" nameType="m"/>'s yeah</u>
+<u n="253" who="S0549">what?</u>
+<u n="254" who="S0548" whoConfidence="low">very wrong</u>
+<u n="255" who="S0547">well he's not very wrong just sort of a bit weird <pause dur="short"/> I don't I don't really get involved in all that I'm just like see I don't need that</u>
+<u n="256" who="S0549">why? <pause dur="short"/> have to get the gossip <anon type="name" nameType="m"/></u>
+<u n="257" who="S0547">no you don't</u>
+<u n="258" who="S0548">it's too much like hard word for <anon type="name" nameType="m"/> to get all the gossip</u>
+<u n="259" who="S0547" trans="overlap">oh it's just</u>
+<u n="260" who="S0548">he can't be bothered <pause dur="short"/> <unclear>can you love?</unclear></u>
+<u n="261" who="S0549" trans="overlap">it's interesting though</u>
+<u n="262" who="S0547">no I can't</u>
+<u n="263" who="S0549">you too busy in your own gossip?</u>
+<u n="264" who="S0547">yeah I am</u>
+<u n="265" who="S0549">your own girlfriend?</u>
+<u n="266" who="S0547">absolutely</u>
+<u n="267" who="S0549">your girlfriends</u>
+<u n="268" who="S0547">absolutely <pause dur="short"/> I can't really get involved with all that <pause dur="short"/> either</u>
+<u n="269" who="S0549">what? getting a girlfriend?</u>
+<u n="270" who="S0547">no all you lot speculating <pause dur="short"/> it's quite funny actually</u>
+<u n="271" who="S0549">why?</u>
+<u n="272" who="S0550">I don't speculate about anything</u>
+<u n="273" who="S0548" trans="overlap">I was gonna say have we speculated?</u>
+<u n="274" who="S0547" trans="overlap">yeah you do all the time</u>
+<u n="275" who="S0548">don't remember that do you?</u>
+<u n="276" who="S0547">don't remember anything</u>
+<u n="277" who="S0548"><unclear/></u>
+<u n="278" who="S0547">you don't it's true</u>
+<u n="279" who="S0548">really <unclear>too</unclear></u>
+<u n="280" who="S0547" trans="overlap">I think grandma keeps <trunc>spo</trunc>speculating about</u>
+<u n="281" who="S0550">you and er <anon type="name" nameType="f"/>'s granddaughter</u>
+<u n="282" who="S0547" trans="overlap">god <pause dur="short"/> that is never ever gonna happen</u>
+<u n="283" who="S0548" trans="overlap">no she doesn't <pause dur="short"/> no she doesn't</u>
+<u n="284" who="S0549">yes she does</u>
+<u n="285" who="S0548">no she doesn't</u>
+<u n="286" who="S0547" trans="overlap">she does</u>
+<u n="287" who="S0548">no she doesn't <pause dur="short"/> yes she does</u>
+<u n="288" who="S0547" trans="overlap">what does she do then?</u>
+<u n="289" who="S0548">she just wants to be nosey <pause dur="short"/> I think she thinks she's too boring for her grandson</u>
+<u n="290" who="UNKMALE" whoConfidence="low"><vocal desc="misc"/></u>
+<u n="291" who="S0547"><vocal desc="laugh"/> what <unclear>I don't</unclear> <unclear/></u>
+<u n="292" who="S0550" trans="overlap">that was very nice thank you very much</u>
+<u n="293" who="S0549" whoConfidence="low"><unclear>even when you're</unclear> <pause dur="short"/> singing oh oh</u>
+<u n="294" who="S0547" whoConfidence="low"><vocal desc="misc"/> <vocal desc="laugh"/></u>
+<u n="295" who="S0549">what?</u>
+<u n="296" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="297" who="S0549">you're like <anon type="name" nameType="m"/> on Christmas Day</u>
+<u n="298" who="S0547">I dunno what happens</u>
+<u n="299" who="S0548"><vocal desc="cough"/> oh dear me</u>
+<u n="300" who="S0547">why what did I do on Christmas Day?</u>
+<u n="301" who="S0548" trans="overlap">how many minutes did you get then?</u>
+<u n="302" who="S0547">what to</u>
+<u n="303" who="S0548" trans="overlap">with <anon type="name" nameType="m"/> burping in it</u>
+<u n="304" who="S0547">what to do on Christmas Day?</u>
+<u n="305" who="S0549">you doing your acting? <pause dur="short"/> cut cut stop looking at her</u>
+<u n="306" who="S0547">eh?</u>
+	
+	</body>
+</text>

@@ -1,0 +1,922 @@
+<text id="STW7">
+	<header>
+		<rec_length>1:00:01</rec_length>
+		<rec_date>2016-02-04</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>2</n_speakers>
+		<list_speakers>S0588 S0589</list_speakers>
+		<rec_loc>ANON’s home, London</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Cooking, perfume, accents, flowers, friends on Facebook, fireplace</topics>
+		<activity>Cooking evening meal.</activity>
+		<conv_type>Discussing, making arrangements</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0588">
+				<exactage>49</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>England</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Standard English</dialect_rep>
+				<hab_city>London</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>49 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Trascriber</occupation>
+				<socgrade>D</socgrade>
+				<nssec>6</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0589">
+				<exactage>40</exactage>
+				<age1994>35_44</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Edinburgh</birthplace>
+				<birthcountry>Britain</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Standard English</dialect_rep>
+				<hab_city>London</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>11 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Administrator</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0588">what did you say?</u>
+<u n="2" who="S0589">can I have a beer?</u>
+<u n="3" who="S0588">you want another beer already?</u>
+<u n="4" who="S0589">sorry?</u>
+<u n="5" who="S0588">do you want another beer already?</u>
+<u n="6" who="S0589">oh is that what I said? I meant</u>
+<u n="7" who="S0588">you said er</u>
+<u n="8" who="S0589" trans="overlap">can I have some food for <anon type="name" nameType="m"/>?</u>
+<u n="9" who="S0588">oh <vocal desc="laugh"/> you automatically said can I have another beer?</u>
+<u n="10" who="S0589">yes <pause dur="short"/> no I was about to say I always have a beer on a Thursday</u>
+<u n="11" who="S0588">I know</u>
+<u n="12" who="S0589">did you get my little joke?</u>
+<u n="13" who="S0588">yes because</u>
+<u n="14" who="S0589">did you get my joke?</u>
+<u n="15" who="S0588">yes you're celebrating getting close to the weekend</u>
+<u n="16" who="S0589">yes but the joke is that you could argue I have a beer every day</u>
+<u n="17" who="S0588">oh <pause dur="short"/> you do have a beer every day</u>
+<u n="18" who="S0589"><unclear/></u>
+<u n="19" who="S0588" trans="overlap">oh that smells good</u>
+<u n="20" who="S0589">we can use that bacon?</u>
+<u n="21" who="S0588">yeah <pause dur="long"/> so I did not hear what you said when you answered my question which was what time is your mum arriving?</u>
+<u n="22" who="S0589">erm by er midday I don't actually know</u>
+<u n="23" who="S0588">be about eleven then won't oh gosh I don't wake up till twelve</u>
+<u n="24" who="S0589">well I've already spoken to you about that</u>
+<u n="25" who="S0588">mm</u>
+<u n="26" who="S0589">oh there's <anon type="name" nameType="m"/></u>
+<u n="27" who="S0588">probably a good thing though get loads more work done</u>
+<u n="28" who="S0589">mum can just be left on her own devices</u>
+<u n="29" who="S0588">mm and what devices will it be?</u>
+<u n="30" who="S0589">well she's got to whitewash she always finds something to sand down</u>
+<u n="31" who="S0588">yes</u>
+<u n="32" who="S0589">and she's got to whitewash the kitchen</u>
+<u n="33" who="S0588">the dining room?</u>
+<u n="34" who="S0589">sorry the dining room</u>
+<u n="35" who="S0588">sorry <anon type="name" nameType="m"/> bit too much action going on here isn't there? he's trying to eat his supper</u>
+<u n="36" who="S0589">would you like spaghetti bolognaise or?</u>
+<u n="37" who="S0588" trans="overlap">yes <pause dur="short"/> yes I would thank you <pause dur="short"/> any more news at work?</u>
+<u n="38" who="S0589">no we had a big meeting it turns out their boss <anon type="name" nameType="f"/> is er in India</u>
+<u n="39" who="S0588">oh what doing what?</u>
+<u n="40" who="S0589">on holiday actually no you're right she'd be working and <anon type="name" nameType="f"/>'s going out there on that's what <anon type="name" nameType="m"/> meant yeah so it's they're out there setting it up I guess</u>
+<u n="41" who="S0588">yeah</u>
+<u n="42" who="S0589" trans="overlap">cos <anon type="name" nameType="f"/>'s going out there as well <pause dur="short"/> I wouldn't mind that</u>
+<u n="43" who="S0588">yeah it would be quite fun wouldn't it? <pause dur="short"/> if you like that sort of thing travelling <pause dur="long"/></u>
+<u n="44" who="S0589">yes I see I thought he meant they were on holiday <pause dur="long"/></u>
+<u n="45" who="S0588">erm so I did my little er social</u>
+<u n="46" who="S0589" trans="overlap">would you take the mince out? yes <unclear/> sure at last</u>
+<u n="47" who="S0588">social interaction for <pause dur="long"/> it is like a date because it's like oh no I don't want to look overly keen and put them off <vocal desc="laugh"/> being all aware of those sorts of things</u>
+<u n="48" who="S0589">well we've already waited about two weeks</u>
+<u n="49" who="S0588">is it two weeks?</u>
+<u n="50" who="S0589">about that yeah</u>
+<u n="51" who="S0588">yeah it is nearly isn't it? <pause dur="long"/> that nice <anon type="name" nameType="m"/>? <pause dur="short"/> come on back in cos I'm chatting to <anon type="name" nameType="m"/> and he doesn't answer</u>
+<u n="52" who="S0589">he does it sort of</u>
+<u n="53" who="S0588"><vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="54" who="S0589">have to spray my bay plant it's got an infestation of</u>
+<u n="55" who="S0588">something</u>
+<u n="56" who="S0589" trans="overlap">scale bugs</u>
+<u n="57" who="S0588">oh</u>
+<u n="58" who="S0589">mites or whatever they're called</u>
+<u n="59" who="S0588">I saw a fascinating post on Facebook which was sand and blown up to huge you know it had been put under a microscope</u>
+<u n="60" who="S0589">yeah silica</u>
+<u n="61" who="S0588">it was amazing every</u>
+<u n="62" who="S0589" trans="overlap">glass</u>
+<u n="63" who="S0588">grain was different some of them looked like animals</u>
+<u n="64" who="S0589" trans="overlap"><shift new="singing"/> every grain of sand <shift new="normal"/></u>
+<u n="65" who="S0588" trans="overlap">but some of them looked like erm fossils but it's sand might be fossils mightn't it?</u>
+<u n="66" who="S0589">it's silica</u>
+<u n="67" who="S0588">well what's silica darling?</u>
+<u n="68" who="S0589">glass</u>
+<u n="69" who="S0588">it did look very glassy <pause dur="short"/> yeah but where does ultimately spring from stones?</u>
+<u n="70" who="S0589">excuse me</u>
+<u n="71" who="S0588">they looked like stones <pause dur="short"/> I'll show you <pause dur="short"/> but if you think how many grains of sand there are</u>
+<u n="72" who="S0589"><shift new="singing"/> in every grain <shift new="normal"/></u>
+<u n="73" who="S0588" trans="overlap">and each grain of sand shut up</u>
+<u n="74" who="S0589"><vocal desc="laugh"/> Bob Dylan</u>
+<u n="75" who="S0588">stop being robotic</u>
+<u n="76" who="S0589">it's Bob Dylan</u>
+<u n="77" who="S0588">so? I'm talking</u>
+<u n="78" who="S0589" trans="overlap">it's one of his</u>
+<u n="79" who="S0588">and I'm not talking about Bob Dylan</u>
+<u n="80" who="S0589">it's one of his Christian songs</u>
+<u n="81" who="S0588">yeah okay well I'm not gonna say what I'm gonna say cos you're gonna break into song again</u>
+<u n="82" who="S0589">sorry darling shall we listen to the song?</u>
+<u n="83" who="S0588">no</u>
+<u n="84" who="S0589">I've got it</u>
+<u n="85" who="S0588">I don't want to</u>
+<u n="86" who="S0589">okay</u>
+<u n="87" who="S0588">I need <trunc>m</trunc>more milk <pause dur="long"/></u>
+<u n="88" who="S0589">so how was your day dear?</u>
+<u n="89" who="S0588">oh quite nice really I like</u>
+<u n="90" who="S0589" trans="overlap">when did you get up?</u>
+<u n="91" who="S0588"><vocal desc="laugh"/></u>
+<u n="92" who="S0589">oh</u>
+<u n="93" who="S0588" trans="overlap">bit late <vocal desc="laugh"/></u>
+<u n="94" who="S0589">ah</u>
+<u n="95" who="S0588" trans="overlap">but I erm did quite a lot of transcribing</u>
+<u n="96" who="S0589">good</u>
+<u n="97" who="S0588">and erm tidied out my office as well <pause dur="short"/> erm</u>
+<u n="98" who="S0589">I might as well use up</u>
+<u n="99" who="S0588" trans="overlap">well you know</u>
+<u n="100" who="S0589" trans="overlap">all this bacon mightn't I?</u>
+<u n="101" who="S0588"><unclear/></u>
+<u n="102" who="S0589" trans="overlap">cos what are we gonna do with three rashers?</u>
+<u n="103" who="S0588">yeah use it all darling</u>
+<u n="104" who="S0589">mm</u>
+<u n="105" who="S0588">mm</u>
+<u n="106" who="S0589" trans="overlap">you know I like to leave a little bit of something always</u>
+<u n="107" who="S0588">do you? why?</u>
+<u n="108" who="S0589">dunno it's just silly like</u>
+<u n="109" who="S0588">oh</u>
+<u n="110" who="S0589" trans="overlap">I'll leave two mushrooms in a</u>
+<u n="111" who="S0588" trans="overlap">yeah this exactly</u>
+<u n="112" who="S0589"><vocal desc="cough"/> tell you what I'll just take the meaty bit</u>
+<u n="113" who="S0588">are you gonna do something fun with your mum?</u>
+<u n="114" who="S0589">yeah go to a party</u>
+<u n="115" who="S0588">well I dunno if that's fun cos that's work really isn't it?</u>
+<u n="116" who="S0589">it is sort of work</u>
+<u n="117" who="S0588">there's a</u>
+<u n="118" who="S0589" trans="overlap">what will you wear?</u>
+<u n="119" who="S0588" trans="overlap">quite a bit of bacon there <anon type="name" nameType="m"/> why don't you use that?</u>
+<u n="120" who="S0589">cos I've got so much anyway I thought I'd just use the</u>
+<u n="121" who="S0588">erm well on the Monday it'll be more</u>
+<u n="122" who="S0589">yeah</u>
+<u n="123" who="S0588" trans="overlap">of a have you got Monday off?</u>
+<u n="124" who="S0589">yeah first holiday of the year</u>
+<u n="125" who="S0588">darling I can't find those light switches I have absolutely no idea where they are</u>
+<u n="126" who="S0589">er <pause dur="short"/> in the under-stair cupboard</u>
+<u n="127" who="S0588">are they?</u>
+<u n="128" who="S0589">upstairs cupboard</u>
+<u n="129" who="S0588">the upstairs cupboard</u>
+<u n="130" who="S0589" trans="overlap">actually that's the only one now isn't it? the under-stair cupboard</u>
+<u n="131" who="S0588">what you mean on this floor?</u>
+<u n="132" who="S0589">yeah</u>
+<u n="133" who="S0588">oh okay shall I get them out so that <anon type="name" nameType="m"/> can see them?</u>
+<u n="134" who="S0589">yeah <pause dur="short"/> I know how to do it</u>
+<u n="135" who="S0588">yeah but you've got a question</u>
+<u n="136" who="S0589">well I don't really but</u>
+<u n="137" who="S0588">you don't really have a question?</u>
+<u n="138" who="S0589">you know what <anon type="name" nameType="m"/>'s like if you leave them out before you know it he'll have put them up</u>
+<u n="139" who="S0588"><vocal desc="laugh"/> yeah it's cos of his DNA</u>
+<u n="140" who="S0589">yeah <pause dur="long"/></u>
+<u n="141" who="S0588">let's see <unclear/> find them well I can't see them and <unclear/> the vacuum cleaner's in there</u>
+<u n="142" who="S0589">is it not there?</u>
+<u n="143" who="S0588" trans="overlap">really</u>
+<u n="144" who="S0589"><vocal desc="cough"/> well that's strange that can only mean you've put them away somewhere</u>
+<u n="145" who="S0588">they would have been hanging around <unclear>not anywhere</unclear> <pause dur="long"/> and they're not in here</u>
+<u n="146" who="S0589">sorry?</u>
+<u n="147" who="S0588">they're not in here</u>
+<u n="148" who="S0589">you've put them away then</u>
+<u n="149" who="S0588">yeah they're lost <pause dur="short"/> <unclear/></u>
+<u n="150" who="S0589">maybe you made me put them in the shed</u>
+<u n="151" who="S0588">yeah that's where I must have</u>
+<u n="152" who="S0589">but that's the equivalent to lost</u>
+<u n="153" who="S0588" trans="overlap">that means they're lost</u>
+<u n="154" who="S0589">lost till the spring</u>
+<u n="155" who="S0588">we won't find anything in there until the spring <pause dur="short"/> I emailed <anon type="name" nameType="f"/> today as well</u>
+<u n="156" who="S0589">oh good</u>
+<u n="157" who="S0588">well her baby's being born in April</u>
+<u n="158" who="S0589">soon</u>
+<u n="159" who="S0588">yeah</u>
+<u n="160" who="S0589" trans="overlap">what she got back to you or?</u>
+<u n="161" who="S0588">yeah</u>
+<u n="162" who="S0589">how's it going?</u>
+<u n="163" who="S0588" trans="overlap">well I said how is the</u>
+<u n="164" who="S0589" trans="overlap">good</u>
+<u n="165" who="S0588">mother with the baby in the tummy?</u>
+<u n="166" who="S0589">mm what a funny business</u>
+<u n="167" who="S0588">yes it is <pause dur="short"/> not a business we have any idea about</u>
+<u n="168" who="S0589">we have nieces and nephews</u>
+<u n="169" who="S0588">I ought to email erm <anon type="name" nameType="m"/> I was thinking of emailing him and asking when the small human is due to arrive</u>
+<u n="170" who="S0589">yeah that's another good idea darling what's got into you?</u>
+<u n="171" who="S0588" trans="overlap">mm I don't know <pause dur="short"/> well because there's nothing happening on the music front I'm being ignored left right and centre there and I might as well <pause dur="short"/> talk to people</u>
+<u n="172" who="S0589">uhu</u>
+<u n="173" who="S0588">I'm always hanging on for that aren't I? as if something's gonna happen</u>
+<u n="174" who="S0589">also in years to come</u>
+<u n="175" who="S0588" trans="overlap">and it doesn't so</u>
+<u n="176" who="S0589">in the years to come we when we visit <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> in <anon type="place"/></u>
+<u n="177" who="S0588">mm?</u>
+<u n="178" who="S0589">we will also pop in to see your new great niece or nephew</u>
+<u n="179" who="S0588">oh cos it's near isn't it?</u>
+<u n="180" who="S0589">yeah</u>
+<u n="181" who="S0588">of course <pause dur="short"/> but I'd like to see them when they're actual babies I think that would be quite fun actually before they start talking</u>
+<u n="182" who="S0589">I don't care for babies</u>
+<u n="183" who="S0588">well okay yeah fair enough I don't care that much <vocal desc="laugh"/> erm <pause dur="short"/> what was I gonna say? oh I printed out</u>
+<u n="184" who="S0589"><vocal desc="sigh"/></u>
+<u n="185" who="S0588">that erm brochure for that house in <anon type="place"/> darling</u>
+<u n="186" who="S0589">good girl</u>
+<u n="187" who="S0588"><vocal desc="laugh"/> so we can we can look at it</u>
+<u n="188" who="S0589">cos there's another save I bought some tinned tomatoes just in case and now I do have right at the back of the</u>
+<u n="189" who="S0588">uhu</u>
+<u n="190" who="S0589" trans="overlap">right at the back of the cupboard <pause dur="short"/> now have you got any questions for me?</u>
+<u n="191" who="S0588">well is it your long brewing bolognaise?</u>
+<u n="192" who="S0589" trans="overlap">yes it is do you want to just dissolve that in a mug of boiling water?</u>
+<u n="193" who="S0588" trans="overlap">and there's another</u>
+<u n="194" who="S0589">I don't need that that can go in the <pause dur="short"/> in the basket</u>
+<u n="195" who="S0588">just one mug?</u>
+<u n="196" who="S0589">part of the reason why meals take so long is I always cook onions so slowly</u>
+<u n="197" who="S0588">yeah you like doing that don't you?</u>
+<u n="198" who="S0589">well it's a bit tiresome</u>
+<u n="199" who="S0588">what are we gonna cook for your mum? she</u>
+<u n="200" who="S0589">well she was probably come up</u>
+<u n="201" who="S0588" trans="overlap">enjoys our meals very much</u>
+<u n="202" who="S0589">biryani oh</u>
+<u n="203" who="S0588">yeah</u>
+<u n="204" who="S0589" trans="overlap">oh</u>
+<u n="205" who="S0588">oh</u>
+<u n="206" who="S0589">just magical</u>
+<u n="207" who="S0588" trans="overlap">I love the way you two seem to effortlessly prepare a meal</u>
+<u n="208" who="S0589" trans="overlap">you don't seem to ever be away and then suddenly</u>
+<u n="209" who="S0588">did she say that? I <trunc>d</trunc> I didn't hear that I heard you seem to do it with so little effort <pause dur="long"/></u>
+<u n="210" who="S0589"><foreign lang="fre">et le vin rouge</foreign></u>
+<u n="211" who="S0588">erm do you think she'll be wearing her perfume?</u>
+<u n="212" who="S0589"><vocal desc="laugh"/> I'll ask her not to I'll say that</u>
+<u n="213" who="S0588" trans="overlap">well</u>
+<u n="214" who="S0589">you think you may be allergic to it</u>
+<u n="215" who="S0588"><vocal desc="laugh"/> no cos I think it should be just you because if she goes to <anon type="name" nameType="m"/>'s with that perfume on people are going to faint</u>
+<u n="216" who="S0589">well except you're the only one that noticed it so maybe you actually are allergic</u>
+<u n="217" who="S0588" trans="overlap">I'm not the only one who noticed you said <anon type="name" nameType="f"/> noticed</u>
+<u n="218" who="S0589">she thought it was on a bit too thick</u>
+<u n="219" who="S0588">well she wasn't there on the day that I was noticing it</u>
+<u n="220" who="S0589" trans="overlap">maybe that's just a polite way of saying it's not very nice</u>
+<u n="221" who="S0588">yeah</u>
+<u n="222" who="S0589">it was a gift</u>
+<u n="223" who="S0588">well it's a horrible smell to start with</u>
+<u n="224" who="S0589">I I can't smell it at all and you know that I've got a very sensitive nose</u>
+<u n="225" who="S0588" trans="overlap">also she's putting far too much on</u>
+<u n="226" who="S0589"><anon type="name" nameType="f"/></u>
+<u n="227" who="S0588" trans="overlap">and if it's in imagine in <anon type="name" nameType="m"/>'s flat that's gonna be quite bad there's nothing else to offset the smell except</u>
+<u n="228" who="S0589" trans="overlap">now do you want to move the garden furniture now so mum</u>
+<u n="229" who="S0588" trans="overlap">except other bad smells <vocal desc="laugh"/></u>
+<u n="230" who="S0589">so that mum can <pause dur="short"/> do this? <pause dur="long"/></u>
+<u n="231" who="S0588">so she is doing this is she?</u>
+<u n="232" who="S0589">well if we move it for now</u>
+<u n="233" who="S0588">I'll oversee you</u>
+<u n="234" who="S0589">oh thank you</u>
+<u n="235" who="S0588">cos I've got tea to drink <pause dur="long"/></u>
+<u n="236" who="S0589">I think it's quite nice there <pause dur="short"/> don't you think?</u>
+<u n="237" who="S0588">oh</u>
+<u n="238" who="S0589" trans="overlap">hello?</u>
+<u n="239" who="S0588">I do I think that looks very nice</u>
+<u n="240" who="S0589"><vocal desc="cough"/> <pause dur="long"/></u>
+<u n="241" who="S0588">well I've forgotten again Saturday or Sunday? <pause dur="short"/> might be a Saturday remember it's on Saturday <pause dur="short"/> so Sunday might be the <anon type="place"/> pop-up store <pause dur="short"/> the last time for once we weren't lucky</u>
+<u n="242" who="S0589">right look I've done it so she can do this this one's heavy</u>
+<u n="243" who="S0588">yeah so it'll stop it being green won't it?</u>
+<u n="244" who="S0589">yeah</u>
+<u n="245" who="S0588">mm that'll be better</u>
+<u n="246" who="S0589">she doesn't need to do these steps she can if she wants</u>
+<u n="247" who="S0588">can we move that piece of <trunc>poly</trunc>polystyrene?</u>
+<u n="248" who="S0589">yes if you can do that dear</u>
+<u n="249" who="S0588" trans="overlap">is that recycled? no</u>
+<u n="250" who="S0589">no</u>
+<u n="251" who="S0588">it needs to go in the dustbin <pause dur="long"/> erm and so if it's pet-friendly can <anon type="name" nameType="m"/> just stay out?</u>
+<u n="252" who="S0589">yeah it's pet-friendly</u>
+<u n="253" who="S0588">so we don't have to keep him in?</u>
+<u n="254" who="S0589">no <pause dur="short"/> it's just some sort of oh shit except it's been moved have you lost that as well darling?</u>
+<u n="255" who="S0588">what?</u>
+<u n="256" who="S0589">it was just there</u>
+<u n="257" who="S0588">what was?</u>
+<u n="258" who="S0589">the the actual fluid itself</u>
+<u n="259" who="S0588" trans="overlap">it's under the sink</u>
+<u n="260" who="S0589">okay yeah it's like some sort of probiotic yoghurt sort of thing</u>
+<u n="261" who="S0588" trans="overlap"><vocal desc="laugh"/> really? that's good <pause dur="long"/> erm</u>
+<u n="262" who="S0589">and I want the front steps done</u>
+<u n="263" who="S0588">in the same manner?</u>
+<u n="264" who="S0589">same stuff</u>
+<u n="265" who="S0588">there's no oh no you must have put them in the shed those lights bugger they're really nice and we want those up can you just buy some more? cos we probably need more</u>
+<u n="266" who="S0589">have you done what I asked with that</u>
+<u n="267" who="S0588">yeah</u>
+<u n="268" who="S0589">that stock cube?</u>
+<u n="269" who="S0588" trans="overlap">it's there</u>
+<u n="270" who="S0589">good thank you what am I looking? oh yes</u>
+<u n="271" who="S0588">well I was tempted to go into <anon type="place"/> today</u>
+<u n="272" who="S0589">sorry?</u>
+<u n="273" who="S0588">I'm tempted to go into <anon type="place"/> today cos I want to post a couple of letters I want to buy a nice scrapbook from WH Smith</u>
+<u n="274" who="S0589">a scrapbook</u>
+<u n="275" who="S0588">and I want to get some vitamins from Boots and I there was something else that I wanted</u>
+<u n="276" who="S0589">something from Fortnum</u>
+<u n="277" who="S0588" trans="overlap">oh and a card for my mum</u>
+<u n="278" who="S0589">not Fortnum and Mason</u>
+<u n="279" who="S0588"><vocal desc="laugh"/></u>
+<u n="280" who="S0589">Barrett and John</u>
+<u n="281" who="S0588">that would be nice</u>
+<u n="282" who="S0589">Barrett and John and</u>
+<u n="283" who="S0588" trans="overlap">Holland and Barrett</u>
+<u n="284" who="S0589">Holland and Barrett</u>
+<u n="285" who="S0588">erm and</u>
+<u n="286" who="S0589">flowers for your mum</u>
+<u n="287" who="S0588">well a birthday card I don't think I've got the money for flowers</u>
+<u n="288" who="S0589">be about twenty quid</u>
+<u n="289" who="S0588">no I think it'll be more than that won't it to send? <pause dur="short"/> probably left it too late <pause dur="short"/> I'm a terrible daughter</u>
+<u n="290" who="S0589">no darling</u>
+<u n="291" who="S0588"><vocal desc="laugh"/> I am</u>
+<u n="292" who="S0589" trans="overlap">not terrible just not very good</u>
+<u n="293" who="S0588"><vocal desc="laugh"/> <unclear/></u>
+<u n="294" who="S0589">just get a cheap flower and then you get round it by saying it's your favourite I've always loved daffodils</u>
+<u n="295" who="S0588"><vocal desc="laugh"/> are they cheap though?</u>
+<u n="296" who="S0589">I don't know just whatever the cheap flower is</u>
+<u n="297" who="S0588"><vocal desc="sneeze"/> excuse me <vocal desc="sneeze"/> yeah I need to do something more because I don't want to look too terrible in front of the other siblings</u>
+<u n="298" who="S0589">siblings</u>
+<u n="299" who="S0588">siblings that's like my vagina vagina</u>
+<u n="300" who="S0589">yes</u>
+<u n="301" who="S0588">I must have just read it and thought that's obviously how you pronounce it</u>
+<u n="302" who="S0589">that happens</u>
+<u n="303" who="S0588">but then</u>
+<u n="304" who="S0589"><vocal desc="cough"/></u>
+<u n="305" who="S0588">oh <pause dur="long"/></u>
+<u n="306" who="S0589">think you read it in that little booklet <vocal desc="cough"/> about your first period</u>
+<u n="307" who="S0588"><vocal desc="laugh"/> it was all a marketing ploy to sell tampons</u>
+<u n="308" who="S0589">tampons <pause dur="long"/></u>
+<u n="309" who="S0588">hello oh oh too much going on in here isn't there <anon type="name" nameType="m"/>?</u>
+<u n="310" who="S0589">good quality meat this</u>
+<u n="311" who="S0588">it looks it it's a beautiful colour</u>
+<u n="312" who="S0589">and it doesn't look there's no water coming out of it it's just browning</u>
+<u n="313" who="S0588">oh <pause dur="short"/> yeah but isn't cheap meat tastes good though doesn't it?</u>
+<u n="314" who="S0589">no not always</u>
+<u n="315" who="S0588" trans="overlap">well I thought it was just cheap fatty meat was quite tasty</u>
+<u n="316" who="S0589">well fatty meat can be tasty <pause dur="short"/> like too lean beef can <trunc>la</trunc>lack flavour <pause dur="short"/> that's why part of the reason why we put the fatty bacon into the dish</u>
+<u n="317" who="S0588">we need to find a reason to use those sausages fifth of February they need to be eaten now</u>
+<u n="318" who="S0589">well you could you could cook them cos there's a dirty pan and then tell <anon type="name" nameType="m"/> he can have a bacon sandwich</u>
+<u n="319" who="S0588">yeah well we could cook them this evening</u>
+<u n="320" who="S0589">or</u>
+<u n="321" who="S0588" trans="overlap">they might not be</u>
+<u n="322" who="S0589" trans="overlap">give them to the foxes</u>
+<u n="323" who="S0588">they'd be quite nice cold wouldn't they? hold on it's actually it's the fourth today so they're still in date</u>
+<u n="324" who="S0589">never doubted it</u>
+<u n="325" who="S0588" trans="overlap">er look at all these ingredients but it's sixty-one percent pork but what part of the pork? fortified wheat flour <pause dur="short"/> lots of other things basically <pause dur="long"/></u>
+<u n="326" who="S0589">whoops you didn't dissolve it</u>
+<u n="327" who="S0588">sorry dear</u>
+<u n="328" who="S0589">there</u>
+<u n="329" who="S0588">mm</u>
+<u n="330" who="S0589">that I don't have a bouquet garni cos it's too dark and I can't see what's in the garden can I have the tomato puree please?</u>
+<u n="331" who="S0588">shall I go out there with the torch? you mean you just want some bay leaves?</u>
+<u n="332" who="S0589">no I've got a bay leaf</u>
+<u n="333" who="S0588">oh</u>
+<u n="334" who="S0589" trans="overlap">but normally I'd get thyme</u>
+<u n="335" who="S0588">oh oh</u>
+<u n="336" who="S0589">and rosemary</u>
+<u n="337" who="S0588" trans="overlap">I was thinking we need a torch that goes on your head for that sort of purpose</u>
+<u n="338" who="S0589"><vocal desc="laugh"/> yes yes it's a good idea</u>
+<u n="339" who="S0588">I thought that yesterday when I was putting the washing line away</u>
+<u n="340" who="S0589">did you put the washing line <trunc>aw</trunc>? oh yeah you did cos otherwise</u>
+<u n="341" who="S0588" trans="overlap">yes I did yeah</u>
+<u n="342" who="S0589" trans="overlap">I would have walked into it</u>
+<u n="343" who="S0588">yes I did</u>
+<u n="344" who="S0589">right that's done that just simmers for</u>
+<u n="345" who="S0588" trans="overlap">we are</u>
+<u n="346" who="S0589" trans="overlap">four hours now</u>
+<u n="347" who="S0588" trans="overlap">we are on top of the washing not literally but we are on top of it <pause dur="short"/> I think it's about putting it out anyway so long as it's it's not raining and then it's quicker to dry</u>
+<u n="348" who="S0589">so thirty-five minutes that took me thirty weirdly I think that's not too bad</u>
+<u n="349" who="S0588" trans="overlap">no you started it when I started the recording and it's now twenty-two minutes past</u>
+<u n="350" who="S0589">so there you go</u>
+<u n="351" who="S0588">so that's good it is a classic recipe everyone should learn how to do spaghetti bolognaise</u>
+<u n="352" who="S0589">I don't use my milk anymore it's traditional to fry the</u>
+<u n="353" who="S0588">what are you up to?</u>
+<u n="354" who="S0589">fry the meat off in the milk</u>
+<u n="355" who="S0588" trans="overlap">what are you up to scampy?</u>
+<u n="356" who="S0589">mm look everything ah</u>
+<u n="357" who="S0588" trans="overlap">mm?</u>
+<u n="358" who="S0589"><vocal desc="misc"/></u>
+<u n="359" who="S0588">it's all changed and you've got to</u>
+<u n="360" who="S0589">mm?</u>
+<u n="361" who="S0588" trans="overlap">remark everything</u>
+<u n="362" who="S0589">where's it gone?</u>
+<u n="363" who="S0588">got to rub everything again</u>
+<u n="364" who="S0589" trans="overlap">what the blazes? er? oh he's found the chairs and they're getting marked now in their new location thoroughly</u>
+<u n="365" who="S0588"><vocal desc="laugh"/></u>
+<event desc="sound of cat"/>
+<u n="366" who="S0589">yeah</u>
+<u n="367" who="S0588">mm</u>
+<u n="368" who="S0589" trans="overlap">sorry darling</u>
+<u n="369" who="S0588" trans="overlap">it's what he does when things change</u>
+<u n="370" who="S0589">yes</u>
+<u n="371" who="S0588">sorry darling</u>
+<u n="372" who="S0589">sorry</u>
+<u n="373" who="S0588">and he's always very vocal</u>
+<u n="374" who="S0589">oh crap the fire's on it's probably burnt out cos you only brought the four logs <vocal desc="laugh"/> ah <unclear/></u>
+<u n="375" who="S0588">I'm just a <anon type="name" nameType="f"/></u>
+<u n="376" who="S0589">like there was one of those comedy things on Mumsnet or something about husbands and one of them she'd written she had sent him a text saying can you put the spaghetti on the stove <pause dur="short"/> for our supper and when she got home he'd just put some spaghetti on the stove</u>
+<u n="377" who="S0588">what like er in the packet?</u>
+<u n="378" who="S0589">he</u>
+<u n="379" who="S0588" trans="overlap">on the top of the stove?</u>
+<u n="380" who="S0589">he took it out of the packet and just laid it on top of the stove so he'd literally put</u>
+<u n="381" who="S0588" trans="overlap">yeah</u>
+<u n="382" who="S0589">spaghetti on the stove</u>
+<u n="383" who="S0588" trans="overlap">yes it's the sort of thing I'd do</u>
+<u n="384" who="S0589">it didn't make sense though because you wouldn't actually cook spaghetti until that would be the last thing you'd do</u>
+<u n="385" who="S0588">yeah</u>
+<u n="386" who="S0589" trans="overlap">although maybe actually she was coming home with a pot of pesto</u>
+<u n="387" who="S0588" trans="overlap">she was probably on her way</u>
+<u n="388" who="S0589">a lot of people do that these days <pause dur="short"/> they don't make their own sauces <anon type="name" nameType="f"/></u>
+<u n="389" who="S0588">no <pause dur="short"/> which lightbulb did you get?</u>
+<u n="390" who="S0589">er?</u>
+<u n="391" who="S0588">it's saying E27 one times</u>
+<u n="392" who="S0589" trans="overlap"><vocal desc="laugh"/> it's got a twenty-five year guarantee <vocal desc="laugh"/></u>
+<u n="393" who="S0588">really?</u>
+<u n="394" who="S0589">it should last for twenty-five years</u>
+<u n="395" who="S0588">well let's bring it back in twenty-five</u>
+<u n="396" who="S0589"><vocal desc="laugh"/></u>
+<u n="397" who="S0588">twenty-four point <vocal desc="laugh"/></u>
+<u n="398" who="S0589">and go what the fuck?</u>
+<u n="399" who="S0588">twenty-four months and <trunc>ele</trunc> no twenty-four years and eleven months we'll bring it back <pause dur="short"/> saying we want our money back <pause dur="long"/> what the lamp you mean?</u>
+<u n="400" who="S0589" trans="overlap">this is what you should do the lightbulb</u>
+<u n="401" who="S0588">no really?</u>
+<u n="402" who="S0589">this is what you should be doing</u>
+<u n="403" who="S0588" trans="overlap">well it can't be cos it won't last that long</u>
+<u n="404" who="S0589">you should do this every evening darling it's it's homemaking</u>
+<u n="405" who="S0588">yeah I do sometimes so yeah but the lightbulb's not a twenty-year lightbulb surely?</u>
+<u n="406" who="S0589">what it said</u>
+<u n="407" who="S0588">really? it's never gonna run out?</u>
+<u n="408" who="S0589">that's what it said</u>
+<u n="409" who="S0588">er?</u>
+<u n="410" who="S0589">cost eight quid or something</u>
+<u n="411" who="S0588">well I heard that they could make lightbulbs</u>
+<u n="412" who="S0589">yeah they can make everything that</u>
+<u n="413" who="S0588" trans="overlap">that last forever and</u>
+<u n="414" who="S0589" trans="overlap">that's right</u>
+<u n="415" who="S0588" trans="overlap">and they were doing it on purpose not making them that way</u>
+<u n="416" who="S0589">look there's <anon type="name" nameType="f"/></u>
+<u n="417" who="S0588">how funny oh that's good</u>
+<u n="418" who="S0589">yeah do you want to show me the little post that you made?</u>
+<u n="419" who="S0588">yes</u>
+<u n="420" who="S0589">nice here we are look</u>
+<u n="421" who="S0588"><vocal desc="laugh"/></u>
+<u n="422" who="S0589">hello darling</u>
+<u n="423" who="S0588">we're being sociable hello god I think I sound incredibly stupid on these recordings</u>
+<u n="424" who="S0589">I think I sound</u>
+<u n="425" who="S0588">I <trunc>mea</trunc></u>
+<u n="426" who="S0589" trans="overlap">quite posh</u>
+<u n="427" who="S0588">yes you do</u>
+<u n="428" who="S0589">I think I sound</u>
+<u n="429" who="S0588" trans="overlap">you sound really cool</u>
+<u n="430" who="S0589">posher than you</u>
+<u n="431" who="S0588">I I veer between posh and cockney I've got a really weird accent it doesn't really quite know where it wants to go</u>
+<u n="432" who="S0589">very</u>
+<u n="433" who="S0588" trans="overlap"><unclear/></u>
+<u n="434" who="S0589">very jejune</u>
+<u n="435" who="S0588">what does that mean?</u>
+<u n="436" who="S0589">dunno just er what you described</u>
+<u n="437" who="S0588">what does jejune mean? the actual</u>
+<u n="438" who="S0589">we'll have to look it up darling</u>
+<u n="439" who="S0588">oh</u>
+<u n="440" who="S0589">oh look we need that</u>
+<u n="441" who="S0588">well you could explain it couldn't you? to me and then we'd have a</u>
+<u n="442" who="S0589">it means having a sort of affectation that is er oh no am I thinking of parvenu?</u>
+<u n="443" who="S0588">yeah it's not like my sister's for example which is definitely</u>
+<u n="444" who="S0589" trans="overlap">quick I've got to look something up <pause dur="short"/> oh crap</u>
+<u n="445" who="S0588" trans="overlap">oh <trunc>f</trunc> crap</u>
+<u n="446" who="S0589">I blame you <unclear/> for that</u>
+<u n="447" who="S0588" trans="overlap">well I blame you cos you didn't let me get out of the way and I blame you for not going to the Apple website and not buying the right thing</u>
+<u n="448" who="S0589" trans="overlap">could you get me one more beer please darling?</u>
+<event desc="sound of apple computer turning on"/>
+<u n="449" who="S0588">I don't know why on earth you didn't go to the Apple site</u>
+<u n="450" who="S0589">I'm not sure they still make them why would they manufacture them? <pause dur="long"/></u>
+<u n="451" who="S0588">you know I think it's because I'm less sure about who I am and that's why my accent veers</u>
+<u n="452" who="S0589">I don't think so darling</u>
+<u n="453" who="S0588" trans="overlap">in different <trunc>dire</trunc> don't you're doing do it again</u>
+<u n="454" who="S0589" trans="overlap">well why why do you keep putting your legs</u>
+<u n="455" who="S0588">stop</u>
+<u n="456" who="S0589" trans="overlap">standing on it?</u>
+<u n="457" who="S0588">because I I sit how I sit but just be careful</u>
+<u n="458" who="S0589" trans="overlap">but just don't stand on the lead have that as a new rule</u>
+<u n="459" who="S0588" trans="overlap">I'm not standing on the lead you're you're just not being careful enough</u>
+<u n="460" who="S0589">well you just stood on it</u>
+<u n="461" who="S0588">I didn't stand on it my leg was where it was you should have looked</u>
+<u n="462" who="S0589">well it's amounted to the same thing</u>
+<u n="463" who="S0588">it's not amounting to the same thing at all it's your responsibility</u>
+<u n="464" who="S0589">well your foot was in it or it was under your foot</u>
+<u n="465" who="S0588">my foot was just where it was</u>
+<u n="466" who="S0589" trans="overlap">it's the same thing naïve immature callow showing lack of informational experience spiritless meagre arid</u>
+<u n="467" who="S0588">is that what you're saying I am?</u>
+<u n="468" who="S0589"><vocal desc="laugh"/> jejune don't <unclear/></u>
+<u n="469" who="S0588" trans="overlap">well I hope that was the wrong word then</u>
+<u n="470" who="S0589">jejune</u>
+<u n="471" who="S0588">why did you choose that word?</u>
+<u n="472" who="S0589">cos you were describing your accent</u>
+<u n="473" who="S0588">that's not that</u>
+<u n="474" who="S0589">then I <trunc>s</trunc> thought maybe actually I meant parvenu</u>
+<u n="475" who="S0588">I think you mean something else so hopefully mean something else</u>
+<u n="476" who="S0589" trans="overlap">parvenu means Johnny-come-lately <pause dur="short"/> but would you like the full definition dear?</u>
+<u n="477" who="S0588">yes please <pause dur="short"/> I'm always open</u>
+<u n="478" who="S0589" trans="overlap">it's a nice word they're both nice words</u>
+<u n="479" who="S0588">but they're French words so I've got to put them in French</u>
+<u n="480" who="S0589">no they're English</u>
+<u n="481" who="S0588">parvenu?</u>
+<u n="482" who="S0589" trans="overlap">I mean they're from the French</u>
+<u n="483" who="S0588">well it's gotta be French</u>
+<u n="484" who="S0589">parvenu an upstart someone newly risen into wealth notice or power vulgar exhibiting an inferiority complex</u>
+<u n="485" who="S0588" trans="overlap"><vocal desc="laugh"/> er no</u>
+<u n="486" who="S0589"><vocal desc="laugh"/></u>
+<u n="487" who="S0588">is that what you mean?</u>
+<u n="488" who="S0589">that's what you were trying to say</u>
+<u n="489" who="S0588">no I was saying</u>
+<u n="490" who="S0589">that you come across as a little bit of a jejune parvenu</u>
+<u n="491" who="S0588">a what?</u>
+<u n="492" who="S0589"><vocal desc="laugh"/></u>
+<u n="493" who="S0588">no <pause dur="short"/> no it's the other way round I was in a position of power and I took on cockney</u>
+<u n="494" who="S0589">yes</u>
+<u n="495" who="S0588" trans="overlap">cos my mum was gonna send me to elocution lessons</u>
+<u n="496" who="S0589">elocution lessons were the all the rage at my school my junior school elocution classes fuck knows why</u>
+<u n="497" who="S0588">well because people still</u>
+<u n="498" who="S0589" trans="overlap">maybe it's cos everyone had a West Country burr</u>
+<u n="499" who="S0588">had that had that as a <pause dur="short"/> it's not so much now because you can have any accent and it's cool but at that time it was still considered <trunc>t</trunc> to be something that would help you in life</u>
+<u n="500" who="S0589">uhu received English</u>
+<u n="501" who="S0588" trans="overlap">actually still think it probably does</u>
+<u n="502" who="S0589">well I work with a a whole host of northerners</u>
+<u n="503" who="S0588">well at university you do what you work with a whole host of</u>
+<u n="504" who="S0589" trans="overlap">uhu</u>
+<u n="505" who="S0588" trans="overlap">northerners? <pause dur="short"/> mine's influences have always been a whole host of everything much to my parents dismay <pause dur="short"/> but they sent me there you know? you wanted me to come out like something different you should have sent me to somewhere posh</u>
+<u n="506" who="S0589">you should have been sent to a convent school</u>
+<u n="507" who="S0588" trans="overlap">you you sent me to a comprehensive school I'm sorry</u>
+<u n="508" who="S0589">little delicate flower like you</u>
+<u n="509" who="S0588" trans="overlap">I came out</u>
+<u n="510" who="S0589">should have gone to a</u>
+<u n="511" who="S0588" trans="overlap">different</u>
+<u n="512" who="S0589">little beautiful</u>
+<u n="513" who="S0588" trans="overlap">to what you wanted</u>
+<u n="514" who="S0589">gentian like you should have gone to a</u>
+<u n="515" who="S0588">a gentian <vocal desc="laugh"/></u>
+<u n="516" who="S0589">a a little <trunc>nun</trunc>nunnery and a</u>
+<u n="517" who="S0588" trans="overlap">well it was</u>
+<u n="518" who="S0589">a a convent school</u>
+<u n="519" who="S0588" trans="overlap">but it was comprehensive</u>
+<u n="520" who="S0589">to prepare you for the nunnery</u>
+<u n="521" who="S0588"><vocal desc="laugh"/> I could have gone into that they would have approved probably</u>
+<u n="522" who="S0589">right come on darling before it dies</u>
+<u n="523" who="S0588" trans="overlap">the whole Catholic thing</u>
+<u n="524" who="S0589" trans="overlap">again</u>
+<u n="525" who="S0588">it won't die unless you're clumsy</u>
+<u n="526" who="S0589">I reach across impatiently</u>
+<u n="527" who="S0588">yes you do</u>
+<u n="528" who="S0589">don't I?</u>
+<u n="529" who="S0588" trans="overlap">same thing's gonna happen again</u>
+<u n="530" who="S0589"><unclear/> to you withholding things</u>
+<u n="531" who="S0588" trans="overlap">so I need to find the place where it starts</u>
+<u n="532" who="S0589">I can just read the whole of it</u>
+<u n="533" who="S0588">okay do you want to read it aloud?</u>
+<u n="534" who="S0589">no</u>
+<u n="535" who="S0588">why not? cos then there won't be a big silence</u>
+<u n="536" who="S0589">sweet remember how nervous you got when you thought they hadn't replied? you were in a little mood</u>
+<u n="537" who="S0588"><vocal desc="laugh"/></u>
+<u n="538" who="S0589">you <unclear/></u>
+<u n="539" who="S0588" trans="overlap">I went into a crisis</u>
+<u n="540" who="S0589">you weren't admitting to <pause dur="long"/></u>
+<u n="541" who="S0588">she's very pleased with that I thought she'd have already seen it</u>
+<u n="542" who="S0589">should buy it</u>
+<u n="543" who="S0588">yeah <pause dur="short"/> I think her house is on it I would if my house was definitely if my house was on it</u>
+<u n="544" who="S0589">yeah it's a really lovely photo</u>
+<u n="545" who="S0588">yeah but it seems</u>
+<u n="546" who="S0589" trans="overlap">or postcard I don't know</u>
+<u n="547" who="S0588" trans="overlap">well maybe it's just the way it's come across on Ebay got a weird effect on it <pause dur="long"/></u>
+<u n="548" who="S0589">oh sweet</u>
+<u n="549" who="S0588">yes so we could also do the spontaneous thing if you wanted to but then I thought I haven't washed my hair for ages so I can't be spontaneous <pause dur="long"/></u>
+<u n="550" who="S0589"><vocal desc="laugh"/> your funny little <unclear/></u>
+<u n="551" who="S0588"><vocal desc="laugh"/></u>
+<u n="552" who="S0589">well that's sweet darling</u>
+<u n="553" who="S0588"><vocal desc="laugh"/></u>
+<u n="554" who="S0589">she said she could pop she's at home so</u>
+<u n="555" who="S0588" trans="overlap">well when I wrote just funny when you see it written as for the odd cup of tea not an odd cup of tea <vocal desc="laugh"/></u>
+<u n="556" who="S0589">but but she was</u>
+<u n="557" who="S0588" trans="overlap">a normal cup of tea</u>
+<u n="558" who="S0589" trans="overlap">volunteering to drop round during the day</u>
+<u n="559" who="S0588">yes</u>
+<u n="560" who="S0589" trans="overlap">so if you're both at home</u>
+<u n="561" who="S0588" trans="overlap">yes well that's a bit oh my god full on <vocal desc="laugh"/> proper friendship? cup of tea? talking? am I ready for that?</u>
+<u n="562" who="S0589"><vocal desc="laugh"/> are you ready for that?</u>
+<u n="563" who="S0588"><vocal desc="laugh"/> no</u>
+<u n="564" who="S0589" trans="overlap">silly</u>
+<u n="565" who="S0588"><vocal desc="laugh"/> oh look at our boy</u>
+<u n="566" who="S0589">oh he's on the white one</u>
+<u n="567" who="S0588">mm</u>
+<u n="568" who="S0589">we should start making sort of bets about which one he'll go for</u>
+<u n="569" who="S0588" trans="overlap"><vocal desc="laugh"/> yes <pause dur="short"/> shall we check Rightmove again?</u>
+<u n="570" who="S0589">I think I checked <anon type="place"/> <trunc>yes</trunc> er this morning</u>
+<u n="571" who="S0588">it looked as if he was moving out again today</u>
+<u n="572" who="S0589" trans="overlap">oh oh next door?</u>
+<u n="573" who="S0588">yeah cos he had</u>
+<u n="574" who="S0589" trans="overlap">oh</u>
+<u n="575" who="S0588">a car full of stuff and he was putting more stuff in it</u>
+<u n="576" who="S0589" trans="overlap">yeah they are just slowly I think they're the last ones there now</u>
+<u n="577" who="S0588" trans="overlap">I think they're gradually doing it like you say</u>
+<u n="578" who="S0589">now</u>
+<u n="579" who="S0588">without being in a hurry about it they've got somewhere to live and they're gradually shifting stuff</u>
+<u n="580" who="S0589">now darling could you</u>
+<u n="581" who="S0588">no</u>
+<u n="582" who="S0589"><vocal desc="sigh"/></u>
+<u n="583" who="S0588">no</u>
+<u n="584" who="S0589">get</u>
+<u n="585" who="S0588" trans="overlap">if it's about money I can't do any of it</u>
+<u n="586" who="S0589">could you get the laces?</u>
+<u n="587" who="S0588">unless you keep talking for the value of a pair of shoes</u>
+<u n="588" who="S0589">could you</u>
+<u n="589" who="S0588" trans="overlap">then you can</u>
+<u n="590" who="S0589">could you get the laces for me so I can look at them? <pause dur="short"/> and also <pause dur="short"/> my brogue</u>
+<u n="591" who="S0588" trans="overlap">oh I've lost those as well they were on the table</u>
+<u n="592" who="S0589">they're still downstairs on no they're downstairs on in the on the sideboard</u>
+<u n="593" who="S0588">are they still there?</u>
+<u n="594" who="S0589">I think so</u>
+<u n="595" who="S0588">no they're on the stairs now I think I <pause dur="long"/> no they're not I've come all the way downstairs and</u>
+<u n="596" who="S0589" trans="overlap">they're on the sideboard then <pause dur="long"/> yes?</u>
+<u n="597" who="S0588">no</u>
+<u n="598" who="S0589">oh</u>
+<u n="599" who="S0588">it's weird</u>
+<u n="600" who="S0589">oh god another thing you've managed to lose darling</u>
+<u n="601" who="S0588">yeah is that them?</u>
+<u n="602" who="S0589">I don't know how you do it</u>
+<u n="603" who="S0588">I don't know how I'm doing it oh my god what is going on? I just had them I think they were on this table <pause dur="short"/> they oh I know they're in the bedroom I'm not going all the way upstairs</u>
+<u n="604" who="S0589">ah but no you can because I want you to bring the the I wanted you to get the shoes anyway</u>
+<u n="605" who="S0588">oh would you go upstairs then?</u>
+<u n="606" who="S0589">no darling I've just had a day at work</u>
+<u n="607" who="S0588">I think it's your responsibility</u>
+<u n="608" who="S0589">I've had too long at work</u>
+<u n="609" who="S0588">I've printed out this brochure darling</u>
+<u n="610" who="S0589">yes you said darling</u>
+<u n="611" who="S0588">well look it means we can look at it like this</u>
+<u n="612" who="S0589">and that was the one that was six hundred thousand</u>
+<u n="613" who="S0588">yeah so?</u>
+<u n="614" who="S0589">we'd be financially crippled</u>
+<u n="615" who="S0588">no but let's erm hope for a windfall of some kind shall we?</u>
+<u n="616" who="S0589">for people to die?</u>
+<u n="617" who="S0588">not necessarily I don't know gotta hope for something haven't we?</u>
+<u n="618" who="S0589">I don't know why you're so attached to <anon type="place"/> we've been there what three times?</u>
+<u n="619" who="S0588">well</u>
+<u n="620" who="S0589" trans="overlap">twice? three? three times</u>
+<u n="621" who="S0588" trans="overlap">we might as well say don't know why I'm so attached to <anon type="place"/> when I was looking there <pause dur="short"/> because why not? it would the same for anywhere you'd ask the same question I don't really know places that well anyway so I do happen to have been there and I liked the road that that's on</u>
+<u n="622" who="S0589">that's right you liked it dear</u>
+<u n="623" who="S0588">I just liked it that's all and we're gonna go back there</u>
+<u n="624" who="S0589">now look I'm gonna show you something</u>
+<u n="625" who="S0588">and also this house is really similar in style to ours already so it's almost like we could just put all our furniture in there and it would look right</u>
+<u n="626" who="S0589"><anon type="name" nameType="f"/> can I show you where my parents live?</u>
+<u n="627" who="S0588">it doesn't seem so far away from reality</u>
+<u n="628" who="S0589" trans="overlap"><anon type="name" nameType="f"/> can I show my where my <trunc>p</trunc>parents live?</u>
+<u n="629" who="S0588" trans="overlap">even though it's six hundred thousand yes oh is this in <anon type="place"/>?</u>
+<u n="630" who="S0589">yeah do you see where this is?</u>
+<u n="631" who="S0588">Europe</u>
+<u n="632" who="S0589">yeah so look I'm going to zoom in</u>
+<u n="633" who="S0588">oh that's where it is it?</u>
+<u n="634" who="S0589" trans="overlap">this is just mental</u>
+<u n="635" who="S0588" trans="overlap">oh yes that's good isn't it? that's really good</u>
+<u n="636" who="S0589">absolutely mental</u>
+<u n="637" who="S0588"><vocal desc="laugh"/> so that's wow a real photo where have they taken it from?</u>
+<u n="638" who="S0589">space my dear</u>
+<u n="639" who="S0588">yes I know but <pause dur="short"/> what from? <pause dur="short"/> where who and how? a satellite</u>
+<u n="640" who="S0589">uhu</u>
+<u n="641" who="S0588">oh that's mental <pause dur="short"/> I want to see our house here as well</u>
+<u n="642" who="S0589">well I did it recently it was quite a recent shot why can I tell it was recent? cos the wall had been painted</u>
+<u n="643" who="S0588">god you couldn't have a war like the <trunc>s</trunc> the second world war now there would be no use taking signs signposts down anymore would it? with that information out there <pause dur="short"/> people would know exactly where they're going now</u>
+<u n="644" who="S0589">damn</u>
+<u n="645" who="S0588" trans="overlap">if they wanted to invade</u>
+<u n="646" who="S0589" trans="overlap">I've lost my <unclear/></u>
+<u n="647" who="S0588">I dunno if I like it everything being</u>
+<u n="648" who="S0589">what here? my parents' house?</u>
+<u n="649" who="S0588">no everything being no mystery anymore everything being open and <pause dur="short"/> explained but it is fascinating</u>
+<u n="650" who="S0589">I've got lost <unclear/></u>
+<u n="651" who="S0588"><vocal desc="laugh"/> I'm not surprised you've got lost where are you in Europe now? <vocal desc="laugh"/> go back to <anon type="place"/> then you're</u>
+<u n="652" who="S0589">we're in <anon type="place"/></u>
+<u n="653" who="S0588" trans="overlap">more or less in the right</u>
+<u n="654" who="S0589">okay no I'm way way too far up the coast okay look look here darling so you go in that's my favourite beach <pause dur="long"/> just a little harbour I've been scuba diving</u>
+<u n="655" who="S0588">that's where you did your ear in</u>
+<u n="656" who="S0589">not here no well <anon type="place"/> but not that particular one <pause dur="long"/> yeah yeah yeah yeah yeah yeah yeah look down here darling <anon type="place"/> beach</u>
+<u n="657" who="S0588">where's your local beach?</u>
+<u n="658" who="S0589" trans="overlap">so that's that's my favourite beach just in there little inlet</u>
+<u n="659" who="S0588">uhu</u>
+<u n="660" who="S0589">and then <pause dur="short"/> gosh it's difficult I managed to this with <anon type="name" nameType="m"/> when I was quite tipsy <pause dur="short"/> mm sweet look that's my parents' house</u>
+<u n="661" who="S0588" trans="overlap">oh my god that's amazing</u>
+<u n="662" who="S0589">just there</u>
+<u n="663" who="S0588">that's it?</u>
+<u n="664" who="S0589">yeah <vocal desc="laugh"/></u>
+<u n="665" who="S0588">go in further</u>
+<u n="666" who="S0589" trans="overlap">erm can't that's it</u>
+<u n="667" who="S0588" trans="overlap">oh the let's look at <anon type="place"/></u>
+<u n="668" who="S0589">hang on you have to zoom out and you can see where it is in the world</u>
+<u n="669" who="S0588">oh I don't really <trunc>mi</trunc> yeah</u>
+<u n="670" who="S0589" trans="overlap">oh well try and be a little excited</u>
+<u n="671" who="S0588">no</u>
+<u n="672" who="S0589">ready?</u>
+<u n="673" who="S0588" trans="overlap">oh I'm hungry</u>
+<u n="674" who="S0589">look there you can still see it keep your eye on it <pause dur="short"/> there <pause dur="short"/> there</u>
+<u n="675" who="S0588">yes I've got my eye on it</u>
+<u n="676" who="S0589">me too</u>
+<u n="677" who="S0588">oh it's still there</u>
+<u n="678" who="S0589">there</u>
+<u n="679" who="S0588">I can still see it it's disappeared <vocal desc="laugh"/> funny <pause dur="short"/> oh does look vast now doesn't it? <pause dur="long"/></u>
+<u n="680" who="S0589">and there's the world <pause dur="short"/> well at least southern Europe <pause dur="long"/></u>
+<u n="681" who="S0588">go on then next</u>
+<u n="682" who="S0589">what do you want to do next? do you want to see where</u>
+<u n="683" who="S0588"><anon type="place"/></u>
+<u n="684" who="S0589"><anon type="name" nameType="m"/> and <anon type="name" nameType="f"/>?</u>
+<u n="685" who="S0588" trans="overlap">no</u>
+<u n="686" who="S0589">we looked at their house too</u>
+<u n="687" who="S0588" trans="overlap">oh okay I suppose so</u>
+<u n="688" who="S0589">I won't be able to find it now <pause dur="short"/> we know what <anon type="place"/> looks like cos we live there</u>
+<u n="689" who="S0588">erm not from above</u>
+<u n="690" who="S0589">I was showing you things you didn't know there's the <anon type="place"/> where's this forest is it <anon type="place"/> park that? erm <pause dur="short"/> oh wow look at that that erm</u>
+<u n="691" who="S0588" trans="overlap">mm</u>
+<u n="692" who="S0589"><anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> were going on about? it's vast <vocal desc="cough"/> that should <trunc>s</trunc> so then you're in the thing ah so look that</u>
+<u n="693" who="S0588">that should what?</u>
+<u n="694" who="S0589">that is where</u>
+<u n="695" who="S0588">that should what on the thing?</u>
+<u n="696" who="S0589">don't know this is erm the garden centre I'm pretty sure that we go to <pause dur="short"/> yeah cos that's a horse centre so I was right when they were talking about it I was thinking about the right place</u>
+<u n="697" who="S0588">that's <anon type="place"/> that isn't it?</u>
+<u n="698" who="S0589">yeah but the other side of it is</u>
+<u n="699" who="S0588">mm</u>
+<u n="700" who="S0589">is this park which will be at the bottom of their road if you go back look <pause dur="long"/></u>
+<u n="701" who="S0588">where are we and where are they?</u>
+<u n="702" who="S0589">that's the garden centre this is <anon type="place"/> park <pause dur="short"/> and there's the common</u>
+<u n="703" who="S0588">mm?</u>
+<u n="704" who="S0589">so their road is one of the ones that you know it pops up here so it's not that far away</u>
+<u n="705" who="S0588">mm</u>
+<u n="706" who="S0589" trans="overlap">that's <unclear/></u>
+<u n="707" who="S0588">no but we should walk there as well</u>
+<u n="708" who="S0589">uhu</u>
+<u n="709" who="S0588">has it got a café?</u>
+<u n="710" who="S0589"><vocal desc="laugh"/> I don't know</u>
+<u n="711" who="S0588">well all parks need cafes preferably with Slush Puppies</u>
+<u n="712" who="S0589">and there's the boating lake Slush Puppies?</u>
+<u n="713" who="S0588">no <vocal desc="laugh"/> only joking</u>
+<u n="714" who="S0589">silly you mean</u>
+<u n="715" who="S0588" trans="overlap">but park cafes</u>
+<u n="716" who="S0589" trans="overlap">cream teas</u>
+<u n="717" who="S0588" trans="overlap">have Slush Puppies</u>
+<u n="718" who="S0589">cream teas</u>
+<u n="719" who="S0588">cream teas yes</u>
+<u n="720" who="S0589">I think I did this the other day when I was with <anon type="name" nameType="m"/> there's not much interesting to see <pause dur="short"/> that's ours there</u>
+<u n="721" who="S0588">I erm went onto Google Maps street view and a lot's changed since they did the street view so it's quite interesting to</u>
+<u n="722" who="S0589">yeah</u>
+<u n="723" who="S0588" trans="overlap">take a walk around on street view now the <anon type="place"/> is still the old <anon type="place"/></u>
+<u n="724" who="S0589">mm</u>
+<u n="725" who="S0588">and there's different shops down <anon type="place"/></u>
+<u n="726" who="S0589">that woman's the wall that collapsed it's it oh sorry <anon type="name" nameType="m"/> it's her new wall now on street map</u>
+<u n="727" who="S0588">mm oh is it? they've renewed the street view? <pause dur="short"/> it can't be cos when I looked it was the old street view</u>
+<u n="728" who="S0589">I'm pretty sure that's the case</u>
+<u n="729" who="S0588">no it was old when I looked</u>
+<u n="730" who="S0589">test it now when you've got the thingy</u>
+<u n="731" who="S0588" trans="overlap">yeah</u>
+<u n="732" who="S0589">you need the the little man <pause dur="short"/> it's cold you had the doors wide open <pause dur="short"/> why would you have done that <anon type="name" nameType="f"/>? look we've already burnt the four logs you you brought in isn't she silly <anon type="name" nameType="m"/>? what a silly billy why did she think that would be enough? <anon type="name" nameType="m"/>?</u>
+<u n="733" who="S0588">I'm a silly billy <pause dur="long"/> oh which way? I want to go that way <pause dur="short"/> there's <anon type="name" nameType="f"/>'s house that's since been oh</u>
+<u n="734" who="S0589">it's got no <trunc>j</trunc> <anon type="place"/> sign hasn't it?</u>
+<u n="735" who="S0588">well that must be so new cos only the other day cos <anon type="name" nameType="m"/>'s house is painted only the other day I was looking at it and it was <anon type="name" nameType="m"/>'s house was not painted</u>
+<u n="736" who="S0589">well there you go darling that's the internet for you</u>
+<u n="737" who="S0588">gosh how odd but what's fascinating that means they've got an archive of to be used in the future</u>
+<u n="738" who="S0589">yeah good point</u>
+<u n="739" who="S0588">which is gonna be fascinating imagine if we had that now and you could street view back into the nineteen forties? I wish you could oh that's ours with our with us yes that's our curtains I can see a bit of red <pause dur="short"/> oh <pause dur="short"/> cos that's so much smarter than the last time I looked at it those houses now erm next to us and <anon type="name" nameType="m"/>'s house is so much smarter <pause dur="short"/> oh they've if the <anon type="place"/> sign is up <pause dur="short"/> then it's only just been done</u>
+<u n="740" who="S0589">yeah</u>
+<u n="741" who="S0588">but they don't renew I thought they only renewed that every five years or something</u>
+<u n="742" who="S0589" trans="overlap">I have no idea dear</u>
+<u n="743" who="S0588">they'd have to be doing it <pause dur="long"/> mm</u>
+<u n="744" who="S0589">did we watch a whole episode of Shetland last night?</u>
+<u n="745" who="S0588">I can't remember I did you went to sleep I think</u>
+<u n="746" who="S0589">I think I did watch it what do you recall the closing scene being?</u>
+<u n="747" who="S0588">erm <pause dur="long"/> you were asleep quite near the beginning of it so</u>
+<u n="748" who="S0589" trans="overlap">oh <vocal desc="laugh"/></u>
+<u n="749" who="S0588" trans="overlap">you'll want to we'll have to</u>
+<u n="750" who="S0589" trans="overlap">oh</u>
+<u n="751" who="S0588" trans="overlap">to watch it again</u>
+<u n="752" who="S0589">is <anon type="name" nameType="f"/> sure? what was the murder?</u>
+<u n="753" who="S0588">his friend driven off the road</u>
+<u n="754" who="S0589">oh I maybe saw all of that <pause dur="short"/> unless what did you start watching the second one?</u>
+<u n="755" who="S0588">no</u>
+<u n="756" who="S0589">I think I saw it all then</u>
+<u n="757" who="S0588">no <pause dur="short"/> well no you want to sleep</u>
+<u n="758" who="S0589">okay</u>
+<u n="759" who="S0588">I can't get back <trunc>forwar</trunc> to the forwards position <pause dur="long"/> rotate won't work erm okay I'm looking for the wall <pause dur="long"/> mm I think I've gone past it yes I have <pause dur="short"/> <anon type="place"/> road <pause dur="short"/> oh that's so weird though <pause dur="short"/> only the other day</u>
+<u n="760" who="S0589">that shop on <anon type="place"/> road that took over from <anon type="place"/> curries or whatever</u>
+<u n="761" who="S0588">is a chicken shop that</u>
+<u n="762" who="S0589" trans="overlap">yes but it's er</u>
+<u n="763" who="S0588">a special chicken shop</u>
+<u n="764" who="S0589">it's a grilled</u>
+<u n="765" who="S0588">it's a healthier chicken shop</u>
+<u n="766" who="S0589" trans="overlap">food shop how do you know that?</u>
+<u n="767" who="S0588">well it's the part of the publicity isn't it? but it's</u>
+<u n="768" who="S0589">why have they put a flyer through the door?</u>
+<u n="769" who="S0588">no I heard about it on <anon type="place"/></u>
+<u n="770" who="S0589" trans="overlap">oh did you dear?</u>
+<u n="771" who="S0588">and also they <pause dur="short"/> in their windows and stuff they say they're healthier option</u>
+<u n="772" who="S0589" trans="overlap">yeah</u>
+<u n="773" who="S0588">or whatever it is</u>
+<u n="774" who="S0589">even the chips are grilled</u>
+<u n="775" who="S0588">no</u>
+<u n="776" who="S0589">no I was making a little joke</u>
+<u n="777" who="S0588" trans="overlap">stop it don't make jokes</u>
+<u n="778" who="S0589" trans="overlap">sorry darling</u>
+<u n="779" who="S0588" trans="overlap">I believe you mm <pause dur="short"/> I want to find the older one cos it's kind of fascinating that's over</u>
+<u n="780" who="S0589">mm</u>
+<u n="781" who="S0588" trans="overlap">ten years old now</u>
+<u n="782" who="S0589">you smell nice dear</u>
+<u n="783" who="S0588">how do you get to <trunc>s</trunc>? oh here's street view</u>
+<u n="784" who="S0589">no you click satellite</u>
+<u n="785" who="S0588">no you click this little man</u>
+<u n="786" who="S0589" trans="overlap">then you just drag that to wherever you want him to be</u>
+<u n="787" who="S0588">yeah where are we?</u>
+<u n="788" who="S0589"><anon type="place"/> road</u>
+<u n="789" who="S0588">yeah I know but</u>
+<u n="790" who="S0589">let's go to Made.com and look up a nice little sofa that will go which is very low but I want one</u>
+<u n="791" who="S0588" trans="overlap">yeah got one got one already</u>
+<u n="792" who="S0589">no but it has to be underneath the windowsill line remember</u>
+<u n="793" who="S0588">there's</u>
+<u n="794" who="S0589"><vocal desc="sigh"/></u>
+<u n="795" who="S0588">two options <pause dur="short"/> when's supper? I'm hungry</u>
+<u n="796" who="S0589">ages away I'm afraid</u>
+<u n="797" who="S0588">oh</u>
+<u n="798" who="S0589">ah <anon type="name" nameType="m"/> there with his little chin it means he's comfortable</u>
+<u n="799" who="S0588">oh it's not working <pause dur="short"/> it's stopped working <pause dur="long"/> come on <pause dur="short"/> sorry <anon type="name" nameType="m"/> can't get into it it's not playing ball <pause dur="long"/> <shift new="singing"/> what time is my supper now <shift new="normal"/></u>
+<u n="800" who="S0589">you can serve some crisps darling</u>
+<u n="801" who="S0588">yes <pause dur="long"/> do you want to go and get some?</u>
+<u n="802" who="S0589">I'm too tired to</u>
+<u n="803" who="S0588">oh that's a good fire</u>
+<u n="804" who="S0589">it burns too rapidly</u>
+<u n="805" who="S0588"><anon type="name" nameType="m"/> likes it</u>
+<u n="806" who="S0589">that's everything off</u>
+<u n="807" who="S0588">is it?</u>
+<u n="808" who="S0589">mm suppose why we go through logs so quickly</u>
+<u n="809" who="S0588">that looks like everything on are you sure?</u>
+<u n="810" who="S0589">yeah <pause dur="long"/></u>
+<u n="811" who="S0588">I would have said that you had both vents open to have it burning like that it's not broken is it?</u>
+<u n="812" who="S0589"><vocal desc="laugh"/> no dear could just be that it's got fantastic draw <vocal desc="cough"/> yeah both off</u>
+<u n="813" who="S0588">mm</u>
+<u n="814" who="S0589"><anon type="name" nameType="m"/>'s not complaining</u>
+<u n="815" who="S0588">no</u>
+<u n="816" who="S0589">got a hot little forehead</u>
+<u n="817" who="S0588">what crisps have you got?</u>
+<u n="818" who="S0589">just those cheap ones or you could have cheese puffballs <pause dur="short"/> onion rings Chipsticks or those sort of multigrain pretending to the healthy things</u>
+<u n="819" who="S0588">what are the multigrain pretending to the healthy things?</u>
+<u n="820" who="S0589">the things you laughed at when I bought them</u>
+<u n="821" who="S0588">mm</u>
+<u n="822" who="S0589">I had a packet for lunch they're not very nice</u>
+<u n="823" who="S0588">no you're good at getting things that aren't very nice</u>
+<u n="824" who="S0589">yeah that's true</u>
+<u n="825" who="S0588">you should just stick to things like Hula Hoops</u>
+<u n="826" who="S0589">well I bought Hula Hoops</u>
+<u n="827" who="S0588">they're nice</u>
+<u n="828" who="S0589" trans="overlap">but I bought the funny version</u>
+<u n="829" who="S0588">yes exactly</u>
+<u n="830" who="S0589"><vocal desc="cough"/></u>
+<u n="831" who="S0588">you keep getting it wrong</u>
+<u n="832" who="S0589">my neighbour at work always has Salt and Shake <vocal desc="laugh"/></u>
+<u n="833" who="S0588">I like those <pause dur="short"/> but the quantities are absolutely tiny now</u>
+<u n="834" who="S0589">yeah that's true</u>
+<u n="835" who="S0588">they've done it in the name of health I think but really it's just to make more profit</u>
+<u n="836" who="S0589" trans="overlap">well no they've done it sort of you thirty percent less salt which is true but it's because there's thirty percent</u>
+<u n="837" who="S0588" trans="overlap">thirty percent less</u>
+<u n="838" who="S0589" trans="overlap">product</u>
+<u n="839" who="S0588"><vocal desc="laugh"/> yeah I mean it's ridiculous it's like a couple of mouthfuls and it's gone and a whole packet of packaging <pause dur="short"/> so my my tummy's rumbling</u>
+<u n="840" who="S0589">sorry dear you can stir the supper</u>
+<u n="841" who="S0588">mm mm <pause dur="short"/> I might have onion rings they're actually really sweet those onion rings <pause dur="long"/></u>
+<u n="842" who="S0589">maltodextrin?</u>
+<u n="843" who="S0588">I don't know <pause dur="long"/> probably just sugar <pause dur="short"/> okay</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

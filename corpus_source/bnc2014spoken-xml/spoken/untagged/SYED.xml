@@ -1,0 +1,1455 @@
+<text id="SYED">
+	<header>
+		<rec_length>0:44:43</rec_length>
+		<rec_date>2014-08-31</rec_date>
+		<rec_year>2014</rec_year>
+		<rec_period>2014_Q3</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0336 S0337 S0338 S0339 S0340</list_speakers>
+		<rec_loc>Mum and Dad's house</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Food, cooking, family, houses, stories</topics>
+		<activity>Dinner at Mum and Dad's</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, advising, announcing, anecdote telling, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T02</transcriber>
+		<speakerInfo>
+			<speaker id="S0336">
+				<exactage>24</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Wegberg</birthplace>
+				<birthcountry>Germany</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>none</dialect_rep>
+				<hab_city>Peterborough</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>17 years</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Administrator</occupation>
+				<socgrade>C1</socgrade>
+				<nssec>3</nssec>
+				<l2></l2>
+				<fls>German -- Beginner</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0337">
+				<exactage>24</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Peterborough</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>none</dialect_rep>
+				<hab_city>Peterborough</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>24 years</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Project Co-ordinator</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0338">
+				<exactage>57</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Bishop Aukland, County Durham</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>North East</dialect_rep>
+				<hab_city>Bourne</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>28 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Sales Advisor</occupation>
+				<socgrade>D</socgrade>
+				<nssec>6</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0339">
+				<exactage>56</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Sale, Cheshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>none</dialect_rep>
+				<hab_city>Bourne</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>28 years</hab_dur>
+				<dialect_l1>unspecified</dialect_l1>
+				<dialect_l2>unspecified</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Retired</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0340">
+				<exactage>87</exactage>
+				<age1994>60plus</age1994>
+				<agerange>80_89</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace></birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>Engladn</lingorig>
+				<dialect_rep>North west</dialect_rep>
+				<hab_city>Bourne</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 year</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>retired</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0339">homemade I'm <trunc>s</trunc> you don't have to <unclear>peel</unclear> anything <unclear/> <pause dur="long"/> there you go I think that's ample to be getting on with</u>
+<u n="2" who="S0340">oh that's lovely</u>
+<u n="3" who="S0339"><anon type="name" nameType="f"/> would you like to serve yourself sweetheart?</u>
+<u n="4" who="S0336">yeah thank you very much</u>
+<u n="5" who="S0339">I mean use your own knife and fork</u>
+<u n="6" who="S0336" trans="overlap">yep</u>
+<u n="7" who="S0339">it's probably easier than the great big one but I'll leave that <unclear/></u>
+<u n="8" who="S0336" trans="overlap"><vocal desc="laugh"/> thank you</u>
+<u n="9" who="S0339">right oh okay let's bring this over</u>
+<u n="10" who="S0340"><unclear/></u>
+<u n="11" who="S0339">they're a bit crispy would you like some Yorkshires to go with that?</u>
+<u n="12" who="S0340">oh yes</u>
+<u n="13" who="S0339">how many would you like?</u>
+<u n="14" who="S0340">thank you</u>
+<u n="15" who="S0339">they're a bit <trunc>crisp</trunc> oh sorry they're a bit crispy</u>
+<u n="16" who="S0340">oh right <unclear/></u>
+<u n="17" who="S0339">right would you like?</u>
+<u n="18" who="S0340">just getting some <unclear/></u>
+<u n="19" who="S0339" trans="overlap">yeah I know but I'm still trying to put the rest of it out dad</u>
+<u n="20" who="S0340">yeah okay</u>
+<u n="21" who="S0339">which means you've got your hands over your meal so it's not as easy as it looks</u>
+<u n="22" who="S0336">plate's still hot as well so be careful</u>
+<u n="23" who="S0339">I can't pick the plate up you see cos it's hot</u>
+<u n="24" who="S0340" trans="overlap"><unclear>no very hot</unclear></u>
+<u n="25" who="S0339">little bit of mash potato</u>
+<u n="26" who="S0340">yeah</u>
+<u n="27" who="S0339">for you it's gone everywhere but never mind</u>
+<u n="28" who="S0336"><vocal desc="laugh"/> still taste the same</u>
+<u n="29" who="S0340">yeah it does</u>
+<u n="30" who="S0336"><vocal desc="laugh"/> <pause dur="short"/> thank you very much</u>
+<u n="31" who="S0339">I can't put much else out cos nothing's here</u>
+<u n="32" who="S0336">oh I'll have a little bit of both <unclear/></u>
+<u n="33" who="S0339">er dad don't don't don't yeah okay don't worry about that go on give it a scrape <pause dur="short"/> yeah if you wanna do it just give it a quick scrape</u>
+<u n="34" who="S0340">yeah that's what I was going to do</u>
+<u n="35" who="S0339">yeah I know but I was saying</u>
+<u n="36" who="S0340">I'll stop <unclear/></u>
+<u n="37" who="S0339" trans="overlap">but you can't <trunc>y</trunc> <trunc>y</trunc> the trouble is it's not the it's not the knife for scraping it you can't really get it off</u>
+<u n="38" who="S0340" trans="overlap">no no <unclear/></u>
+<u n="39" who="S0339">there you go careful leave that there and that just goes back on the plate</u>
+<u n="40" who="S0338"><unclear>goodness</unclear> it's hot</u>
+<u n="41" who="S0336">mm</u>
+<u n="42" who="S0338"><unclear/></u>
+<u n="43" who="S0339">I've plenty of meat so don't worry</u>
+<u n="44" who="S0338">yeah I need more can you move the condiments off there for when I bring the vegetables through? <unclear/></u>
+<u n="45" who="S0339">well I don't think anybody else is gonna have condiments so it doesn't really matter</u>
+<u n="46" who="S0336" trans="overlap"><vocal desc="laugh"/> no I'm not a condiment person to be honest</u>
+<u n="47" who="S0339">yeah</u>
+<u n="48" who="S0336"><vocal desc="laugh"/></u>
+<u n="49" who="S0339">erm I do I like it <pause dur="long"/> I like some erm mm <unclear/></u>
+<u n="50" who="S0336">yeah <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> keeps saying he's gonna get me into them but I'm just not much of a saucy person to be honest</u>
+<u n="51" who="S0339" trans="overlap">I I I can't manage er er this is why I actually for years we never had beef because I don't particularly need these</u>
+<u n="52" who="S0336">yeah</u>
+<u n="53" who="S0339">but I can have lamb cos I have mint or redcurrant you can have chicken <unclear>turkey</unclear> cos I can put fruit stuff with it</u>
+<u n="54" who="S0336">yeah</u>
+<u n="55" who="S0339">because I don't eat gravy</u>
+<u n="56" who="S0336"><vocal desc="laugh"/></u>
+<u n="57" who="S0339">this gravy's taking which should be take two minutes to make is taking the longest</u>
+<u n="58" who="S0336">yes I don't I don't know what is happening</u>
+<u n="59" who="S0339">no neither do I what else do you want dad?</u>
+<u n="60" who="S0340">oh thank you</u>
+<u n="61" who="S0339">you've got more veg to come but you can start er remember what I told you hold the bottom and turn the top</u>
+<u n="62" who="S0340" trans="overlap">yeah</u>
+<u n="63" who="S0339">er no you put it all just on the look</u>
+<u n="64" who="S0336"><vocal desc="laugh"/></u>
+<u n="65" who="S0339"><unclear>tell you what</unclear> where do you want it?</u>
+<u n="66" who="S0338">yeah <anon type="name" nameType="f"/> help yourself to carrots my darling</u>
+<u n="67" who="S0336">mm</u>
+<u n="68" who="S0340">oh</u>
+<u n="69" who="S0338">yeah that one and then er</u>
+<u n="70" who="S0336">thank you very much</u>
+<u n="71" who="S0339"><unclear/> yeah it's a lot easier</u>
+<u n="72" who="S0340">yeah</u>
+<u n="73" who="S0339">right you've got plenty of salt do you want any pepper yet?</u>
+<u n="74" who="S0336">thank you very much</u>
+<u n="75" who="S0338">there we are</u>
+<u n="76" who="S0339">you've got carrots and you've got broccoli to come yet</u>
+<u n="77" who="S0340">oh well</u>
+<u n="78" who="S0338">here's your carrots there we are and there will be broccoli <unclear/></u>
+<u n="79" who="S0339">would you like some carrots?</u>
+<u n="80" who="S0340">yes please</u>
+<u n="81" who="S0338"><unclear/> is that mine?</u>
+<u n="82" who="S0337">yeah</u>
+<u n="83" who="S0338"><unclear>here you go</unclear> <anon type="name" nameType="m"/></u>
+<u n="84" who="S0340">thank you</u>
+<u n="85" who="S0339">yeah that's alright there's room there to put your broccoli on as well cos there's lots of broccoli</u>
+<u n="86" who="S0338"><unclear/> put mine on <pause dur="short"/> whoops</u>
+<u n="87" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="88" who="S0339">you like it dad</u>
+<u n="89" who="S0338">that's cos I'm at this <unclear/> cos I'm at this height</u>
+<u n="90" who="S0336">yeah</u>
+<u n="91" who="S0339">you just need the gravy that's all</u>
+<u n="92" who="S0338">it's coming it's coming</u>
+<u n="93" who="S0337">gravy's coming but I've <unclear/></u>
+<u n="94" who="S0338">and er <anon type="name" nameType="m"/> do you want to erm get the wine?</u>
+<u n="95" who="S0339"><unclear/> through</u>
+<u n="96" who="S0338">put the wine on?</u>
+<u n="97" who="S0339">I have done <pause dur="short"/> <unclear/> fine</u>
+<u n="98" who="S0338">there we are</u>
+<u n="99" who="S0336">mm mm mm mm mm</u>
+<u n="100" who="S0338"><unclear/> host</u>
+<u n="101" who="S0336"><vocal desc="laugh"/></u>
+<u n="102" who="S0339">there we go that's it</u>
+<u n="103" who="S0338"><unclear/> your vegetables <anon type="name" nameType="m"/></u>
+<u n="104" who="S0337">oh sorry</u>
+<u n="105" who="S0339"><vocal desc="laugh"/></u>
+<u n="106" who="S0336">oh that looks good</u>
+<u n="107" who="S0339">that's burning <unclear/></u>
+<u n="108" who="S0338">can you go and sit down please <anon type="name" nameType="m"/>?</u>
+<u n="109" who="S0339">well that's burnt</u>
+<u n="110" who="S0338">I know I'm gonna have a look at it will you just sit down?</u>
+<u n="111" who="S0339">right</u>
+<u n="112" who="S0338">you get your vegetables on</u>
+<u n="113" who="S0339">dad start the rest of the stuff's coming</u>
+<u n="114" who="S0338"><unclear/></u>
+<u n="115" who="S0340">right I'm not chancing <unclear>putting</unclear> that that gravy</u>
+<u n="116" who="S0339">well it should be in a gravy boat but it never got in a gravy boat</u>
+<u n="117" who="S0340"><unclear>it'll be have it it'll be heavy</unclear></u>
+<u n="118" who="S0339">yes it'll be very heavy</u>
+<u n="119" who="S0340">heavy</u>
+<u n="120" who="S0339">you can drop it everywhere</u>
+<u n="121" who="S0340">mm</u>
+<u n="122" who="S0338"><unclear/> the grill</u>
+<u n="123" who="S0339">when you want your gravy?</u>
+<u n="124" who="S0337">well I <unclear/> I didn't touch the oven <unclear/></u>
+<u n="125" who="S0338"><unclear/> been on the grill</u>
+<u n="126" who="S0337">no I'm saying it looks like it's been on the grill I'm saying it has been on the grill</u>
+<u n="127" who="S0338"><unclear/> been on the grill</u>
+<u n="128" who="S0337">yeah well</u>
+<u n="129" who="S0340">that's very good</u>
+<u n="130" who="S0338">doesn't matter</u>
+<u n="131" who="S0340">oh thank you <anon type="name" nameType="m"/></u>
+<u n="132" who="S0338">doesn't matter</u>
+<u n="133" who="S0339">that's why I just said it's burning sorry <anon type="name" nameType="f"/> sorry <anon type="name" nameType="f"/> <unclear/></u>
+<u n="134" who="S0336">no it's okay <vocal desc="laugh"/></u>
+<u n="135" who="S0339">can you manage?</u>
+<u n="136" who="S0336">thank you</u>
+<u n="137" who="S0339"><unclear/> start please dad <trunc>y</trunc>you got you've got broccoli coming in a second but please start</u>
+<u n="138" who="S0338">er <unclear>I have a</unclear> er Diet Coke erm</u>
+<u n="139" who="S0337"><unclear/> Coke?</u>
+<u n="140" who="S0339">yeah it's in the in the your was your cupboard sorry it's not cold</u>
+<pause dur="long"/>
+<u n="141" who="S0338">sorry <unclear>if I can</unclear> just put this in here</u>
+<u n="142" who="S0339"><unclear/></u>
+<u n="143" who="S0338"><unclear/></u>
+<u n="144" who="S0336">oh</u>
+<u n="145" who="S0338">it's alright there we are <pause dur="short"/> good sorry</u>
+<u n="146" who="S0339">there you go father</u>
+<u n="147" who="S0338"><unclear/></u>
+<u n="148" who="S0339">right fire away now</u>
+<u n="149" who="S0340">yeah</u>
+<u n="150" who="S0336">it looks so good</u>
+<u n="151" who="S0338"><unclear/></u>
+<u n="152" who="S0339"><anon type="name" nameType="f"/> do you want any broccoli darling?</u>
+<u n="153" who="S0336">erm I might have a little bit in a minute my plate's fairly full</u>
+<u n="154" who="S0339" trans="overlap"><unclear/> good for you I know that's alright</u>
+<u n="155" who="S0336" trans="overlap">yeah <vocal desc="laugh"/></u>
+<u n="156" who="S0339">I'd er do the same</u>
+<u n="157" who="S0336">I'll make my way through what's on my plate first <vocal desc="laugh"/></u>
+<u n="158" who="S0338">excuse me</u>
+<u n="159" who="S0339">er there's plenty more meat</u>
+<u n="160" who="S0336">mm</u>
+<u n="161" who="S0339">so don't worry about if you want any more <unclear>erm you can</unclear> just empty the plate</u>
+<u n="162" who="S0336">gravy's good <anon type="name" nameType="m"/></u>
+<u n="163" who="S0337"><unclear/></u>
+<u n="164" who="S0339" trans="overlap"><anon type="name" nameType="m"/> I'm sitting in your place</u>
+<u n="165" who="S0337">yeah I I was last in here so <unclear>I'm sat</unclear></u>
+<u n="166" who="S0339" trans="overlap">oh sorry I just sat down <unclear>so</unclear></u>
+<u n="167" who="S0336">it doesn't really matter does it?</u>
+<u n="168" who="S0339">well it does <anon type="name" nameType="m"/> <vocal desc="laugh"/></u>
+<u n="169" who="S0337"><unclear/></u>
+<u n="170" who="S0339">I should've realised I hadn't <unclear/> <pause dur="long"/> well we can look at our partners instead</u>
+<u n="171" who="S0338">mm that's fine</u>
+<u n="172" who="S0336"><unclear/></u>
+<u n="173" who="S0338"><unclear/> do have some meat won't you?</u>
+<u n="174" who="S0339">you have some first</u>
+<u n="175" who="S0338">I've got my meat thank you</u>
+<u n="176" who="S0339">have you got enough?</u>
+<u n="177" who="S0337">yeah well she there's always more she can always go back</u>
+<u n="178" who="S0336">mm</u>
+<u n="179" who="S0338" trans="overlap">there's plenty I know how much there is there's plenty</u>
+<u n="180" who="S0336">I took quite a lot</u>
+<u n="181" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="182" who="S0339"><unclear/></u>
+<u n="183" who="S0338"><anon type="name" nameType="m"/></u>
+<u n="184" who="S0339">it was the look on the poor girl's face when she said just give you an idea this is how much this one costs <unclear/> don't ask <unclear/> get it cut so I said oh <unclear/></u>
+<u n="185" who="S0336">mm</u>
+<u n="186" who="S0339">I'll go and get some more meat in a minute</u>
+<u n="187" who="S0337">how much did it cost?</u>
+<u n="188" who="S0339">erm that plus the bits in the freezer already er thirty something pounds</u>
+<u n="189" who="S0336">nice</u>
+<u n="190" who="S0337"><unclear>that's not bad</unclear></u>
+<u n="191" who="S0339">it's er it's this this joint is exactly five what I I cooked is exactly five pounds in weight</u>
+<u n="192" who="S0338"><vocal desc="laugh"/> there's a lovely gravy boat on the side in there <anon type="name" nameType="m"/></u>
+<u n="193" who="S0336"><vocal desc="laugh"/></u>
+<u n="194" who="S0339">I know but you had <unclear/></u>
+<u n="195" who="S0337" trans="overlap"><unclear>I don't care</unclear></u>
+<u n="196" who="S0338">ah</u>
+<u n="197" who="S0339"><unclear/> fit into it</u>
+<u n="198" who="S0338">mm okay</u>
+<u n="199" who="S0339">and he doesn't care</u>
+<u n="200" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="201" who="S0336">we're kind of used to having to ad lib with erm kitchen stuff</u>
+<u n="202" who="S0337" trans="overlap">why you need to get <unclear/> dirty</u>
+<u n="203" who="S0339">ah well</u>
+<u n="204" who="S0337" trans="overlap">for just the same job</u>
+<u n="205" who="S0338"><vocal desc="laugh"/></u>
+<u n="206" who="S0339" trans="overlap">we we we've bought although I daren't tell him when because <unclear/> be here very <trunc>s</trunc> very very very soon</u>
+<u n="207" who="S0338">not that soon not that soon at all <anon type="name" nameType="m"/> a good couple of weeks into October</u>
+<u n="208" who="S0336"><vocal desc="laugh"/></u>
+<u n="209" who="S0339"><unclear/></u>
+<u n="210" who="S0336"><vocal desc="laugh"/></u>
+<u n="211" who="S0339">erm <pause dur="short"/> and so of course we can when we er I'll need to get the</u>
+<u n="212" who="S0337">horseradish <unclear>I think you need to get</unclear></u>
+<u n="213" who="S0338">mm that's what we need to get</u>
+<u n="214" who="S0339" trans="overlap">I'll need to get the er kitchen stuff sorted out</u>
+<u n="215" who="S0338">yep</u>
+<u n="216" who="S0339">grandpa's gonna do all the bookcases and all of that</u>
+<u n="217" who="S0338">yeah <unclear/> going to take a chair down <unclear/> that chair in your room</u>
+<u n="218" who="S0336">mm</u>
+<u n="219" who="S0337">so yeah we get to look at your place later grandpa we'll get to look at your place properly</u>
+<u n="220" who="S0340">yeah</u>
+<u n="221" who="S0339">that's what <unclear/> <vocal desc="laugh"/></u>
+<u n="222" who="S0338">beautiful mm</u>
+<u n="223" who="S0339">er <vocal desc="sigh"/> erm obviously grandpa's now got to do his own bits and pieces with letting people know</u>
+<u n="224" who="S0338">mm</u>
+<u n="225" who="S0339">got the gas electric water</u>
+<u n="226" who="S0338">oh that wine's gorgeous</u>
+<u n="227" who="S0339">council tax</u>
+<u n="228" who="S0338">mm</u>
+<u n="229" who="S0339">voting telephone</u>
+<u n="230" who="S0336">all that fun stuff</u>
+<u n="231" who="S0339">the bins everything else is now registered erm in his name</u>
+<u n="232" who="S0336">mm</u>
+<u n="233" who="S0338">he has got bins <vocal desc="laugh"/></u>
+<u n="234" who="S0336"><unclear>has he</unclear>?</u>
+<u n="235" who="S0339">erm so I've managed to do the whole lot the only thing I haven't done yet is Sky erm we've even got the boiler service</u>
+<u n="236" who="S0336">oh wow</u>
+<u n="237" who="S0339"><unclear/> for <trunc>Br</trunc>British Gas</u>
+<u n="238" who="S0338">mm</u>
+<u n="239" who="S0339">updated his his he has er one of those the ones you see advertised on the TV</u>
+<u n="240" who="S0336">yeah</u>
+<u n="241" who="S0338">mm</u>
+<u n="242" who="S0339">he has one of those but we've gone onto the top one to add in <trunc>ele</trunc> all the electrics in the house that's you know</u>
+<u n="243" who="S0338">mm</u>
+<u n="244" who="S0339">fix the electrics plus kitchen appliances</u>
+<u n="245" who="S0338">mm</u>
+<u n="246" who="S0339">just cost him eighty-seven pence a month more</u>
+<u n="247" who="S0336">that's good</u>
+<u n="248" who="S0339">that's all</u>
+<u n="249" who="S0340"><unclear/></u>
+<u n="250" who="S0337">did they <unclear/> the first place?</u>
+<u n="251" who="S0339">er it's twenty something pounds a month <unclear/></u>
+<u n="252" who="S0337"><unclear/> if it's an older house that's not bad is it?</u>
+<u n="253" who="S0339">no which covers obviously gas boiler</u>
+<u n="254" who="S0338">mm</u>
+<u n="255" who="S0339">service every year erm</u>
+<u n="256" who="S0337" trans="overlap">that's really good actually</u>
+<u n="257" who="S0339">any</u>
+<u n="258" who="S0338">and it should be cheaper to live yeah</u>
+<u n="259" who="S0339"><unclear/> <trunc>ev</trunc>even a dripping tap they'll come and fix</u>
+<u n="260" who="S0337">really?</u>
+<u n="261" who="S0339">mm</u>
+<u n="262" who="S0338">mm</u>
+<u n="263" who="S0337"><vocal desc="laugh"/> I've got a dripping tap</u>
+<u n="264" who="S0338">is it within so <trunc>m</trunc>so many hours <anon type="name" nameType="m"/>?</u>
+<u n="265" who="S0339">no well let's face it</u>
+<u n="266" who="S0338">mm</u>
+<u n="267" who="S0339"><anon type="name" nameType="f"/> waited for about three months to have her outside light fixed</u>
+<u n="268" who="S0338">mm</u>
+<u n="269" who="S0339">still fixed it <trunc>re</trunc></u>
+<u n="270" who="S0338">mm</u>
+<u n="271" who="S0339">replaced it</u>
+<u n="272" who="S0337">erm you know my outside tap? <unclear>I've got</unclear> the little plastic thing on the end of it</u>
+<u n="273" who="S0338">mm</u>
+<u n="274" who="S0337">it's just dripping I just can't stop it dripping</u>
+<u n="275" who="S0338">mm</u>
+<u n="276" who="S0337">I can't get it to fix no matter how hard I turn the tap and how hard I turn</u>
+<u n="277" who="S0338">mm</u>
+<u n="278" who="S0337">that thing onto it it <unclear>drips</unclear></u>
+<u n="279" who="S0338">mm</u>
+<u n="280" who="S0339">mm</u>
+<u n="281" who="S0337">we do need to contact the erm the aftercare team anyway cos our back doors are catching they catch it on the frame and on the floor</u>
+<u n="282" who="S0338">mm</u>
+<u n="283" who="S0337">they're just like two millimetres too high no too low for the floor and no sorry one millimetre too low for the floor</u>
+<u n="284" who="S0338">mm</u>
+<u n="285" who="S0337">the <trunc>outs</trunc> the the patio</u>
+<u n="286" who="S0338">mm</u>
+<u n="287" who="S0337">and two <trunc>t</trunc> er two millimetres too low for the actual frame</u>
+<u n="288" who="S0339">well this is why when I remember I asked you about it being where the bolts go in at an offset angle?</u>
+<u n="289" who="S0337">yeah</u>
+<u n="290" who="S0339">I'm thinking this isn't quite right when I was there so</u>
+<u n="291" who="S0337">mm and erm</u>
+<u n="292" who="S0338">it's this signing off before you move in</u>
+<u n="293" who="S0336">mm</u>
+<u n="294" who="S0338">this signing off before you move in</u>
+<u n="295" who="S0337" trans="overlap">oh yeah</u>
+<u n="296" who="S0338">is ludicrous</u>
+<u n="297" who="S0336">I know</u>
+<u n="298" who="S0338">you need to live in the space</u>
+<u n="299" who="S0336">well the thing is technically apparently now we're at an advantage cos cos we go through customer care it effectively gets like escalated</u>
+<u n="300" who="S0338">mm</u>
+<u n="301" who="S0336">and they can draft in erm site <trunc>m</trunc>man type thing from any of their sites not just the one working on ours</u>
+<u n="302" who="S0337"><unclear/></u>
+<u n="303" who="S0338">mm</u>
+<u n="304" who="S0336">erm whereas if we went to our site manager he could only draft people on that was on his like <trunc>ro</trunc>like roster basically</u>
+<u n="305" who="S0338">mm</u>
+<u n="306" who="S0336">and only as and when they were available</u>
+<u n="307" who="S0338">mm</u>
+<u n="308" who="S0336">he couldn't pull them off other jobs for example</u>
+<u n="309" who="S0338">no</u>
+<u n="310" who="S0336">so it kind of just gets like left cos it's not a priority</u>
+<u n="311" who="S0338">yeah</u>
+<u n="312" who="S0337" trans="overlap"><unclear>lovely</unclear> gravy by the way</u>
+<u n="313" who="S0336">mm</u>
+<u n="314" who="S0338">beautiful gravy</u>
+<u n="315" who="S0337">it's lovely</u>
+<u n="316" who="S0338">mm</u>
+<u n="317" who="S0339">so how is it little homeowners?</u>
+<u n="318" who="S0337">it's good</u>
+<u n="319" who="S0338">yeah</u>
+<u n="320" who="S0337">it works</u>
+<u n="321" who="S0338">yeah course it does</u>
+<u n="322" who="S0337">we need a towel rail</u>
+<u n="323" who="S0338">and that <unclear/> commute?</u>
+<u n="324" who="S0339" trans="overlap">in the shower?</u>
+<u n="325" who="S0338"><anon type="name" nameType="f"/> your commute?</u>
+<u n="326" who="S0336">much better</u>
+<u n="327" who="S0338">uhu</u>
+<u n="328" who="S0336">much more <unclear/></u>
+<u n="329" who="S0337" trans="overlap">we'll see what happens next week though won't we?</u>
+<u n="330" who="S0338">mm</u>
+<u n="331" who="S0336">yeah</u>
+<u n="332" who="S0339">very quiet here</u>
+<u n="333" who="S0337">yeah</u>
+<u n="334" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="335" who="S0338">mm</u>
+<u n="336" who="S0336">I'm gonna test run the train at some point next month just to see what it's like</u>
+<u n="337" who="S0338">mm</u>
+<u n="338" who="S0337">obviously that's gone up three percent whatever</u>
+<u n="339" who="S0338">mm</u>
+<u n="340" who="S0337">so it wasn't financially it wasn't er an advantage financially before and now it's gone up three percent</u>
+<u n="341" who="S0338">mm</u>
+<u n="342" who="S0337">and it's just definitely not is it? <pause dur="short"/> the car's so much cheaper and that's even based on a car that things'll go wrong on</u>
+<u n="343" who="S0336"><vocal desc="laugh"/> yeah</u>
+<u n="344" who="S0338">yeah</u>
+<u n="345" who="S0339">have you <unclear>fed</unclear> your grass yet?</u>
+<u n="346" who="S0336">yeah <unclear/></u>
+<u n="347" who="S0339">did that <unclear/> work?</u>
+<u n="348" who="S0337" trans="overlap">not not with not with your mower</u>
+<u n="349" who="S0339">oh</u>
+<u n="350" who="S0337">I've done it with <anon type="name" nameType="f"/>'s</u>
+<u n="351" who="S0338">uhu</u>
+<u n="352" who="S0337">just before I got yours I need to</u>
+<u n="353" who="S0338">uhu</u>
+<u n="354" who="S0337">I need to cut it again</u>
+<u n="355" who="S0339">it's just that obviously when I serviced it and took it apart and cleaned it the wheels are a bit wobbly</u>
+<u n="356" who="S0337">okay</u>
+<u n="357" who="S0339">which the blade seemed I sharpened the blade it seemed okay the motor runs alright it's a bit noisy the bag's a bit but I thought it would do you just for a <unclear>couple of months</unclear></u>
+<u n="358" who="S0337" trans="overlap">the back yeah</u>
+<u n="359" who="S0338">can I just <unclear>swap</unclear> that last bit of meat please?</u>
+<u n="360" who="S0337">we just need to make it to winter</u>
+<u n="361" who="S0339">mm</u>
+<u n="362" who="S0338">mm what's your what's your <unclear/>?</u>
+<u n="363" who="S0336">erm</u>
+<u n="364" who="S0339"><unclear/></u>
+<u n="365" who="S0338">thank you <unclear/></u>
+<u n="366" who="S0336">may I have some broccoli now please?</u>
+<u n="367" who="S0338">mm</u>
+<u n="368" who="S0339">I'll just go and get some more meat</u>
+<u n="369" who="S0337">if not <anon type="name" nameType="f"/>'s Flymo will do</u>
+<u n="370" who="S0338"><unclear/></u>
+<u n="371" who="S0337">cos she's only</u>
+<u n="372" who="S0338">yeah</u>
+<u n="373" who="S0336">mm</u>
+<u n="374" who="S0339">well</u>
+<u n="375" who="S0337">she's a lot closer</u>
+<u n="376" who="S0338">yeah</u>
+<u n="377" who="S0337">it's alright I've tested it out</u>
+<u n="378" who="S0339">yeah what I'm saying is that erm obviously grandma <anon type="name" nameType="n"/></u>
+<u n="379" who="S0336" trans="overlap">thank you</u>
+<u n="380" who="S0338"><unclear/></u>
+<u n="381" who="S0337">oh yeah</u>
+<u n="382" who="S0336"><unclear/></u>
+<u n="383" who="S0339">had a a nice Hayter mower well I don't think <anon type="name" nameType="m"/>'ll need it I don't know whether <anon type="name" nameType="f"/> will</u>
+<u n="384" who="S0337" trans="overlap">oh right</u>
+<u n="385" who="S0339"><unclear/> then you could have that</u>
+<u n="386" who="S0338">yes mm</u>
+<u n="387" who="S0339" trans="overlap"><unclear/> <anon type="name" nameType="m"/> wouldn't mind</u>
+<u n="388" who="S0337"><unclear/> don't worry</u>
+<u n="389" who="S0338">mm yeah <unclear/></u>
+<u n="390" who="S0337">you know you know <unclear/></u>
+<u n="391" who="S0338" trans="overlap"><unclear/> gravy now cos it's so delicious</u>
+<u n="392" who="S0336">mm</u>
+<u n="393" who="S0338">I have the funniest story to tell you</u>
+<u n="394" who="S0336">oh gosh</u>
+<u n="395" who="S0338">yeah I'll have to finish eating first because I might choke</u>
+<u n="396" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="397" who="S0338"><unclear/> and it's it's a true story <unclear/></u>
+<u n="398" who="S0337">obviously grandma's house is full of best stuff wasn't it?</u>
+<u n="399" who="S0338">cor mum did not go short did she?</u>
+<u n="400" who="S0337">mm no</u>
+<u n="401" who="S0338">mm a lot of things that still you know when she bought them were the best and still <unclear/> so things might be a bit dated but it's certainly worth you know but erm <unclear>we shall see</unclear></u>
+<u n="402" who="S0337" trans="overlap"><unclear/> it just feels it feels feels rude but it's it's practical and common sense</u>
+<u n="403" who="S0338">yeah well your grandma <anon type="name" nameType="n"/></u>
+<u n="404" who="S0337">yeah</u>
+<u n="405" who="S0338">absolutely pushed me forward when er with <anon type="name" nameType="m"/> and she did the same with <anon type="name" nameType="f"/> because we didn't want her to go to <anon type="place"/> <vocal desc="gasp"/> oh it was terrible it was terrible <anon type="name" nameType="m"/> came from er <anon type="place"/> and his relatives</u>
+<u n="406" who="S0337">is this</u>
+<u n="407" who="S0338">who had basically abandoned him when he was a lot younger</u>
+<u n="408" who="S0337">dad's uncle?</u>
+<u n="409" who="S0338">and then because <unclear/> he looked them and when they found out he had some money they were all over him like a rash so</u>
+<u n="410" who="S0337">some money?</u>
+<u n="411" who="S0336" trans="overlap">so bad</u>
+<u n="412" who="S0338">mm</u>
+<u n="413" who="S0337">he had quite a lot of money didn't he?</u>
+<pause dur="long"/>
+<u n="414" who="S0338">but mum was absolutely adamant that half of it should've gone to her and the boys <unclear/></u>
+<u n="415" who="S0337">yeah</u>
+<u n="416" who="S0338">alright?</u>
+<u n="417" who="S0340">yeah cheers everybody</u>
+<u n="418" who="S0336">mm</u>
+<u n="419" who="S0338">cheers papa it's delicious</u>
+<u n="420" who="S0337">I know it's a bit rude but cheers</u>
+<u n="421" who="S0336"><vocal desc="laugh"/></u>
+<u n="422" who="S0338">cheers</u>
+<u n="423" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="424" who="S0338"><unclear>I should've</unclear> passed those tumblers out for you that I put that there for you you see <anon type="name" nameType="m"/></u>
+<u n="425" who="S0337">well I walked in here after you</u>
+<u n="426" who="S0338">mm</u>
+<u n="427" who="S0337">and this was the only space free</u>
+<u n="428" who="S0338">yes well your father sat there keeping an eye on grandpa it's a lovely dinner er it's such a good dinner</u>
+<u n="429" who="S0336">mm</u>
+<u n="430" who="S0340"><unclear/></u>
+<u n="431" who="S0338"><anon type="name" nameType="m"/> this is so lovely this beef</u>
+<u n="432" who="S0339">just put that there sorry er <trunc>w</trunc> it's on a fork but er</u>
+<u n="433" who="S0340"><vocal desc="sigh"/> <unclear/></u>
+<u n="434" who="S0338">mm</u>
+<u n="435" who="S0336">mm</u>
+<u n="436" who="S0339" trans="overlap"><unclear/> <anon type="name" nameType="m"/> mentioned</u>
+<u n="437" who="S0338">mm <anon type="name" nameType="m"/> was saying how rude it is about everything from my mum's you see</u>
+<u n="438" who="S0337" trans="overlap">just er obviously it's common er <trunc>i</trunc>it's practical and it's common sense but it does feel rude still</u>
+<u n="439" who="S0338">mm and I said about</u>
+<u n="440" who="S0337">it feels really</u>
+<u n="441" who="S0338">how your mother pushed us forward with her with <unclear/> could've gone to <anon type="place"/> couldn't she?</u>
+<u n="442" who="S0337"><unclear/></u>
+<u n="443" who="S0339">yeah</u>
+<u n="444" who="S0337">just now</u>
+<u n="445" who="S0339">well no it's it's it's awkward because everybody gets a <trunc>b</trunc> <trunc>y</trunc>you all dance around it</u>
+<u n="446" who="S0338">mm</u>
+<u n="447" who="S0337">yeah</u>
+<u n="448" who="S0338">yeah I need to get grandpa <unclear/></u>
+<u n="449" who="S0336" trans="overlap">it's better than them going to waste as well</u>
+<u n="450" who="S0339"><unclear/></u>
+<u n="451" who="S0338">it mustn't no it mustn't mustn't go wasted</u>
+<u n="452" who="S0337">well nothing will</u>
+<u n="453" who="S0338">no</u>
+<u n="454" who="S0339"><unclear/> at some stage it means that we have to take a van up to your grandma's</u>
+<u n="455" who="S0338">mm we'll see darling</u>
+<u n="456" who="S0339"><unclear/></u>
+<u n="457" who="S0336">it wasn't that expensive anyway was it?</u>
+<u n="458" who="S0338">excuse me what I was gonna say was erm there'll be <vocal desc="sigh"/> I'm not quite ready mentally to deal with it yet <unclear>no</unclear></u>
+<u n="459" who="S0339" trans="overlap">that's why yeah that's why I've not mentioned it</u>
+<u n="460" who="S0338">yeah no</u>
+<u n="461" who="S0336">I don't think in the grand scheme of things there's much of a rush from our end anymore like we're at a point where we're comfortable aren't we?</u>
+<u n="462" who="S0338">mm</u>
+<u n="463" who="S0337">yeah we've had to go and buy everything haven't we?</u>
+<u n="464" who="S0336"><vocal desc="laugh"/></u>
+<u n="465" who="S0338">but if everything that you you that <unclear/> just hold back on that because anything that you need <unclear>we can get</unclear> now</u>
+<u n="466" who="S0337" trans="overlap"><unclear/></u>
+<u n="467" who="S0338">you might be able to have a holiday next year</u>
+<u n="468" who="S0337" trans="overlap"><unclear/> probably I've already maxed out my credit card</u>
+<u n="469" who="S0338">have you?</u>
+<u n="470" who="S0337">and <anon type="name" nameType="f"/>'s started on hers so</u>
+<u n="471" who="S0338">mm</u>
+<u n="472" who="S0336"><vocal desc="laugh"/></u>
+<u n="473" who="S0339">well welcome to home ownership <unclear/></u>
+<u n="474" who="S0338"><unclear/></u>
+<u n="475" who="S0336"><unclear>you're</unclear> such a wind-up</u>
+<u n="476" who="S0337">couldn't wait</u>
+<u n="477" who="S0338"><unclear/></u>
+<u n="478" who="S0337">couldn't wait for your emotions no I'm kidding mum</u>
+<u n="479" who="S0338"><vocal desc="laugh"/></u>
+<u n="480" who="S0337">erm</u>
+<u n="481" who="S0338"><unclear>I know</unclear></u>
+<u n="482" who="S0337">we we haven't bought a lot of stuff</u>
+<u n="483" who="S0338">good you've been sensible er you I can count on you being sensible <anon type="name" nameType="m"/></u>
+<u n="484" who="S0337">got two <trunc>pota</trunc>potato mashers now</u>
+<u n="485" who="S0336" trans="overlap">or poor one of the two</u>
+<u n="486" who="S0339"><vocal desc="laugh"/> you've got two potato mashers?</u>
+<u n="487" who="S0337">yeah and two graters</u>
+<u n="488" who="S0336">I'm gonna take them back</u>
+<u n="489" who="S0337">yep</u>
+<u n="490" who="S0338">yeah</u>
+<u n="491" who="S0339">did you manage to do anything about your <unclear>aerial</unclear>?</u>
+<u n="492" who="S0337">yeah</u>
+<u n="493" who="S0338">it's sorted they've got television</u>
+<u n="494" who="S0339">no the one you bought</u>
+<u n="495" who="S0336">oh yeah that went back</u>
+<u n="496" who="S0337">oh that? that went back</u>
+<u n="497" who="S0339"><unclear/></u>
+<u n="498" who="S0336" trans="overlap">yeah that went back no problem</u>
+<u n="499" who="S0339"><unclear/></u>
+<u n="500" who="S0337"><unclear>I swear I</unclear> <unclear/></u>
+<u n="501" who="S0336" trans="overlap">I just told them it didn't work and they weren't gonna check it so</u>
+<u n="502" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="503" who="S0339">you got your money back?</u>
+<u n="504" who="S0337">yeah</u>
+<u n="505" who="S0339">perfect well done</u>
+<u n="506" who="S0337">I thought you meant about like the installation I was like I swear we've spoken about this</u>
+<u n="507" who="S0338">mm</u>
+<u n="508" who="S0339">no your <trunc>aeri</trunc> sorry the <trunc>aer</trunc> sorry I should've said the aerial you bought good</u>
+<u n="509" who="S0336">yeah</u>
+<u n="510" who="S0338">how's <anon type="name" nameType="m"/>?</u>
+<u n="511" who="S0336">oh he's so creepy</u>
+<u n="512" who="S0338">well the <unclear/> woman told <unclear/> off</u>
+<u n="513" who="S0337">really?</u>
+<u n="514" who="S0338" trans="overlap"><unclear/> said almost instantaneously <anon type="name" nameType="f"/> will hate it</u>
+<u n="515" who="S0336">I do hate it and it's now <anon type="name" nameType="m"/>'s favourite game cos he hides it</u>
+<u n="516" who="S0338"><vocal desc="laugh"/></u>
+<u n="517" who="S0336">he hides it for me to find I went into the bathroom the other day and there he was in the middle of the floor</u>
+<u n="518" who="S0338"><vocal desc="laugh"/></u>
+<u n="519" who="S0340"><unclear/>?</u>
+<u n="520" who="S0338">a goat</u>
+<u n="521" who="S0340">ah</u>
+<u n="522" who="S0336">like this garden ornament but it's a goat and it's just the creepiest thing ever <unclear/></u>
+<u n="523" who="S0337">it follows you round the room</u>
+<u n="524" who="S0338">not so much as <anon type="name" nameType="n"/>'s eyes</u>
+<u n="525" who="S0336">no and he like</u>
+<u n="526" who="S0337">no</u>
+<u n="527" who="S0336">a couple of our visitors really dislike him <vocal desc="laugh"/></u>
+<u n="528" who="S0338">well if that's what they remember of their visit that is really awful because both <anon type="name" nameType="f"/> and <anon type="name" nameType="f"/> said to <anon type="name" nameType="m"/> is that really what you're giving him?</u>
+<u n="529" who="S0336"><vocal desc="laugh"/></u>
+<u n="530" who="S0338"><unclear/> it's for <anon type="name" nameType="m"/> <unclear/> they <trunc>b</trunc>they both said <anon type="name" nameType="f"/>'ll hate it</u>
+<u n="531" who="S0336">yeah</u>
+<u n="532" who="S0338">and er they both said you have <unclear/> sensible <unclear/></u>
+<u n="533" who="S0337" trans="overlap"><anon type="name" nameType="f"/>'s found <anon type="name" nameType="m"/> in her bed before</u>
+<u n="534" who="S0336">yeah he put</u>
+<u n="535" who="S0338"><vocal desc="laugh"/></u>
+<u n="536" who="S0336">he hides him he hides him under my pillow</u>
+<u n="537" who="S0339" trans="overlap"><unclear>so it's</unclear> <anon type="name" nameType="m"/>?</u>
+<u n="538" who="S0338"><anon type="name" nameType="m"/> the goat yeah</u>
+<u n="539" who="S0339"><anon type="name" nameType="m"/> the goat <unclear/></u>
+<u n="540" who="S0336"><anon type="name" nameType="m"/> the goat yeah</u>
+<u n="541" who="S0338">in bed</u>
+<u n="542" who="S0336">he hides him under the pillow so that when I go to get my pyjamas he's just</u>
+<u n="543" who="S0338"><vocal desc="laugh"/></u>
+<u n="544" who="S0337">I found him in the shower</u>
+<u n="545" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="546" who="S0337">I didn't put them there <vocal desc="laugh"/></u>
+<u n="547" who="S0339">oh you don't join in then?</u>
+<u n="548" who="S0338"><vocal desc="laugh"/></u>
+<u n="549" who="S0336">that's the only time I've hidden him and that was in retaliation</u>
+<u n="550" who="S0338"><vocal desc="laugh"/></u>
+<u n="551" who="S0337">that was the last place <unclear/></u>
+<u n="552" who="S0336">the first time he did it I woke up and it was he was staring at me from my bedside table</u>
+<u n="553" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="554" who="S0336">and well</u>
+<u n="555" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="556" who="S0337">everyone needs a <anon type="name" nameType="m"/> in their life don't they?</u>
+<u n="557" who="S0338"><vocal desc="laugh"/> that's a real <anon type="name" nameType="m"/> thing</u>
+<u n="558" who="S0337"><vocal desc="laugh"/></u>
+<u n="559" who="S0338">that's so funny <unclear/></u>
+<u n="560" who="S0337">I do this thing I hide in the house don't I?</u>
+<u n="561" who="S0336">yeah</u>
+<u n="562" who="S0338"><vocal desc="laugh"/></u>
+<u n="563" who="S0337"><anon type="name" nameType="f"/> what? then I hide</u>
+<u n="564" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="565" who="S0337">where are you? <vocal desc="laugh"/> <unclear/></u>
+<u n="566" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="567" who="S0339">oh dear</u>
+<u n="568" who="S0338">mm <pause dur="long"/> mm</u>
+<u n="569" who="S0337">yeah <unclear/> definitely it's fun</u>
+<u n="570" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="571" who="S0336">fun winding me up</u>
+<u n="572" who="S0337">oh <unclear>mate</unclear> I'm the best I'm the best landlord there is <vocal desc="laugh"/></u>
+<u n="573" who="S0336">mm <unclear/></u>
+<u n="574" who="S0338">are you ready for the story?</u>
+<u n="575" who="S0337" trans="overlap">ah oh she let me get away with that</u>
+<u n="576" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="577" who="S0339">this is not your story from work is it?</u>
+<u n="578" who="S0338">mm</u>
+<u n="579" who="S0339">ah yeah this is actually worth listening to for once from your mother</u>
+<u n="580" who="S0336"><vocal desc="laugh"/></u>
+<u n="581" who="S0337">for once? wow that's a bit</u>
+<u n="582" who="S0338">this is the funniest story <unclear>I know</unclear></u>
+<u n="583" who="S0339" trans="overlap">no I have to say even I didn't get this one and I almost wet myself <pause dur="short"/> it's about it's er</u>
+<u n="584" who="S0338" trans="overlap">true story and this happened at <anon type="place"/> hospital</u>
+<u n="585" who="S0336">okay</u>
+<u n="586" who="S0337" trans="overlap">who'd it happen to?</u>
+<u n="587" who="S0338">a lady I work with called <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> had an appointment don't know why don't know <trunc>w</trunc> it's irrelevant she went to the desk and signed in and they said <anon type="name" nameType="f"/> it's gonna be half an hour I know they need cleaning erm <anon type="name" nameType="f"/> it's going to be half an hour <trunc>co</trunc> you gotta concentrate <unclear/></u>
+<u n="588" who="S0337" trans="overlap">half an hour</u>
+<u n="589" who="S0339" trans="overlap">the names have been changed to protect individuals</u>
+<u n="590" who="S0337"><unclear>have they actually</unclear>?</u>
+<u n="591" who="S0338"><vocal desc="laugh"/> no er go and have a cup of tea and get yourself back here in thirty minutes so she did she got to the restaurant absolutely packed got herself a cup of tea and erm a four bar Kit Kat which she loves sat down she sat down opposite erm an elderly gentleman and she put the the Kit Kat in the middle unwrapped and everything and she took it and had her first bite and then the elderly gentleman took it and took snapped a bar off and ate a bar of her Kit Kat <vocal desc="laugh"/></u>
+<u n="592" who="S0336">oh wow</u>
+<u n="593" who="S0338">so she took the next bar and she ate it and then he took the final bar of her Kit Kat Kit Kat lover and he ate the last bar of her Kit Kat she sat there absolutely incredulous she had thirteen minutes to kill he left he came back he bought a doughnut he sat down the doughnut's sat there so she took the doughnut <vocal desc="laugh"/> and she took the biggest bite of this doughnut that she could</u>
+<u n="594" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="595" who="S0338">put it back and went to her appointment</u>
+<u n="596" who="S0336">oh my god</u>
+<u n="597" who="S0339">mm oh yeah</u>
+<u n="598" who="S0338">so she went to her appointment got back to her car put her hand in her pocket there's a Kit Kat</u>
+<u n="599" who="S0336"><vocal desc="gasp"/></u>
+<u n="600" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="601" who="S0337">it wasn't her it wasn't her Kit Kat? <unclear/></u>
+<u n="602" who="S0336"><unclear/></u>
+<u n="603" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="604" who="S0339">it was the old guy's Kit Kat</u>
+<u n="605" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="606" who="S0338"><unclear>it's absolutely it's almost another myth</unclear> it really happened</u>
+<u n="607" who="S0339">I didn't see that one coming <vocal desc="laugh"/></u>
+<u n="608" who="S0336">oh my god the poor old man</u>
+<u n="609" who="S0339"><vocal desc="laugh"/></u>
+<u n="610" who="S0338">we all <unclear/></u>
+<u n="611" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="612" who="S0338">keeps coming over and <unclear/></u>
+<u n="613" who="S0336">ah</u>
+<u n="614" who="S0339">but that's the sort of social media thing that could go viral</u>
+<u n="615" who="S0338">viral</u>
+<u n="616" who="S0336">oh my god</u>
+<u n="617" who="S0338" trans="overlap">cos we said you should take a piece in the Evening Telegraph and apologise</u>
+<u n="618" who="S0339" trans="overlap">apologise <vocal desc="laugh"/></u>
+<u n="619" who="S0338">because it's so bad it's <unclear>he could be like you know</unclear> er you know</u>
+<u n="620" who="S0336">yeah</u>
+<u n="621" who="S0338">a very delicate soul</u>
+<u n="622" who="S0336">he might've like he might've appreciated the company cos he didn't have to go buy a doughnut</u>
+<u n="623" who="S0338"><vocal desc="laugh"/></u>
+<u n="624" who="S0336">he might've thought oh she's hungry I'll go get her a <trunc>doughn</trunc> <vocal desc="laugh"/></u>
+<u n="625" who="S0338" trans="overlap"><unclear>I'd like to have her finish the doughnut</unclear> <unclear/> <unclear>a bit of</unclear></u>
+<u n="626" who="S0336">oh bless him that's so funny</u>
+<u n="627" who="S0338">she was so defiant</u>
+<u n="628" who="S0339"><vocal desc="laugh"/></u>
+<u n="629" who="S0338"><unclear/></u>
+<u n="630" who="S0337">and she'll be on camera or something <vocal desc="laugh"/></u>
+<u n="631" who="S0338">oh <trunc>y</trunc></u>
+<u n="632" who="S0336"><vocal desc="gasp"/> oh</u>
+<u n="633" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="634" who="S0338">she said she told her husband <vocal desc="laugh"/> he was absolutely horrified seriously she's a big girl <vocal desc="laugh"/></u>
+<u n="635" who="S0337">is she?</u>
+<u n="636" who="S0338">yeah she's a big girl</u>
+<u n="637" who="S0336">oh my god</u>
+<u n="638" who="S0337">oh</u>
+<u n="639" who="S0338">turned out she's er <vocal desc="laugh"/></u>
+<u n="640" who="S0337">yeah</u>
+<u n="641" who="S0338">well dreadful</u>
+<u n="642" who="S0339">it's funny it's one of those <trunc>thi</trunc> every time you hear you know <trunc>th</trunc> even when you know what's gonna happen</u>
+<u n="643" who="S0338" trans="overlap">happen</u>
+<u n="644" who="S0339">you still can't help but laugh</u>
+<u n="645" who="S0338"><unclear>god</unclear> <vocal desc="laugh"/></u>
+<u n="646" who="S0336"><unclear>but</unclear> that's outrageous</u>
+<u n="647" who="S0338">mm</u>
+<u n="648" who="S0336">wow</u>
+<u n="649" who="S0338">mm</u>
+<u n="650" who="S0337">did she take the first bit of his Kit Kat?</u>
+<u n="651" who="S0339">yeah</u>
+<u n="652" who="S0338">yeah she took the the it's like she put it there and there it was</u>
+<u n="653" who="S0337">and <trunc>w</trunc> she didn't put it there?</u>
+<u n="654" who="S0338">this is what she didn't put it there she <unclear/></u>
+<u n="655" who="S0339">she sat down there's a Kit Kat on the table</u>
+<u n="656" who="S0338">yeah <trunc>c</trunc> she she'd have her mind on other things we think she took I can't remember I think she took I'm sure she said she took the first bite but either way it's irrelevant</u>
+<u n="657" who="S0336" trans="overlap">it was somebody else's Kit Kat <vocal desc="laugh"/></u>
+<u n="658" who="S0338">it was somebody else's Kit Kat</u>
+<u n="659" who="S0337"><unclear/></u>
+<u n="660" who="S0339">yeah</u>
+<u n="661" who="S0336"><vocal desc="laugh"/></u>
+<u n="662" who="S0337">Kit Kat's irrelevant after that <vocal desc="laugh"/></u>
+<u n="663" who="S0338">no but when you get <unclear>out the car</unclear> the Kit Kat comes into its own</u>
+<u n="664" who="S0337">yeah that's good</u>
+<u n="665" who="S0336">mm</u>
+<u n="666" who="S0338">yeah</u>
+<u n="667" who="S0337">I like that</u>
+<u n="668" who="S0338">so<vocal desc="laugh"/></u>
+<u n="669" who="S0340"><unclear/> string</u>
+<u n="670" who="S0338">piece of string</u>
+<u n="671" who="S0336"><unclear>nice</unclear></u>
+<u n="672" who="S0337">congratulations</u>
+<u n="673" who="S0338">I went to church this morning I was <unclear>sidesman</unclear></u>
+<u n="674" who="S0336">ah</u>
+<u n="675" who="S0338">I <unclear>met</unclear> a new lady I forgot to tell you I had a new lady who came and er I felt I <unclear>guided</unclear> her somewhat because when we got to the altar there was so few of us it was full and it was her turn and I just said <unclear/> and she went <vocal desc="laugh"/></u>
+<u n="676" who="S0336" trans="overlap">ah you're making friends <anon type="name" nameType="f"/></u>
+<u n="677" who="S0338" trans="overlap">so she went in front of me the two of us</u>
+<u n="678" who="S0339">there er there obviously wasn't</u>
+<u n="679" who="S0338">yeah</u>
+<u n="680" who="S0339">as many as there were last week?</u>
+<u n="681" who="S0338">no</u>
+<u n="682" who="S0339">I <unclear/> this week</u>
+<u n="683" who="S0338">yeah</u>
+<u n="684" who="S0337">you did? last week?</u>
+<u n="685" who="S0339">mm</u>
+<u n="686" who="S0338">yeah and then er it wasn't father <anon type="name" nameType="m"/> it wasn't reverend <anon type="name" nameType="m"/> and it wasn't reverend <anon type="name" nameType="f"/> because it was somebody who erm steps in</u>
+<u n="687" who="S0339" trans="overlap">it was <anon type="name" nameType="f"/> last week <unclear/> service</u>
+<u n="688" who="S0338">when <trunc>rev</trunc> father <anon type="name" nameType="m"/> wasn't there and he's he's very elderly got it completely wrong there was a <trunc>who</trunc>whole chunk the bit where I go up with the money er on the salver hand it over to the server he turns hands it over</u>
+<u n="689" who="S0339"><unclear/></u>
+<u n="690" who="S0337" trans="overlap"><unclear>why? when's when's that ever happened</unclear>?</u>
+<u n="691" who="S0338">that happens</u>
+<u n="692" who="S0337" trans="overlap"><unclear/> God say that?</u>
+<u n="693" who="S0338">no just happens sort of <trunc>halfw</trunc> more than half just er more than halfway through</u>
+<u n="694" who="S0339" trans="overlap">it was about twenty past eight yeah</u>
+<u n="695" who="S0338">yeah <unclear>it happens</unclear></u>
+<u n="696" who="S0337"><unclear>sure</unclear> why does that happen?</u>
+<u n="697" who="S0338">it happens cos you hand over your <trunc>g</trunc> offerings</u>
+<u n="698" who="S0337">to who?</u>
+<u n="699" who="S0339">to the server</u>
+<u n="700" who="S0338" trans="overlap">to the church</u>
+<u n="701" who="S0339">to the church</u>
+<u n="702" who="S0338">to the church to the server</u>
+<u n="703" who="S0337">is that what Jesus told you <unclear>to do</unclear>?</u>
+<u n="704" who="S0338">no that's what</u>
+<u n="705" who="S0339">yeah</u>
+<u n="706" who="S0338">that's what happens mate that's what happens</u>
+<u n="707" who="S0337"><unclear/></u>
+<u n="708" who="S0339">the money lenders in the temple <pause dur="short"/> he kicked them out but they still do it</u>
+<u n="709" who="S0338"><vocal desc="laugh"/> so anyway <trunc>th</trunc>that went that went on and then usually I have to stand there they do three sections and then they do the</u>
+<u n="710" who="S0337"><unclear>just gonna test you see erm just test your faith so er you're still going</unclear></u>
+<u n="711" who="S0339"><vocal desc="laugh"/></u>
+<u n="712" who="S0338">yeah and then er I have to do two responses then I have to say a piece well we all do don't we?</u>
+<u n="713" who="S0339">yeah and then</u>
+<u n="714" who="S0338">and then then I <unclear>reach</unclear> I and I <trunc>te</trunc></u>
+<u n="715" who="S0339" trans="overlap"><unclear>put the cushion back do you</unclear>?</u>
+<u n="716" who="S0338">put the cushions back</u>
+<u n="717" who="S0339">put the the <unclear>other</unclear> back then you close the gates</u>
+<u n="718" who="S0338" trans="overlap">I <unclear/> and I return to my seat anyway <vocal desc="laugh"/> I hand the salver over and this guy's <vocal desc="laugh"/> he he hadn't a clue I just said to <anon type="name" nameType="m"/> the server I said should I go back? and he</u>
+<u n="719" who="S0339"><anon type="name" nameType="m"/>'s the server</u>
+<u n="720" who="S0338">and he's the server he said shall I go back? he said I <unclear/> so I turned round just went and sat down didn't do any of the responses cos clearly he wasn't going to do it</u>
+<u n="721" who="S0339">how old is he?</u>
+<u n="722" who="S0338">he'll be well into his seventies</u>
+<u n="723" who="S0339">is he the old guy with white hair?</u>
+<u n="724" who="S0338" trans="overlap">but he's yeah yeah</u>
+<u n="725" who="S0339">oh I've er <trunc>s</trunc> I've seen him in town</u>
+<u n="726" who="S0338">he's lovely isn't he?</u>
+<u n="727" who="S0339">mm <unclear/></u>
+<u n="728" who="S0338">I think he used to have our black car you know when we had the Mondeo? there was a retired reverend from <anon type="place"/></u>
+<u n="729" who="S0339">yeah</u>
+<u n="730" who="S0338">I think it's him</u>
+<u n="731" who="S0339">you need to ask him did you ever live in <anon type="place"/>?</u>
+<u n="732" who="S0338">yeah</u>
+<u n="733" who="S0339"><anon type="miscPersonalInfo"/></u>
+<u n="734" who="S0337"><anon type="miscPersonalInfo"/></u>
+<u n="735" who="S0339"><anon type="miscPersonalInfo"/> I think er <anon type="miscPersonalInfo"/></u>
+<u n="736" who="S0338"><anon type="miscPersonalInfo"/></u>
+<u n="737" who="S0337"><anon type="miscPersonalInfo"/></u>
+<u n="738" who="S0339">yeah <anon type="miscPersonalInfo"/></u>
+<u n="739" who="S0336">erm <anon type="name" nameType="m"/>?</u>
+<u n="740" who="S0339">yes darling</u>
+<u n="741" who="S0336">my mum wants to sort her bed out in September her flower bed</u>
+<u n="742" who="S0339" trans="overlap"><unclear/> oh flower bed sorry</u>
+<u n="743" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="744" who="S0336">her flower bed that you offered <trunc>t</trunc>to guide her with</u>
+<u n="745" who="S0339">yep</u>
+<u n="746" who="S0336">she's got a week off around</u>
+<u n="747" who="S0337">twentieth <unclear/></u>
+<u n="748" who="S0336" trans="overlap">twentieth or something erm</u>
+<u n="749" who="S0339"><unclear/></u>
+<u n="750" who="S0336">and she wondered whether you would er <trunc>s</trunc> not necessarily assist her but give her some advice on</u>
+<u n="751" who="S0338">mm</u>
+<u n="752" who="S0339">er yeah we'll have a pop down and have a look</u>
+<u n="753" who="S0336">okay it's it's not very big is it? it <trunc>w</trunc>it won't take</u>
+<u n="754" who="S0337" trans="overlap"><unclear>well no it's the size of this table</unclear></u>
+<u n="755" who="S0336">it won't take much at all but she just doesn't have a clue <vocal desc="laugh"/></u>
+<u n="756" who="S0339"><unclear/></u>
+<u n="757" who="S0337"><unclear/> rose rose rose bush in the middle</u>
+<u n="758" who="S0338" trans="overlap">does <trunc>sh</trunc> what does she want? prettiness <unclear/></u>
+<u n="759" who="S0337">garage garage door there rose bush <unclear/> it's a lovely rose in the middle</u>
+<u n="760" who="S0336">I think she just wants something easy but something that will look pretty</u>
+<u n="761" who="S0338">yeah</u>
+<u n="762" who="S0337">probably needs to be cut down to regrow but as it is at the moment it <unclear>gives the trellis another thing</unclear> and it's it's nice I like the rose</u>
+<u n="763" who="S0339" trans="overlap"><unclear>well I'll just have to</unclear> have a look and</u>
+<u n="764" who="S0336">yeah</u>
+<u n="765" who="S0339">come up with something</u>
+<u n="766" who="S0337">a lot of weeds and</u>
+<u n="767" who="S0338">do you like the dahlias? you see they're still going aren't they? but</u>
+<u n="768" who="S0336" trans="overlap">yeah they're really nice I just think she wants something that's gonna be relatively easy to maintain</u>
+<u n="769" who="S0338">yeah</u>
+<u n="770" who="S0336">but will look nice</u>
+<u n="771" who="S0339">well that that unfortunately is an annual thing because obviously I grow those from seed</u>
+<u n="772" who="S0336">yeah</u>
+<u n="773" who="S0339">but they will form tubers I dig them up make sure they dry off alright and then you get through the winter okay they'll start shooting in the spring and I put them back in but slugs and snails love them</u>
+<u n="774" who="S0336">mm</u>
+<u n="775" who="S0338">yeah</u>
+<u n="776" who="S0337">so yeah your your mum wants some things that she can just pop in there which will come back every year absolutely fine and then I think she'd be happy with bedding plants going in once a year</u>
+<u n="777" who="S0338">yeah</u>
+<u n="778" who="S0339">I mean you know</u>
+<u n="779" who="S0338" trans="overlap"><unclear/></u>
+<u n="780" who="S0336">a couple of <trunc>s</trunc></u>
+<u n="781" who="S0339"><unclear>it's the weeds and</unclear></u>
+<u n="782" who="S0336">er maybe like some sort of like bushier type things that are just gonna fill it up a little bit</u>
+<u n="783" who="S0338">ceanothus</u>
+<u n="784" who="S0339"><unclear/></u>
+<u n="785" who="S0337">no no you don't want bushy stuff because no because they get too big like your front garden did and like the stuff in the back did</u>
+<u n="786" who="S0336">okay but okay perhaps not quite to that scale but just something that's gonna like fill it out a little bit</u>
+<u n="787" who="S0337">er it's a bit like er it's a bit like <anon type="name" nameType="f"/> she wants a nice garden she doesn't have the time</u>
+<u n="788" who="S0338"><unclear/></u>
+<u n="789" who="S0337">and she's not interested</u>
+<u n="790" who="S0338">mm</u>
+<u n="791" who="S0336">no</u>
+<u n="792" who="S0337">it's she's not interested in gardening <unclear/></u>
+<u n="793" who="S0336">she wants something easy</u>
+<u n="794" who="S0338">yeah</u>
+<u n="795" who="S0336">but it's it's currently got a lot of weeds in it so</u>
+<u n="796" who="S0338"><unclear><trunc>wh</trunc>who</unclear>?</u>
+<u n="797" who="S0339">who's <anon type="name" nameType="f"/>?</u>
+<u n="798" who="S0338">who's <anon type="name" nameType="f"/>? <anon type="name" nameType="m"/> said like <anon type="name" nameType="f"/></u>
+<u n="799" who="S0337">I said</u>
+<u n="800" who="S0338">wants something easy</u>
+<u n="801" who="S0337">well er <trunc>s</trunc></u>
+<u n="802" who="S0338">our <anon type="name" nameType="f"/></u>
+<u n="803" who="S0337">oh I said yes I don't know any other <anon type="name" nameType="f"/>s</u>
+<u n="804" who="S0339">well neither do I that's what I thought and I thought</u>
+<u n="805" who="S0338"><anon type="name" nameType="m"/>'s been and met <anon type="name" nameType="f"/></u>
+<u n="806" who="S0339"><unclear/></u>
+<u n="807" who="S0338">cos we took <vocal desc="laugh"/> we did the <trunc>dee</trunc> evil deed didn't we?</u>
+<u n="808" who="S0339">er</u>
+<u n="809" who="S0338">we took the the tumble dryer round that burst into flames but that was <anon type="name" nameType="f"/> not emptying the filter</u>
+<u n="810" who="S0337">was it?</u>
+<u n="811" who="S0339">yeah</u>
+<u n="812" who="S0338">oh yeah she didn't empty the filter</u>
+<u n="813" who="S0337">you did you ask if she had?</u>
+<u n="814" who="S0338">I found out that she hadn't cos she <vocal desc="laugh"/> she said to me she said about her ex how he was having had a go at her about emptying the filter</u>
+<u n="815" who="S0336">mm</u>
+<u n="816" who="S0338">that's what it was cos er all of their the <trunc>s</trunc> <unclear/></u>
+<u n="817" who="S0339" trans="overlap"><unclear/> there was nothing wrong with it it was a perfect machine</u>
+<u n="818" who="S0338" trans="overlap">I know it was perfect there <unclear>just</unclear> wasn't anything wrong with the electrics or anything would never have given it to her</u>
+<u n="819" who="S0339">mm</u>
+<u n="820" who="S0338">but she wouldn't check it you see she'd just put it on and do it</u>
+<u n="821" who="S0339">she and just keep doing it <trunc>t</trunc></u>
+<u n="822" who="S0338">yeah</u>
+<u n="823" who="S0339">till it burst into flames</u>
+<u n="824" who="S0338">yeah what a lovely day</u>
+<u n="825" who="S0336">it's nice isn't it?</u>
+<u n="826" who="S0338"><unclear/> gorgeous</u>
+<u n="827" who="S0337" trans="overlap">I'm gonna have to open the door sorry I'm hot</u>
+<u n="828" who="S0336">yeah</u>
+<u n="829" who="S0338">yeah do yeah</u>
+<u n="830" who="S0337"><unclear/></u>
+<u n="831" who="S0338">I have had the window open in here</u>
+<u n="832" who="S0339">we're slowly getting there again I've got blinds coming next week</u>
+<u n="833" who="S0336">that's exciting</u>
+<u n="834" who="S0337">what for in here?</u>
+<u n="835" who="S0338">no</u>
+<u n="836" who="S0339" trans="overlap">no for for no for for the</u>
+<u n="837" who="S0338">front bedrooms</u>
+<u n="838" who="S0339">bedrooms</u>
+<u n="839" who="S0338">cos you said you're against me getting shutters upstairs <anon type="name" nameType="m"/> said it would look like a prison</u>
+<u n="840" who="S0339" trans="overlap">I thought I I think it would look <unclear>a bit too</unclear> <unclear/></u>
+<u n="841" who="S0338">it would look like a prison so I've got that's why I've gone for the blinds with the the <unclear/></u>
+<u n="842" who="S0336" trans="overlap">yeah they're really <unclear>quite nice</unclear></u>
+<u n="843" who="S0338">to complement <unclear/></u>
+<u n="844" who="S0336">yeah</u>
+<u n="845" who="S0337" trans="overlap"><unclear>just then</unclear> keep them both</u>
+<u n="846" who="S0339">yes</u>
+<u n="847" who="S0337">I wish ours were</u>
+<u n="848" who="S0338">are you alright <unclear/>?</u>
+<u n="849" who="S0339">you might just have that's it <unclear/> it's like yours it sticks</u>
+<u n="850" who="S0338">mm</u>
+<u n="851" who="S0336">yeah</u>
+<u n="852" who="S0339">is that okay father?</u>
+<u n="853" who="S0340">yeah lovely <unclear/> very nice</u>
+<u n="854" who="S0338" trans="overlap">so sorry about the crumble it went in the top <unclear>and then under</unclear> the grill</u>
+<u n="855" who="S0339"><unclear>god</unclear> <pause dur="short"/> well I don't ask me I didn't touch it</u>
+<u n="856" who="S0338">okay you said put it in the top so I put it in the top and somehow or other the grill was on</u>
+<u n="857" who="S0339">I turned it all off so</u>
+<u n="858" who="S0338">did you?</u>
+<u n="859" who="S0336">is it salvageable?</u>
+<u n="860" who="S0338">erm</u>
+<u n="861" who="S0336"><vocal desc="laugh"/></u>
+<u n="862" who="S0338"><unclear/> like it <unclear/> shall I just take the top off?</u>
+<u n="863" who="S0337">talking about a pudding</u>
+<u n="864" who="S0339">custard</u>
+<u n="865" who="S0338">I've got custard</u>
+<u n="866" who="S0339"><unclear/></u>
+<u n="867" who="S0338">shall I go and heat the custard up?</u>
+<u n="868" who="S0339">well</u>
+<u n="869" who="S0338">good move <anon type="name" nameType="f"/></u>
+<u n="870" who="S0339" trans="overlap"><unclear/></u>
+<u n="871" who="S0338"><unclear/> a few more minutes it's plum crumble</u>
+<u n="872" who="S0339">er</u>
+<u n="873" who="S0337">I'm not er I'm not a fan of crumble</u>
+<u n="874" who="S0338">I did I know but I didn't have time to do the pastry because I washed grandpa's hair can't have him going round to <anon type="place"/> with dirty hair</u>
+<u n="875" who="S0339" trans="overlap">no grandpa did <unclear/> we had a bit of er an episode with the shower</u>
+<u n="876" who="S0338"><unclear/> shower <unclear/> couldn't manage it</u>
+<u n="877" who="S0336">mm</u>
+<u n="878" who="S0339">and he was stuck in the shower with the door open with his feet against underneath the taps and his back on the back wall</u>
+<u n="879" who="S0338"><unclear>and his bottom</unclear> couldn't move</u>
+<u n="880" who="S0339">couldn't move</u>
+<u n="881" who="S0336"><unclear/></u>
+<u n="882" who="S0339">hanging onto the <unclear/></u>
+<u n="883" who="S0338">I wasn't gonna say anything cos I kept shouting are you alright? <unclear/> there we are</u>
+<u n="884" who="S0337"><unclear/></u>
+<u n="885" who="S0339" trans="overlap">we can't we can't use it anymore</u>
+<u n="886" who="S0338"><unclear/></u>
+<u n="887" who="S0337">which shower?</u>
+<u n="888" who="S0339">the <trunc>mai</trunc>main one</u>
+<u n="889" who="S0337">the big one?</u>
+<u n="890" who="S0339">no <unclear/></u>
+<u n="891" who="S0338">yours</u>
+<u n="892" who="S0337">oh <unclear/></u>
+<u n="893" who="S0338">no</u>
+<u n="894" who="S0339">no</u>
+<u n="895" who="S0338">he's not <unclear/> others</u>
+<u n="896" who="S0339"><unclear/></u>
+<u n="897" who="S0338">first time he used it he knocked it off the runners</u>
+<u n="898" who="S0339">yeah</u>
+<u n="899" who="S0336"><unclear/> mm</u>
+<u n="900" who="S0339"><vocal desc="sigh"/> but erm <anon type="name" nameType="m"/> at er <anon type="place"/> saw him well cos we saw him once when we saw him Wednesday and he rang me <trunc>S</trunc> first thing Saturday morning saying sorry you haven't had the prices yet cos he was still trying to sort the floor out</u>
+<u n="901" who="S0338">mm</u>
+<u n="902" who="S0339">didn't know whether you could speak to the guy on Saturday er if not he'd talk to him first thing Monday and have the plans and prices to us later in the day and I said we'll just we'll we'll go for it as soon as we can get it</u>
+<u n="903" who="S0338">yeah</u>
+<u n="904" who="S0336">well that's good</u>
+<u n="905" who="S0337">erm I can't eat anything anything else at the moment</u>
+<u n="906" who="S0338">can't you?</u>
+<u n="907" who="S0337">no</u>
+<u n="908" who="S0338"><anon type="name" nameType="f"/> did you want some custard and <trunc>cr</trunc> plum crumble?</u>
+<u n="909" who="S0337"><unclear/></u>
+<u n="910" who="S0336">I'm okay for now actually thank you</u>
+<u n="911" who="S0337">so</u>
+<u n="912" who="S0338">or shall we have it when we come back?</u>
+<u n="913" who="S0336">yeah maybe have it as a <unclear>little</unclear> treat later</u>
+<u n="914" who="S0337" trans="overlap">yes that'd be a lot easier</u>
+<u n="915" who="S0338"><unclear/> do that</u>
+<u n="916" who="S0336">neither of us have been feeling like a hundred percent recently have we?</u>
+<u n="917" who="S0338">haven't you?</u>
+<u n="918" who="S0337">no I've been really <trunc>s</trunc> well quite sick I was in bed all morning yesterday</u>
+<u n="919" who="S0338">cos of this?</u>
+<u n="920" who="S0336">yeah it was really bad <trunc>yester</trunc> well it was bad all night last like Friday night</u>
+<u n="921" who="S0339" trans="overlap">you but you were but you obviously you were okay? you got you picked your paperwork up or mum dropped it off</u>
+<u n="922" who="S0336">yeah he's in on Tuesday</u>
+<u n="923" who="S0339">you okay with that?</u>
+<u n="924" who="S0338">when do you stop eating?</u>
+<u n="925" who="S0337"><unclear>mm I don't know</unclear></u>
+<u n="926" who="S0336">well he's <trunc>allo</trunc>he's allowed lunch tomorrow that's it <unclear/></u>
+<u n="927" who="S0337">one P M one P M tomorrow I can't eat again till I've had it done quarter past four is when I go in</u>
+<u n="928" who="S0336">mm</u>
+<u n="929" who="S0337">I have to take these sachets tomorrow night</u>
+<u n="930" who="S0336" trans="overlap"><vocal desc="laugh"/> and they just</u>
+<u n="931" who="S0337">and it basically says you will not be off the toilet</u>
+<u n="932" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="933" who="S0337">for like er three three hours</u>
+<u n="934" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="935" who="S0338"><unclear/></u>
+<u n="936" who="S0339"><unclear>clears your system</unclear></u>
+<u n="937" who="S0337">then I've gotta take them again <unclear/></u>
+<u n="938" who="S0338" trans="overlap">that's beautifully written</u>
+<u n="939" who="S0336">oh no it says stay near a toilet</u>
+<u n="940" who="S0338"><vocal desc="laugh"/></u>
+<u n="941" who="S0336">I just kept laughing yesterday when I was reading it</u>
+<u n="942" who="S0337" trans="overlap">yeah they're they're just brutally honest</u>
+<u n="943" who="S0336">yeah</u>
+<u n="944" who="S0338">do you want company when you're on the toilet? put <anon type="name" nameType="m"/> put <anon type="name" nameType="m"/> <unclear/></u>
+<u n="945" who="S0336">put <anon type="name" nameType="m"/> <unclear/></u>
+<u n="946" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="947" who="S0336">I've told him that he has to pick one toilet and stay near that toilet cos I'm not having him like infect all three toilets</u>
+<u n="948" who="S0338">oh</u>
+<u n="949" who="S0337" trans="overlap">I think by the end of it you just pass nothing</u>
+<u n="950" who="S0339" trans="overlap">isn't that isn't that nice in your first house to say in all three toilets?</u>
+<u n="951" who="S0338"><trunc>toile</trunc> all three toilets</u>
+<u n="952" who="S0336">er</u>
+<u n="953" who="S0339" trans="overlap"><trunc>e</trunc>even you and I only had two</u>
+<u n="954" who="S0336"><vocal desc="laugh"/></u>
+<u n="955" who="S0338">we had two yeah</u>
+<u n="956" who="S0336">it is an <trunc>in</trunc></u>
+<u n="957" who="S0339" trans="overlap">in fact the first one we actually had an outside one</u>
+<u n="958" who="S0337">yeah <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> had one</u>
+<u n="959" who="S0338" trans="overlap">oh we did have an outside toilet</u>
+<u n="960" who="S0339">our very first one an outside one</u>
+<u n="961" who="S0338">yeah</u>
+<u n="962" who="S0339">we had to share with the next door neighbour</u>
+<u n="963" who="S0338" trans="overlap">our neighbour I know</u>
+<u n="964" who="S0337"><anon type="name" nameType="m"/> <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> had one</u>
+<u n="965" who="S0338">yeah they did</u>
+<u n="966" who="S0339">three toilets oh wonderful</u>
+<u n="967" who="S0338">oh third toilet <unclear/> third toilet <unclear/></u>
+<u n="968" who="S0336"><vocal desc="laugh"/></u>
+<u n="969" who="S0339">but no you're right he he needs to stick with one</u>
+<u n="970" who="S0336">I think so</u>
+<u n="971" who="S0337">but I yeah I think by the end of the well on Tuesday morning it will not matter cos it will just be</u>
+<u n="972" who="S0336">I know fluid</u>
+<u n="973" who="S0337">fluid</u>
+<u n="974" who="S0339">yeah</u>
+<u n="975" who="S0337">water</u>
+<u n="976" who="S0338">yeah <unclear>well the downstairs toilet you could actually live in</unclear></u>
+<u n="977" who="S0337" trans="overlap">it won't even be fluid it'll just be water won't it?</u>
+<u n="978" who="S0339">water yeah</u>
+<u n="979" who="S0338">it's so big and substantial the downstairs you could live in there</u>
+<u n="980" who="S0336"><vocal desc="laugh"/> I know</u>
+<u n="981" who="S0338">for twenty-four hours I'd've thought <vocal desc="laugh"/></u>
+<u n="982" who="S0339">with <anon type="name" nameType="m"/></u>
+<u n="983" who="S0338">with <anon type="name" nameType="m"/> of course <vocal desc="laugh"/></u>
+<u n="984" who="S0336">I don't think it's gonna be very fun</u>
+<u n="985" who="S0339" trans="overlap"><anon type="name" nameType="f"/> <unclear/> look at the little <unclear>squigglies</unclear></u>
+<u n="986" who="S0338">oh it's beautiful</u>
+<u n="987" who="S0339">I'll just go and fill that water up for them</u>
+<u n="988" who="S0338">yeah it's so lovely with that community of sparrows did you know they're on the decrease?</u>
+<u n="989" who="S0339" trans="overlap">we've got a whole community of <trunc>sp</trunc> you move out</u>
+<u n="990" who="S0338">there must be er fifty now</u>
+<u n="991" who="S0339">you move out and a whole community of sparrows has moved in</u>
+<u n="992" who="S0338">yeah</u>
+<u n="993" who="S0336">mm</u>
+<u n="994" who="S0337"><unclear>who who has</unclear> got sparrows?</u>
+<u n="995" who="S0338"><unclear>uhu</unclear></u>
+<u n="996" who="S0339">house sparrows again more sparrows</u>
+<u n="997" who="S0337">hedge sparrows not hedge sparrows house sparrows</u>
+<u n="998" who="S0338"><unclear>and</unclear> yeah</u>
+<u n="999" who="S0339">these are house sparrows</u>
+<u n="1000" who="S0337">no they <trunc>d</trunc></u>
+<u n="1001" who="S0339">no these are house sparrows</u>
+<u n="1002" who="S0337">what are the ones the the iconic ones? <unclear/> like</u>
+<u n="1003" who="S0338"><unclear/></u>
+<u n="1004" who="S0339"><unclear>there are male they're male</unclear></u>
+<u n="1005" who="S0337"><unclear>they those are that</unclear>?</u>
+<u n="1006" who="S0338"><unclear/></u>
+<u n="1007" who="S0339">they're male house sparrows or they're tree sparrows</u>
+<u n="1008" who="S0337">tree sparrows</u>
+<u n="1009" who="S0339">just male and female look like that</u>
+<u n="1010" who="S0336">mm</u>
+<u n="1011" who="S0337">oh</u>
+<u n="1012" who="S0338">er have you seen they've put two more bird boxes on the end?</u>
+<u n="1013" who="S0337" trans="overlap">no I haven't</u>
+<u n="1014" who="S0338">for the sparrows</u>
+<u n="1015" who="S0337"><unclear>right</unclear></u>
+<u n="1016" who="S0338">roosting yeah</u>
+<u n="1017" who="S0339">yeah we've got three of them in there</u>
+<u n="1018" who="S0338"><unclear/></u>
+<u n="1019" who="S0337"><anon type="name" nameType="f"/>'s yeah <anon type="name" nameType="f"/>'s estate or <anon type="name" nameType="f"/>'s estate</u>
+<u n="1020" who="S0338">yeah</u>
+<u n="1021" who="S0337">full full of sparrows</u>
+<u n="1022" who="S0338"><unclear>lovely</unclear></u>
+<u n="1023" who="S0336">it's really random they've got absolutely no awareness of things like cars that can kill them and they just chill out in the middle of the road</u>
+<u n="1024" who="S0337">they pick stones from the road</u>
+<u n="1025" who="S0339">yes</u>
+<u n="1026" who="S0338"><unclear>gosh</unclear></u>
+<u n="1027" who="S0337">and they there all the time I've only ever seen one dead sparrow though</u>
+<u n="1028" who="S0336">I think everybody's quite accommodating of them they'll slow down and like beep and whatever</u>
+<u n="1029" who="S0339">I think I think the majority the majority of people do slow down</u>
+<u n="1030" who="S0338">yeah oh yeah</u>
+<u n="1031" who="S0339"><unclear>there's</unclear> the odd one</u>
+<u n="1032" who="S0338"><unclear/></u>
+<u n="1033" who="S0336">you didn't you kill one <trunc>n</trunc>not that long ago though?</u>
+<u n="1034" who="S0337">no</u>
+<u n="1035" who="S0338">got a squirrel <unclear>killer</unclear> killer coming next weekend</u>
+<u n="1036" who="S0339">oh yeah</u>
+<u n="1037" who="S0336">squirrel killer god</u>
+<u n="1038" who="S0338"><vocal desc="laugh"/></u>
+<u n="1039" who="S0339"><unclear/></u>
+<u n="1040" who="S0337">oh er <anon type="name" nameType="m"/></u>
+<u n="1041" who="S0339"><unclear/></u>
+<u n="1042" who="S0338">yeah</u>
+<u n="1043" who="S0337">I thought you meant <vocal desc="laugh"/> I thought you meant you'd booked someone in</u>
+<u n="1044" who="S0338"><vocal desc="laugh"/></u>
+<u n="1045" who="S0339">no <vocal desc="laugh"/></u>
+<u n="1046" who="S0338">as good as <vocal desc="laugh"/></u>
+<u n="1047" who="S0339">well we've got three erm</u>
+<u n="1048" who="S0336" trans="overlap">are you looking forward to having him home?</u>
+<u n="1049" who="S0339">I</u>
+<u n="1050" who="S0337"><unclear/></u>
+<u n="1051" who="S0339">I won't touch them because <unclear>they er they have babies still er this year's</unclear></u>
+<u n="1052" who="S0338" trans="overlap"><unclear/> I wish you were here but another time</u>
+<u n="1053" who="S0336" trans="overlap">yes</u>
+<u n="1054" who="S0338" trans="overlap">we've got our lives ahead of us haven't we?</u>
+<u n="1055" who="S0336">and actually he er he might he won't be anywhere near as distracted as he's been the last few times he's visited cos he's actually can actually relax a little bit</u>
+<u n="1056" who="S0338" trans="overlap"><unclear/> this is his first weekend</u>
+<u n="1057" who="S0339">I think his results are out your birthday week</u>
+<u n="1058" who="S0338">birthday week my birthday week</u>
+<u n="1059" who="S0339" trans="overlap">yeah <unclear/></u>
+<u n="1060" who="S0338" trans="overlap">yes do you want some more gravy pop?</u>
+<u n="1061" who="S0340">no no no I'm alright</u>
+<u n="1062" who="S0338" trans="overlap">you're alright? yeah?</u>
+<u n="1063" who="S0340">mm</u>
+<u n="1064" who="S0336">I'm sure he needn't worry he'll have to let us know all about his plans I think <anon type="name" nameType="m"/> got halfway through hearing them when he cut out</u>
+<u n="1065" who="S0337" trans="overlap">oh yeah I never get I never get</u>
+<u n="1066" who="S0338"><unclear/> <vocal desc="laugh"/></u>
+<u n="1067" who="S0336" trans="overlap">I'm so <trunc>int</trunc></u>
+<u n="1068" who="S0339"><unclear/></u>
+<u n="1069" who="S0336">I'm so intrigued I want to hear more about it</u>
+<u n="1070" who="S0338">she'll be the she's the project manager</u>
+<u n="1071" who="S0339">what? for the the house on the left? yeah</u>
+<u n="1072" who="S0338" trans="overlap">for for the house build <vocal desc="laugh"/></u>
+<u n="1073" who="S0339">yeah <unclear/></u>
+<u n="1074" who="S0336">surely I'm I swear they're gonna have to buy a er build a bungalow</u>
+<u n="1075" who="S0337">build a bungalow</u>
+<u n="1076" who="S0336">because that cos it er it's</u>
+<u n="1077" who="S0337"><unclear/> planning permission <unclear/> bungalow</u>
+<u n="1078" who="S0336">I'm <trunc>s</trunc>I'm sure like you <trunc>h</trunc> for planning permission you can't <trunc>h</trunc> build like a two-storey house in the middle of smaller dwellings cos of the privacy stuff</u>
+<u n="1079" who="S0337" trans="overlap">so there's there's they'll be next they'll be across the lane from their cottage in the back garden of a bungalow next to a bungalow so there's two bungalows there</u>
+<u n="1080" who="S0339">yeah</u>
+<u n="1081" who="S0337">they won't <trunc>w</trunc>would they be able to build a house there?</u>
+<u n="1082" who="S0338"><unclear>don't know</unclear> <unclear/></u>
+<u n="1083" who="S0336">I don't really <trunc>kn</trunc> obviously I don't know the ins and outs of it</u>
+<u n="1084" who="S0337" trans="overlap">they won't be able to have any window space in <unclear>that way</unclear> surely?</u>
+<u n="1085" who="S0336">I'm taking all my knowledge from Grand Designs</u>
+<u n="1086" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1087" who="S0339">all all <unclear/> all well <trunc>th</trunc>they <trunc>s</trunc> they start</u>
+<u n="1088" who="S0338"><anon type="name" nameType="m"/> would know</u>
+<u n="1089" who="S0339">sorry they <trunc>s</trunc> <trunc>sor</trunc> they start off</u>
+<u n="1090" who="S0338">I like <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> has some good projects</u>
+<u n="1091" who="S0337"><anon type="name" nameType="m"/> spaces <unclear/></u>
+<u n="1092" who="S0339"><unclear/> they start er</u>
+<u n="1093" who="S0338"><anon type="name" nameType="m"/> on Channel 4?</u>
+<u n="1094" who="S0337">the the the guy from</u>
+<u n="1095" who="S0336">oh yeah yeah <vocal desc="laugh"/></u>
+<u n="1096" who="S0338">from the North East that's why I like <anon type="name" nameType="m"/></u>
+<u n="1097" who="S0337">from from <anon type="place"/></u>
+<u n="1098" who="S0336">but erm the one who likes er all the fascinating spaces and all that kind of yeah</u>
+<u n="1099" who="S0338" trans="overlap">yeah</u>
+<u n="1100" who="S0339">but they they start off they start off with a building plot</u>
+<u n="1101" who="S0337">yeah</u>
+<u n="1102" who="S0339">okay it's brown site so it's brown field cos it's in a within a residential area so it's not new <unclear/> and it's <unclear>plans</unclear></u>
+<u n="1103" who="S0338" trans="overlap">excuse me <unclear/> take that little piece there</u>
+<u n="1104" who="S0336">mm</u>
+<u n="1105" who="S0339">however as you've just <trunc>poin</trunc>pointed out looking at the area and what's there and objections from whoever now obviously most of the people round there are tenants</u>
+<u n="1106" who="S0337">yeah</u>
+<u n="1107" who="S0336">mm</u>
+<u n="1108" who="S0338">of <anon type="name" nameType="m"/> <vocal desc="laugh"/></u>
+<u n="1109" who="S0339">of <anon type="name" nameType="m"/></u>
+<u n="1110" who="S0336">yeah</u>
+<u n="1111" who="S0339">that's what I mean</u>
+<u n="1112" who="S0337">well it would be on his on his land</u>
+<u n="1113" who="S0339" trans="overlap">that's what I mean</u>
+<u n="1114" who="S0337">er yeah</u>
+<u n="1115" who="S0339">but anybody in the area can object now the only people that tend to get <trunc>l</trunc> are the immediate neighbours get a letter apart from that there's a little <pause dur="short"/> you see the thing stuck on the <unclear/> said</u>
+<u n="1116" who="S0336" trans="overlap"><unclear>no one noticed mm</unclear></u>
+<u n="1117" who="S0338" trans="overlap">no I</u>
+<u n="1118" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="1119" who="S0338"><unclear/></u>
+<u n="1120" who="S0337">there's only one where's the other one?</u>
+<u n="1121" who="S0339">what's that?</u>
+<u n="1122" who="S0337">one chicken</u>
+<u n="1123" who="S0336">they hang out like in the sunflowers and wherever else that's they've been all over the place</u>
+<u n="1124" who="S0339">erm so really it's hard it's hard to say it is more than likely they would only allow a bungalow</u>
+<u n="1125" who="S0336">yeah</u>
+<u n="1126" who="S0339">but if nobody objects</u>
+<u n="1127" who="S0336">it might be okay I can't quite get my head round where what what bit they mean</u>
+<u n="1128" who="S0338">I don't know <unclear>where they mean</unclear></u>
+<u n="1129" who="S0337">you know where the gate is into theirs? near near the actual house</u>
+<u n="1130" who="S0338">yeah</u>
+<u n="1131" who="S0336"><trunc>b</trunc> er where the garagey thing is?</u>
+<u n="1132" who="S0338">mm</u>
+<u n="1133" who="S0337">no no no</u>
+<u n="1134" who="S0339">no no no no <unclear/></u>
+<u n="1135" who="S0338"><unclear/></u>
+<u n="1136" who="S0336">the other end?</u>
+<u n="1137" who="S0338">mm</u>
+<u n="1138" who="S0339">near the extension</u>
+<u n="1139" who="S0336" trans="overlap">near the actual</u>
+<u n="1140" who="S0339">yeah</u>
+<u n="1141" who="S0336">near the actual house?</u>
+<u n="1142" who="S0339">yeah</u>
+<u n="1143" who="S0337"><unclear/></u>
+<u n="1144" who="S0338">there is</u>
+<u n="1145" who="S0336">yeah</u>
+<u n="1146" who="S0338">yeah the one you go through to go and see the alpaca</u>
+<u n="1147" who="S0336">the land <trunc>o</trunc> directly opposite that?</u>
+<u n="1148" who="S0338">yeah is that where it is?</u>
+<u n="1149" who="S0336">like where the chickens and like down from where the chickens are?</u>
+<u n="1150" who="S0337" trans="overlap">so <anon type="name" nameType="m"/> yeah between their house and the chickens</u>
+<u n="1151" who="S0336" trans="overlap">yeah</u>
+<u n="1152" who="S0337">on the right-hand side if you're walking towards the chickens</u>
+<u n="1153" who="S0336" trans="overlap">yeah</u>
+<u n="1154" who="S0338">mm</u>
+<u n="1155" who="S0339">so it's <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/>'s is there</u>
+<u n="1156" who="S0336">yeah</u>
+<u n="1157" who="S0339">cottage is here</u>
+<u n="1158" who="S0336">yeah</u>
+<u n="1159" who="S0339">there's a bungalow there</u>
+<u n="1160" who="S0337">mm</u>
+<u n="1161" who="S0339">and alpacas are there</u>
+<u n="1162" who="S0338"><unclear/></u>
+<u n="1163" who="S0336">yeah</u>
+<u n="1164" who="S0339"><unclear/> there's er</u>
+<u n="1165" who="S0338" trans="overlap">there's some land in there</u>
+<u n="1166" who="S0337">mm</u>
+<u n="1167" who="S0339">it's <unclear>in there at the</unclear> back</u>
+<u n="1168" who="S0336">okay</u>
+<u n="1169" who="S0339">it's like chopping the back off <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/>'s garden and moving it up one</u>
+<u n="1170" who="S0336">yeah</u>
+<u n="1171" who="S0337">weird</u>
+<u n="1172" who="S0336">that's quite a commitment</u>
+<u n="1173" who="S0338">you know where <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> have their their lawn? is there a bit beyond the hedge there that they still own? or is that hedge you see onto the er onto the lane?</u>
+<u n="1174" who="S0336">I think it's onto the lane</u>
+<u n="1175" who="S0339">it's it's onto the lane</u>
+<u n="1176" who="S0338" trans="overlap">is it?</u>
+<u n="1177" who="S0336">yeah</u>
+<u n="1178" who="S0339">that's the whole garden</u>
+<u n="1179" who="S0337" trans="overlap">cos they've got a lane that splits the two bungalows as well</u>
+<u n="1180" who="S0336">and er yeah they've got a lane that goes right round <anon type="name" nameType="f"/>'s house haven't they?</u>
+<u n="1181" who="S0338">uhu</u>
+<u n="1182" who="S0339">yeah</u>
+<u n="1183" who="S0336"><unclear>just</unclear></u>
+<u n="1184" who="S0338">mm</u>
+<u n="1185" who="S0336">mm</u>
+<u n="1186" who="S0338">you know er where the where their cottage is? you know the other cottage the people in that cottage?</u>
+<u n="1187" who="S0339">I <unclear/></u>
+<u n="1188" who="S0338"><anon type="name" nameType="m"/> doesn't own that property does he?</u>
+<u n="1189" who="S0337">no</u>
+<u n="1190" who="S0338">no</u>
+<u n="1191" who="S0337">er he owns he owns half of that</u>
+<u n="1192" who="S0338">half of?</u>
+<u n="1193" who="S0339">he owns yeah so he owns the cottage <unclear/> but not the bit it joins onto</u>
+<u n="1194" who="S0338">oh okay</u>
+<u n="1195" who="S0336">mm</u>
+<u n="1196" who="S0339">I don't think I think this whole thing is so they don't leave</u>
+<u n="1197" who="S0336">yeah it's it's it ties them down for er <trunc>f</trunc> ever <vocal desc="laugh"/></u>
+<u n="1198" who="S0338">well a few years</u>
+<u n="1199" who="S0336" trans="overlap">well because the thing is it is one of those things it's like obviously part of the condition is that they can only sell it back to <anon type="name" nameType="m"/></u>
+<u n="1200" who="S0337">yeah <unclear/></u>
+<u n="1201" who="S0339" trans="overlap"><unclear/> to be</u>
+<u n="1202" who="S0336">which is a bit dangerous really isn't it?</u>
+<u n="1203" who="S0337" trans="overlap"><anon type="name" nameType="m"/> doesn't want them to sell it to someone else cos then they'll have three of his properties</u>
+<u n="1204" who="S0339">yeah</u>
+<u n="1205" who="S0338">yeah</u>
+<u n="1206" who="S0337">so if they decide to sell it that's fine sell it to him</u>
+<u n="1207" who="S0338">uhu</u>
+<u n="1208" who="S0337"><unclear/></u>
+<u n="1209" who="S0339" trans="overlap">well obviously as long as that is er as long</u>
+<u n="1210" who="S0338" trans="overlap">it's something to do with inheritance tax</u>
+<u n="1211" who="S0339">yeah <unclear>but that's fine</unclear> as long as</u>
+<u n="1212" who="S0336" trans="overlap">oh okay</u>
+<u n="1213" who="S0339">it's at a fair market price</u>
+<u n="1214" who="S0337">well I presume it will be <unclear>but it'll</unclear></u>
+<u n="1215" who="S0339">yeah but they have to have that written in put in writing</u>
+<u n="1216" who="S0336">yeah</u>
+<u n="1217" who="S0337">yeah</u>
+<u n="1218" who="S0338">it's all to do with inheritance tax</u>
+<u n="1219" who="S0339">because you know at the end of the day and although you don't like to say this if something happened to and I know it's all very incestuous the way it is but if something happened to <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> then of course it would mean that <anon type="name" nameType="f"/> would have a say in</u>
+<u n="1220" who="S0338">mm</u>
+<u n="1221" who="S0339">who they sell it to</u>
+<u n="1222" who="S0336">yeah</u>
+<u n="1223" who="S0339">er although</u>
+<u n="1224" who="S0338" trans="overlap">I think <unclear/> is with <anon type="name" nameType="m"/></u>
+<u n="1225" who="S0339">yeah</u>
+<u n="1226" who="S0338">I don't think <unclear>they've</unclear> any problem but what if <anon type="name" nameType="m"/> wasn't there?</u>
+<u n="1227" who="S0339"><unclear/></u>
+<u n="1228" who="S0336">well that's but that's the awkward thing to look at <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> as well like I know I know they're probably</u>
+<u n="1229" who="S0338" trans="overlap"><unclear>but he's put his</unclear> money in there</u>
+<u n="1230" who="S0336">exactly</u>
+<u n="1231" who="S0339"><unclear/> sorry that's how they are er but that's how they are now</u>
+<u n="1232" who="S0338"><unclear/></u>
+<u n="1233" who="S0336">if if something happens and they decide to break up <anon type="name" nameType="m"/> is at a loss because</u>
+<u n="1234" who="S0339" trans="overlap">he can't sell</u>
+<u n="1235" who="S0336">he can't sell the house</u>
+<u n="1236" who="S0338">I know</u>
+<u n="1237" who="S0339">he can't get <unclear>er er er he I think</unclear> he would have to move</u>
+<u n="1238" who="S0336">yeah</u>
+<u n="1239" who="S0338" trans="overlap">yeah</u>
+<u n="1240" who="S0339">she wouldn't cos it's on her <trunc>father</trunc> cos he</u>
+<u n="1241" who="S0338"><unclear/></u>
+<u n="1242" who="S0339"><anon type="name" nameType="m"/> <trunc>c</trunc>can't sell it to anybody other than her father</u>
+<u n="1243" who="S0338"><unclear/></u>
+<u n="1244" who="S0339">I think it's an appalling idea <trunc>b</trunc> really</u>
+<u n="1245" who="S0336">yeah</u>
+<u n="1246" who="S0339">but er that's not up to me</u>
+<u n="1247" who="S0336">I think they've <trunc>b</trunc> they've clearly just got a little bit frustrated at the whole situation</u>
+<u n="1248" who="S0338">yeah</u>
+<u n="1249" who="S0336">and have er er I imagine over dinner at some point somebody's mentioned it as a bit of a joke and it's just been <trunc>t</trunc></u>
+<u n="1250" who="S0338" trans="overlap">he's <trunc>w</trunc> no I think <anon type="name" nameType="m"/>'s always seen that as a potential for building</u>
+<u n="1251" who="S0336">oh okay</u>
+<u n="1252" who="S0339" trans="overlap">yeah but it's all yeah but but the <trunc>p</trunc></u>
+<u n="1253" who="S0338" trans="overlap"><unclear/> but now the inheritance is kicking in</u>
+<u n="1254" who="S0336">mm maybe</u>
+<u n="1255" who="S0339">yeah but it's the point is when you're talking about inheritance inheritance</u>
+<u n="1256" who="S0338" trans="overlap">it's difficult</u>
+<u n="1257" who="S0339">inheritance tax <unclear>well who are we <trunc>w</trunc>worrying about</unclear>?</u>
+<u n="1258" who="S0338">mm</u>
+<u n="1259" who="S0339">to <anon type="name" nameType="f"/> or to him?</u>
+<u n="1260" who="S0338"><anon type="name" nameType="m"/></u>
+<u n="1261" who="S0339">so fine so <anon type="name" nameType="m"/> shouldn't take on his problems</u>
+<u n="1262" who="S0338" trans="overlap">all they're helping all the <trunc>pers</trunc>the person they're helping is <anon type="name" nameType="f"/></u>
+<u n="1263" who="S0337">oh shut up</u>
+<u n="1264" who="S0338">oh sorry it's <unclear/></u>
+<u n="1265" who="S0337">have you even spoken to them about it?</u>
+<u n="1266" who="S0338">no</u>
+<u n="1267" who="S0337">cos you're talking like <unclear/></u>
+<u n="1268" who="S0338"><unclear/></u>
+<u n="1269" who="S0337">so none of you have actually spoken to them about it?</u>
+<u n="1270" who="S0339">I have</u>
+<u n="1271" who="S0338"><anon type="name" nameType="m"/> has <unclear/></u>
+<u n="1272" who="S0339">I had over half an hour on the phone talking about it</u>
+<u n="1273" who="S0337">why are you missing feathers round your face?</u>
+<u n="1274" who="S0338">oh are you talking? <vocal desc="laugh"/></u>
+<u n="1275" who="S0339">well I think it's because they actually haven't got feathers round their now you're gonna have to watch it <anon type="name" nameType="m"/></u>
+<u n="1276" who="S0337">why?</u>
+<u n="1277" who="S0338">cos they're they're bold and this is a new carpet</u>
+<u n="1278" who="S0339" trans="overlap"><trunc>becau</trunc> no because she comes in</u>
+<u n="1279" who="S0338">she comes into the utility don't want her to come into where you</u>
+<u n="1280" who="S0339">they come and they come and lick <anon type="name" nameType="n"/>'s well she does comes and licks <anon type="name" nameType="n"/>'s feet now</u>
+<u n="1281" who="S0338" trans="overlap">very bold she's very very bold thank you thank you <anon type="name" nameType="m"/></u>
+<u n="1282" who="S0337" trans="overlap">who's that? that's <anon type="name" nameType="f"/>?</u>
+<u n="1283" who="S0339"><anon type="name" nameType="f"/> er no <anon type="name" nameType="f"/></u>
+<u n="1284" who="S0337"><anon type="name" nameType="f"/></u>
+<u n="1285" who="S0338">now then we're just thinking dad</u>
+<u n="1286" who="S0340">yeah?</u>
+<u n="1287" who="S0338">we might pop down and have a look at the bungalow</u>
+<u n="1288" who="S0340">yes</u>
+<u n="1289" who="S0338">what do you think?</u>
+<u n="1290" who="S0340">oh</u>
+<u n="1291" who="S0338">okay? there is a there is a pudding but</u>
+<u n="1292" who="S0340"><unclear/></u>
+<u n="1293" who="S0338">when we transferred ovens it went in the top oven and the grill was on not the oven so the top's a bit burnt so</u>
+<u n="1294" who="S0340"><unclear/></u>
+<u n="1295" who="S0338">we'll give it a break and we'll come back when we're a bit more hungry it's the sort of pudding you've got to be hungry to eat <vocal desc="laugh"/> <pause dur="short"/> <unclear>it wasn't a</unclear> great deal of effort so I'm alright but it'd be nice to go down what time is it?</u>
+<u n="1296" who="S0340"><unclear/></u>
+<u n="1297" who="S0338">it's quarter to three</u>
+<u n="1298" who="S0337"><unclear/> I need some plant pots from you <unclear/></u>
+<u n="1299" who="S0339">oh yeah no problem</u>
+	
+	</body>
+</text>

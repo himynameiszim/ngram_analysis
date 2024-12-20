@@ -1,0 +1,983 @@
+<text id="S3TZ">
+<header>
+		<rec_length>0:23:02</rec_length>
+		<rec_date>2012-04-17</rec_date>
+		<rec_year>2012</rec_year>
+		<rec_period>2012_Q2</rec_period>
+		<n_speakers>4</n_speakers>
+		<list_speakers>S0053 S0061 S0121 S0124</list_speakers>
+		<rec_loc>University library, Salford</rec_loc>
+		<relationships>Friends and one stranger</relationships>
+		<topics>Introductions, talking about yourself</topics>
+		<activity>Talking about Yourself</activity>
+		<conv_type>Discussing, telling jokes</conv_type>
+		<conventions>Original</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T11</transcriber>
+		<speakerInfo>
+			<speaker id="S0053">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Bradford, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Manchester</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>21 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- Intermediate; Spanish -- Intermediate</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0061">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace></birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Bolton, Lancashire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>23 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>9_unknown</edqual>
+				<occupation>Sales assistant</occupation>
+				<socgrade>D</socgrade>
+				<nssec>6</nssec>
+				<l2>Urdu</l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0121">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Bolton, Greater Manchester, England</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Bolton, Lancashire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>21 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2>Gujarati</l2>
+				<fls>Urdu -- Advanced; Arabic -- Intermediate</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0124">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace></birthplace>
+				<birthcountry>India</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Bolton, Lancashire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 years, 4 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2>Gujarati</l2>
+				<fls>French -- Beginner; German -- Beginner</fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+<body>
+<event desc="sound of background"/>
+<u n="1" who="UNKFEMALE" whoConfidence="low">because there is background noise</u>
+<u n="2" who="UNKFEMALE" whoConfidence="low">okay <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="3" who="S0121">hi <pause dur="short"/> are you okay?</u>
+<u n="4" who="S0053">I am good thank you <pause dur="short"/> how are you?</u>
+<u n="5" who="S0121">I'm good <pause dur="short"/> what's your name?</u>
+<u n="6" who="S0053"><anon type="name" nameType="f"/> <pause dur="short"/> I'm</u>
+<u n="7" who="S0121"><anon type="name" nameType="f"/></u>
+<u n="8" who="S0053"><anon type="name" nameType="f"/> yeah I'm from around here <pause dur="short"/> um <pause dur="short"/> I'm about forty minutes away er from a place called <anon type="place"/> in</u>
+<u n="9" who="S0121">oh</u>
+<u n="10" who="S0053">do you know it at all? In <anon type="place"/></u>
+<u n="11" who="S0121">no <pause dur="short"/> I don't <pause dur="short"/> er <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="12" who="S0053">where where are you guys from?</u>
+<u n="13" who="S0121">um</u>
+<u n="14" who="S0124"><anon type="place"/></u>
+<u n="15" who="S0121"><vocal desc="laugh"/></u>
+<u n="16" who="S0124">we're from <anon type="place"/></u>
+<u n="17" who="S0121">yeah <pause dur="short"/> I'm Zaynab <pause dur="short"/> I'm from <anon type="place"/> too</u>
+<u n="18" who="S0124">I'm <anon type="name" nameType="f"/> <pause dur="short"/> I'm from <anon type="place"/></u>
+<u n="19" who="S0061">my name's <anon type="name" nameType="m"/> <pause dur="short"/> I'm from <anon type="place"/> as well</u>
+<u n="20" who="S0053">did you guys all?</u>
+<u n="21" who="UNKFEMALE" whoConfidence="low">weird how I've never seen you before</u>
+<u n="22" who="S0061">I know</u>
+<u n="23" who="UNKFEMALE" whoConfidence="low">mm <pause dur="short"/> whereabouts are you from in <anon type="place"/>?</u>
+<u n="24" who="S0061"><anon type="place"/> <pause dur="short"/> what about you?</u>
+<u n="25" who="UNKFEMALE" whoConfidence="low">I'm from <anon type="place"/></u>
+<u n="26" who="S0053">oh okay</u>
+<u n="27" who="S0061">oh <pause dur="short"/> <anon type="place"/> is it? Yeah <pause dur="short"/> I know <anon type="place"/> <pause dur="short"/> yeah</u>
+<u n="28" who="S0053">ah</u>
+<u n="29" who="S0061">what about you? Where are you from?</u>
+<u n="30" who="UNKFEMALE" whoConfidence="low">same place <pause dur="short"/> what do you study?</u>
+<u n="31" who="S0053">um <pause dur="short"/> english lit and journalism here</u>
+<u n="32" who="UNKFEMALE" whoConfidence="low">oh okay</u>
+<u n="33" who="S0053">so yeah <pause dur="short"/> it's going nice <pause dur="short"/> it's going well</u>
+<u n="34" who="UNKFEMALE" whoConfidence="low">are you undergraduate or are you postgrad?</u>
+<u n="35" who="S0053">yeah <pause dur="short"/> third year</u>
+<u n="36" who="UNKFEMALE" whoConfidence="low">oh okay</u>
+<u n="37" who="UNKFEMALE" whoConfidence="low">oh so are we <pause dur="short"/> I'm doing business with HR</u>
+<u n="38" who="S0053">oh yeah? What about you?</u>
+<u n="39" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="40" who="UNKFEMALE" whoConfidence="low">business with finance</u>
+<u n="41" who="S0061">I'm just doing business and management <pause dur="short"/> I'm in my second year</u>
+<u n="42" who="UNKFEMALE" whoConfidence="low">what a coincidence <pause dur="short"/> we're er we're all from Bolton <pause dur="short"/> we're all doing business <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="43" who="S0053">are you both in second year or third year?</u>
+<u n="44" who="UNKFEMALE" whoConfidence="low">third</u>
+<u n="45" who="UNKFEMALE" whoConfidence="low">third year</u>
+<u n="46" who="UNKFEMALE" whoConfidence="low">we're in third year</u>
+<u n="47" who="UNKFEMALE" whoConfidence="low">how about you?</u>
+<u n="48" who="S0061">second year</u>
+<u n="49" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> that's weird <pause dur="short"/> how old are you?</u>
+<u n="50" who="S0061">twenty-three</u>
+<u n="51" who="UNKFEMALE" whoConfidence="low">and you're still in your second year?</u>
+<u n="52" who="S0061">yeah</u>
+<u n="53" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="54" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="55" who="UNKFEMALE" whoConfidence="low">so are you on Facebook or anything like that?</u>
+<u n="56" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="57" who="UNKFEMALE" whoConfidence="low">any social networks?</u>
+<u n="58" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> Yeah <pause dur="short"/> what's she doing?</u>
+<u n="59" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="60" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="61" who="UNKFEMALE" whoConfidence="low">oo</u>
+<u n="62" who="UNKFEMALE" whoConfidence="low">do you like iPhones?</u>
+<u n="63" who="S0053"><vocal desc="laugh"/> I've got an iPhone</u>
+<u n="64" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="65" who="UNKFEMALE" whoConfidence="low">we've only just met you and <unclear/> already asking for her number</u>
+<u n="66" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="67" who="UNKFEMALE" whoConfidence="low">that's rude</u>
+<u n="68" who="S0053">it's okay <pause dur="short"/> I get that a lot</u>
+<u n="69" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="70" who="UNKFEMALE" whoConfidence="low">oo <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="71" who="S0061"><unclear/></u>
+<u n="72" who="UNKFEMALE" whoConfidence="low">so what what's um are you er what sort of er Asian are you?</u>
+<u n="73" who="S0061">mm?</u>
+<u n="74" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="75" who="UNKFEMALE" whoConfidence="low">I don't actually understand</u>
+<u n="76" who="UNKFEMALE" whoConfidence="low">what er?</u>
+<u n="77" who="UNKFEMALE" whoConfidence="low">what we're supposed to be doing</u>
+<u n="78" who="UNKFEMALE" whoConfidence="low">why are you brown?</u>
+<u n="79" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="80" who="S0061"><trunc>W</trunc> cos that's the way I was born</u>
+<u n="81" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="82" who="S0061">what about you? Why are you <vocal desc="laugh"/> brown?</u>
+<u n="83" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="84" who="UNKFEMALE" whoConfidence="low">what type of Asian are you?</u>
+<u n="85" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="86" who="S0061">pakistani</u>
+<u n="87" who="UNKFEMALE" whoConfidence="low">oh er so what's that yellow stuff they?</u>
+<u n="88" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="89" who="UNKFEMALE" whoConfidence="low">what?</u>
+<u n="90" who="S0061">are we talking about <unclear/>?</u>
+<u n="91" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> what's that er yellow stuff that you guys eat? You know <pause dur="short"/> in a pot</u>
+<u n="92" who="S0061"><unclear/></u>
+<u n="93" who="UNKFEMALE" whoConfidence="low">your food smells of that don't it?</u>
+<u n="94" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="95" who="UNKFEMALE" whoConfidence="low">this is so pointless</u>
+<u n="96" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="97" who="S0061"><unclear/></u>
+<u n="98" who="UNKFEMALE" whoConfidence="low">we've just come to terrorize each other</u>
+<u n="99" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="100" who="S0053">do you guys know each other then?</u>
+<u n="101" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="102" who="S0061">yeah</u>
+<u n="103" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="104" who="S0053">I thought so</u>
+<u n="105" who="UNKFEMALE" whoConfidence="low"><unclear/> <vocal desc="laugh"/></u>
+<u n="106" who="UNKFEMALE" whoConfidence="low">what?</u>
+<u n="107" who="UNKFEMALE" whoConfidence="low">shall we stop it? <vocal desc="laugh"/></u>
+<u n="108" who="UNKFEMALE" whoConfidence="low">er yeah</u>
+<u n="109" who="S0061">no er we could be doing a <trunc>f</trunc> er experiment <pause dur="short"/> you know like <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="110" who="UNKFEMALE" whoConfidence="low">it is  it is  for an</u>
+<event desc="recording skips"/>
+<u n="111" who="UNKFEMALE" whoConfidence="low">okay</u>
+<u n="112" who="UNKFEMALE" whoConfidence="low">hi <pause dur="short"/> are you okay?</u>
+<u n="113" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="114" who="S0061">excuse me <pause dur="short"/> do I know you? <vocal desc="misc"/></u>
+<u n="115" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="116" who="S0061"><unclear/></u>
+<event desc="recording skips"/>
+<u n="117" who="S0061">er your fault</u>
+<u n="118" who="UNKFEMALE" whoConfidence="low">hi <pause dur="short"/> are you okay?</u>
+<u n="119" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/> Yeah</u>
+<u n="120" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="121" who="S0061">yeah <pause dur="short"/> I'm good <pause dur="short"/> yeah</u>
+<u n="122" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="123" who="UNKFEMALE" whoConfidence="low">so what have you been up to over the weekend?</u>
+<u n="124" who="UNKFEMALE" whoConfidence="low">oh I've had a family wedding</u>
+<u n="125" who="UNKFEMALE" whoConfidence="low">oh wow</u>
+<u n="126" who="UNKFEMALE" whoConfidence="low">Monday to Sunday</u>
+<u n="127" who="UNKFEMALE" whoConfidence="low">A whole week? What do you do?</u>
+<u n="128" who="UNKFEMALE" whoConfidence="low">oh yes</u>
+<u n="129" who="S0061">what did you eat at this wedding?</u>
+<u n="130" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="131" who="UNKFEMALE" whoConfidence="low">it's a lot of dancing <pause dur="short"/> getting together with family</u>
+<u n="132" who="UNKFEMALE" whoConfidence="low">who was it? Like a really close family relative</u>
+<u n="133" who="S0061"><unclear/></u>
+<u n="134" who="UNKFEMALE" whoConfidence="low">or friend?</u>
+<u n="135" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> it's my uncle's daughter</u>
+<u n="136" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="137" who="UNKFEMALE" whoConfidence="low">first cousin</u>
+<u n="138" who="S0061">so what did you serve at this wedding?</u>
+<u n="139" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/> <vocal desc="laugh"/></u>
+<u n="140" who="UNKFEMALE" whoConfidence="low">pardon</u>
+<u n="141" who="S0061">what did you serve at with this wedding?</u>
+<u n="142" who="UNKFEMALE" whoConfidence="low">serve?</u>
+<u n="143" who="S0061">serve <unclear/></u>
+<u n="144" who="UNKFEMALE" whoConfidence="low">well we had a lot of rice <pause dur="short"/> had curry <pause dur="short"/> we had biryani <pause dur="short"/> lamb <pause dur="short"/> chicken <pause dur="short"/> you name it we had it</u>
+<u n="145" who="S0061">did you have dahl as well?</u>
+<u n="146" who="UNKFEMALE" whoConfidence="low">oh yes</u>
+<u n="147" who="S0061">yeah?</u>
+<u n="148" who="UNKFEMALE" whoConfidence="low">we had a lot of it <pause dur="short"/> it comes in like a big <unclear/> bowl <pause dur="short"/> we'd just <unclear/> and drink it <pause dur="short"/> it's awesome <pause dur="short"/> you should try it</u>
+<u n="149" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="150" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> that's quite amazing <pause dur="short"/> so is that like a traditional?</u>
+<u n="151" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> pakistani weddings</u>
+<u n="152" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="153" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="154" who="UNKFEMALE" whoConfidence="low">that's what they like</u>
+<u n="155" who="UNKFEMALE" whoConfidence="low">oh okay <pause dur="short"/> er so where was this wedding?</u>
+<u n="156" who="UNKFEMALE" whoConfidence="low">the wedding was in <anon type="place"/> at a restaurant <pause dur="short"/> and the second day it was in Bolton</u>
+<u n="157" who="UNKFEMALE" whoConfidence="low">what do you mean second day? Wedding goes on overnight?</u>
+<u n="158" who="S0061"><unclear/>?</u>
+<u n="159" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="160" who="UNKFEMALE" whoConfidence="low">no we go home <pause dur="short"/> we go asleep <pause dur="short"/> and then</u>
+<u n="161" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="162" who="UNKFEMALE" whoConfidence="low">er it lasts from Monday to Sunday</u>
+<u n="163" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="164" who="UNKFEMALE" whoConfidence="low">Seven different outfits <pause dur="short"/> oh it's awesome</u>
+<u n="165" who="UNKFEMALE" whoConfidence="low">oh so do you like dressing up and stuff?</u>
+<u n="166" who="UNKFEMALE" whoConfidence="low">oh yes</u>
+<u n="167" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="168" who="UNKFEMALE" whoConfidence="low">every single day <pause dur="short"/> jazzy</u>
+<u n="169" who="UNKFEMALE" whoConfidence="low">do you let your hair? <vocal desc="laugh"/></u>
+<u n="170" who="UNKFEMALE" whoConfidence="low">oh yes <pause dur="short"/> I don't usually wear a scarf at weddings</u>
+<u n="171" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="172" who="UNKFEMALE" whoConfidence="low">well why have you got one on now?</u>
+<u n="173" who="UNKFEMALE" whoConfidence="low">er well to be honest we're supposed to <pause dur="short"/> it shows I'm a Muslim</u>
+<u n="174" who="UNKFEMALE" whoConfidence="low">oh right</u>
+<u n="175" who="UNKFEMALE" whoConfidence="low">why have you got the red spot on your head? Does that mean you're married?</u>
+<u n="176" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> not at all <pause dur="short"/> it's a religion <pause dur="short"/> it shows that I'm Hindu</u>
+<u n="177" who="UNKFEMALE" whoConfidence="low">does it?</u>
+<u n="178" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="179" who="UNKFEMALE" whoConfidence="low">I've seen it in movies <pause dur="short"/> I thought it means when you're married</u>
+<u n="180" who="UNKFEMALE" whoConfidence="low">well er as they say you shouldn't believe everything that you see</u>
+<u n="181" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="182" who="UNKFEMALE" whoConfidence="low">ah <pause dur="short"/> true</u>
+<u n="183" who="UNKFEMALE" whoConfidence="low">what about you? You're quiet <pause dur="short"/> what did you do over the weekend?</u>
+<u n="184" who="S0061">nothing <pause dur="short"/> I just worked <unclear/></u>
+<u n="185" who="UNKFEMALE" whoConfidence="low">where do you work?</u>
+<u n="186" who="S0061">Sainsbury's <unclear/> <vocal desc="laugh"/></u>
+<u n="187" who="UNKFEMALE" whoConfidence="low">oh okay</u>
+<u n="188" who="UNKFEMALE" whoConfidence="low">what? Er Sainsbury's where?</u>
+<u n="189" who="S0061">West <unclear/></u>
+<u n="190" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="191" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="192" who="UNKFEMALE" whoConfidence="low">do you wanna speak clearly please?</u>
+<u n="193" who="S0061">I am speaking clearly</u>
+<u n="194" who="UNKFEMALE" whoConfidence="low">oh okay</u>
+<u n="195" who="UNKFEMALE" whoConfidence="low">so have you got er brothers and sisters?</u>
+<u n="196" who="S0061">yep <pause dur="short"/> two brothers <pause dur="short"/> two sisters</u>
+<u n="197" who="UNKFEMALE" whoConfidence="low">um</u>
+<u n="198" who="UNKFEMALE" whoConfidence="low">oo <pause dur="short"/> that's a big family</u>
+<u n="199" who="UNKFEMALE" whoConfidence="low">are you the oldest?</u>
+<u n="200" who="S0061">yeah</u>
+<u n="201" who="UNKFEMALE" whoConfidence="low">oh <unclear/></u>
+<u n="202" who="UNKFEMALE" whoConfidence="low">are you the oldest?</u>
+<u n="203" who="UNKFEMALE" whoConfidence="low">ah</u>
+<u n="204" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="205" who="S0061">yeah <pause dur="short"/> I'm the oldest <pause dur="short"/> yeah</u>
+<u n="206" who="UNKFEMALE" whoConfidence="low">are you on Facebook?</u>
+<u n="207" who="S0061">yes</u>
+<u n="208" who="UNKFEMALE" whoConfidence="low">you're such a flirt</u>
+<u n="209" who="UNKFEMALE" whoConfidence="low">I'm not <pause dur="short"/> I'm just asking if he is</u>
+<u n="210" who="S0061"><unclear/></u>
+<u n="211" who="UNKFEMALE" whoConfidence="low">what do you think of the social networking sites? Do you think they're good?</u>
+<u n="212" who="S0061">yeah <pause dur="short"/> they're alright <pause dur="short"/> they're okay I guess</u>
+<u n="213" who="UNKFEMALE" whoConfidence="low">how often do you go on it? <trunc>D</trunc> are you there like on it updating your status every day and like use it like a diary?</u>
+<u n="214" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="215" who="S0061">I wouldn't say I use it like a diary but I am on it every day</u>
+<u n="216" who="UNKFEMALE" whoConfidence="low">so then you love it <pause dur="short"/> why did you <unclear/>?</u>
+<u n="217" who="UNKFEMALE" whoConfidence="low">are you married?</u>
+<u n="218" who="S0061"><vocal desc="laugh"/> No <pause dur="short"/> <vocal desc="laugh"/> No</u>
+<u n="219" who="UNKFEMALE" whoConfidence="low">why have you got a beard?</u>
+<u n="220" who="S0061">I dunno <pause dur="short"/> just</u>
+<u n="221" who="UNKFEMALE" whoConfidence="low">you dunno why you've got a beard?</u>
+<u n="222" who="S0061">just grow it</u>
+<u n="223" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> no</u>
+<u n="224" who="UNKFEMALE" whoConfidence="low">do you think it's cos it's</u>
+<u n="225" who="UNKFEMALE" whoConfidence="low">it looks cool in <anon type="place"/></u>
+<u n="226" who="S0061"><vocal desc="laugh"/></u>
+<u n="227" who="UNKFEMALE" whoConfidence="low">it's cos it's good in our religion <pause dur="short"/> that's why he's got a beard</u>
+<u n="228" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="229" who="S0061">yeah but I just</u>
+<u n="230" who="UNKFEMALE" whoConfidence="low">you need to know why you've got a beard</u>
+<u n="231" who="S0061"><vocal desc="laugh"/></u>
+<u n="232" who="UNKFEMALE" whoConfidence="low">come on</u>
+<u n="233" who="S0061"><vocal desc="laugh"/> <unclear/></u>
+<u n="234" who="UNKFEMALE" whoConfidence="low">are you a Jew?</u>
+<u n="235" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="236" who="S0061">I am obviously</u>
+<u n="237" who="UNKFEMALE" whoConfidence="low">oh okay <pause dur="short"/> cos I was gonna say you've not got the hat on</u>
+<u n="238" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="239" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="240" who="S0061">what hat on?</u>
+<u n="241" who="UNKFEMALE" whoConfidence="low">what's your favourite food? <vocal desc="laugh"/></u>
+<u n="242" who="S0061">er <pause dur="short"/> dahl <unclear/></u>
+<u n="243" who="UNKFEMALE" whoConfidence="low">what's that?</u>
+<u n="244" who="S0061">er rice with um dahl</u>
+<u n="245" who="UNKFEMALE" whoConfidence="low">what's that?</u>
+<u n="246" who="UNKFEMALE" whoConfidence="low">er how do you eat that? With your hands?</u>
+<u n="247" who="S0061">no I use a spoon but a lot of people do eat it with their hands</u>
+<u n="248" who="UNKFEMALE" whoConfidence="low">oh yes</u>
+<u n="249" who="S0061">especially at weddings and stuff</u>
+<u n="250" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> it's cos it's good in our religion to eat it with your hands</u>
+<u n="251" who="UNKFEMALE" whoConfidence="low">what do you mean?</u>
+<u n="252" who="UNKFEMALE" whoConfidence="low">you get a lot of blessing in your food <pause dur="short"/> that's what we believe</u>
+<u n="253" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="254" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="255" who="UNKFEMALE" whoConfidence="low">interesting <pause dur="short"/> what's your favourite food?</u>
+<u n="256" who="UNKFEMALE" whoConfidence="low">mine's chicken <pause dur="short"/> sorry <pause dur="short"/> what's yours?</u>
+<u n="257" who="UNKFEMALE" whoConfidence="low">I'm a vegetarian</u>
+<u n="258" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="259" who="UNKFEMALE" whoConfidence="low">I just like fruits and veg</u>
+<u n="260" who="UNKFEMALE" whoConfidence="low">is that? You live off plants?</u>
+<u n="261" who="UNKFEMALE" whoConfidence="low">er yeah <pause dur="short"/> literally</u>
+<u n="262" who="UNKFEMALE" whoConfidence="low">ah <pause dur="short"/> what a shame <pause dur="short"/> you need to er try meat <pause dur="short"/> it's good</u>
+<u n="263" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> you should try doing a <trunc>ve</trunc> becoming a veg</u>
+<u n="264" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> I do eat veg but not every day</u>
+<u n="265" who="UNKFEMALE" whoConfidence="low">well you should try it for longer</u>
+<u n="266" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> I wouldn't be able to do that</u>
+<u n="267" who="UNKFEMALE" whoConfidence="low">so what are you doing in uni? What do you study round here?</u>
+<u n="268" who="UNKFEMALE" whoConfidence="low">I'm studying business management with HR <pause dur="short"/> how about you?</u>
+<u n="269" who="S0061">I don't do anything <pause dur="short"/> I just walk around</u>
+<u n="270" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> what are you? A stalker?</u>
+<u n="271" who="UNKFEMALE" whoConfidence="low">is that <unclear/> uni?</u>
+<u n="272" who="UNKFEMALE" whoConfidence="low">are you the stalker in uni?</u>
+<u n="273" who="S0061"><vocal desc="laugh"/> Yeah</u>
+<u n="274" who="UNKFEMALE" whoConfidence="low">oh dear <pause dur="short"/> <unclear/></u>
+<u n="275" who="UNKFEMALE" whoConfidence="low">we should stay away from you then <trunc>d</trunc> shouldn't we <pause dur="short"/> or is that one of your chat up lines?</u>
+<u n="276" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="277" who="S0061">yes <pause dur="short"/> yeah <pause dur="short"/> sure it is</u>
+<u n="278" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="279" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="280" who="S0061">got you talking to me haven't I</u>
+<u n="281" who="UNKFEMALE" whoConfidence="low">oh yes <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="282" who="S0061">yeah</u>
+<u n="283" who="UNKFEMALE" whoConfidence="low">what department do you work in in Sainsbury's?</u>
+<u n="284" who="S0061">the bakery</u>
+<u n="285" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="286" who="UNKFEMALE" whoConfidence="low">do you bake and stuff?</u>
+<u n="287" who="S0061">no <pause dur="short"/> I just work at the aisles</u>
+<u n="288" who="S0124">oh <pause dur="short"/> that's boring <pause dur="short"/> what bread would you recommend if I came in?</u>
+<u n="289" who="S0061"><vocal desc="laugh"/> Depends what you wanted</u>
+<u n="290" who="S0124">if I came in and asked you what's the best bread? What would you recommend to me?</u>
+<u n="291" who="S0061">Warburtons</u>
+<u n="292" who="S0124">is that it? I could go to Warburton as well <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="293" who="S0061">go to Warburtons</u>
+<u n="294" who="S0124">so there's no point you standing there telling me Warburtons is the best</u>
+<u n="295" who="S0061">yeah <pause dur="short"/> <unclear/> as well</u>
+<u n="296" who="S0124">oh</u>
+<u n="297" who="UNKFEMALE" whoConfidence="low">come on <pause dur="short"/> don't be rude <anon type="name" nameType="f"/></u>
+<u n="298" who="S0061">yeah <anon type="name" nameType="f"/> <pause dur="short"/> stop being rude</u>
+<u n="299" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="300" who="UNKFEMALE" whoConfidence="low">so</u>
+<u n="301" who="S0061">what about you? Where do you work?</u>
+<u n="302" who="UNKFEMALE" whoConfidence="low">I don't work</u>
+<u n="303" who="S0061">do you not?</u>
+<u n="304" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> I live off my parents</u>
+<u n="305" who="UNKFEMALE" whoConfidence="low">dad's bank?</u>
+<u n="306" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> they're rich <pause dur="short"/> I don't need to work</u>
+<u n="307" who="UNKFEMALE" whoConfidence="low">oh right</u>
+<u n="308" who="S0061">are you sure you're not it's not you talking about your husband that's rich?</u>
+<u n="309" who="UNKFEMALE" whoConfidence="low">I don't have a husband</u>
+<u n="310" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="311" who="UNKFEMALE" whoConfidence="low">but you said you're married</u>
+<u n="312" who="S0061">er yeah</u>
+<u n="313" who="UNKFEMALE" whoConfidence="low">no I didn't <pause dur="short"/> I think you're hearing stuff</u>
+<u n="314" who="S0061">you did <pause dur="short"/> you said you're married</u>
+<u n="315" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="316" who="UNKFEMALE" whoConfidence="low">I'm not married</u>
+<u n="317" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="318" who="UNKFEMALE" whoConfidence="low">nah <pause dur="short"/> I'm not</u>
+<u n="319" who="UNKFEMALE" whoConfidence="low">are you married?</u>
+<u n="320" who="UNKFEMALE" whoConfidence="low">Don't worry <pause dur="short"/> I'll invite you when I get married</u>
+<u n="321" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="322" who="S0061">okay <pause dur="short"/> <unclear/>?</u>
+<u n="323" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="324" who="UNKFEMALE" whoConfidence="low">me? I plan to get married the Islamic way</u>
+<u n="325" who="UNKFEMALE" whoConfidence="low">what's that?</u>
+<u n="326" who="S0061"></u>
+<u n="327" who="UNKFEMALE" whoConfidence="low">Seven days?</u>
+<u n="328" who="UNKFEMALE" whoConfidence="low">no no no</u>
+<u n="329" who="S0061"><vocal desc="laugh"/></u>
+<u n="330" who="UNKFEMALE" whoConfidence="low">that's traditional <pause dur="short"/> that's not</u>
+<u n="331" who="UNKFEMALE" whoConfidence="low">oh right</u>
+<u n="332" who="UNKFEMALE" whoConfidence="low">islamic <pause dur="short"/> islamic is when you just do your vows and have witnesses there <pause dur="short"/> that's it <pause dur="short"/> you're married</u>
+<u n="333" who="UNKFEMALE" whoConfidence="low">so that can be anywhere?</u>
+<u n="334" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> it can <pause dur="short"/> <trunc>preferabl</trunc> preferably at a mosque</u>
+<u n="335" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/> Er what?</u>
+<u n="336" who="S0061"><unclear/></u>
+<u n="337" who="UNKFEMALE" whoConfidence="low">sorry?</u>
+<u n="338" who="UNKFEMALE" whoConfidence="low">at a mosque</u>
+<u n="339" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="340" who="UNKFEMALE" whoConfidence="low">what about you? How are you planning to get married?</u>
+<u n="341" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> I don't want to get married</u>
+<u n="342" who="UNKFEMALE" whoConfidence="low">are you gonna do you <trunc>c</trunc> you're you're a Hindu right? So you have to go round the fire seven times?</u>
+<u n="343" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> nah <pause dur="short"/> like I say <pause dur="short"/> don't believe everything you see on the TV</u>
+<u n="344" who="S0061">Don't believe everything you see in the Bollywood movies</u>
+<u n="345" who="UNKFEMALE" whoConfidence="low">it's not <trunc>necessa</trunc> yeah <pause dur="short"/> <unclear/></u>
+<u n="346" who="UNKFEMALE" whoConfidence="low">seriously? So</u>
+<u n="347" who="UNKFEMALE" whoConfidence="low">what's your favourite movie by the way?</u>
+<u n="348" who="UNKFEMALE" whoConfidence="low">how To Lose A Guy In Ten Days</u>
+<u n="349" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> is that from experience?</u>
+<u n="350" who="UNKFEMALE" whoConfidence="low">I'm good at that <pause dur="short"/> oh yes <pause dur="short"/> I'm good at that</u>
+<u n="351" who="UNKFEMALE" whoConfidence="low">what? Were you one of the guys?</u>
+<u n="352" who="S0061">no</u>
+<u n="353" who="UNKFEMALE" whoConfidence="low">oh I played him bad</u>
+<u n="354" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="355" who="S0061">yeah <pause dur="short"/> heartbroken I was</u>
+<u n="356" who="UNKFEMALE" whoConfidence="low">ah <pause dur="short"/> she's a bit of a</u>
+<u n="357" who="S0061">well <trunc>sh</trunc> <unclear/></u>
+<u n="358" who="UNKFEMALE" whoConfidence="low">terror isn't she</u>
+<u n="359" who="S0061">she's got a record <pause dur="short"/> she lost a guy in an hour</u>
+<u n="360" who="UNKFEMALE" whoConfidence="low">in an hour?</u>
+<u n="361" who="UNKFEMALE" whoConfidence="low"><trunc>Y</trunc></u>
+<u n="362" who="S0061">she did yeah</u>
+<u n="363" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="364" who="S0061">she did yeah <pause dur="short"/> er within an hour she lost got rid of him</u>
+<u n="365" who="UNKFEMALE" whoConfidence="low">what about you? Are you in a relationship?</u>
+<u n="366" who="S0061">no</u>
+<u n="367" who="UNKFEMALE" whoConfidence="low">no need to cry about it <pause dur="short"/> I'm just asking you <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="368" who="S0061">no</u>
+<u n="369" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/> Maybe if you</u>
+<u n="370" who="S0061"><unclear/></u>
+<u n="371" who="UNKFEMALE" whoConfidence="low">if you made an effort you'd be able to pull</u>
+<u n="372" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="373" who="S0061">no I don't wanna make an effort <pause dur="short"/> I can't be bothered</u>
+<u n="374" who="UNKFEMALE" whoConfidence="low">you shouldn't eat all of that spice stuff</u>
+<u n="375" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="376" who="S0061">garlic <unclear/> tastes too good</u>
+<u n="377" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> it's true <pause dur="short"/> it does taste pretty nice</u>
+<u n="378" who="S0121">I'm good at giving er relationship advice you know <pause dur="short"/> you should take it</u>
+<u n="379" who="UNKFEMALE" whoConfidence="low">what are you? Auntie <anon type="name" nameType="f"/>?</u>
+<u n="380" who="S0061"><vocal desc="laugh"/></u>
+<u n="381" who="S0121">not Auntie <anon type="name" nameType="f"/> <pause dur="short"/> come on <pause dur="short"/> give good advice</u>
+<u n="382" who="UNKFEMALE" whoConfidence="low">how many sisters</u>
+<u n="383" who="S0061">yeah <pause dur="short"/> how to lose him</u>
+<u n="384" who="UNKFEMALE" whoConfidence="low">do you have? Brothers and sisters?</u>
+<u n="385" who="S0121">I have er one sister and a little brother</u>
+<u n="386" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> you <trunc>sai</trunc> er didn't she say she's got three sisters?</u>
+<u n="387" who="S0061">mm</u>
+<u n="388" who="UNKFEMALE" whoConfidence="low">no that's not er he said</u>
+<u n="389" who="S0061">I never said that</u>
+<u n="390" who="UNKFEMALE" whoConfidence="low">yeah you did <pause dur="short"/> we can record it back and</u>
+<u n="391" who="S0061">record er record <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="392" who="UNKFEMALE" whoConfidence="low">are your sisters nuns?</u>
+<u n="393" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="394" who="UNKFEMALE" whoConfidence="low">why would they be nuns? We're Muslims</u>
+<u n="395" who="UNKFEMALE" whoConfidence="low">Cos you always say sister this sister that</u>
+<u n="396" who="UNKFEMALE" whoConfidence="low">when did I say that? You've only just got to know me</u>
+<u n="397" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="398" who="S0061"><unclear/></u>
+<u n="399" who="UNKFEMALE" whoConfidence="low">er what's the plans for this weekend?</u>
+<u n="400" who="S0061">revise <pause dur="short"/> work</u>
+<u n="401" who="UNKFEMALE" whoConfidence="low">I'll <trunc>probab</trunc></u>
+<u n="402" who="UNKFEMALE" whoConfidence="low">so that's good  that's good</u>
+<u n="403" who="S0061">what about you?</u>
+<u n="404" who="UNKFEMALE" whoConfidence="low">revise</u>
+<u n="405" who="S0061">what about you?</u>
+<u n="406" who="UNKFEMALE" whoConfidence="low">just sleep all weekend</u>
+<u n="407" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="408" who="UNKFEMALE" whoConfidence="low">oh is that sarcasm?</u>
+<u n="409" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> no <pause dur="short"/> literally</u>
+<u n="410" who="UNKFEMALE" whoConfidence="low">why? Have you not got to revise?</u>
+<u n="411" who="UNKFEMALE" whoConfidence="low">I have</u>
+<u n="412" who="UNKFEMALE" whoConfidence="low">how many exams have you got?</u>
+<u n="413" who="UNKFEMALE" whoConfidence="low">five</u>
+<u n="414" who="UNKFEMALE" whoConfidence="low">five? <vocal desc="laugh"/> Huh</u>
+<u n="415" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="416" who="UNKFEMALE" whoConfidence="low">so <unclear/></u>
+<u n="417" who="UNKFEMALE" whoConfidence="low">why are you er really shocked then?</u>
+<u n="418" who="UNKFEMALE" whoConfidence="low">Cos I didn't think you'd have five exams the way you're going to sleep all weekend</u>
+<u n="419" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> yeah <pause dur="short"/> what about you?</u>
+<u n="420" who="S0061">four</u>
+<u n="421" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="422" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="423" who="UNKFEMALE" whoConfidence="low">Good stuff <pause dur="short"/> I like your ring <pause dur="short"/> where did you get it from?</u>
+<u n="424" who="UNKFEMALE" whoConfidence="low">thank you <pause dur="short"/> it's <unclear/></u>
+<u n="425" who="UNKFEMALE" whoConfidence="low">oh nice</u>
+<u n="426" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="427" who="UNKFEMALE" whoConfidence="low"><vocal desc="cough"/> What about your bracelet?</u>
+<u n="428" who="UNKFEMALE" whoConfidence="low">that's from Ernest Jones</u>
+<u n="429" who="UNKFEMALE" whoConfidence="low">oh wow</u>
+<u n="430" who="UNKFEMALE" whoConfidence="low">what can you say? Dad's rich</u>
+<u n="431" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="432" who="UNKFEMALE" whoConfidence="low">quite full of yourself</u>
+<u n="433" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="434" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> I get er that from my <unclear/></u>
+<u n="435" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="436" who="UNKFEMALE" whoConfidence="low">what about you?</u>
+<u n="437" who="S0061">what about me?</u>
+<u n="438" who="UNKFEMALE" whoConfidence="low">we're not all lucky as others are we</u>
+<u n="439" who="S0061">I know</u>
+<u n="440" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="441" who="UNKFEMALE" whoConfidence="low">we er</u>
+<u n="442" who="S0061">we have to work hard</u>
+<u n="443" who="UNKFEMALE" whoConfidence="low">we believe in working hard <unclear/></u>
+<u n="444" who="UNKFEMALE" whoConfidence="low">oh that's good</u>
+<u n="445" who="UNKFEMALE" whoConfidence="low">we believe in working hard for everything <pause dur="short"/> not just getting it given on a plate</u>
+<u n="446" who="UNKFEMALE" whoConfidence="low">I like living off my parents</u>
+<u n="447" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/> No er then you</u>
+<u n="448" who="UNKFEMALE" whoConfidence="low">live like a princess me</u>
+<u n="449" who="UNKFEMALE" whoConfidence="low">do you believe in the word called spoilt?</u>
+<u n="450" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="451" who="S0061">mm</u>
+<u n="452" who="UNKFEMALE" whoConfidence="low">obviously I am spoilt</u>
+<u n="453" who="S0061">spoilt <pause dur="short"/> <unclear/></u>
+<u n="454" who="UNKFEMALE" whoConfidence="low">I'm proud of it though</u>
+<u n="455" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/> <vocal desc="laugh"/></u>
+<u n="456" who="UNKFEMALE" whoConfidence="low">are you do you work for like er um?</u>
+<u n="457" who="UNKFEMALE" whoConfidence="low">I don't work</u>
+<u n="458" who="UNKFEMALE" whoConfidence="low">no part-time <pause dur="short"/> I think er I remember you mentioning</u>
+<u n="459" who="UNKFEMALE" whoConfidence="low">no no no</u>
+<u n="460" who="UNKFEMALE" whoConfidence="low">it earlier</u>
+<u n="461" who="UNKFEMALE" whoConfidence="low">I've never worked</u>
+<u n="462" who="UNKFEMALE" whoConfidence="low">er for a call centre or something</u>
+<u n="463" who="UNKFEMALE" whoConfidence="low">no</u>
+<u n="464" who="UNKFEMALE" whoConfidence="low">Cos you talk really loud and</u>
+<u n="465" who="S0061"><vocal desc="laugh"/></u>
+<u n="466" who="UNKFEMALE" whoConfidence="low">I hate call centres</u>
+<u n="467" who="UNKFEMALE" whoConfidence="low">like was it international?</u>
+<u n="468" who="UNKMULTI"><vocal desc="laugh"/></u>
+<event desc="unintelligible"/>
+<u n="469" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="470" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> them annoying people that always ring you up saying do you want</u>
+<u n="471" who="UNKFEMALE" whoConfidence="low">yeah but</u>
+<u n="472" who="UNKFEMALE" whoConfidence="low">this? Do you want that?</u>
+<u n="473" who="UNKFEMALE" whoConfidence="low">you talk loud so you sound like one of them</u>
+<u n="474" who="S0061"><unclear/></u>
+<u n="475" who="UNKFEMALE" whoConfidence="low">no I'm a bubbly person</u>
+<u n="476" who="UNKFEMALE" whoConfidence="low">oh right <pause dur="short"/> what do you mean by bubbly? We don't use the word <unclear/></u>
+<u n="477" who="UNKFEMALE" whoConfidence="low">do you not?</u>
+<u n="478" who="UNKFEMALE" whoConfidence="low">no</u>
+<u n="479" who="UNKFEMALE" whoConfidence="low">I'm oh well I'm always smiling <pause dur="short"/> up for a chat <pause dur="short"/> why do you think I'm just sat here talking to you?</u>
+<u n="480" who="UNKFEMALE" whoConfidence="low">that means you're bubbly?</u>
+<u n="481" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="482" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> interesting</u>
+<u n="483" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="484" who="UNKFEMALE" whoConfidence="low">so what are your interests? What do you like doing?</u>
+<u n="485" who="S0061">football <pause dur="short"/> cricket</u>
+<u n="486" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="487" who="UNKFEMALE" whoConfidence="low">sports <unclear/></u>
+<u n="488" who="UNKFEMALE" whoConfidence="low">standard Asian sports</u>
+<u n="489" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> do you think you're really good at them? <vocal desc="laugh"/></u>
+<u n="490" who="S0061">not bad at them</u>
+<u n="491" who="UNKFEMALE" whoConfidence="low">oh that's <unclear/></u>
+<u n="492" who="UNKFEMALE" whoConfidence="low">do you remember that India Pakistan match where India won?</u>
+<u n="493" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="494" who="S0061"><unclear/></u>
+<u n="495" who="UNKFEMALE" whoConfidence="low">that match</u>
+<u n="496" who="UNKFEMALE" whoConfidence="low">I remember</u>
+<u n="497" who="UNKFEMALE" whoConfidence="low">was the best</u>
+<u n="498" who="S0061"><unclear/></u>
+<u n="499" who="UNKFEMALE" whoConfidence="low">was it the World Cup?</u>
+<u n="500" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> the World Cup <pause dur="short"/> pakistan <pause dur="short"/> oh I felt so sorry</u>
+<u n="501" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="502" who="S0061">I just er remember the article about the parrot</u>
+<u n="503" who="UNKFEMALE" whoConfidence="low">what do you mean?</u>
+<u n="504" who="UNKFEMALE" whoConfidence="low">what parrot?</u>
+<u n="505" who="UNKFEMALE" whoConfidence="low">what parrot?</u>
+<u n="506" who="S0061">apparently they killed a parrot cos it said Pakistan's gonna win</u>
+<u n="507" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="508" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="509" who="UNKFEMALE" whoConfidence="low">but clearly didn't <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="510" who="UNKFEMALE" whoConfidence="low">do you believe in parrots?</u>
+<u n="511" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="512" who="S0061">yeah <pause dur="short"/> <vocal desc="laugh"/> mm</u>
+<u n="513" who="UNKFEMALE" whoConfidence="low">er that's against your religion isn't it?</u>
+<u n="514" who="S0061">what do you mean? I believe what the parrot said was true</u>
+<u n="515" who="UNKFEMALE" whoConfidence="low">oh you're you said you were a Muslim</u>
+<u n="516" who="S0061">I <trunc>s</trunc> I believe what the parrot was saying was true</u>
+<u n="517" who="UNKFEMALE" whoConfidence="low">if it was true how comes um India won then?</u>
+<u n="518" who="S0061">but they killed the <vocal desc="laugh"/> parrot <pause dur="short"/> that's why <unclear/> Pakistan <unclear/></u>
+<u n="519" who="UNKFEMALE" whoConfidence="low">so what were you doing</u>
+<u n="520" who="UNKFEMALE" whoConfidence="low">you're saying</u>
+<u n="521" who="UNKFEMALE" whoConfidence="low">while India were winning? At the parrot's funeral?</u>
+<u n="522" who="S0061">yeah</u>
+<u n="523" who="UNKFEMALE" whoConfidence="low">so you're saying you believe that a parrot can predict the future?</u>
+<u n="524" who="S0061">yeah</u>
+<u n="525" who="UNKFEMALE" whoConfidence="low">that's against Islam though</u>
+<u n="526" who="S0061">mm</u>
+<u n="527" who="UNKFEMALE" whoConfidence="low">you just said you're a Muslim</u>
+<u n="528" who="S0061">yeah <pause dur="short"/> I believe that parrot predicted the future</u>
+<u n="529" who="UNKFEMALE" whoConfidence="low">do you need a  by the way?</u>
+<u n="530" who="UNKFEMALE" whoConfidence="low">but it didn't</u>
+<u n="531" who="S0061">but they did they killed <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="532" who="UNKFEMALE" whoConfidence="low">you need to get your story right</u>
+<u n="533" who="S0061">why so why did they kill it though  why did they kill it though? Why did they kill it then if it was <unclear/>?</u>
+<u n="534" who="UNKFEMALE" whoConfidence="low">er I've not heard anything like that</u>
+<u n="535" who="S0061"><unclear/> everyone <unclear/> post it on Facebook <unclear/></u>
+<u n="536" who="UNKFEMALE" whoConfidence="low">I'm not it's the first time I've seen you</u>
+<u n="537" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="538" who="S0061">I'm sure I've seen you before <pause dur="short"/> <unclear/> outside before <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="539" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> that's me <pause dur="short"/> <trunc>m</trunc> I'm everywhere me</u>
+<u n="540" who="UNKFEMALE" whoConfidence="low">right <pause dur="short"/> <vocal desc="cough"/> What movies have you recently seen?</u>
+<u n="541" who="UNKFEMALE" whoConfidence="low">movies? I don't know <pause dur="short"/> I haven't been to see the movies in ages</u>
+<u n="542" who="UNKFEMALE" whoConfidence="low">mm <pause dur="short"/> what about you?</u>
+<u n="543" who="UNKFEMALE" whoConfidence="low">have you watched the Safe House?</u>
+<u n="544" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> oh yeah <pause dur="short"/> that's brilliant</u>
+<u n="545" who="S0061"><unclear/></u>
+<u n="546" who="UNKFEMALE" whoConfidence="low">who did you go with?</u>
+<u n="547" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> went with this girl <pause dur="short"/> um <pause dur="short"/> she's called Anisha</u>
+<u n="548" who="UNKFEMALE" whoConfidence="low">right</u>
+<u n="549" who="UNKFEMALE" whoConfidence="low">she's my friend <pause dur="short"/> and we had a really good time</u>
+<u n="550" who="UNKFEMALE" whoConfidence="low">oh <unclear/></u>
+<u n="551" who="UNKFEMALE" whoConfidence="low">have you seen it?</u>
+<u n="552" who="S0061">I can't remember it</u>
+<u n="553" who="UNKFEMALE" whoConfidence="low">it's er a really good suspense um thriller</u>
+<u n="554" who="UNKFEMALE" whoConfidence="low">how can you not remember if you've seen a movie or not?</u>
+<u n="555" who="S0061">I see too many</u>
+<u n="556" who="UNKFEMALE" whoConfidence="low">ah <pause dur="short"/> do you wanna name them?</u>
+<u n="557" who="S0061">er <unclear/></u>
+<u n="558" who="UNKFEMALE" whoConfidence="low">okay <pause dur="short"/> that's just one</u>
+<u n="559" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="560" who="S0061">er <pause dur="short"/> devil it's called Devil Within or something</u>
+<u n="561" who="UNKFEMALE" whoConfidence="low">the Devil Inside</u>
+<u n="562" who="S0061">inside <pause dur="short"/> that's the one that I've seen</u>
+<u n="563" who="UNKFEMALE" whoConfidence="low">forgetting their names already <pause dur="short"/> tut tut</u>
+<u n="564" who="S0061"><vocal desc="laugh"/></u>
+<u n="565" who="UNKFEMALE" whoConfidence="low">do you want do you er <trunc>h</trunc> have you seen the Titanic trailers?</u>
+<u n="566" who="S0061">no</u>
+<u n="567" who="UNKFEMALE" whoConfidence="low">I have but I've heard it's good so I do wish to see it</u>
+<u n="568" who="UNKFEMALE" whoConfidence="low">if you wish to see it and you say that you're loaded <vocal desc="laugh"/> why don't you go?</u>
+<u n="569" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="570" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="571" who="UNKFEMALE" whoConfidence="low">but I've got revision to do you see</u>
+<u n="572" who="UNKFEMALE" whoConfidence="low">could take time out</u>
+<u n="573" who="S0061"><unclear/> you get it streamed to your house</u>
+<u n="574" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> er I'll go after my</u>
+<u n="575" who="UNKFEMALE" whoConfidence="low">do you have a screen at your house? A big screen?</u>
+<u n="576" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> we don't have a big screen <pause dur="short"/> we don't like showing off that much <pause dur="short"/> it's just me in my family <pause dur="short"/> I'm the awkward one</u>
+<u n="577" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> I kind of er I kind of grasped that one</u>
+<u n="578" who="S0061">yeah <pause dur="short"/>  I kind of  I kind of grasped that that you were</u>
+<u n="579" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="580" who="S0061">yeah <pause dur="short"/> I kind of grasped that <unclear/></u>
+<u n="581" who="UNKFEMALE" whoConfidence="low">so er</u>
+<u n="582" who="UNKFEMALE" whoConfidence="low">I'm proud of it <pause dur="short"/> I won't deny it</u>
+<u n="583" who="UNKFEMALE" whoConfidence="low">are you the eldest</u>
+<u n="584" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> I'm <unclear/> child</u>
+<u n="585" who="UNKFEMALE" whoConfidence="low">from your brother and sister? Ah <pause dur="short"/> the unloved one</u>
+<u n="586" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="587" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> ah dear</u>
+<u n="588" who="S0061">Don't love her so she's showered with money</u>
+<u n="589" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> definitely</u>
+<u n="590" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> right <pause dur="short"/> <vocal desc="cough"/></u>
+<u n="591" who="UNKFEMALE" whoConfidence="low">so when are you planning to get married?</u>
+<u n="592" who="UNKFEMALE" whoConfidence="low">like I said marriage isn't er something on my topic</u>
+<u n="593" who="UNKFEMALE" whoConfidence="low">isn't it?</u>
+<u n="594" who="UNKFEMALE" whoConfidence="low">it's not my cup of tea <pause dur="short"/> no</u>
+<u n="595" who="UNKFEMALE" whoConfidence="low">so you're gonna stay single for the rest of your life?</u>
+<u n="596" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> you seem keen <pause dur="short"/> when are you planning?</u>
+<u n="597" who="UNKFEMALE" whoConfidence="low">I'm thinking next year</u>
+<u n="598" who="UNKFEMALE" whoConfidence="low">next year?</u>
+<u n="599" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="600" who="UNKFEMALE" whoConfidence="low">wow <pause dur="short"/> are you not planning to carry on your studies or anything <unclear/>?</u>
+<u n="601" who="UNKFEMALE" whoConfidence="low">oh no no <pause dur="short"/> I've had enough</u>
+<u n="602" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> and then how quick do you want er your kids?</u>
+<u n="603" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="604" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> kids? Not for a few years <pause dur="short"/> I'd like to enjoy my married life first</u>
+<u n="605" who="UNKFEMALE" whoConfidence="low">but you seem really eager to get married so I was thinking that's the next thing</u>
+<u n="606" who="UNKFEMALE" whoConfidence="low">oh no no I</u>
+<u n="607" who="UNKFEMALE" whoConfidence="low">oh okay</u>
+<u n="608" who="UNKFEMALE" whoConfidence="low">why? Is that what you believe?</u>
+<u n="609" who="UNKFEMALE" whoConfidence="low">no no no</u>
+<u n="610" who="UNKFEMALE" whoConfidence="low">as soon as you're married have kids</u>
+<u n="611" who="UNKFEMALE" whoConfidence="low">like I said</u>
+<u n="612" who="UNKFEMALE" whoConfidence="low">pop pop pop pop</u>
+<u n="613" who="UNKFEMALE" whoConfidence="low">marriage isn't my cup of tea</u>
+<u n="614" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="615" who="UNKFEMALE" whoConfidence="low">no</u>
+<u n="616" who="S0061">what the hell?</u>
+<u n="617" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="618" who="S0061">what's with the sound effects?</u>
+<u n="619" who="UNKFEMALE" whoConfidence="low">so what is it? You're gonna be like a baby machine?</u>
+<u n="620" who="S0061"><vocal desc="laugh"/></u>
+<u n="621" who="UNKFEMALE" whoConfidence="low">pop pop pop</u>
+<u n="622" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="623" who="S0061"><unclear/></u>
+<u n="624" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> that's what the popcorn does</u>
+<u n="625" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="626" who="UNKFEMALE" whoConfidence="low">so how often do you play <trunc>f</trunc> football?</u>
+<u n="627" who="S0061">every week</u>
+<u n="628" who="UNKFEMALE" whoConfidence="low">do you believe in pop pop pop?</u>
+<u n="629" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="630" who="S0061">um <pause dur="short"/> I er dunno <pause dur="short"/> I've no idea what you're talking about</u>
+<u n="631" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="632" who="S0061">what is er what do you mean by pop pop <trunc>po</trunc> <vocal desc="laugh"/>?</u>
+<u n="633" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="634" who="S0061">what do you mean by pop pop pop anyway?</u>
+<u n="635" who="UNKFEMALE" whoConfidence="low">are you keen to get have children with your wife soon?</u>
+<u n="636" who="S0061">yeah</u>
+<u n="637" who="UNKFEMALE" whoConfidence="low">how many?</u>
+<u n="638" who="S0061">no idea <pause dur="short"/> or we're happy without them</u>
+<u n="639" who="UNKFEMALE" whoConfidence="low">true <pause dur="short"/> but you have a part to play in it</u>
+<u n="640" who="S0061">obviously <pause dur="short"/> <vocal desc="laugh"/> <unclear/></u>
+<u n="641" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> so er so why er the happy to have them?</u>
+<u n="642" who="UNKFEMALE" whoConfidence="low">if you need advice you can always come to <unclear/></u>
+<u n="643" who="S0061">no <unclear/></u>
+<u n="644" who="UNKFEMALE" whoConfidence="low">oh yeah <pause dur="short"/> you can always come to me</u>
+<u n="645" who="S0061"><unclear/></u>
+<u n="646" who="UNKFEMALE" whoConfidence="low">but for that you'll need to get into a relationship first <pause dur="short"/> which she'll help you with <unclear/></u>
+<u n="647" who="S0061"><unclear/> <vocal desc="cough"/> Yeah</u>
+<u n="648" who="UNKFEMALE" whoConfidence="low">or <unclear/></u>
+<u n="649" who="S0061"><unclear/></u>
+<u n="650" who="UNKFEMALE" whoConfidence="low">what's your favourite colour?</u>
+<u n="651" who="S0061"><vocal desc="laugh"/></u>
+<u n="652" who="UNKFEMALE" whoConfidence="low">colour? Why do you need to know that?</u>
+<u n="653" who="UNKFEMALE" whoConfidence="low">just asking</u>
+<u n="654" who="UNKFEMALE" whoConfidence="low">I <trunc>s</trunc> I'd say it's pink <pause dur="short"/> a girly girl colour</u>
+<u n="655" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="656" who="UNKFEMALE" whoConfidence="low">why have you got nothing on <vocal desc="laugh"/> pink?</u>
+<u n="657" who="UNKFEMALE" whoConfidence="low">Cos it's been miserable today</u>
+<u n="658" who="UNKFEMALE" whoConfidence="low">oh <pause dur="short"/> so you kind of work with the weather and?</u>
+<u n="659" who="UNKFEMALE" whoConfidence="low">I'm guessing your favourite colour's black?</u>
+<u n="660" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="661" who="UNKFEMALE" whoConfidence="low">I didn't you know you er <vocal desc="laugh"/> Hindus could be goths too</u>
+<u n="662" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="663" who="UNKFEMALE" whoConfidence="low">they they're not <pause dur="short"/> we're not goths <pause dur="short"/> it's like you <pause dur="short"/> you've got all black on today haven't you</u>
+<u n="664" who="UNKFEMALE" whoConfidence="low">no I haven't <pause dur="short"/> look <pause dur="short"/> it's that's a bit of white <pause dur="short"/> brown <pause dur="short"/> orange <pause dur="short"/> green <pause dur="short"/> red</u>
+<u n="665" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> I know you can name all the colours</u>
+<u n="666" who="UNKFEMALE" whoConfidence="low">just cos I've not got pink on</u>
+<u n="667" who="UNKFEMALE" whoConfidence="low">what do you want? A sticker for it?</u>
+<u n="668" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="669" who="UNKFEMALE" whoConfidence="low">does that nose stud hurt?</u>
+<u n="670" who="UNKFEMALE" whoConfidence="low">no <pause dur="short"/> <vocal desc="cough"/></u>
+<u n="671" who="UNKFEMALE" whoConfidence="low">is that part of your religion?</u>
+<u n="672" who="UNKFEMALE" whoConfidence="low">er no <pause dur="short"/> it's just fashion</u>
+<u n="673" who="UNKFEMALE" whoConfidence="low">tut <pause dur="short"/> oh <pause dur="short"/> have you got any piercings?</u>
+<u n="674" who="S0061">er no <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="675" who="UNKFEMALE" whoConfidence="low">are you sure?</u>
+<u n="676" who="S0061">yeah</u>
+<u n="677" who="UNKFEMALE" whoConfidence="low">tattoos?</u>
+<u n="678" who="S0061">no</u>
+<u n="679" who="UNKFEMALE" whoConfidence="low">are you sure you're not just hiding them?</u>
+<u n="680" who="S0061"><vocal desc="laugh"/> No</u>
+<u n="681" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="682" who="UNKFEMALE" whoConfidence="low">right</u>
+<u n="683" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="684" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="685" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="686" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="687" who="UNKFEMALE" whoConfidence="low">what sort of music do you listen to?</u>
+<u n="688" who="S0061">I don't listen to music</u>
+<u n="689" who="UNKFEMALE" whoConfidence="low">you don't?</u>
+<u n="690" who="UNKFEMALE" whoConfidence="low">you don't?</u>
+<u n="691" who="UNKFEMALE" whoConfidence="low">in this day and age you don't listen to music?</u>
+<u n="692" who="UNKFEMALE" whoConfidence="low">eh <pause dur="short"/> it's Islamic not to listen to it</u>
+<u n="693" who="S0061">yeah</u>
+<u n="694" who="UNKFEMALE" whoConfidence="low">true <pause dur="short"/> that's <unclear/> but</u>
+<u n="695" who="S0061">do you listen to music?</u>
+<u n="696" who="UNKFEMALE" whoConfidence="low">but there's Islamic you can listen to</u>
+<u n="697" who="S0061">I don't listen to any</u>
+<u n="698" who="UNKFEMALE" whoConfidence="low">you don't?</u>
+<u n="699" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="700" who="UNKFEMALE" whoConfidence="low">do you go to these Islamic talks?</u>
+<u n="701" who="S0061">sometimes</u>
+<u n="702" who="UNKFEMALE" whoConfidence="low">you should go to them more often <pause dur="short"/> you'd end up wearing a hat and them long cloaks</u>
+<u n="703" who="S0061">what cloaks?</u>
+<u n="704" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> I've seen a lot of Muslims wear that <pause dur="short"/> especially if you've got a beard <pause dur="short"/> like that guy <anon type="name" nameType="m"/> we saw</u>
+<u n="705" who="S0061">which guy <anon type="name" nameType="m"/>?</u>
+<u n="706" who="UNKFEMALE" whoConfidence="low">the one that just went past</u>
+<u n="707" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="708" who="UNKFEMALE" whoConfidence="low">that hotty</u>
+<u n="709" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="710" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="711" who="UNKFEMALE" whoConfidence="low">where do you want to travel?</u>
+<u n="712" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="713" who="UNKFEMALE" whoConfidence="low">travel?</u>
+<u n="714" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="715" who="UNKFEMALE" whoConfidence="low">I think I've already been to a few places</u>
+<u n="716" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="717" who="UNKFEMALE" whoConfidence="low">er a lot of <trunc>pl</trunc></u>
+<u n="718" who="UNKFEMALE" whoConfidence="low">A lot? Go on <pause dur="short"/> start naming them <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="719" who="UNKFEMALE" whoConfidence="low">er <pause dur="short"/> I've been Dubai <pause dur="short"/> I've been India <pause dur="short"/> been Saudi Arabia <pause dur="short"/> I've been Egypt <pause dur="short"/> spain</u>
+<u n="720" who="UNKFEMALE" whoConfidence="low">why's it all just the Middle East? <vocal desc="laugh"/></u>
+<u n="721" who="UNKFEMALE" whoConfidence="low">Paris <pause dur="short"/> I prefer them <pause dur="short"/> like the weather there</u>
+<u n="722" who="UNKFEMALE" whoConfidence="low">do you not find it really hot?</u>
+<u n="723" who="UNKFEMALE" whoConfidence="low">no actually <pause dur="short"/> you get used to it once you get there</u>
+<u n="724" who="UNKFEMALE" whoConfidence="low">oh cos you're already hot?</u>
+<u n="725" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> <vocal desc="laugh"/> You got that one right</u>
+<u n="726" who="S0061">so where do you er what holidays do wanna go on once you're married?</u>
+<u n="727" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="728" who="UNKFEMALE" whoConfidence="low">I'd love to go Maldives</u>
+<u n="729" who="S0061">on your honeymoon</u>
+<u n="730" who="UNKFEMALE" whoConfidence="low">Maldives?</u>
+<u n="731" who="S0061">why would you wanna go Maldives for?</u>
+<u n="732" who="UNKFEMALE" whoConfidence="low">why Maldives?</u>
+<u n="733" who="UNKFEMALE" whoConfidence="low">Cos</u>
+<u n="734" who="UNKFEMALE" whoConfidence="low">any specific reason?</u>
+<u n="735" who="UNKFEMALE" whoConfidence="low">it's so <unclear/></u>
+<u n="736" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="737" who="S0061">yeah <pause dur="short"/> any particular reasons?</u>
+<u n="738" who="UNKFEMALE" whoConfidence="low">it's romantic <pause dur="short"/> it's you and your husband on an island all on your own</u>
+<u n="739" who="S0061">yeah <pause dur="short"/> the beach <pause dur="short"/> yeah yeah <pause dur="short"/> um yeah</u>
+<u n="740" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="741" who="S0061">the boat goes away and er</u>
+<u n="742" who="UNKFEMALE" whoConfidence="low">you won't want to know what we get up to</u>
+<u n="743" who="S0061">no <pause dur="short"/> I don't wanna know actually <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="744" who="UNKFEMALE" whoConfidence="low">what's your favourite holiday destination?</u>
+<u n="745" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="746" who="S0061"><unclear/></u>
+<u n="747" who="UNKFEMALE" whoConfidence="low">Pakistan?</u>
+<u n="748" who="S0061"><vocal desc="laugh"/> It's really up to my wife</u>
+<u n="749" who="UNKFEMALE" whoConfidence="low">no generally <pause dur="short"/> if you wanted to go on holiday say like for you</u>
+<u n="750" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> I guess it'd be Pakistan <unclear/></u>
+<u n="751" who="UNKFEMALE" whoConfidence="low">er where would you go?</u>
+<u n="752" who="S0061">same places where she does <pause dur="short"/> beach <pause dur="short"/> beaches</u>
+<u n="753" who="UNKFEMALE" whoConfidence="low">does Pakistan not</u>
+<u n="754" who="UNKFEMALE" whoConfidence="low"><unclear/> Dubai sounds nice</u>
+<u n="755" who="UNKFEMALE" whoConfidence="low">does Pakistan have beaches?</u>
+<u n="756" who="S0061">I don't wanna go Pakistan <pause dur="short"/> who said that? <unclear/></u>
+<u n="757" who="UNKFEMALE" whoConfidence="low">you just said you wanna go Pakistan for your honeymoon</u>
+<u n="758" who="UNKFEMALE" whoConfidence="low">yeah <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="759" who="S0061">no I didn't say that <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="760" who="UNKFEMALE" whoConfidence="low">two against one <pause dur="short"/> I think you did</u>
+<u n="761" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="762" who="S0061">I think we should <trunc>recor</trunc> er rewind that back and listen to it</u>
+<u n="763" who="UNKFEMALE" whoConfidence="low">no no no er</u>
+<u n="764" who="S0061">yeah</u>
+<u n="765" who="UNKFEMALE" whoConfidence="low">that's not what we're here to do</u>
+<u n="766" who="S0061"><vocal desc="laugh"/></u>
+<u n="767" who="UNKFEMALE" whoConfidence="low">come on</u>
+<u n="768" who="S0061">it is</u>
+<u n="769" who="UNKFEMALE" whoConfidence="low">so where do you wanna go in</u>
+<u n="770" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="771" who="UNKFEMALE" whoConfidence="low">Pakistan for your honeymoon?</u>
+<u n="772" who="S0061"><vocal desc="laugh"/> I don't wanna go Pakistan for my honeymoon</u>
+<u n="773" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="774" who="UNKFEMALE" whoConfidence="low">what if your wife doesn't wanna go there though?</u>
+<u n="775" who="S0061">um</u>
+<u n="776" who="UNKFEMALE" whoConfidence="low">it'll hurt her feelings if you force her to Pakistan</u>
+<u n="777" who="UNKFEMALE" whoConfidence="low">so do you know where</u>
+<u n="778" who="S0061">she'd do what I said</u>
+<u n="779" who="UNKFEMALE" whoConfidence="low">bin Laden was in Pakistan?</u>
+<u n="780" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="781" who="UNKFEMALE" whoConfidence="low">you were hiding him</u>
+<u n="782" who="S0061">yeah <pause dur="short"/> he was er he was living in my garage</u>
+<u n="783" who="UNKFEMALE" whoConfidence="low">is that why you go to?</u>
+<u n="784" who="UNKFEMALE" whoConfidence="low">bin Laden in your garage? <vocal desc="laugh"/></u>
+<u n="785" who="UNKFEMALE" whoConfidence="low">tut tut tut tut tut</u>
+<u n="786" who="S0061">yeah <pause dur="short"/> we</u>
+<u n="787" who="UNKFEMALE" whoConfidence="low">that it's not funny <pause dur="short"/> you shouldn't make a joke out of that</u>
+<u n="788" who="S0061">we were having a party there <pause dur="short"/> really</u>
+<u n="789" who="UNKFEMALE" whoConfidence="low">you shouldn't make a joke out that</u>
+<u n="790" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="791" who="UNKFEMALE" whoConfidence="low">you'll get the government behind you</u>
+<u n="792" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="793" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="794" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="795" who="S0061">I was doing it just for the sake of it innit <pause dur="short"/> paid me</u>
+<u n="796" who="UNKFEMALE" whoConfidence="low">who paid you?</u>
+<u n="797" who="S0061">bin Laden paid me so I did it <pause dur="short"/> he did</u>
+<u n="798" who="UNKFEMALE" whoConfidence="low">so where was he? Where was his actual spot?</u>
+<u n="799" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="800" who="S0061">I can't remember <pause dur="short"/> he had the free</u>
+<u n="801" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/> Eh?</u>
+<u n="802" who="S0061">he had the free  of the house</u>
+<u n="803" who="UNKFEMALE" whoConfidence="low">yeah but you said you hid him <pause dur="short"/> so you should know where it was</u>
+<u n="804" who="S0061">er he just paid me <pause dur="short"/> I found him a place and that's it</u>
+<u n="805" who="UNKFEMALE" whoConfidence="low">oh right</u>
+<u n="806" who="UNKFEMALE" whoConfidence="low">I would not like to participate</u>
+<u n="807" who="UNKFEMALE" whoConfidence="low">he paid</u>
+<u n="808" who="UNKFEMALE" whoConfidence="low">in this conversation</u>
+<u n="809" who="S0061"><vocal desc="laugh"/> Says the one who started the</u>
+<u n="810" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="811" who="S0061">conversation <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="812" who="UNKFEMALE" whoConfidence="low">I didn't</u>
+<u n="813" who="UNKFEMALE" whoConfidence="low">what's wrong with your ear?</u>
+<u n="814" who="UNKFEMALE" whoConfidence="low">oh it's just itching a bit <pause dur="short"/> just had a piercing done at the top</u>
+<u n="815" who="UNKFEMALE" whoConfidence="low">seeing as you're high class do you not have anything for it?</u>
+<u n="816" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="817" who="UNKFEMALE" whoConfidence="low">I've just had it pierced yesterday <pause dur="short"/> you see I have put a bit of cream on it <pause dur="short"/> I think I need to go to pour some more on</u>
+<u n="818" who="UNKFEMALE" whoConfidence="low">I think you need to give it air <pause dur="short"/> why don't you take your scarf <unclear/></u>
+<u n="819" who="UNKFEMALE" whoConfidence="low">I'm a Muslim <pause dur="short"/> I'm a good Muslim <pause dur="short"/> I don't wanna show my hair</u>
+<u n="820" who="UNKFEMALE" whoConfidence="low">what about your eyebrows?</u>
+<u n="821" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="822" who="UNKFEMALE" whoConfidence="low">what about them? They're naturally shaped</u>
+<u n="823" who="UNKFEMALE" whoConfidence="low">yeah but you just said you don't wanna show your hair <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="824" who="UNKFEMALE" whoConfidence="low">oh er eyebrows is allowed</u>
+<u n="825" who="UNKFEMALE" whoConfidence="low">oh is it?</u>
+<u n="826" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="827" who="UNKFEMALE" whoConfidence="low">it's hard to keep up  with it  with it in this modern age</u>
+<u n="828" who="UNKFEMALE" whoConfidence="low">does your</u>
+<u n="829" who="UNKFEMALE" whoConfidence="low">I try my best</u>
+<u n="830" who="UNKFEMALE" whoConfidence="low">does your wife wear like modern clothes or is it traditional?</u>
+<u n="831" who="S0061">I'm not married <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="832" who="UNKFEMALE" whoConfidence="low">but once you're married to her would she cover her face?</u>
+<u n="833" who="S0061">whatever she wanted to do</u>
+<u n="834" who="UNKFEMALE" whoConfidence="low">are you gonna lock her in a cupboard?</u>
+<u n="835" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="836" who="S0061">no</u>
+<u n="837" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="838" who="UNKFEMALE" whoConfidence="low">I thought you you look like the type that would</u>
+<u n="839" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="840" who="S0061"><unclear/> shouldn't judge a book by its cover</u>
+<u n="841" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="842" who="S0061"><unclear/></u>
+<u n="843" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="844" who="UNKFEMALE" whoConfidence="low">yeah it is wet isn't it <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="845" who="UNKFEMALE" whoConfidence="low"><vocal desc="misc"/> <unclear/></u>
+<u n="846" who="UNKFEMALE" whoConfidence="low">okay <pause dur="short"/> bye</u>
+<u n="847" who="UNKFEMALE" whoConfidence="low">oh</u>
+<u n="848" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="849" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="850" who="S0061"><unclear/> conversation</u>
+<u n="851" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="852" who="UNKFEMALE" whoConfidence="low">why did you?</u>
+<u n="853" who="S0061">anything you <unclear/></u>
+</body>
+</text>

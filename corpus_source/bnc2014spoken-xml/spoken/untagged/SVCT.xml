@@ -1,0 +1,599 @@
+<text id="SVCT">
+	<header>
+		<rec_length>0:43:48</rec_length>
+		<rec_date>2016-05-31</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q2</rec_period>
+		<n_speakers>2</n_speakers>
+		<list_speakers>S0670 S0671</list_speakers>
+		<rec_loc>Coffee shop, Cryws Road, Wales</rec_loc>
+		<relationships>Friends, wider family circle</relationships>
+		<topics>Shakespeare, Sarcasm, Skill learning and “winning”, Surnames and nicknames, Golf, Places of work</topics>
+		<activity>Friends telling humorous anecdotes and discussing casual topics</activity>
+		<conv_type>Discussing, inquiring, ancedote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0670">
+				<exactage>20</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Exeter</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>English</dialect_rep>
+				<hab_city>Cardiff</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>18 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0671">
+				<exactage>21</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Nottingham</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>RP/ English</dialect_rep>
+				<hab_city>Cardiff</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>18 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>french -- conversational; German -- conversational</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0670">testing</u>
+<u n="2" who="S0671">testing testing</u>
+<u n="3" who="S0670">one pass one batch two batch penny and a dime</u>
+<u n="4" who="S0671"><vocal desc="laugh"/></u>
+<u n="5" who="S0670">yes</u>
+<u n="6" who="S0671">it's the quote the play is the thing</u>
+<u n="7" who="S0670">yes</u>
+<u n="8" who="S0671">is from what play?</u>
+<u n="9" who="S0670">that is a very good question so we're assuming it's a play in which there's a metadrama?</u>
+<u n="10" who="S0671">I think it's from Shakespeare</u>
+<u n="11" who="S0670">well yes I mean I</u>
+<u n="12" who="S0671" trans="overlap">well it's obviously from Shakespeare</u>
+<u n="13" who="S0670">it's it's from Shakespeare but</u>
+<u n="14" who="S0671">but erm</u>
+<u n="15" who="S0670">so</u>
+<u n="16" who="S0671" trans="overlap">I mean it's famously from Shakespeare isn't it really?</u>
+<u n="17" who="S0670">yes so it's one of his better-known plays? or is it just a well-known quote from a lesser play?</u>
+<u n="18" who="S0671" trans="overlap">okay so in what in what plays are there <trunc>meta</trunc></u>
+<u n="19" who="S0670" trans="overlap">metadrama</u>
+<u n="20" who="S0671" trans="overlap">drama?</u>
+<u n="21" who="S0670">so we've got</u>
+<u n="22" who="S0671" trans="overlap">so Hamlet?</u>
+<u n="23" who="S0670" trans="overlap">Midsummer Night's Dream Hamlet well there's definitely more why have I why is my brain frozen erm erm</u>
+<u n="24" who="S0671">there's one in erm in er The Tempest?</u>
+<u n="25" who="S0670">there is yes</u>
+<u n="26" who="S0671">I think it could be The Tempest</u>
+<u n="27" who="S0670">it's possible I've only read it once so</u>
+<u n="28" who="S0671">yeah I've only read it once good catching by the way mate</u>
+<u n="29" who="S0670">cheers good throwing</u>
+<u n="30" who="S0671">well oh sorry that was sarcastic <pause dur="short"/> <vocal desc="laugh"/> here's me getting er getting annoyed when er I say something and you take it as if it's sarcasm and then I say something sarcastically and you take it as if it's <vocal desc="laugh"/></u>
+<u n="31" who="S0670"><vocal desc="laugh"/></u>
+<u n="32" who="S0671">either way can't win <vocal desc="laugh"/></u>
+<u n="33" who="S0670">er I I it's it's something I've learned in life is I never win</u>
+<u n="34" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="35" who="S0670">I'd have a very very boring sitcom sitcom written about me</u>
+<u n="36" who="S0671">saying I never win?</u>
+<u n="37" who="S0670">yeah</u>
+<u n="38" who="S0671">but you can win</u>
+<u n="39" who="S0670">how?</u>
+<u n="40" who="S0671" trans="overlap">anyone can win</u>
+<u n="41" who="S0670">how do you win?</u>
+<u n="42" who="S0671">how do you win? you okay this I how you win you learn <trunc>s</trunc> the skill</u>
+<u n="43" who="S0670">yeah</u>
+<u n="44" who="S0671">and you practice it until it's a motor erm until it's like a motor programme</u>
+<u n="45" who="S0670">yeah</u>
+<u n="46" who="S0671" trans="overlap">and your muscles remember it</u>
+<u n="47" who="S0670">yeah</u>
+<u n="48" who="S0671">or your your speech remembers it or whatever skill it is</u>
+<u n="49" who="S0670">yeah</u>
+<u n="50" who="S0671">and then you erm practice it in different places so that you er you get a you have passion for it and you apply the skill that you've learnt motor with passion and interest and perseverance and that's how</u>
+<u n="51" who="S0670" trans="overlap">yeah</u>
+<u n="52" who="S0671">you win</u>
+<u n="53" who="S0670">well I've put my passion and endurance into video games</u>
+<u n="54" who="S0671">yeah uhu</u>
+<u n="55" who="S0670">don't always win at those frequently don't nice catching <pause dur="short"/> I'll give you ten points if you guess whether that was sarcastic or serious</u>
+<u n="56" who="S0671"><vocal desc="laugh"/> but you see you do win at video games</u>
+<u n="57" who="S0670">do I though?</u>
+<u n="58" who="S0671">yeah you do look how quickly you complete them it's cos you've got the motor skills and you've got the perseverance</u>
+<u n="59" who="S0670">yeah but is that winning? if I complete something if I <trunc>comple</trunc> if I can complete a video game quickly what have I won? where have I won in my life?</u>
+<u n="60" who="S0671">oh so how are you defining winning?</u>
+<u n="61" who="S0670">exactly</u>
+<u n="62" who="S0671">doing well at something</u>
+<u n="63" who="S0670" trans="overlap">yeah that</u>
+<u n="64" who="S0671" trans="overlap">better than other people is winning for you</u>
+<u n="65" who="S0670">to quote our robots that I'm certain is the right question <vocal desc="laugh"/> <pause dur="short"/> I meant winning on the grand scheme of things</u>
+<u n="66" who="S0671">oh not just</u>
+<u n="67" who="S0670" trans="overlap">how does one win?</u>
+<u n="68" who="S0671">love mercy act justly and walk humbly</u>
+<u n="69" who="S0670">is that One Life?</u>
+<u n="70" who="S0671">sorry?</u>
+<u n="71" who="S0670">is that One Life?</u>
+<u n="72" who="S0671">that's in the Bible mate</u>
+<u n="73" who="S0670"><vocal desc="laugh"/></u>
+<u n="74" who="S0671"><vocal desc="laugh"/></u>
+<u n="75" who="S0670">I was half expecting that to be a <anon type="name" nameType="m"/> original I was like yes preach it buddy <vocal desc="laugh"/></u>
+<u n="76" who="S0671"><vocal desc="laugh"/> well I dunno what is winning in life? key question I think it is those three things <pause dur="short"/> it's love mercy act justly and walk humbly</u>
+<u n="77" who="S0670">yeah that's a recipe for winning <pause dur="short"/> but what is what's it look like to win our life?</u>
+<u n="78" who="S0671">well you you get you learn the skill practice it so that it's a motor programme</u>
+<u n="79" who="S0670"><vocal desc="laugh"/></u>
+<u n="80" who="S0671">and then apply character</u>
+<u n="81" who="S0670">okay</u>
+<u n="82" who="S0671"><vocal desc="laugh"/></u>
+<u n="83" who="S0670">so I would argue that winning at life for me because obviously it's different from anyone else is to be happy how</u>
+<u n="84" who="S0671" trans="overlap">yeah</u>
+<u n="85" who="S0670">do I learn happiness as a motor skill?</u>
+<u n="86" who="S0671">oh well what is</u>
+<u n="87" who="S0670" trans="overlap">that scuppered you didn't it?</u>
+<u n="88" who="S0671" trans="overlap">what is what is happiness to you though?</u>
+<u n="89" who="S0670"><vocal desc="laugh"/> oh answering my question with a question how clever I'd say that's irrelevant</u>
+<u n="90" who="S0671"><vocal desc="laugh"/> really?</u>
+<u n="91" who="S0670">I would</u>
+<u n="92" who="S0671" trans="overlap">what what is happiness? it's so intangible that it's irrelevant is that</u>
+<u n="93" who="S0670" trans="overlap">yeah</u>
+<u n="94" who="S0671">what you're saying?</u>
+<u n="95" who="S0670">yep <vocal desc="laugh"/></u>
+<u n="96" who="S0671"><vocal desc="laugh"/></u>
+<u n="97" who="S0670">I'd say that how I achieve happiness isn't the relevant sign of this</u>
+<u n="98" who="S0671">oh okay</u>
+<u n="99" who="S0670">not how I become happy I mean the form of happiness happiness is a state of being how do I learn the ability to become happy as a motor skill?</u>
+<u n="100" who="S0671">I think er you as a motor skill</u>
+<u n="101" who="S0670">yeah</u>
+<u n="102" who="S0671">I think you need to er glean and <unclear/> nice</u>
+<u n="103" who="S0670"><vocal desc="laugh"/></u>
+<u n="104" who="S0671">glean and understand from lots of people just as okay so if you are saying how do I do forehand in tennis</u>
+<u n="105" who="S0670">yeah</u>
+<u n="106" who="S0671">erm</u>
+<u n="107" who="S0670">hit the ball</u>
+<u n="108" who="S0671">you</u>
+<u n="109" who="S0670">with the forehand</u>
+<u n="110" who="S0671">you learn lots from different people by watching people by erm watching people by reading books by getting people to coach you so those two so like watching people learning from people and then getting people to to coach you and then you understand what the skill is so for happiness watching people who are happy erm learning from people who are happy and getting someone to help you</u>
+<u n="111" who="S0670">okay</u>
+<u n="112" who="S0671">and then but you you see it looks different for other people so obviously</u>
+<u n="113" who="S0670">yeah</u>
+<u n="114" who="S0671">the set technique of the forehand is it's the same for everyone but it looks different for different people</u>
+<u n="115" who="S0670">how?</u>
+<u n="116" who="S0671">so you find how?</u>
+<u n="117" who="S0670">yes</u>
+<u n="118" who="S0671">well a Roger forehand's forehand Roger forehand</u>
+<u n="119" who="S0670" trans="overlap"><vocal desc="laugh"/> Roger forehand?</u>
+<u n="120" who="S0671">Roger Federer's</u>
+<u n="121" who="S0670" trans="overlap"><vocal desc="laugh"/> that would be an incredible tennis player</u>
+<u n="122" who="S0671"><vocal desc="laugh"/></u>
+<u n="123" who="S0670">watching him him Roger Roger forehand <vocal desc="laugh"/></u>
+<u n="124" who="S0671">there's a girl in my er in my literature class</u>
+<u n="125" who="S0670" trans="overlap"><vocal desc="laugh"/> <unclear/> there's a girl</u>
+<u n="126" who="S0671" trans="overlap">there's a girl in my er English class whose surname is <anon type="name" nameType="n"/></u>
+<u n="127" who="S0670"><anon type="name" nameType="n"/> oh that oh she was destined</u>
+<u n="128" who="S0671"><vocal desc="laugh"/> yeah</u>
+<u n="129" who="S0670">to be a literature student</u>
+<u n="130" who="S0671">erm so maybe learning from people get them get and then understand for yourself what the skill is understand what happiness is for yourself f</u>
+<u n="131" who="S0670">yeah</u>
+<u n="132" who="S0671">and then practice it in everyday life so maybe the skill that you've learnt from other people that happiness is to live in the moment</u>
+<u n="133" who="S0670">uhu</u>
+<u n="134" who="S0671">okay so just enjoy what we're doing right now</u>
+<u n="135" who="S0670">yeah</u>
+<u n="136" who="S0671">enjoying the simple things of life maybe you could pick that up from someone so then what you need to do is then practice that</u>
+<u n="137" who="S0670">yeah</u>
+<u n="138" who="S0671">every day erm once you've practiced it it becomes a motor neuron so that by <trunc>m</trunc> not <trunc>mot</trunc> a motor programme</u>
+<u n="139" who="S0670" trans="overlap">it becomes a motor neuron does it?</u>
+<u n="140" who="S0671">a motor programme so by the time you're ten years down the line you've been practicing this every day then it's becomes a way of life and all you need do is apply your perseverance to understand it's part of your character and you're suddenly happiness in that sense is part of you're starting to win in your in your sense</u>
+<u n="141" who="S0670">yeah <pause dur="short"/> nice</u>
+<u n="142" who="S0671">simple <vocal desc="laugh"/></u>
+<u n="143" who="S0670">I mean yeah</u>
+<u n="144" who="S0671">this is all tennis theory in er</u>
+<u n="145" who="S0670">this this is tennis under the guise of er</u>
+<u n="146" who="S0671">philosophy</u>
+<u n="147" who="S0670">yeah <vocal desc="laugh"/> I I love that because it should definitely be the other <trunc>r</trunc> other way round within a book it would be like you're talking about tennis but you're really talking about the darkness in each other's souls and here we are talking about happiness as an abstract concept all symbolic of hitting a nice forearm</u>
+<u n="148" who="S0671">oh yeah <vocal desc="laugh"/></u>
+<u n="149" who="S0670" trans="overlap">forearm? forehand</u>
+<u n="150" who="S0671" trans="overlap">forehand yeah <vocal desc="laugh"/></u>
+<u n="151" who="S0670">nice</u>
+<u n="152" who="S0671"><vocal desc="laugh"/></u>
+<u n="153" who="S0670">that was nice <trunc>fore</trunc>forearm hit then <vocal desc="laugh"/> could you make a move for forearm? <pause dur="short"/> you definitely could</u>
+<u n="154" who="S0671" trans="overlap">well you just have to</u>
+<u n="155" who="S0670" trans="overlap">if you if you hold the back the bat? the <vocal desc="laugh"/> I may not know much about tennis <vocal desc="laugh"/> but at least I know how to hold the bat is you hold it so you know how you normally hold it with the handle in your hand and the main body of the racquet further out above your hand?</u>
+<u n="156" who="S0671">the head yeah</u>
+<u n="157" who="S0670">yeah the head</u>
+<u n="158" who="S0671">yeah</u>
+<u n="159" who="S0670">you have you hold that the other way round so that the handle is still in your hand</u>
+<u n="160" who="S0671"><vocal desc="laugh"/></u>
+<u n="161" who="S0670">but the head is covering your forearm</u>
+<u n="162" who="S0671" trans="overlap">okay yeah</u>
+<u n="163" who="S0670">and you hold your arm outstretched and you hit it so you're hitting the ball between the erm</u>
+<u n="164" who="S0671">so the wrist</u>
+<u n="165" who="S0670">the elbow and the wrist</u>
+<u n="166" who="S0671">for some sort of weird drop shot would it be?</u>
+<u n="167" who="S0670">I mean it it's literally so you could call the move the forearm as opposed to the forehand but yeah sure it's a drop shot whatever <pause dur="short"/> fancy playing some virtual tennis actually might I might boot up GTA and play er</u>
+<u n="168" who="S0671"><vocal desc="laugh"/></u>
+<u n="169" who="S0670">play some tennis oh man you know what I <trunc>wa</trunc> I wanna play some golf I really do I do love I do love a bit a golf I'm a little I'm a little overzealous sometimes with er with my shots my friends are lining up their their wedges and their five irons</u>
+<u n="170" who="S0671">five iron?</u>
+<u n="171" who="S0670">not five iron they're wedges and it would probably be like an eight</u>
+<u n="172" who="S0671" trans="overlap">seven iron</u>
+<u n="173" who="S0670" trans="overlap">eight or</u>
+<u n="174" who="S0671" trans="overlap">or an eight iron yeah</u>
+<u n="175" who="S0670" trans="overlap">eight iron probably</u>
+<u n="176" who="S0671">so <unclear/></u>
+<u n="177" who="S0670" trans="overlap">oh yeah this this one just er I'll hit it really hard but I'll get a little you know not too much distance and I'm just there like guys you need two clubs in golf the driver and the putter</u>
+<u n="178" who="S0671"><vocal desc="laugh"/></u>
+<u n="179" who="S0670"><vocal desc="laugh"/> if it's not on the green use the driver</u>
+<u n="180" who="S0671"><vocal desc="laugh"/></u>
+<u n="181" who="S0670">although to be fair I did use I think I used the putter in the rough one time I was like the rough was just outside the green it was</u>
+<u n="182" who="S0671" trans="overlap">oh that's alright you're allowed to do that yeah</u>
+<u n="183" who="S0670">I was probably about like ten fifteen yards off the green and I was in some pretty thick rough I was like you know what? putter I'll smash it and I'll just flick into the green nicely</u>
+<u n="184" who="S0671">did it?</u>
+<u n="185" who="S0670">no</u>
+<u n="186" who="S0671">but it got caught in the rough</u>
+<u n="187" who="S0670" trans="overlap">even slightly</u>
+<u n="188" who="S0671">yeah</u>
+<u n="189" who="S0670">I er I I thrashed at the grass a little bit made quite a few divots the putter was probably irreparably broken although my friend <anon type="name" nameType="m"/> one time actually did manage to break a golf club we were at the driving range <vocal desc="laugh"/> in er wait was it it was we were either we were basically we were somewhere we either did a nine hole course at <anon type="place"/> or we were at the driving range and and <anon type="name" nameType="m"/> took an almighty swing with a nine iron and the head just came flying off and he's just stuck there holding just <vocal desc="laugh"/> the er the club with with no end at all to it</u>
+<u n="190" who="S0671"><vocal desc="laugh"/></u>
+<u n="191" who="S0670">just a long piece of stick essentially</u>
+<u n="192" who="S0671">did you ever did I ever tell you the story of <anon type="name" nameType="m"/>?</u>
+<u n="193" who="S0670">I don't think you did</u>
+<u n="194" who="S0671"><anon type="name" nameType="m"/> erm <unclear/> and let go of the we were doing a last shot</u>
+<u n="195" who="S0670">yeah</u>
+<u n="196" who="S0671">see who can hit it the furthest and he swings it</u>
+<u n="197" who="S0670">yeah</u>
+<u n="198" who="S0671" trans="overlap">let's go of the club at the right point</u>
+<u n="199" who="S0670">yeah <vocal desc="laugh"/></u>
+<u n="200" who="S0671"><vocal desc="laugh"/> in his in his swing so that when he turns around he doesn't have the club in his hand and it's disappeared from our view because you've got like the thing</u>
+<u n="201" who="S0670"><vocal desc="laugh"/> yeah</u>
+<u n="202" who="S0671">and it's just gone straight up in the air</u>
+<u n="203" who="S0670"><vocal desc="laugh"/></u>
+<u n="204" who="S0671">and erm and he looks round and looking like he's killed a man</u>
+<u n="205" who="S0670"><vocal desc="laugh"/></u>
+<u n="206" who="S0671">he was just really kind of quiet atmosphere and erm <pause dur="short"/> and then we don't see it land but we do see it kind of bit like where's it gone where's it gone? and we look up there and you know the big nets?</u>
+<u n="207" who="S0670"><vocal desc="laugh"/> yeah</u>
+<u n="208" who="S0671">that come we just see <vocal desc="misc"/></u>
+<u n="209" who="S0670"><vocal desc="laugh"/></u>
+<u n="210" who="S0671">over the net</u>
+<u n="211" who="S0670"><vocal desc="laugh"/></u>
+<u n="212" who="S0671"><vocal desc="laugh"/></u>
+<u n="213" who="S0670">what?</u>
+<u n="214" who="S0671">yeah and he was using <unclear>jack</unclear> six iron</u>
+<u n="215" who="S0670">no way</u>
+<u n="216" who="S0671">and <unclear>jack</unclear> six selection</u>
+<u n="217" who="S0670"><vocal desc="laugh"/></u>
+<u n="218" who="S0671"><vocal desc="laugh"/> onto the first tee</u>
+<u n="219" who="S0670"><vocal desc="laugh"/></u>
+<u n="220" who="S0671">just bang</u>
+<u n="221" who="S0670"><vocal desc="laugh"/> did you manage to get it back?</u>
+<u n="222" who="S0671">we did but thankfully no one was on the first tee</u>
+<u n="223" who="S0670">thank goodness</u>
+<u n="224" who="S0671">cos it would have just it it <trunc>lit</trunc> landed on the on the er tee box so it's like <vocal desc="misc"/></u>
+<u n="225" who="S0670">to be fair I'm gonna be honest like golf is just a statistical nightmare when it comes to injury and death like it's not likely but the amount of times that I've heard stories like that or that I've done stuff like that where I've been on the driving range and I've hit a ball and it's had so much shwang it's gone over the net straight into like the second hole kind of area and I'm like you have</u>
+<u n="226" who="S0671" trans="overlap">over that way?</u>
+<u n="227" who="S0670">you have yeah over to the right you have so <trunc>m</trunc> big and open space with so few people on but so many loose balls flying like at ridiculous paces with ridiculous force</u>
+<u n="228" who="S0671">but I tell you I was out</u>
+<u n="229" who="S0670" trans="overlap">and like it it's not gonna hit anyone at all like on a regular basis but like when when the statistics do <unclear>line</unclear> up and it hits someone they are going down like</u>
+<u n="230" who="S0671">yeah yeah</u>
+<u n="231" who="S0670" trans="overlap">if you get hit by a club that comes</u>
+<u n="232" who="S0671">yeah</u>
+<u n="233" who="S0670" trans="overlap">flying over the netting you get hit by a loose ball from the driving range</u>
+<u n="234" who="S0671"><vocal desc="laugh"/></u>
+<u n="235" who="S0670">you you are not getting up</u>
+<u n="236" who="S0671"><vocal desc="laugh"/> no</u>
+<u n="237" who="S0670">soon after that</u>
+<u n="238" who="S0671"><vocal desc="laugh"/> well I was er I was at er once on the erm on the er on the course with <anon type="name" nameType="m"/></u>
+<u n="239" who="S0670">yeah</u>
+<u n="240" who="S0671">and er he's we were on the green and we hear fore</u>
+<u n="241" who="S0670">yeah</u>
+<u n="242" who="S0671" trans="overlap">like this we're like oh so we're kind of ducked down like that bracing ourselves</u>
+<u n="243" who="S0670">yeah</u>
+<u n="244" who="S0671">and and the ball smacks into the golf bag</u>
+<u n="245" who="S0670">oh my goodness</u>
+<u n="246" who="S0671">it's</u>
+<event desc="sound of wind"/>
+<u n="247" who="S0671">into the golf bag woah</u>
+<u n="248" who="S0670">yeah I nearly got hit at <anon type="place"/> we were on I think the third hole someone was on the first and there's a bit of overlap cos <anon type="place"/> golf course is <unclear/> at all but this guy probably hits it over a couple of hundred yards</u>
+<u n="249" who="S0671">yeah</u>
+<u n="250" who="S0670" trans="overlap">with the driver so it's going pretty fast and we just hit a fore and we turn around and the problem with shouting fore in my opinion is unless you're an actual golfer you know to brace or crouch down as you did it's just letting you know a second before when you get hit that you're going to get hit like if you don't get hit it's like a oh hang on a sec he said fore but if you do get hit all the <unclear/> panic for those that second before you get hit</u>
+<u n="251" who="S0671" trans="overlap">why don't you just</u>
+<u n="252" who="S0670">and like so <anon type="name" nameType="m"/> and I turned round like ah ah ah <anon type="name" nameType="m"/> like darts back and forth panicking like where have it gotta be? ah</u>
+<u n="253" who="S0671"><vocal desc="laugh"/></u>
+<u n="254" who="S0670">and we both hear the ball</u>
+<u n="255" who="S0671" trans="overlap">that's the worst thing to do</u>
+<u n="256" who="S0670">just whip right past our ear cos we're probably like a couple of metres apart and <vocal desc="misc"/> and it lands straight into the marsh right in front of us and I'm like oh my goodness I was a metre away from getting concussed like the life out of me <vocal desc="laugh"/> it's a dangerous sport</u>
+<u n="257" who="S0671">I guess but statistically like the worst thing to do is to run around right? or no</u>
+<u n="258" who="S0670">no like</u>
+<u n="259" who="S0671" trans="overlap">it makes I guess the worst thing to do would be to make yourself big</u>
+<u n="260" who="S0670">yeah I mean like it does sound logical at first that the most statistically bad thing to do is to move about because that way you're erm you know increasing your area over the time between the ball being shouted as fore and the ball hitting something but in realistic terms the ball is only going to one place so</u>
+<u n="261" who="S0671">yeah</u>
+<u n="262" who="S0670">if you run about you're not unless the ball was also moving in the fourth dimension</u>
+<u n="263" who="S0671"><vocal desc="laugh"/></u>
+<u n="264" who="S0670">erm but yeah making yourself large is the worst thing to do facing the direction that the person so when they shout fore turning around is a bad idea getting hit in the back of the head's not good getting hit like in you know the forehead or the face</u>
+<u n="265" who="S0671"><vocal desc="laugh"/> oh</u>
+<u n="266" who="S0670">is not not great <pause dur="long"/> yeah oh <pause dur="short"/> oh <pause dur="short"/> oh oh oh oh</u>
+<u n="267" who="S0671">oh thank goodness for that</u>
+<u n="268" who="S0670">yeah thank goodness</u>
+<u n="269" who="S0671">nice</u>
+<u n="270" who="S0670">tight throwing <pause dur="short"/> erm I think I might pop to the loo in</u>
+<u n="271" who="S0671">okay</u>
+<u n="272" who="S0670">mind if we take a break from this <unclear/> some air?</u>
+<event desc="recording skips"/>
+<u n="273" who="S0670">cheers buddy okay</u>
+<u n="274" who="S0671">I'm gonna be at this end now</u>
+<u n="275" who="S0670">yeah that's good</u>
+<u n="276" who="S0671">another ten minutes is that alright?</u>
+<u n="277" who="S0670" trans="overlap">yeah</u>
+<u n="278" who="S0671">so ten minutes left?</u>
+<u n="279" who="S0670">is that alright?</u>
+<u n="280" who="S0671">yeah that's absolutely fine yeah tell you what I was thinking about there when you were throwing stones at me I was thinking</u>
+<u n="281" who="S0671">David and Goliath?</u>
+<u n="282" who="S0670">no although I'm definitely David</u>
+<u n="283" who="S0671">while I'm throwing stones</u>
+<u n="284" who="S0670">yes ta I have the physique of David</u>
+<u n="285" who="S0671"><unclear>I'm not so sure</unclear> Goliath yeah</u>
+<u n="286" who="S0670">I also have the potential for adultery and murder in my life later</u>
+<u n="287" who="S0671">everyone does though everyone</u>
+<u n="288" who="S0670"><vocal desc="laugh"/> everyone's got the potential <vocal desc="laugh"/> what I was thinking about was have you ever <pause dur="short"/> messed about with BB guns?</u>
+<u n="289" who="S0671">yes</u>
+<u n="290" who="S0670">oh of course you er</u>
+<u n="291" who="S0671" trans="overlap">well I've played with</u>
+<u n="292" who="S0670">at <anon type="place"/> school of course you did <vocal desc="laugh"/></u>
+<u n="293" who="S0671">if BB guns mean guns that fire those little pellets yes</u>
+<u n="294" who="S0670">BB pellets yes</u>
+<u n="295" who="S0671">yes</u>
+<u n="296" who="S0670">yes that that that's very astute of you</u>
+<u n="297" who="S0671">well I didn't know if enough can that meant like some sort of weird innuendo</u>
+<u n="298" who="S0670">like what?</u>
+<u n="299" who="S0671">I dunno what but you know when someone says</u>
+<u n="300" who="S0670">a phallic reference per chance? <vocal desc="laugh"/></u>
+<u n="301" who="S0671">go on have you?</u>
+<u n="302" who="S0670">yes I have and I was thinking if those stones had hit me that would have been a similar pain to er that of being hit by a BB gun pellet cos those things can be vicious</u>
+<u n="303" who="S0671">I'm not sure that stone would have hurt very much though</u>
+<u n="304" who="S0670">no it would have stung if it had hit though</u>
+<u n="305" who="S0671">really?</u>
+<u n="306" who="S0670">like BB pellets do yeah</u>
+<u n="307" who="S0671">oh if you threw it hard yeah</u>
+<u n="308" who="S0670">yeah</u>
+<u n="309" who="S0671">but not as I was throwing it in there</u>
+<u n="310" who="S0670">well the er the flight path of it meant that when it was coming down it gained a little bit of pace they were also quite sharp</u>
+<u n="311" who="S0671">really?</u>
+<u n="312" who="S0670">yeah</u>
+<u n="313" who="S0671" trans="overlap">oh sorry mate I didn't realise it was gonna</u>
+<u n="314" who="S0670">oh it did don't worry like <vocal desc="laugh"/> it</u>
+<u n="315" who="S0671">like <unclear/> and it just</u>
+<u n="316" who="S0670">it's called banter <vocal desc="laugh"/></u>
+<u n="317" who="S0671">I went like that</u>
+<u n="318" who="S0670">yeah but it was <unclear>I dunno they</unclear> didn't hit me it wouldn't have stung as in like I wouldn't have been like ouch why? but like it you would have felt it</u>
+<u n="319" who="S0671">okay yeah <vocal desc="laugh"/></u>
+<u n="320" who="S0670">yeah yeah I was thinking of er yeah BB guns they hurt <pause dur="long"/> don't have a er witty anecdote to follow that on? or are you just gonna</u>
+<u n="321" who="S0671">no no witty anecdotes</u>
+<u n="322" who="S0670">great great great well <pause dur="short"/> so what's it like being the worst passer in this back garden?</u>
+<u n="323" who="S0671">to answer this question we found <anon type="name" nameType="m"/></u>
+<u n="324" who="S0670"><vocal desc="laugh"/> nice</u>
+<u n="325" who="S0671">and interviewed him</u>
+<u n="326" who="S0670"><vocal desc="laugh"/> that was that was the classic sort of like I know you are but what am I? <vocal desc="laugh"/></u>
+<u n="327" who="S0671">ah right this afternoon</u>
+<u n="328" who="S0670">yeah</u>
+<u n="329" who="S0671"><anon type="name" nameType="m"/> finishes his exam and I'm gonna see if he fancies some tennis</u>
+<u n="330" who="S0670">also his birthday by the way don't forget</u>
+<u n="331" who="S0671"><anon type="name" nameType="m"/>'s birthday today?</u>
+<u n="332" who="S0670">yeah</u>
+<u n="333" who="S0671">is it really?</u>
+<u n="334" who="S0670">yes</u>
+<u n="335" who="S0671">and we're going to <anon type="place"/> this evening?</u>
+<u n="336" who="S0670">yeah</u>
+<u n="337" who="S0671">are you sure it's his birthday?</u>
+<u n="338" who="S0670">absolutely</u>
+<u n="339" who="S0671">are you absolutely not having me on?</u>
+<u n="340" who="S0670">I'm absolutely not having you on the look on his face will</u>
+<u n="341" who="S0671" trans="overlap">okay cool cool</u>
+<u n="342" who="S0670">yeah</u>
+<u n="343" who="S0671">yeah great I will erm in which case wish him happy birthday instead of inviting him</u>
+<u n="344" who="S0670" trans="overlap">yeah</u>
+<u n="345" who="S0671" trans="overlap">to play tennis I had no idea it was his birthday today</u>
+<u n="346" who="S0670">yeah I mean you can still play tennis with him <pause dur="short"/> I'm considering whether or not we should get a gift for him or if that would set a double standard</u>
+<u n="347" who="S0671">I think we can buy him his his</u>
+<u n="348" who="S0670">drink?</u>
+<u n="349" who="S0671" trans="overlap">dessert yeah</u>
+<u n="350" who="S0670" trans="overlap">his <trunc>de</trunc> oh no of course what <anon type="place"/> yeah let's buy him a little birthday no <trunc>t</trunc></u>
+<u n="351" who="S0671" trans="overlap">should buy him a big dessert for his birthday</u>
+<u n="352" who="S0670" trans="overlap">even better even better like to there and kick up a big fuss about the fact that it's his birthday and see if we can get it for free</u>
+<u n="353" who="S0671">yeah</u>
+<u n="354" who="S0670">why don't we go on a tour of all of the restaurants in <anon type="place"/> and say <vocal desc="laugh"/> it's his birthday <vocal desc="laugh"/> and then just see how many we get free dessert from and then break them based on how stingy they're being <vocal desc="laugh"/></u>
+<u n="355" who="S0671">which er which business would you own if you owned all of <anon type="place"/>?</u>
+<u n="356" who="S0670">oh that is a really good question erm what I'd like to do really is consult the <anon type="place"/> monopoly board cos that one</u>
+<u n="357" who="S0671" trans="overlap">oh yeah</u>
+<u n="358" who="S0670">kind of the definitive thing</u>
+<u n="359" who="S0671">Swalec would be quite good I think</u>
+<u n="360" who="S0670">Swalec?</u>
+<u n="361" who="S0671">I feel like there's lots of potential in that university town <anon type="place"/> if you own Swalec like</u>
+<u n="362" who="S0670" trans="overlap">yeah</u>
+<u n="363" who="S0671"><trunc>th</trunc>they advertise at <anon type="place"/> they provide</u>
+<u n="364" who="S0670" trans="overlap">oh <anon type="place"/> is a stadium?</u>
+<u n="365" who="S0671" trans="overlap">all the gas to everything erm well so it's it's an energy company</u>
+<u n="366" who="S0670">oh right oh of course it is sorry for a minute there I thought that was like the name of that group within the university that we went to the lecture on Hamlet for and I was like great have fun with those guys <vocal desc="laugh"/></u>
+<u n="367" who="S0671">erm</u>
+<u n="368" who="S0670">nerd</u>
+<u n="369" who="S0671">nerds erm</u>
+<u n="370" who="S0670">prepared to be bored <unclear>with</unclear> nerds</u>
+<u n="371" who="S0671">yeah I think cos Swalec would be like the er the erm utilities kind of thing</u>
+<u n="372" who="S0670">yeah nice</u>
+<u n="373" who="S0671">a monopoly and also they're they sponsor the big stage and like it's good they're doing well</u>
+<u n="374" who="S0670">yeah that's fair normally I like to go for the er the train stations but would I really want a share in <anon type="place"/>? maybe would I want a share in <anon type="place"/>? not at all would I want a share of <anon type="place"/>? get out of just no no</u>
+<u n="375" who="S0671"><vocal desc="laugh"/></u>
+<u n="376" who="S0670">erm I dunno <vocal desc="sigh"/> I mean what would be a good one cos I love it and it would make a lot of money is Ikea</u>
+<u n="377" who="S0671">yeah that's <unclear>good</unclear></u>
+<u n="378" who="S0670" trans="overlap">the Ikea in <anon type="place"/> although are we talking about owning like companies that are entirely based in <anon type="place"/>? or is this like owning a branch? <pause dur="short"/> cos if it's a branch then yeah I can put Ikea but if it is the company I can't because it's not based in <anon type="place"/> it's based in Sweden</u>
+<u n="379" who="S0671">okay erm I think you can you <trunc>ca</trunc> <unclear>okay so</unclear> er it's up to you what you <trunc>ch</trunc> what you what you do but you basically can be the <pause dur="short"/> if you choose one that's based somewhere else you can be the owner of the branch</u>
+<u n="380" who="S0670">yeah</u>
+<u n="381" who="S0671">but if you choose something that's based in here you become like the CEO</u>
+<u n="382" who="S0670">yeah I think it would be cool to have Ikea but I won't choose it purely because being CEO is way better like cos being store manager you're not your own boss you're just another</u>
+<u n="383" who="S0671" trans="overlap">yeah</u>
+<u n="384" who="S0670">manager in an endless line of managers you've just got someone else telling you do this and then you're telling other people do this</u>
+<u n="385" who="S0671">yeah</u>
+<u n="386" who="S0670" trans="overlap">and I don't really like that kind of bureaucracy personally</u>
+<u n="387" who="S0671">yeah</u>
+<u n="388" who="S0670">erm <vocal desc="sigh"/></u>
+<u n="389" who="S0671">you wouldn't enjoy the army then?</u>
+<u n="390" who="S0670">I wouldn't if I'm honest no the army's a little better because er the orders are kind of a bit more direct and</u>
+<u n="391" who="S0671">okay yeah</u>
+<u n="392" who="S0670" trans="overlap">they have meaning</u>
+<u n="393" who="S0671">okay yeah yeah</u>
+<u n="394" who="S0670">whereas just working within retail I can tell you a lot of stuff that comes from up top and from managers is just completely useless</u>
+<u n="395" who="S0671"><unclear>oh right</unclear></u>
+<u n="396" who="S0670">there is no need for it and this isn't in a sort of like sorry <unclear>sir</unclear> having to disobey your order sir taking the stronghold now not later this is like no I'm not gonna fold that shirt like that it looks stupid <vocal desc="laugh"/> I don't care what your focus group thought it looks <unclear>dumb</unclear></u>
+<u n="397" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="398" who="S0670">erm so it would have to be CEO of a company <anon type="place"/> would fulfil my passions and the aesthetic is amazing</u>
+<u n="399" who="S0671">yeah cool place <unclear>too</unclear></u>
+<u n="400" who="S0670" trans="overlap">but it would not bring in the money that like <anon type="place"/> would</u>
+<u n="401" who="S0671">okay yeah</u>
+<u n="402" who="S0670"><anon type="name" nameType="m"/> made a good point with <anon type="place"/></u>
+<u n="403" who="S0671"><anon type="place"/> it's not <anon type="place"/> any more</u>
+<u n="404" who="S0670" trans="overlap">no it's <anon type="place"/> I do not care</u>
+<u n="405" who="S0671" trans="overlap">yeah but hold on but in our in our discussion though it's not because you you would own <pause dur="short"/> it's <unclear>called</unclear> it's being sponsored by who's it being sponsored by?</u>
+<u n="406" who="S0670"><anon type="place"/></u>
+<u n="407" who="S0671">is it the <anon type="place"/>?</u>
+<u n="408" who="S0670">yeah so here's what I'd do is I'd become <vocal desc="laugh"/> CEO of the <anon type="place"/> I'd tell <anon type="place"/> to jog on <vocal desc="laugh"/> and I would continue naming it the <anon type="place"/></u>
+<u n="409" who="S0671">okay that's a good er starting point for a discussion there what would you?</u>
+<u n="410" who="S0670" trans="overlap">okay great</u>
+<u n="411" who="S0671">what would er what <trunc>w</trunc> games would you bid for? what would you bid for?</u>
+<u n="412" who="S0670">what what games?</u>
+<u n="413" who="S0671">as in what games would you try and have there? would you have international rugby? international football? cricket? <unclear/></u>
+<u n="414" who="S0670" trans="overlap">everything</u>
+<u n="415" who="S0671">everything?</u>
+<u n="416" who="S0670">I would bid for everything get all of the money in <vocal desc="laugh"/></u>
+<u n="417" who="S0671">no but that means you have to spend a lot of money</u>
+<u n="418" who="S0670">have to spend money to get it <vocal desc="laugh"/> sort of <vocal desc="laugh"/> I guess erm I guess it's not really set up for cricket is it?</u>
+<u n="419" who="S0671">no that's more <anon type="place"/></u>
+<u n="420" who="S0670">yeah alright</u>
+<u n="421" who="S0671"><vocal desc="laugh"/></u>
+<u n="422" who="S0670">so rugby international rugby yes</u>
+<u n="423" who="S0671">it's a real win</u>
+<u n="424" who="S0670">there's already a massive erm</u>
+<u n="425" who="S0671">yeah</u>
+<u n="426" who="S0670">demand for it for that stadium it's well known for it</u>
+<u n="427" who="S0671">yeah</u>
+<u n="428" who="S0670">so rugby definitely <pause dur="short"/> I think football I would spend much less on</u>
+<u n="429" who="S0671">okay</u>
+<u n="430" who="S0670">and not not much less than is currently being spent but much <trunc>le</trunc> much less than rugby</u>
+<u n="431" who="S0671">okay</u>
+<u n="432" who="S0670">I think that <anon type="place"/> is a more rugby city than</u>
+<u n="433" who="S0671" trans="overlap">yeah</u>
+<u n="434" who="S0670">football</u>
+<u n="435" who="S0671">yeah and you've got <anon type="place"/> football stadium for that anyway</u>
+<u n="436" who="S0670">yeah I'd throw in a few bids here and there see if I get stuff on the cheap bit of a ninety-nine P <trunc>s</trunc> you know buy it now starting bid type of thing <pause dur="short"/> but yeah what about you? what would you bid in the <anon type="place"/>?</u>
+<u n="437" who="S0671">oh so I own the gas company not the stadium though</u>
+<u n="438" who="S0670">oh</u>
+<u n="439" who="S0671">but I will have shares in the stadium so as a shareholder I would</u>
+<u n="440" who="S0670" trans="overlap">yeah</u>
+<u n="441" who="S0671">want to see them bid for erm international one days because that is such a good form of the game and it's the way the game's going and international T twenty so international T twenty probably more than one days because erm I'd put a lot of money into that and Glamorgan cricket club</u>
+<u n="442" who="S0670">yeah</u>
+<u n="443" who="S0671">er so for the international T twenties if we can host some <trunc>in</trunc>international T twenty that would be really good</u>
+<u n="444" who="S0670">yeah <pause dur="short"/> yeah okay</u>
+<u n="445" who="S0671">cos loads the TV crews come and everything and</u>
+<u n="446" who="S0670">yeah</u>
+<u n="447" who="S0671">nice pass</u>
+<u n="448" who="S0670">yeah cheers buddy mm <pause dur="short"/> you know where <trunc>w</trunc> what would be really nice to own but again it's not big big bucks but it's cool <pause dur="short"/> a place like <anon type="place"/></u>
+<u n="449" who="S0670">okay</u>
+<u n="450" who="S0671" trans="overlap">like a really nice bar</u>
+<u n="451" who="S0670">yeah</u>
+<u n="452" who="S0671"><anon type="place"/>?</u>
+<u n="453" who="S0670">er mate <anon type="place"/>'s a little bit too sort of on the side of club</u>
+<u n="454" who="S0671">yeah</u>
+<u n="455" who="S0670">erm <pause dur="short"/> yeah I mean I'm just gonna have to say <anon type="place"/></u>
+<u n="456" who="S0671">nice yeah good</u>
+<u n="457" who="S0670">it doesn't have the money in it but to be fair I'm currently</u>
+<u n="458" who="S0671" trans="overlap">what about <anon type="place"/>?</u>
+<u n="459" who="S0670">I'm currently about twenty-six twenty-seven grand in debt? so you know some money is better than minus money <pause dur="long"/> mm tell you what if you could work in any place in <anon type="place"/> where would you work? full time you're done with uni you're you can have any position anywhere in <anon type="place"/> <pause dur="long"/> but you have the current experience that you physically have right now so you can go for a high up position somewhere but know that you will not know your way around it really</u>
+<u n="460" who="S0671">er yeah erm <pause dur="long"/></u>
+<u n="461" who="S0670">you know what I think?</u>
+<u n="462" who="S0671">yeah</u>
+<u n="463" who="S0670">I'd be a lecturer at <anon type="place"/></u>
+<u n="464" who="S0671">ah really?</u>
+<u n="465" who="S0670">yeah purely</u>
+<u n="466" who="S0671" trans="overlap">what</u>
+<u n="467" who="S0670">because like what I'd like to actually be is a writer but there isn't like <pause dur="short"/> that that's a bit of a freelance thing so that that's not particularly specific to <anon type="place"/> but if it was like a position in <anon type="place"/> yeah lecturer</u>
+<u n="468" who="S0671">nice <pause dur="short"/> I think that's a good <unclear/></u>
+<u n="469" who="S0670" trans="overlap">you know with aims to be <vocal desc="laugh"/> <unclear/></u>
+<u n="470" who="S0671">I couldn't see that cos of the <unclear/></u>
+<u n="471" who="S0670" trans="overlap">I know that's why I threw it</u>
+<u n="472" who="S0671"><vocal desc="laugh"/></u>
+<u n="473" who="S0670">with aims to becoming head of school</u>
+<u n="474" who="S0671">nice</u>
+<u n="475" who="S0670">like professor <anon type="name" nameType="n"/> <pause dur="long"/> yeah what would you be?</u>
+<u n="476" who="S0671">oh I don't know I'm trying to walk through <anon type="place"/> and see all the all the places where I</u>
+<u n="477" who="S0670">oh nice</u>
+<u n="478" who="S0671" trans="overlap">are we talking are we talking realistically?</u>
+<u n="479" who="S0670">no <pause dur="short"/> anything the <trunc>on</trunc> the only addendum is like if you pick something high up you are going to have to learn on the job so if it's <pause dur="short"/> I mean yeah it it basically it's a really good question because on the one hand it's just like it's nonsense it's like whatever where do you wanna work? but on the other hand it is asking the kind of deep question of where do you think you are at right now? <pause dur="short"/> sorry that was my bad</u>
+<u n="480" who="S0671">erm</u>
+<u n="481" who="S0670">that was just a bad pass all round <pause dur="long"/></u>
+<u n="482" who="S0671">not sure man</u>
+<u n="483" who="S0670">you're thinking rugby player or something aren't you?</u>
+<u n="484" who="S0671">well I was thinking just then I was thinking <pause dur="short"/> just then I was thinking er head of hospitality at the <anon type="place"/></u>
+<u n="485" who="S0670">nice</u>
+<u n="486" who="S0671">gonna meet a lot of interesting people</u>
+<u n="487" who="S0670">yeah</u>
+<u n="488" who="S0671">network erm</u>
+<u n="489" who="S0670">networking is your skill</u>
+<u n="490" who="S0671">or <pause dur="long"/> oh you know man I'm not sure what there is in <anon type="place"/> really to erm <pause dur="short"/> could work at there's a huge sports complex the the <trunc>na</trunc> the <anon type="place"/> complex</u>
+<u n="491" who="S0670">yeah</u>
+<u n="492" who="S0671">erm just</u>
+<u n="493" who="S0670" trans="overlap">nice</u>
+<u n="494" who="S0671">outside the <anon type="place"/> er</u>
+<u n="495" who="S0670" trans="overlap">yeah</u>
+<u n="496" who="S0671">and to work as a</u>
+<u n="497" who="S0670"><unclear/></u>
+<u n="498" who="S0671">as a director there or something</u>
+<u n="499" who="S0670">nice <pause dur="short"/> that's what I love about the sun our washes dried in like</u>
+<u n="500" who="S0671">thirty minutes</u>
+<u n="501" who="S0670" trans="overlap">half an hour yeah so head of hospitality or sports complex what did you say about the sports complex?</u>
+<u n="502" who="S0671">well I was gonna say a director of er</u>
+<u n="503" who="S0670">a director?</u>
+<u n="504" who="S0671">of er one of the initiatives or something</u>
+<u n="505" who="S0670">nice <pause dur="long"/> yeah that's cool suits you as well <pause dur="short"/> I feel like sport is a big part of your life</u>
+<u n="506" who="S0671">it is but then lots of things are and it's just because it's the summer at the moment it's just whatever I whatever I get into really</u>
+<u n="507" who="S0670">yeah</u>
+<u n="508" who="S0671">and sport is big but I could equally be as into music or</u>
+<u n="509" who="S0670">that's true</u>
+<u n="510" who="S0671">so it's not it's not the only it's not the only interest in</u>
+<u n="511" who="S0670">oh</u>
+<u n="512" who="S0671">it goes <vocal desc="misc"/></u>
+<u n="513" who="S0670"><vocal desc="laugh"/> woo</u>
+<u n="514" who="S0671">right let's er</u>
+<u n="515" who="S0670">shall we call it there or</u>
+<u n="516" who="S0671" trans="overlap">got the</u>
+<u n="517" who="S0670">do you wanna</u>
+<u n="518" who="S0671">yeah let's call it there</u>
+<u n="519" who="S0670">carry on with that other section?</u>
+<u n="520" who="S0671">let's call it a day there I think</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

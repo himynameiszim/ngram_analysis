@@ -1,0 +1,2822 @@
+<text id="S4KE">
+<u n="1" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVZ" lemma="feel" class="VERB" usas="X2:1">feels</w>
+<w pos="RG" lemma="quite" class="ADV" usas="A13:5">quite</w>
+<w pos="JJ" lemma="warm" class="ADJ" usas="O4:6">warm</w>
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+<w pos="VDZ" lemma="do" class="VERB" usas="Z5">does</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="2" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="3" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<pause dur="short"/>
+<w pos="UH" lemma="yep" class="INTERJ" usas="Z4">yep</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="suppose" class="VERB" usas="Z4">suppose</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="mean" class="VERB" usas="Z4">mean</w>
+<w pos="CS" lemma="if" class="CONJ" usas="Z7">if</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="small" class="ADJ" usas="N3:2">small</w>
+<w pos="NN1" lemma="car" class="SUBST" usas="M3">car</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VM" lemma="might" class="VERB" usas="A7">might</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="JJ" lemma="alright" class="ADJ" usas="A5:1">alright</w>
+<w pos="PN1" lemma="nothing" class="PRON" usas="Z6">nothing</w>
+<w pos="RG" lemma="too" class="ADV" usas="N5:2">too</w>
+<w pos="JJ" lemma="dramatic" class="ADJ" usas="K4">dramatic</w>
+<w pos="NN1" lemma="copper" class="SUBST" usas="O1:1">copper</w>
+<w pos="NN1" lemma="car" class="SUBST" usas="M3">car</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VBN" lemma="be" class="VERB" usas="Z5">been</w>
+<w pos="VDG" lemma="do" class="VERB" usas="A1:1:1">doing</w>
+<w pos="NN2" lemma="dialect" class="SUBST" usas="Q3">dialects</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="APPGE" lemma="my" class="PRON" usas="Z8">my</w>
+<w pos="NN1" lemma="linguistics" class="SUBST" usas="Q3">linguistics</w>
+<w pos="NN1" lemma="class" class="SUBST" usas="Q3">class</w>
+<w pos="RR" lemma="recently" class="ADV" usas="T3">recently</w>
+<w pos="MC1" lemma="one" class="ADJ" usas="N1">one</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="DD1" lemma="this" class="ADJ" usas="M6">this</w>
+<w pos="NN1" lemma="thing" class="SUBST" usas="O2">thing</w>
+<w pos="RR" lemma="online" class="ADV" usas="Y2">online</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="VVI" lemma="go" class="VERB" usas="T2">go</w>
+<w pos="RP" lemma="on" class="ADV" usas="T2">on</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="VVI" lemma="click" class="VERB" usas="X3:2">click</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="JJ" lemma="different" class="ADJ" usas="A6:1">different</w>
+<w pos="NN2" lemma="recording" class="SUBST" usas="Q1:2">recordings</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="NN" lemma="people" class="SUBST" usas="S2">people</w>
+<w pos="II" lemma="around" class="PREP" usas="Z5">around</w>
+<w pos="NP1" lemma="england" class="SUBST" usas="Z2">England</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="NN1" lemma="curiosity" class="SUBST" usas="X5:2">curiosity</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="click" class="VERB" usas="X3:2">clicked</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NP1" lemma="gravesend" class="SUBST" usas="Z2">Gravesend</w>
+<w pos="VVG" lemma="wonder" class="VERB" usas="X2:1">wondering</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VM" lemma="would" class="VERB" usas="A7">would</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="RR" lemma="like" class="ADV" usas="Z4">like</w>
+</u>
+<u n="4" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="5" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="bloody" class="ADJ" usas="Z4">bloody</w>
+<w pos="JJ" lemma="old" class="ADJ" usas="T3">old</w>
+<w pos="NN1" lemma="diddicoy" class="SUBST" usas="Z99">diddicoy</w>
+<w pos="NN1" lemma="man" class="SUBST" usas="S2:2">man</w>
+</u>
+<u n="6" who="S0230" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+</u>
+<u n="7" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="JJ" lemma="old" class="ADJ" usas="T3">old</w>
+<w pos="NN2" lemma="traveller" class="SUBST" usas="M1">travellers</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">an</w>
+<w pos="NN1" lemma="estate" class="SUBST" usas="M7">estate</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">have</w>
+<w pos="VVN" lemma="settle" class="VERB" usas="M8">settled</w>
+</u>
+<u n="8" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="9" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="E2">were</w>
+<w pos="II" lemma="into" class="PREP" usas="E2">into</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">an</w>
+<w pos="NNT1" lemma="hour" class="SUBST" usas="T1:3">hour</w>
+<w pos="RR" lemma="long" class="ADV" usas="T1:3">long</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="complete" class="ADJ" usas="N5:1">complete</w>
+<w pos="NN1" lemma="waste" class="SUBST" usas="X9:2">waste</w>
+<w pos="IO" lemma="of" class="PREP" usas="X9:2">of</w>
+<w pos="NNT1" lemma="time" class="SUBST" usas="X9:2">time</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="JJ" lemma="relevant" class="ADJ" usas="A1:2">relevant</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="Z5">was</w>
+<w pos="VVG" lemma="look" class="VERB" usas="X2:4">looking</w>
+<w pos="IF" lemma="for" class="PREP" usas="X2:4">for</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="VVN" lemma="suck" class="VERB" usas="B1">sucked</w>
+<w pos="II" lemma="into" class="PREP" usas="Z5">into</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="RR" lemma="anyway" class="ADV" usas="Z4">anyway</w>
+<w pos="VVG" lemma="listen" class="VERB" usas="X3:2">listening</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="PPHO1" lemma="he" class="PRON" usas="Z8">him</w>
+<w pos="VV0" lemma="talk" class="VERB" usas="Q2:1">talk</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">an</w>
+<w pos="NNT1" lemma="hour" class="SUBST" usas="T1:3">hour</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VM" lemma="would" class="VERB" usas="A7">'d</w>
+<w pos="VVI" lemma="ask" class="VERB" usas="Q2:2">ask</w>
+<w pos="PPHO1" lemma="he" class="PRON" usas="Z8">him</w>
+<w pos="NN2" lemma="word" class="SUBST" usas="Q3">words</w>
+<w pos="II" lemma="like" class="PREP" usas="Z5">like</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="VM" lemma="would" class="VERB" usas="A7">would</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VVI" lemma="say" class="VERB" usas="Q2:1">say</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="DD1" lemma="this" class="ADJ" usas="M6">this</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="VM" lemma="would" class="VERB" usas="A7">would</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VVI" lemma="say" class="VERB" usas="Q2:1">say</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="Z5">was</w>
+<w pos="VVG" lemma="make" class="VERB" usas="A1:1:1">making</w>
+<w pos="PPIO1" lemma="i" class="PRON" usas="Z8">me</w>
+<w pos="VVI" lemma="realise" class="VERB" usas="X2:5">realise</w>
+<w pos="DB" lemma="all" class="ADJ" usas="N5:1">all</w>
+<w pos="DD2" lemma="these" class="ADJ" usas="Z5">these</w>
+<w pos="NN2" lemma="word" class="SUBST" usas="Q3">words</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="CS" lemma="when" class="CONJ" usas="Z5">when</w>
+<w pos="NP1" lemma="--anonnamem" class="SUBST" usas="Z1">--ANONnameM</w>
+<w pos="VVD" lemma="come" class="VERB" usas="M1">came</w>
+<w pos="RP" lemma="back" class="ADV" usas="M1">back</w>
+<w pos="II" lemma="after" class="PREP" usas="Z5">after</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NNT1" lemma="weekend" class="SUBST" usas="T1:3">weekend</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="NP1" lemma="--anonnamem" class="SUBST" usas="Z1">--ANONnameM</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="VDZ" lemma="do" class="VERB" usas="A1:1:1">does</w>
+<w pos="NN1" lemma="parnyard" class="SUBST" usas="Z99">parnyard</w>
+<w pos="NN1" lemma="mean" class="SUBST" usas="N2">mean</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="10" who="S0229" trans="nonoverlap" whoConfidence="high">
+<unclear>
+<w pos="VVG" lemma="rain" class="VERB" usas="W4">raining</w>
+</unclear>
+<vocal desc="laugh"/>
+</u>
+<u n="11" who="S0230" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+</u>
+<u n="12" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPHS1" lemma="he" class="PRON" usas="Z8">he</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="PPHS1" lemma="he" class="PRON" usas="Z8">he</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RR" lemma="like" class="ADV" usas="Z4">like</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VV0" lemma="like" class="VERB" usas="E2">like</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="DD1" lemma="another" class="ADJ" usas="A6:1">another</w>
+<w pos="NN1" lemma="word" class="SUBST" usas="Q3">word</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="realise" class="VERB" usas="X2:5">realise</w>
+<w pos="NN1" lemma="parnyard" class="SUBST" usas="Z99">parnyard</w>
+<w pos="VVD" lemma="gatter" class="VERB" usas="Z99">gattered</w>
+<w pos="VVD" lemma="gatter" class="VERB" usas="Z99">gattered</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="DD1" lemma="another" class="ADJ" usas="A6:1">another</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+</u>
+<u n="13" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="CS" lemma="cos" class="CONJ" usas="Z5">cos</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VBN" lemma="be" class="VERB" usas="Z5">been</w>
+<w pos="VVN" lemma="bring" class="VERB" usas="M2">brought</w>
+<w pos="RP" lemma="up" class="ADV" usas="M2">up</w>
+<w pos="IW" lemma="with" class="PREP" usas="Z5">with</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+</u>
+<u n="14" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="RR" lemma="really" class="ADV" usas="A13:3">really</w>
+<w pos="VDD" lemma="do" class="VERB" usas="A1:1:1">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RR" lemma="still" class="ADV" usas="T2">still</w>
+<w pos="DD" lemma="some" class="ADJ" usas="N5">some</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="CS" lemma="because" class="CONJ" usas="Z5">because</w>
+<w pos="RR" lemma="also" class="ADV" usas="N5">also</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="use" class="VERB" usas="A1:5:1">use</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="II" lemma="around" class="PREP" usas="Z5">around</w>
+<w pos="NN" lemma="people" class="SUBST" usas="S2">people</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NP1" lemma="medway" class="SUBST" usas="Z2">Medway</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<unclear>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="A3">'m</w>
+</unclear>
+<w pos="JJ" lemma="familiar" class="ADJ" usas="A6:2">familiar</w>
+<w pos="RR" lemma="enough" class="ADV" usas="N5">enough</w>
+<w pos="IW" lemma="with" class="PREP" usas="Z5">with</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="VVI" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VV0" lemma="mean" class="VERB" usas="Q1:1">mean</w>
+</u>
+<u n="15" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="16" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VV0" lemma="use" class="VERB" usas="A1:5:1">use</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="PPX2" lemma="themselves" class="PRON" usas="Z8">themselves</w>
+</u>
+<u n="17" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="18" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="CS" lemma="until" class="CONJ" usas="Z5">until</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VV0" lemma="speak" class="VERB" usas="Q2:1">speak</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="PN1" lemma="someone" class="PRON" usas="Z8">someone</w>
+<w pos="II21" lemma="outside" class="PREP" usas="M6">outside</w>
+<w pos="II22" lemma="of" class="PREP" usas="M6">of</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NN1" lemma="area" class="SUBST" usas="M7">area</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="VV0" lemma="realise" class="VERB" usas="X2:5">realise</w>
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VVZ" lemma="mean" class="VERB" usas="Q1:1">means</w>
+<w pos="RR21" lemma="at" class="ADV" usas="A13:7">at</w>
+<w pos="RR22" lemma="all" class="ADV" usas="A13:7">all</w>
+</u>
+<u n="19" who="S0230" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="20" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPHS1" lemma="he" class="PRON" usas="Z8">he</w>
+<w pos="VVD" lemma="sound" class="VERB" usas="A6:1">sounded</w>
+<w pos="II" lemma="like" class="PREP" usas="A6:1">like</w>
+<w pos="APPGE" lemma="his" class="PRON" usas="Z8">his</w>
+<w pos="NN1" lemma="accent" class="SUBST" usas="Q3">accent</w>
+<w pos="PPHS1" lemma="he" class="PRON" usas="Z8">he</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="VVI" lemma="sound" class="VERB" usas="A6:1">sound</w>
+<w pos="II" lemma="like" class="PREP" usas="A6:1">like</w>
+<w pos="NN1" lemma="dad" class="SUBST" usas="S4">dad</w>
+<w pos="RR21" lemma="as" class="ADV" usas="N5">as</w>
+<w pos="RR22" lemma="well" class="ADV" usas="N5">well</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="RR" lemma="slightly" class="ADV" usas="A13:6">slightly</w>
+<w pos="JJ" lemma="different" class="ADJ" usas="A6:1">different</w>
+<w pos="NN2" lemma="pronunciation" class="SUBST" usas="Q2:2">pronunciations</w>
+<w pos="VVG" lemma="go" class="VERB" usas="M1">going</w>
+<w pos="RP" lemma="on" class="ADV" usas="M6">on</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="NN2" lemma="thing" class="SUBST" usas="O2">things</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+</u>
+<u n="21" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VM" lemma="might" class="VERB" usas="A7">might</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="RRQ" lemma="where" class="ADV" usas="M6">where</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="VVZ" lemma="live" class="VERB" usas="H4">lives</w>
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RR" lemma="actually" class="ADV" usas="A5:4">actually</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="house" class="SUBST" usas="H1">house</w>
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+</u>
+<u n="22" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="PNQS" lemma="who" class="PRON" usas="Z8">who</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="23" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="GE" lemma="'s" class="UNC" usas="Z5">'s</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="GE" lemma="'s" class="UNC" usas="Z5">'s</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+</u>
+<u n="24" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="DD2" lemma="these" class="ADJ" usas="Z8">these</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="Z5">were</w>
+<w pos="VVG" lemma="talk" class="VERB" usas="Q2:1">talking</w>
+<w pos="II" lemma="about" class="PREP" usas="Z5">about</w>
+<w pos="APPGE" lemma="their" class="PRON" usas="Z8">their</w>
+<trunc>
+<w pos="FU" lemma="hous-" class="UNC" usas="Z99">hous-</w>
+</trunc>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="estate" class="SUBST" usas="M7">estate</w>
+<w pos="RR" lemma="like" class="ADV" usas="Z4">like</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NN2" lemma="house" class="SUBST" usas="H1">houses</w>
+</u>
+<u n="25" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="26" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="RR" lemma="still" class="ADV" usas="T2">still</w>
+<w pos="VV0" lemma="cook" class="VERB" usas="F1">cook</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NN2" lemma="pot" class="SUBST" usas="O2">pots</w>
+<w pos="RP" lemma="out" class="ADV" usas="M6">out</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="garden" class="SUBST" usas="L3">garden</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="CS" lemma="cos" class="CONJ" usas="Z5">cos</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVZ" lemma="taste" class="VERB" usas="X3:1">tastes</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+<w pos="CS" lemma="if" class="CONJ" usas="Z7">if</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VD0" lemma="do" class="VERB" usas="A1:1:1">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="NN2" lemma="thing" class="SUBST" usas="O2">things</w>
+<w pos="II" lemma="like" class="PREP" usas="Z5">like</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="Z5">were</w>
+<w pos="VVG" lemma="talk" class="VERB" usas="Q2:1">talking</w>
+<w pos="II" lemma="about" class="PREP" usas="Z5">about</w>
+<w pos="NN2" lemma="kid" class="SUBST" usas="S2">kids</w>
+<w pos="VVG" lemma="mix" class="VERB" usas="A2:1">mixing</w>
+<w pos="II" lemma="at" class="PREP" usas="Z5">at</w>
+<w pos="NN1" lemma="school" class="SUBST" usas="P1">school</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="DD" lemma="some" class="ADJ" usas="N5">some</w>
+<w pos="JJ" lemma="actual" class="ADJ" usas="A5:4">actual</w>
+<w pos="NN2" lemma="traveller" class="SUBST" usas="M1">travellers</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="RR" lemma="too" class="ADV" usas="N5">too</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NN2" lemma="house" class="SUBST" usas="H1">houses</w>
+</u>
+<u n="27" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="28" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="Z5">were</w>
+<w pos="VVG" lemma="talk" class="VERB" usas="Q2:1">talking</w>
+<w pos="II" lemma="about" class="PREP" usas="Z5">about</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="mix" class="SUBST" usas="O1:1">mix</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="VVZ" lemma="go" class="VERB" usas="M1">goes</w>
+<w pos="RP" lemma="on" class="ADV" usas="M6">on</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="VV0" lemma="stuff" class="VERB" usas="M2">stuff</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="woman" class="SUBST" usas="S2:1">woman</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="II" lemma="from" class="PREP" usas="Z5">from</w>
+<w pos="NP1" lemma="kent" class="SUBST" usas="Z2">Kent</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VHD" lemma="have" class="VERB" usas="Z5">'d</w>
+<w pos="VVN" lemma="marry" class="VERB" usas="S4">married</w>
+<w pos="APPGE" lemma="her" class="PRON" usas="Z8">her</w>
+<w pos="NN1" lemma="husband" class="SUBST" usas="S4">husband</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="VHD" lemma="have" class="VERB" usas="Z5">had</w>
+<w pos="VBN" lemma="be" class="VERB" usas="A3">been</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="traveller" class="SUBST" usas="M1">traveller</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="APPGE" lemma="his" class="PRON" usas="Z8">his</w>
+<w pos="NN1" lemma="family" class="SUBST" usas="S4">family</w>
+<w pos="VMK" lemma="used" class="VERB" usas="T1:1:1">used</w>
+<w pos="TO" lemma="to" class="PREP" usas="T1:1:1">to</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="PN1" lemma="something" class="PRON" usas="Z8">something</w>
+</u>
+<u n="29" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="CS" lemma="cos" class="CONJ" usas="Z5">cos</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="JJ" lemma="married" class="ADJ" usas="S4">married</w>
+<w pos="II" lemma="into" class="PREP" usas="Z5">into</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+</u>
+<u n="30" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="31" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="II" lemma="into" class="PREP" usas="Z5">into</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NN1" lemma="community" class="SUBST" usas="S5">community</w>
+</u>
+<u n="32" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="think" class="VERB" usas="X2:1">thought</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="DD" lemma="some" class="ADJ" usas="N5">some</w>
+<w pos="NN1" lemma="reason" class="SUBST" usas="A2:2">reason</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="look" class="VERB" usas="Q1:2">looked</w>
+<w pos="RP" lemma="up" class="ADV" usas="Q1:2">up</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VVI" lemma="remember" class="VERB" usas="X2:2">remember</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="33" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="34" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="APPGE" lemma="her" class="PRON" usas="Z8">her</w>
+<w pos="NN1" lemma="sister" class="SUBST" usas="S4">sister</w>
+<w pos="VHZ" lemma="have" class="VERB" usas="Z5">'s</w>
+<w pos="RR" lemma="recently" class="ADV" usas="T3">recently</w>
+<w pos="VVN" lemma="get" class="VERB" usas="S4">got</w>
+<w pos="VVN" lemma="marry" class="VERB" usas="S4">married</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="APPGE" lemma="her" class="PRON" usas="Z8">her</w>
+<w pos="NN1" lemma="wife" class="SUBST" usas="S4">wife</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="realise" class="VERB" usas="X2:5">realise</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+</u>
+<u n="35" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="36" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="GE" lemma="'s" class="UNC" usas="Z5">'s</w>
+<w pos="JJ" lemma="gay" class="ADJ" usas="S3:2">gay</w>
+</u>
+<u n="37" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="38" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="both" class="ADV" usas="Z5">both</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="APPGE" lemma="their" class="PRON" usas="Z8">their</w>
+<w pos="JJ" lemma="white" class="ADJ" usas="O4:3">white</w>
+<w pos="NN2" lemma="dress" class="SUBST" usas="B5">dresses</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="JJ" lemma="proper" class="ADJ" usas="A5:4">proper</w>
+<w pos="NN2" lemma="bridesmaid" class="SUBST" usas="S4">bridesmaids</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="JJ" lemma="proper" class="ADJ" usas="A5:4">proper</w>
+<w pos="NN1" lemma="wedding" class="SUBST" usas="S4">wedding</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PN1" lemma="everything" class="PRON" usas="Z8">everything</w>
+</u>
+<u n="39" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="40" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="mean" class="VERB" usas="Z4">mean</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="know" class="VERB" usas="X2:2">knew</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VM" lemma="would" class="VERB" usas="A7">'d</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="realise" class="VERB" usas="X2:5">realised</w>
+<w pos="AT1" lemma="a" class="ART" usas="T1:1:1">a</w>
+<w pos="NN1" lemma="couple" class="SUBST" usas="T1:1:1">couple</w>
+<w pos="IO" lemma="of" class="PREP" usas="T1:1:1">of</w>
+<w pos="NNT2" lemma="year" class="SUBST" usas="T1:1:1">years</w>
+<w pos="RA" lemma="ago" class="ADV" usas="T1:1:1">ago</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="JJ" lemma="gay" class="ADJ" usas="S3:2">gay</w>
+<w pos="VVD" lemma="go" class="VERB" usas="M1">went</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="NP1" lemma="facebook" class="SUBST" usas="Z99">Facebook</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="realise" class="VERB" usas="X2:5">realise</w>
+<w pos="RGQ" lemma="how" class="ADV" usas="Z5">how</w>
+<w pos="JJ" lemma="serious" class="ADJ" usas="A11:1">serious</w>
+<w pos="APPGE" lemma="her" class="PRON" usas="Z8">her</w>
+<w pos="NN1" lemma="relationship" class="SUBST" usas="S3:1">relationship</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+</u>
+<u n="41" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="42" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="guess" class="VERB" usas="X2:1">guess</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="DB" lemma="all" class="ADJ" usas="N5:1">all</w>
+<w pos="JJ" lemma="fine" class="ADJ" usas="A5:1">fine</w>
+<w pos="IW" lemma="with" class="PREP" usas="Z5">with</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+</u>
+<u n="43" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="CS" lemma="cos" class="CONJ" usas="Z5">cos</w>
+<trunc>
+<w pos="FU" lemma="me-" class="UNC" usas="Z99">me-</w>
+</trunc>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="GE" lemma="'s" class="UNC" usas="Z5">'s</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="JJ" lemma="gay" class="ADJ" usas="S3:2">gay</w>
+</u>
+<u n="44" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVZ" lemma="live" class="VERB" usas="H4">lives</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="VDZ" lemma="do" class="VERB" usas="Z5">does</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="45" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="46" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="47" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="mm" class="INTERJ" usas="Z4">mm</w>
+</u>
+<u n="48" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="wonder" class="VERB" usas="X2:1">wonder</w>
+<w pos="RRQ" lemma="where" class="ADV" usas="M6">where</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVZ" lemma="live" class="VERB" usas="H4">lives</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VM" lemma="should" class="VERB" usas="S6">should</w>
+<w pos="VVI" lemma="ask" class="VERB" usas="Q2:2">ask</w>
+<w pos="PPHO1" lemma="she" class="PRON" usas="Z8">her</w>
+</u>
+<u n="49" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="mm" class="INTERJ" usas="Z4">mm</w>
+</u>
+<u n="50" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVZ" lemma="share" class="VERB" usas="S1:1:2">shares</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="house" class="SUBST" usas="H1">house</w>
+<w pos="VDZ" lemma="do" class="VERB" usas="Z5">does</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="51" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVI" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVI" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VHZ" lemma="have" class="VERB" usas="Z5">'s</w>
+<w pos="VVN" lemma="move" class="VERB" usas="M2">moved</w>
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+<w pos="RR" lemma="though" class="ADV" usas="Z5">though</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VM" lemma="might" class="VERB" usas="A7">might</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="flat" class="SUBST" usas="H1">flat</w>
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+</u>
+<u n="52" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+</u>
+<u n="53" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="A3">'m</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="JJ" lemma="sure" class="ADJ" usas="A7">sure</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="A3">'m</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<trunc>
+<w pos="FU" lemma="d-" class="UNC" usas="Z99">d-</w>
+</trunc>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="A3">'m</w>
+<w pos="JJ" lemma="inclined" class="ADJ" usas="X7">inclined</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="VVI" lemma="turn" class="VERB" usas="A1:1:1">turn</w>
+<w pos="RP" lemma="off" class="ADV" usas="A1:1:1">off</w>
+<w pos="CS" lemma="when" class="CONJ" usas="Z5">when</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="VVZ" lemma="go" class="VERB" usas="M1">goes</w>
+<w pos="RP" lemma="off" class="ADV" usas="M6">off</w>
+<w pos="II" lemma="on" class="PREP" usas="A1:2">on</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="tangent" class="SUBST" usas="A1:2">tangent</w>
+</u>
+<u n="54" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">are</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="55" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="RR" lemma="course" class="ADV" usas="Z4">course</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVZ" lemma="go" class="VERB" usas="T2">goes</w>
+<w pos="RP" lemma="on" class="ADV" usas="T2">on</w>
+<w pos="CC" lemma="and" class="CONJ" usas="T2">and</w>
+<w pos="RP" lemma="on" class="ADV" usas="T2">on</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+</u>
+<u n="56" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="straight" class="ADV" usas="O4:4">straight</w>
+<w pos="II" lemma="down" class="PREP" usas="Z5">down</w>
+<w pos="NN1" lemma="daughter" class="SUBST" usas="S4">daughter</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="57" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="straight" class="ADV" usas="O4:4">straight</w>
+<w pos="RP" lemma="down" class="ADV" usas="Z5">down</w>
+<w pos="RP" lemma="off" class="ADV" usas="M6">off</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="sea" class="SUBST" usas="W3">sea</w>
+<w pos="NN1" lemma="sea" class="SUBST" usas="W3">sea</w>
+<w pos="NN1" lemma="sea" class="SUBST" usas="W3">sea</w>
+</u>
+<u n="58" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="VV0" lemma="look" class="VERB" usas="X3:4">look</w>
+<w pos="II" lemma="at" class="PREP" usas="X3:4">at</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="JJ" lemma="beautiful" class="ADJ" usas="O4:2">beautiful</w>
+<w pos="NN1" lemma="sea" class="SUBST" usas="W3">sea</w>
+</u>
+<u n="59" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVZ" lemma="look" class="VERB" usas="O4:2">looks</w>
+<w pos="JJ" lemma="nice" class="ADJ" usas="O4:2">nice</w>
+<w pos="RT" lemma="again" class="ADV" usas="N6">again</w>
+<w pos="VDZ" lemma="do" class="VERB" usas="Z5">does</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="60" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="mm" class="INTERJ" usas="Z4">mm</w>
+</u>
+<u n="61" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="VM" lemma="could" class="VERB" usas="A7">could</w>
+<w pos="VHI" lemma="have" class="VERB" usas="Z5">have</w>
+<w pos="VHN" lemma="have" class="VERB" usas="A9">had</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="dip" class="SUBST" usas="O4:4">dip</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="RT" lemma="today" class="ADV" usas="T1:1:2">today</w>
+</u>
+<u n="62" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VDD" lemma="do" class="VERB" usas="A1:1:1">did</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z5">what</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="T1:3">day</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="Z5">was</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NPD1" lemma="thursday" class="SUBST" usas="T1:3">Thursday</w>
+<w pos="CS" lemma="before" class="CONJ" usas="Z5">before</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VHD" lemma="have" class="VERB" usas="A9">had</w>
+<w pos="APPGE" lemma="our" class="PRON" usas="Z8">our</w>
+<trunc>
+<w pos="FU" lemma="induct-" class="UNC" usas="Z99">induct-</w>
+</trunc>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VHD" lemma="have" class="VERB" usas="A9">had</w>
+<w pos="NN1" lemma="induction" class="SUBST" usas="X2:1">induction</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NPD1" lemma="friday" class="SUBST" usas="T1:3">Friday</w>
+<w pos="VDD" lemma="do" class="VERB" usas="A1:1:1">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NPD1" lemma="thursday" class="SUBST" usas="T1:3">Thursday</w>
+<w pos="NP1" lemma="--anonnamem" class="SUBST" usas="Z1">--ANONnameM</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="glorious" class="ADJ" usas="O4:2">glorious</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="T1:3">day</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">'re</w>
+<w pos="VVG" lemma="take" class="VERB" usas="A9">taking</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NNT1" lemma="afternoon" class="SUBST" usas="K1">afternoon</w>
+<w pos="RP" lemma="off" class="ADV" usas="K1">off</w>
+</u>
+<u n="63" who="S0230" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+</u>
+<u n="64" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">'re</w>
+<w pos="VVGK" lemma="going" class="VERB" usas="T1:1:3">gon</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">na</w>
+<w pos="VVI" lemma="take" class="VERB" usas="A9">take</w>
+<trunc>
+<w pos="FU" lemma="ca-" class="UNC" usas="Z99">ca-</w>
+</trunc>
+<w pos="MC" lemma="four" class="ADJ" usas="N1">four</w>
+<w pos="NN2" lemma="can" class="SUBST" usas="O2">cans</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="NN1" lemma="beer" class="SUBST" usas="F2">beer</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="fridge" class="SUBST" usas="O4:6">fridge</w>
+<w pos="II" lemma="from" class="PREP" usas="Z5">from</w>
+<w pos="RRQ" lemma="when" class="ADV" usas="Z5">when</w>
+<w pos="APPGE" lemma="his" class="PRON" usas="Z8">his</w>
+<w pos="NN1" lemma="mum" class="SUBST" usas="S4">mum</w>
+<w pos="VVD" lemma="visit" class="VERB" usas="S1:1:1">visited</w>
+<w pos="VVGK" lemma="going" class="VERB" usas="T1:1:3">gon</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">na</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="RP" lemma="down" class="ADV" usas="X6">down</w>
+<w pos="II" lemma="to" class="PREP" usas="X6">to</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="waterfront" class="SUBST" usas="M7">waterfront</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVD" lemma="dip" class="VERB" usas="A1:1:1">dipped</w>
+<w pos="APPGE" lemma="our" class="PRON" usas="Z8">our</w>
+<w pos="NN2" lemma="foot" class="SUBST" usas="B1">feet</w>
+<w pos="RP" lemma="in" class="ADV" usas="M6">in</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="JJ" lemma="freezing" class="ADJ" usas="O4:6">freezing</w>
+</u>
+<u n="65" who="S0230" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+</u>
+<u n="66" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="JJ" lemma="nice" class="ADJ" usas="A13:3">nice</w>
+<w pos="CC" lemma="and" class="CONJ" usas="A13:3">and</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVD" lemma="walk" class="VERB" usas="M1">walked</w>
+<w pos="DB" lemma="all" class="ADJ" usas="N5:1">all</w>
+<w pos="AT" lemma="the" class="ART" usas="N5:1">the</w>
+<w pos="NN1" lemma="way" class="SUBST" usas="N5:1">way</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="A6:1">other</w>
+<w pos="NN1" lemma="end" class="SUBST" usas="M6">end</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="pier" class="SUBST" usas="M4">pier</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="II" lemma="down" class="PREP" usas="Z5">down</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="pier" class="SUBST" usas="M4">pier</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="JJ" lemma="lovely" class="ADJ" usas="O4:2">lovely</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="NN" lemma="people" class="SUBST" usas="S2">people</w>
+<w pos="PN" lemma="plenty" class="PRON" usas="N5">plenty</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="NN" lemma="people" class="SUBST" usas="S2">people</w>
+<w pos="VVG" lemma="get" class="VERB" usas="M1">getting</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NN1" lemma="swimming" class="SUBST" usas="K5:1">swimming</w>
+</u>
+<u n="67" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="68" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="mean" class="VERB" usas="Z4">mean</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RG" lemma="quite" class="ADV" usas="A13:5">quite</w>
+<w pos="JJ" lemma="hot" class="ADJ" usas="O4:6">hot</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="T1:3">day</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RR" lemma="actually" class="ADV" usas="A5:4">actually</w>
+<w pos="II" lemma="at" class="PREP" usas="A15">at</w>
+<w pos="NN1" lemma="risk" class="SUBST" usas="A15">risk</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="VVG" lemma="get" class="VERB" usas="A9">getting</w>
+<w pos="AT1" lemma="a" class="ART" usas="A13:6">a</w>
+<w pos="NN1" lemma="bit" class="SUBST" usas="A13:6">bit</w>
+<w pos="IO" lemma="of" class="PREP" usas="A13:6">of</w>
+<w pos="AT1" lemma="a" class="ART" usas="A13:6">a</w>
+<w pos="NN1" lemma="burn" class="SUBST" usas="B2">burn</w>
+</u>
+<u n="69" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="RRQ" lemma="where" class="ADV" usas="M6">where</w>
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">are</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VVG" lemma="go" class="VERB" usas="M1">going</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="RRQ" lemma="where" class="ADV" usas="M6">where</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VVI" lemma="want" class="VERB" usas="X7">want</w>
+<w pos="II" lemma="inside" class="PREP" usas="Z5">inside</w>
+<w pos="NN1" lemma="lane" class="SUBST" usas="M3">lane</w>
+<w pos="NN1" lemma="darling" class="SUBST" usas="E2">darling</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="70" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="VV0" lemma="stay" class="VERB" usas="M8">stay</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="inside" class="SUBST" usas="M6">inside</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="Z4">think</w>
+<w pos="IF" lemma="for" class="PREP" usas="T1:1:2">for</w>
+<w pos="AT" lemma="the" class="ART" usas="T1:1:2">the</w>
+<w pos="NN1" lemma="moment" class="SUBST" usas="T1:1:2">moment</w>
+</u>
+<u n="71" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="RP" lemma="up" class="ADV" usas="M1">up</w>
+<w pos="DD" lemma="any" class="ADJ" usas="N5:1">any</w>
+<w pos="MC1" lemma="one" class="ADJ" usas="N1">one</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="DD2" lemma="these" class="ADJ" usas="Z8">these</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="NN1" lemma="parking" class="SUBST" usas="M8">parking</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NN1" lemma="top" class="SUBST" usas="M6">top</w>
+<w pos="NN1" lemma="bit" class="SUBST" usas="N5">bit</w>
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="MD" lemma="next" class="ADJ" usas="N4">next</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="MD" lemma="next" class="ADJ" usas="N4">next</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+</u>
+<u n="72" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="MC1" lemma="one" class="ADJ" usas="T3">one</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="couple" class="SUBST" usas="N5">couple</w>
+<w pos="RP" lemma="along" class="ADV" usas="M6">along</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="VHD" lemma="have" class="VERB" usas="A9">had</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="JJ" lemma="little" class="ADJ" usas="N3:2">little</w>
+<w pos="NN1" lemma="cul-de-sac" class="SUBST" usas="M3">cul-de-sac</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="VV0" lemma="look" class="VERB" usas="X3:4">look</w>
+<w pos="II" lemma="at" class="PREP" usas="X3:4">at</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="JJ" lemma="nice" class="ADJ" usas="O4:2">nice</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="T1:3">day</w>
+<w pos="II" lemma="at" class="PREP" usas="Z5">at</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="sea" class="SUBST" usas="W3">sea</w>
+<w pos="NN1" lemma="sea" class="SUBST" usas="W3">sea</w>
+<w pos="NN1" lemma="sea" class="SUBST" usas="W3">sea</w>
+</u>
+<u n="73" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="mm" class="INTERJ" usas="Z4">mm</w>
+</u>
+<u n="74" who="S0229" trans="nonoverlap" whoConfidence="high">
+<unclear>
+<w pos="VV0" lemma="cock" class="VERB" usas="G3">cock</w>
+</unclear>
+<w pos="PPIO2" lemma="we" class="PRON" usas="Z8">us</w>
+<w pos="DB" lemma="all" class="ADJ" usas="N5:1">all</w>
+<w pos="RP" lemma="up" class="ADV" usas="M6">up</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+</u>
+<u n="75" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="guess" class="VERB" usas="X2:1">guess</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VM" lemma="could" class="VERB" usas="A7">could</w>
+<w pos="NN1" lemma="city" class="SUBST" usas="M7">city</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="AT" lemma="no" class="ART" usas="Z6">no</w>
+<w pos="NN1" lemma="dad" class="SUBST" usas="S4">dad</w>
+<w pos="VV0" lemma="stay" class="VERB" usas="M8">stay</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="DD1" lemma="this" class="ADJ" usas="M6">this</w>
+<w pos="NN1" lemma="lane" class="SUBST" usas="M3">lane</w>
+</u>
+<u n="76" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z3">ta</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="II" lemma="round" class="PREP" usas="Z5">round</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NN1" lemma="taxi" class="SUBST" usas="M3">taxi</w>
+<w pos="UH" lemma="ah" class="INTERJ" usas="Z4">ah</w>
+</u>
+<u n="77" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="RR" lemma="alright" class="ADV" usas="Z4">alright</w>
+<w pos="RT" lemma="then" class="ADV" usas="Z4">then</w>
+<w pos="RR" lemma="fair" class="ADV" usas="Z4">fair</w>
+<w pos="RR" lemma="enough" class="ADV" usas="Z4">enough</w>
+</u>
+<u n="78" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RG" lemma="quite" class="ADV" usas="A13:5">quite</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+</u>
+<u n="79" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="PPHS1" lemma="he" class="PRON" usas="Z8">he</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="Z5">'s</w>
+<w pos="VVG" lemma="let" class="VERB" usas="S7:4">letting</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="thingy" class="SUBST" usas="O2">thingy</w>
+<w pos="RP" lemma="out" class="ADV" usas="M6">out</w>
+</u>
+<u n="80" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+<w pos="IW" lemma="with" class="PREP" usas="Z5">with</w>
+</u>
+<u n="81" who="S0198" trans="overlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="VV0" lemma="mind" class="VERB" usas="E6">mind</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN2" lemma="light" class="SUBST" usas="W2">lights</w>
+<w pos="VV0" lemma="mind" class="VERB" usas="E6">mind</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN2" lemma="light" class="SUBST" usas="W2">lights</w>
+</u>
+<u n="82" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="see" class="VERB" usas="Z4">see</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+</u>
+<u n="83" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="VV0" lemma="stop" class="VERB" usas="T2">stop</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VDD" lemma="do" class="VERB" usas="A1:1:1">did</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z5">that</w>
+<w pos="AT" lemma="the" class="ART" usas="T1:1:1">the</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="T1:1:1">other</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="T1:1:1">day</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="APPGE" lemma="my" class="PRON" usas="Z8">my</w>
+<w pos="NN1" lemma="bike" class="SUBST" usas="M3">bike</w>
+<w pos="RR" lemma="really" class="ADV" usas="A13:3">really</w>
+<w pos="VVD" lemma="turn" class="VERB" usas="M2">turned</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="CSA" lemma="as" class="CONJ" usas="Z5">as</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="T1:1:3">was</w>
+<w pos="RPK" lemma="about" class="ADV" usas="T1:1:3">about</w>
+<w pos="TO" lemma="to" class="PREP" usas="T1:1:3">to</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VHD" lemma="have" class="VERB" usas="Z5">'d</w>
+<w pos="VVN" lemma="go" class="VERB" usas="M1">gone</w>
+<w pos="II" lemma="up" class="PREP" usas="Z5">up</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="hill" class="SUBST" usas="W3">hill</w>
+<w pos="RR" lemma="already" class="ADV" usas="T1:1:1">already</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="Z5">was</w>
+<w pos="VVG" lemma="go" class="VERB" usas="M1">going</w>
+<w pos="RP" lemma="up" class="ADV" usas="M1">up</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="MD" lemma="last" class="ADJ" usas="N4">last</w>
+<w pos="NN1" lemma="bit" class="SUBST" usas="N5">bit</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="NN1" lemma="hill" class="SUBST" usas="W3">hill</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RR" lemma="like" class="ADV" usas="Z4">like</w>
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="A3">'m</w>
+<w pos="RG" lemma="too" class="ADV" usas="N5:2">too</w>
+<w pos="JJ" lemma="tired" class="ADJ" usas="B1">tired</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="Z5">'m</w>
+<w pos="VVGK" lemma="going" class="VERB" usas="T1:1:3">gon</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">na</w>
+<w pos="VVI" lemma="push" class="VERB" usas="M2">push</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="curb" class="SUBST" usas="A1:7">curb</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="CSA" lemma="as" class="CONJ" usas="Z5">as</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="go" class="VERB" usas="M1">went</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="VVI" lemma="get" class="VERB" usas="M1">get</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="curb" class="SUBST" usas="A1:7">curb</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="VV0" lemma="like" class="VERB" usas="E2">like</w>
+<w pos="VVD" lemma="fall" class="VERB" usas="M1">fell</w>
+<w pos="RP" lemma="over" class="ADV" usas="M1">over</w>
+<w pos="RL" lemma="sideways" class="ADV" usas="M6">sideways</w>
+</u>
+<u n="84" who="S0230" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+</u>
+<u n="85" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="JJ" lemma="dramatic" class="ADJ" usas="K4">dramatic</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="hurt" class="VERB" usas="B2">hurt</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z4">or</w>
+<w pos="PN1" lemma="anything" class="PRON" usas="Z4">anything</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VDD" lemma="do" class="VERB" usas="A1:1:1">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+</u>
+<u n="86" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">ya</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="87" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="RR" lemma="really" class="ADV" usas="A5:4">really</w>
+<w pos="VVI" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="RRQ" lemma="how" class="ADV" usas="Z5">how</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVD" lemma="happen" class="VERB" usas="A2:1">happened</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="NN1" lemma="feebleness" class="SUBST" usas="B2">feebleness</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="RR21" lemma="of" class="ADV" usas="Z4">of</w>
+<w pos="RR22" lemma="course" class="ADV" usas="Z4">course</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="II21" lemma="next" class="PREP" usas="Z5">next</w>
+<w pos="II22" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="massive" class="ADJ" usas="N3:2">massive</w>
+<w pos="NN1" lemma="line" class="SUBST" usas="O4:4">line</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="NN1" lemma="traffic" class="SUBST" usas="M3">traffic</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="feel" class="VERB" usas="X7">felt</w>
+<w pos="II" lemma="like" class="PREP" usas="X7">like</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="right" class="ADJ" usas="A5:3">right</w>
+<w pos="NN1" lemma="plonker" class="SUBST" usas="S1:2:6">plonker</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RR" lemma="like" class="ADV" usas="Z4">like</w>
+</u>
+<u n="88" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="VBG" lemma="be" class="VERB" usas="A3">being</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="real" class="ADJ" usas="A3">real</w>
+<w pos="NN1" lemma="gentleman" class="SUBST" usas="S2:2">gentleman</w>
+<w pos="VV0" lemma="look" class="VERB" usas="A8">look</w>
+<w pos="VVG" lemma="wave" class="VERB" usas="Q1:1">waving</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NN1" lemma="dust" class="SUBST" usas="O1:1">dust</w>
+<w pos="NN1" lemma="cart" class="SUBST" usas="M3">cart</w>
+<w pos="PPHS1" lemma="he" class="PRON" usas="Z8">he</w>
+<w pos="VHZ" lemma="have" class="VERB" usas="Z5">'s</w>
+<w pos="VVN" lemma="block" class="VERB" usas="A10">blocked</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="JJ" lemma="whole" class="ADJ" usas="N5:1">whole</w>
+<w pos="NN1" lemma="road" class="SUBST" usas="M3">road</w>
+<w pos="RP" lemma="up" class="ADV" usas="Z5">up</w>
+</u>
+<u n="89" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VH0" lemma="have" class="VERB" usas="A9">'ve</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VDN" lemma="do" class="VERB" usas="A1:1:1">done</w>
+<w pos="APPGE" lemma="my" class="PRON" usas="Z8">my</w>
+<w pos="NN1" lemma="training" class="SUBST" usas="P1">training</w>
+<w pos="MD" lemma="last" class="ADJ" usas="T1:1:1">last</w>
+<w pos="NNT1" lemma="week" class="SUBST" usas="T1:1:1">week</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="90" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="91" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="JJ" lemma="full" class="ADJ" usas="N5:1">full</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="T1:3">day</w>
+<w pos="GE" lemma="'s" class="UNC" usas="Z5">'s</w>
+<w pos="NN1" lemma="training" class="SUBST" usas="P1">training</w>
+</u>
+<u n="92" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RRQ" lemma="how" class="ADV" usas="Z5">how</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="93" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="JJ" lemma="good" class="ADJ" usas="A5:1">good</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RG21" lemma="ever" class="ADV" usas="A13:3">ever</w>
+<w pos="RG22" lemma="so" class="ADV" usas="A13:3">so</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="teacher" class="SUBST" usas="P1">teacher</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="RR" lemma="really" class="ADV" usas="A13:3">really</w>
+<w pos="JJ" lemma="good" class="ADJ" usas="A5:1">good</w>
+</u>
+<u n="94" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="95" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+</u>
+<u n="96" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+</u>
+<u n="97" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+</u>
+<u n="98" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPHS1" lemma="he" class="PRON" usas="Z8">he</w>
+<w pos="VHZ" lemma="have" class="VERB" usas="Z5">'s</w>
+<w pos="VVN" lemma="come" class="VERB" usas="M1">come</w>
+<w pos="RP" lemma="back" class="ADV" usas="M1">back</w>
+<w pos="AT" lemma="the" class="ART" usas="S3:2">the</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="S3:2">other</w>
+<w pos="NN1" lemma="way" class="SUBST" usas="S3:2">way</w>
+</u>
+<u n="99" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVD" lemma="keep" class="VERB" usas="A9">kept</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="JJ" lemma="interesting" class="ADJ" usas="X5:2">interesting</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+</u>
+<u n="100" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="VV0" lemma="come" class="VERB" usas="M1">come</w>
+<w pos="II" lemma="on" class="PREP" usas="M1">on</w>
+<w pos="NN2" lemma="light" class="SUBST" usas="W2">lights</w>
+</u>
+<u n="101" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVD" lemma="keep" class="VERB" usas="A9">kept</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="RG" lemma="too" class="ADV" usas="N5:2">too</w>
+<w pos="JJ" lemma="boring" class="ADJ" usas="X5:2">boring</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z4">or</w>
+<w pos="PN1" lemma="anything" class="PRON" usas="Z4">anything</w>
+</u>
+<u n="102" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+</u>
+<u n="103" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="JJ" lemma="nice" class="ADJ" usas="O4:2">nice</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="PPHO1" lemma="she" class="PRON" usas="Z8">her</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="II" lemma="on" class="PREP" usas="S5">on</w>
+<w pos="APPGE" lemma="your" class="PRON" usas="S5">your</w>
+<w pos="DA" lemma="own" class="ADJ" usas="S5">own</w>
+<w pos="NN1" lemma="doing" class="SUBST" usas="A1:1:1">doing</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="IW" lemma="with" class="PREP" usas="Z5">with</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="group" class="SUBST" usas="S5">group</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="104" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="RR" lemma="only" class="ADV" usas="A14">only</w>
+<w pos="MC" lemma="five" class="ADJ" usas="N1">five</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="PPIO2" lemma="we" class="PRON" usas="Z8">us</w>
+</u>
+<u n="105" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="RG" lemma="too" class="ADV" usas="Z4">too</w>
+<w pos="JJ" lemma="bad" class="ADJ" usas="Z4">bad</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+</u>
+<u n="106" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="GE" lemma="'s" class="UNC" usas="Z5">'s</w>
+<w pos="NN1" lemma="group" class="SUBST" usas="S5">group</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="MC" lemma="eleven" class="ADJ" usas="N1">eleven</w>
+</u>
+<u n="107" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="VBDR" lemma="be" class="VERB" usas="A3">were</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="108" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<vocal desc="laugh"/>
+</u>
+<u n="109" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="110" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="RR" lemma="never" class="ADV" usas="T1">never</w>
+</u>
+<u n="111" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="JJ" lemma="stupid" class="ADJ" usas="S1:2:6">stupid</w>
+<w pos="NN2" lemma="light" class="SUBST" usas="W2">lights</w>
+</u>
+<u n="112" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RR" lemma="never" class="ADV" usas="T1">never</w>
+<w pos="JJ" lemma="sure" class="ADJ" usas="A7">sure</w>
+<w pos="RGQ" lemma="how" class="ADV" usas="Z5">how</w>
+<w pos="DA2" lemma="many" class="ADJ" usas="N5">many</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="Z5">'s</w>
+<w pos="VVGK" lemma="going" class="VERB" usas="T1:1:3">gon</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">na</w>
+<w pos="VHI" lemma="have" class="VERB" usas="A9">have</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="group" class="SUBST" usas="S5">group</w>
+</u>
+<u n="113" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="VM" lemma="must" class="VERB" usas="S6">must</w>
+<w pos="VHI" lemma="have" class="VERB" usas="A9">have</w>
+<w pos="RG" lemma="quite" class="ADV" usas="A13:5">quite</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="JJ" lemma="high" class="ADJ" usas="N3:7">high</w>
+<w pos="NN1" lemma="turnover" class="SUBST" usas="I1:1">turnover</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="PN1" lemma="something" class="PRON" usas="Z8">something</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="114" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="mm" class="INTERJ" usas="Z4">mm</w>
+</u>
+<u n="115" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="alright" class="ADV" usas="A5:1">alright</w>
+<w pos="VV0" lemma="bear" class="VERB" usas="Z4">bear</w>
+<w pos="IW" lemma="with" class="PREP" usas="Z4">with</w>
+<w pos="PPIO1" lemma="i" class="PRON" usas="Z4">me</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">have</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVN" lemma="go" class="VERB" usas="N5:2">gone</w>
+<w pos="RG" lemma="too" class="ADV" usas="N5:2">too</w>
+<w pos="RR" lemma="far" class="ADV" usas="N5:2">far</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">have</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+</u>
+<u n="116" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="hill" class="SUBST" usas="W3">hill</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+</u>
+<u n="117" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="ah" class="INTERJ" usas="Z4">ah</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="JJ" lemma="sure" class="ADJ" usas="A7">sure</w>
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="think" class="VERB" usas="X2:1">think</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">'re</w>
+<w pos="VVG" lemma="go" class="VERB" usas="T2">going</w>
+<w pos="RP" lemma="on" class="ADV" usas="T2">on</w>
+<w pos="VVG" lemma="go" class="VERB" usas="T2">going</w>
+<w pos="RP" lemma="on" class="ADV" usas="T2">on</w>
+<w pos="RR" lemma="still" class="ADV" usas="T2">still</w>
+<w pos="VVG" lemma="go" class="VERB" usas="T2">going</w>
+<w pos="RP" lemma="on" class="ADV" usas="T2">on</w>
+</u>
+<u n="118" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="II" lemma="onto" class="PREP" usas="Z5">onto</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="MD" lemma="next" class="ADJ" usas="N4">next</w>
+<w pos="NN1" lemma="bit" class="SUBST" usas="N5">bit</w>
+</u>
+<u n="119" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="120" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="APPGE" lemma="my" class="PRON" usas="Z8">my</w>
+<w pos="NN1" lemma="daughter" class="SUBST" usas="S4">daughter</w>
+<w pos="JJ" lemma="sure" class="ADJ" usas="A7">sure</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="121" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yep" class="INTERJ" usas="Z4">yep</w>
+<pause dur="short"/>
+<w pos="VM" lemma="might" class="VERB" usas="A7">might</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="MD" lemma="next" class="ADJ" usas="N4">next</w>
+<w pos="NN1" lemma="left" class="SUBST" usas="M6">left</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VM" lemma="might" class="VERB" usas="A7">might</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+<w pos="II" lemma="after" class="PREP" usas="Z5">after</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="A3">'m</w>
+<w pos="RR" lemma="really" class="ADV" usas="A13:3">really</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="JJ" lemma="sure" class="ADJ" usas="A7">sure</w>
+<pause dur="short"/>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="JJ" lemma="good" class="ADJ" usas="A5:1">good</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">have</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VVN" lemma="hear" class="VERB" usas="X3:2">heard</w>
+<w pos="DD" lemma="any" class="ADJ" usas="N5:1">any</w>
+<w pos="NN1" lemma="word" class="SUBST" usas="Q3">word</w>
+<w pos="II" lemma="from" class="PREP" usas="Z5">from</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="122" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="phone" class="VERB" usas="Q1:3">phoned</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="NPD1" lemma="tuesday" class="SUBST" usas="T1:3">Tuesday</w>
+<w pos="CS" lemma="because" class="CONJ" usas="Z5">because</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VHD" lemma="have" class="VERB" usas="Z5">'d</w>
+<w pos="VVN" lemma="give" class="VERB" usas="A9">given</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="JJ" lemma="wrong" class="ADJ" usas="A5:3">wrong</w>
+<w pos="NN1" lemma="address" class="SUBST" usas="H4">address</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="reference" class="SUBST" usas="Q2:2">reference</w>
+</u>
+<u n="123" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+</u>
+<u n="124" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="speak" class="VERB" usas="Q2:1">spoke</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VHD" lemma="have" class="VERB" usas="Z5">'d</w>
+<w pos="VBN" lemma="be" class="VERB" usas="A3">been</w>
+<w pos="II" lemma="onto" class="PREP" usas="Z5">onto</w>
+<w pos="NP1" lemma="--anonplace" class="SUBST" usas="Z2">--ANONplace</w>
+<w pos="AT" lemma="the" class="ART" usas="N4">the</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="N4">day</w>
+<w pos="RT" lemma="before" class="ADV" usas="N4">before</w>
+</u>
+<u n="125" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="VV0" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="JJ" lemma="slow" class="ADJ" usas="N3:8">slow</w>
+<w pos="NN1" lemma="dad" class="SUBST" usas="S4">dad</w>
+<w pos="CS" lemma="cos" class="CONJ" usas="Z5">cos</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="A3">'m</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="RR" lemma="entirely" class="ADV" usas="A13:2">entirely</w>
+<w pos="JJ" lemma="sure" class="ADJ" usas="A7">sure</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="126" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="CS" lemma="because" class="CONJ" usas="Z5">because</w>
+<w pos="AT" lemma="no" class="ART" usas="Z6">no</w>
+<w pos="NN2" lemma="reference" class="SUBST" usas="Q2:2">references</w>
+<w pos="VHD" lemma="have" class="VERB" usas="Z5">had</w>
+<w pos="VVN" lemma="come" class="VERB" usas="M1">come</w>
+<w pos="RP" lemma="back" class="ADV" usas="M1">back</w>
+<w pos="RR" lemma="yet" class="ADV" usas="T1:1:2">yet</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VV0" lemma="reckon" class="VERB" usas="X2:1">reckon</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VHD" lemma="have" class="VERB" usas="Z5">had</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVN" lemma="receive" class="VERB" usas="A9">received</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+</u>
+<u n="127" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="128" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z4">so</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z4">she</w>
+<w pos="VVZ" lemma="say" class="VERB" usas="Z4">says</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VHZ" lemma="have" class="VERB" usas="Z5">'s</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="VVN" lemma="post" class="VERB" usas="Q1:2">posted</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="RT" lemma="again" class="ADV" usas="N6">again</w>
+</u>
+<u n="129" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="130" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+</u>
+<u n="131" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VV0" lemma="need" class="VERB" usas="S6">need</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="VVI" lemma="make" class="VERB" usas="A1:1:1">make</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="decision" class="SUBST" usas="X6">decision</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="132" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RR" lemma="only" class="ADV" usas="A14">only</w>
+<w pos="MC1" lemma="one" class="ADJ" usas="N1">one</w>
+<w pos="NN1" lemma="turning" class="SUBST" usas="M1">turning</w>
+<w pos="TO" lemma="to" class="PREP" usas="M1">to</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="RP" lemma="down" class="ADV" usas="M1">down</w>
+</u>
+<u n="133" who="S0198" trans="overlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+<w pos="VV0" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="RL" lemma="left" class="ADV" usas="M6">left</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="134" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="VM" lemma="can" class="VERB" usas="A7">ca</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="go" class="VERB" usas="T2">go</w>
+<w pos="RP" lemma="on" class="ADV" usas="T2">on</w>
+</u>
+<u n="135" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RRQ" lemma="where" class="ADV" usas="M6">where</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVD" lemma="go" class="VERB" usas="M1">went</w>
+<w pos="MD" lemma="last" class="ADJ" usas="T1:1:1">last</w>
+<w pos="NNT1" lemma="time" class="SUBST" usas="T1:1:1">time</w>
+<w pos="RP" lemma="up" class="ADV" usas="M6">up</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+</u>
+<u n="136" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="alright" class="ADV" usas="Z4">alright</w>
+<w pos="RT" lemma="then" class="ADV" usas="Z4">then</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="JJ" lemma="fine" class="ADJ" usas="A5:1">fine</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+</u>
+<u n="137" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="NN1" lemma="car" class="SUBST" usas="M3">car</w>
+<w pos="NN2" lemma="park" class="SUBST" usas="M3">parks</w>
+<w pos="VBR" lemma="be" class="VERB" usas="T2">are</w>
+<w pos="RP" lemma="up" class="ADV" usas="T2">up</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z3">ta</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="VVN" lemma="leave" class="VERB" usas="M1">left</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+</u>
+<u n="138" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+</u>
+<u n="139" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VHZ" lemma="have" class="VERB" usas="A9">'s</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="VVN" lemma="post" class="VERB" usas="Q1:2">posted</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="RT" lemma="again" class="ADV" usas="N6">again</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="give" class="VERB" usas="A9">give</w>
+<w pos="PPHO1" lemma="she" class="PRON" usas="Z8">her</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="A6:1">other</w>
+<w pos="NN1" lemma="address" class="SUBST" usas="H4">address</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+</u>
+<u n="140" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+</u>
+<u n="141" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VV0" lemma="repost" class="VERB" usas="Z99">repost</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z5">that</w>
+<w pos="RR21" lemma="as" class="ADV" usas="N5">as</w>
+<w pos="RR22" lemma="well" class="ADV" usas="N5">well</w>
+</u>
+<u n="142" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="NP2" lemma="weatherspoon" class="SUBST" usas="Z99">Weatherspoons</w>
+<w pos="RP" lemma="up" class="ADV" usas="M6">up</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="RL" lemma="anywhere" class="ADV" usas="M6">anywhere</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="VVI" lemma="find" class="VERB" usas="A10">find</w>
+<w pos="RP" lemma="round" class="ADV" usas="M6">round</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="NN1" lemma="dad" class="SUBST" usas="S4">dad</w>
+<pause dur="short"/>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">are</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VVG" lemma="wait" class="VERB" usas="T1:3">waiting</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="DD2" lemma="these" class="ADJ" usas="Z5">these</w>
+<w pos="NN2" lemma="reference" class="SUBST" usas="Q2:2">references</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="143" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NP1" lemma="crb" class="SUBST" usas="Z99">CRB</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RRQ" lemma="where" class="ADV" usas="M6">where</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVD" lemma="go" class="VERB" usas="M1">went</w>
+<w pos="MD" lemma="last" class="ADJ" usas="T1:1:1">last</w>
+<w pos="NNT1" lemma="time" class="SUBST" usas="T1:1:1">time</w>
+<w pos="RP" lemma="up" class="ADV" usas="M6">up</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="VVD" lemma="park" class="VERB" usas="M2">parked</w>
+</u>
+<u n="144" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="145" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NP1" lemma="crb" class="SUBST" usas="Z99">CRB</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="146" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="147" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z3">ta</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="VVN" lemma="leave" class="VERB" usas="M1">left</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="JJ" lemma="darling" class="ADJ" usas="E2">darling</w>
+<pause dur="short"/>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+</u>
+<u n="148" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VM" lemma="will" class="VERB" usas="T1:1:3">'ll</w>
+<w pos="VVI" lemma="get" class="VERB" usas="A9">get</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="II" lemma="onto" class="PREP" usas="Z5">onto</w>
+<w pos="VDG" lemma="do" class="VERB" usas="A1:1:1">doing</w>
+<w pos="DD" lemma="some" class="ADJ" usas="N5">some</w>
+</u>
+<u n="149" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="Z5">'m</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="VVG" lemma="go" class="VERB" usas="M1">going</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+</u>
+<u n="150" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="Z5">'s</w>
+<w pos="VVG" lemma="shadow" class="VERB" usas="O4:3">shadowing</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="VVI" lemma="last" class="VERB" usas="T1:1:1">last</w>
+<w pos="NNT1" lemma="time" class="SUBST" usas="T1:1:1">time</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="MD" lemma="first" class="ADJ" usas="N4">first</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="Z5">is</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VH0" lemma="have" class="VERB" usas="S6">'ve</w>
+<w pos="VVN" lemma="get" class="VERB" usas="S6">got</w>
+<w pos="TO" lemma="to" class="PREP" usas="S6">to</w>
+<w pos="VVI" lemma="shadow" class="VERB" usas="O4:3">shadow</w>
+<w pos="CS" lemma="before" class="CONJ" usas="Z5">before</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VV0" lemma="get" class="VERB" usas="A9">get</w>
+<unclear>
+<w pos="NN2" lemma="shift" class="SUBST" usas="A2:1">shifts</w>
+</unclear>
+</u>
+<u n="151" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="Z5">'m</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">not</w>
+<w pos="VVG" lemma="go" class="VERB" usas="M1">going</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="VV0" lemma="fuck" class="VERB" usas="S3:2">fuck</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+</u>
+<u n="152" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VH0" lemma="have" class="VERB" usas="A9">'ve</w>
+<w pos="RR" lemma="still" class="ADV" usas="T2">still</w>
+<w pos="VVI" lemma="got" class="VERB" usas="A9">got</w>
+<w pos="AT1" lemma="ta" class="ART" usas="Z3">ta</w>
+<w pos="VDI" lemma="do" class="VERB" usas="A1:1:1">do</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="shadowing" class="SUBST" usas="O4:3">shadowing</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">ca</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VDI" lemma="do" class="VERB" usas="A1:1:1">do</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="CS" lemma="until" class="CONJ" usas="Z5">until</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<trunc>
+<w pos="FU" lemma="cr-" class="UNC" usas="Z99">CR-</w>
+</trunc>
+</u>
+<u n="153" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="VVI" lemma="park" class="VERB" usas="M2">park</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">ca</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="154" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">du</w>
+<w pos="XX" lemma="n" class="ADV" usas="Z5">n</w>
+<w pos="VVI" lemma="no" class="VERB" usas="Z6">no</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="JJ" lemma="double" class="ADJ" usas="M3">double</w>
+<w pos="NN2" lemma="yellow" class="SUBST" usas="M3">yellows</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="155" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="156" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="157" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PN1" lemma="nothing" class="PRON" usas="Z6">nothing</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+</u>
+<u n="158" who="S0198" trans="overlap" whoConfidence="high">
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+<w pos="NN1" lemma="dad" class="SUBST" usas="S4">dad</w>
+<w pos="RL" lemma="there" class="ADV" usas="Z4">there</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z4">you</w>
+<w pos="VV0" lemma="go" class="VERB" usas="Z4">go</w>
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+</u>
+<u n="159" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="VDZ" lemma="'s" class="VERB" usas="Z5">'s</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVI" lemma="say" class="VERB" usas="Q2:1">say</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="NN1" lemma="sign" class="SUBST" usas="Q1:1">sign</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="160" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="NN1" lemma="sign" class="SUBST" usas="Q1:1">sign</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="161" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="NN1" lemma="sign" class="SUBST" usas="Q1:1">sign</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="162" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="PN1" lemma="nothing" class="PRON" usas="Z6">nothing</w>
+<w pos="NN1" lemma="dad" class="SUBST" usas="S4">dad</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="VVI" lemma="park" class="VERB" usas="M2">park</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="VM" lemma="could" class="VERB" usas="A7">could</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="get" class="VERB" usas="A9">get</w>
+<w pos="DA1" lemma="much" class="ADJ" usas="N5">much</w>
+<w pos="JJR" lemma="close" class="ADJ" usas="N3:3">closer</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="NP2" lemma="weatherspoon" class="SUBST" usas="Z99">Weatherspoons</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VBR" lemma="be" class="VERB" usas="A3">'re</w>
+<w pos="RG" lemma="pretty" class="ADV" usas="A13:5">pretty</w>
+<w pos="JJ" lemma="cheeky" class="ADJ" usas="S1:2:4">cheeky</w>
+<w pos="II" lemma="like" class="PREP" usas="Z5">like</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+</u>
+<u n="163" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="VD0" lemma="do" class="VERB" usas="A1:1:1">do</w>
+<w pos="APPGE" lemma="your" class="PRON" usas="Z8">your</w>
+<w pos="NN1" lemma="window" class="SUBST" usas="H2">window</w>
+<w pos="II" lemma="up" class="PREP" usas="Z5">up</w>
+<w pos="NP1" lemma="--anonnamef" class="SUBST" usas="Z1">--ANONnameF</w>
+</u>
+<u n="164" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="RR" lemma="alright" class="ADV" usas="Z4">alright</w>
+<w pos="RT" lemma="then" class="ADV" usas="Z4">then</w>
+<w pos="UH" lemma="mm" class="INTERJ" usas="Z4">mm</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="VV0" lemma="give" class="VERB" usas="A9">give</w>
+<w pos="PPIO1" lemma="i" class="PRON" usas="Z8">me</w>
+<w pos="VV0" lemma="give" class="VERB" usas="A9">give</w>
+<w pos="PPIO1" lemma="i" class="PRON" usas="Z8">me</w>
+<w pos="MC" lemma="two" class="ADJ" usas="N1">two</w>
+<w pos="DAR" lemma="more" class="ADJ" usas="N5">more</w>
+<w pos="NNT2" lemma="minute" class="SUBST" usas="T1:3">minutes</w>
+<w pos="CS" lemma="before" class="CONJ" usas="Z5">before</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VV0" lemma="get" class="VERB" usas="M2">get</w>
+<w pos="RP" lemma="out" class="ADV" usas="M2">out</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="car" class="SUBST" usas="M3">car</w>
+</u>
+<u n="165" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="MC" lemma="two" class="ADJ" usas="N1">two</w>
+<w pos="DAR" lemma="more" class="ADJ" usas="N5">more</w>
+<w pos="NNT2" lemma="minute" class="SUBST" usas="T1:3">minutes</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="166" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="167" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="CS" lemma="where" class="CONJ" usas="M6">where</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="A6:1">other</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="168" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="VM" lemma="shall" class="VERB" usas="T1:1:3">shall</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVI" lemma="round" class="VERB" usas="M1">round</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="II21" lemma="up" class="PREP" usas="Z5">up</w>
+<w pos="II22" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="number" class="SUBST" usas="N5">number</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="169" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="A6:1">other</w>
+<w pos="NN2" lemma="glass" class="SUBST" usas="O2">glasses</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="put" class="VERB" usas="M2">put</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+</u>
+<u n="170" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="APPGE" lemma="your" class="PRON" usas="Z8">your</w>
+<w pos="NN2" lemma="sunglass" class="SUBST" usas="B5">sunglasses</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="171" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="PPHS1" lemma="she" class="PRON" usas="Z8">she</w>
+<w pos="VVZ" lemma="want" class="VERB" usas="X7">wants</w>
+<w pos="MC" lemma="two" class="ADJ" usas="N1">two</w>
+<w pos="DAR" lemma="more" class="ADJ" usas="N5">more</w>
+<w pos="NNT2" lemma="minute" class="SUBST" usas="T1:3">minutes</w>
+</u>
+<u n="172" who="S0229" trans="nonoverlap" whoConfidence="high">
+<vocal desc="cough"/>
+</u>
+<u n="173" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="MC" lemma="two" class="ADJ" usas="N1">two</w>
+<w pos="DAR" lemma="more" class="ADJ" usas="N5">more</w>
+<w pos="NNT2" lemma="minute" class="SUBST" usas="T1:3">minutes</w>
+</u>
+<u n="174" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="RRQ" lemma="when" class="ADV" usas="Z5">when</w>
+<w pos="VM" lemma="will" class="VERB" usas="T1:1:3">will</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="RRQ" lemma="when" class="ADV" usas="Z5">when</w>
+<w pos="VBR" lemma="be" class="VERB" usas="A3">are</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="JJ" lemma="likely" class="ADJ" usas="A7">likely</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="VVI" lemma="get" class="VERB" usas="A9">get</w>
+<w pos="NN2" lemma="shift" class="SUBST" usas="A2:1">shifts</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="175" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+</u>
+<u n="176" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="A6:1">other</w>
+<w pos="NN1" lemma="box" class="SUBST" usas="O2">box</w>
+<w pos="NN1" lemma="dear" class="SUBST" usas="E2">dear</w>
+</u>
+<u n="177" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="CS" lemma="when" class="CONJ" usas="Z5">when</w>
+<w pos="CS" lemma="when" class="CONJ" usas="Z5">when</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NP1" lemma="crb" class="SUBST" usas="Z99">CRB</w>
+<w pos="NN1" lemma="check" class="SUBST" usas="X2:4">check</w>
+<w pos="VVZ" lemma="come" class="VERB" usas="M1">comes</w>
+<w pos="RP" lemma="back" class="ADV" usas="M1">back</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VM" lemma="will" class="VERB" usas="T1:1:3">'ll</w>
+<w pos="VVI" lemma="get" class="VERB" usas="A9">get</w>
+<w pos="APPGE" lemma="my" class="PRON" usas="Z8">my</w>
+<w pos="NN1" lemma="shadowing" class="SUBST" usas="O4:3">shadowing</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="PPGE" lemma="mine" class="PRON" usas="Z8">mine</w>
+</u>
+<u n="178" who="S0229" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="PPGE" lemma="yours" class="PRON" usas="Z8">yours</w>
+</u>
+<u n="179" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+</u>
+<u n="180" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="PPGE" lemma="mine" class="PRON" usas="Z8">mine</w>
+</u>
+<u n="181" who="S0198" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+</u>
+<u n="182" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VM" lemma="should" class="VERB" usas="S6">should</w>
+<w pos="VVI" lemma="get" class="VERB" usas="A9">get</w>
+<w pos="DD" lemma="some" class="ADJ" usas="N5">some</w>
+<w pos="NN2" lemma="shift" class="SUBST" usas="A2:1">shifts</w>
+<w pos="RR" lemma="hopefully" class="ADV" usas="X2:6">hopefully</w>
+</u>
+<u n="183" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VM" lemma="might" class="VERB" usas="A7">might</w>
+<w pos="VBI" lemma="be" class="VERB" usas="A3">be</w>
+<w pos="AT1" lemma="a" class="ART" usas="T1:3">a</w>
+<w pos="JJ" lemma="little" class="ADJ" usas="T1:3">little</w>
+<w pos="NNT1" lemma="while" class="SUBST" usas="T1:3">while</w>
+<w pos="CS" lemma="before" class="CONJ" usas="Z5">before</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="DD" lemma="any" class="ADJ" usas="N5:1">any</w>
+<w pos="NN1" lemma="money" class="SUBST" usas="I1">money</w>
+<w pos="VVG" lemma="go" class="VERB" usas="M1">going</w>
+<w pos="II" lemma="into" class="PREP" usas="M1">into</w>
+<w pos="APPGE" lemma="your" class="PRON" usas="Z8">your</w>
+<w pos="NN1" lemma="account" class="SUBST" usas="I1">account</w>
+</u>
+<u n="184" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="know" class="VERB" usas="X2:2">know</w>
+</u>
+<u n="185" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="bet" class="VERB" usas="Z4">bet</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VHN" lemma="have" class="VERB" usas="A9">had</w>
+<w pos="RG" lemma="quite" class="ADV" usas="N5">quite</w>
+<w pos="RR21" lemma="a" class="ADV" usas="N5">a</w>
+<w pos="RR22" lemma="bit" class="ADV" usas="N5">bit</w>
+<w pos="VVG" lemma="come" class="VERB" usas="M1">coming</w>
+<w pos="II21" lemma="out" class="PREP" usas="X3">out</w>
+<w pos="II22" lemma="of" class="PREP" usas="X3">of</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="X3">it</w>
+<w pos="RR21" lemma="as" class="ADV" usas="N5">as</w>
+<w pos="RR22" lemma="well" class="ADV" usas="N5">well</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">have</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="186" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="know" class="VERB" usas="X2:2">know</w>
+</u>
+<u n="187" who="S0198" trans="overlap" whoConfidence="high">
+<w pos="VV0" lemma="let" class="VERB" usas="S7:4">let</w>
+<w pos="DD2" lemma="these" class="ADJ" usas="Z5">these</w>
+<w pos="NN2" lemma="boy" class="SUBST" usas="S2:2">boys</w>
+<w pos="VVI" lemma="pass" class="VERB" usas="M1">pass</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="II" lemma="by" class="PREP" usas="M1">by</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="amount" class="SUBST" usas="N5">amount</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="NNT2" lemma="time" class="SUBST" usas="T1">times</w>
+<w pos="JJ" lemma="bloody" class="ADJ" usas="Z4">bloody</w>
+<w pos="NN2" lemma="school" class="SUBST" usas="P1">schools</w>
+<w pos="NN2" lemma="child" class="SUBST" usas="S2">children</w>
+<w pos="VV0" lemma="stop" class="VERB" usas="T2">stop</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="VV0" lemma="ask" class="VERB" usas="Q2:2">ask</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="survey" class="SUBST" usas="X2:4">survey</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="DD1" lemma="this" class="ADJ" usas="M6">this</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z5">or</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="survey" class="SUBST" usas="X2:4">survey</w>
+<w pos="IO" lemma="of" class="PREP" usas="Z5">of</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+</u>
+<u n="188" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+<w pos="MC" lemma="twelve" class="ADJ" usas="T3">twelve</w>
+<w pos="MC" lemma="forty" class="ADJ" usas="N1">forty</w>
+</u>
+<u n="189" who="S0198" trans="nonoverlap" whoConfidence="high">
+<vocal desc="laugh"/>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBR" lemma="be" class="VERB" usas="A3">'re</w>
+<unclear>
+<w pos="DB" lemma="all" class="ADJ" usas="N5:1">all</w>
+</unclear>
+<w pos="VVG" lemma="write" class="VERB" usas="Q1:2">writing</w>
+<w pos="RP" lemma="down" class="ADV" usas="Q1:2">down</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN2" lemma="one" class="SUBST" usas="Z8">ones</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBR" lemma="be" class="VERB" usas="A3">'re</w>
+<w pos="DB" lemma="all" class="ADJ" usas="N5:1">all</w>
+<w pos="VVG" lemma="look" class="VERB" usas="X3:4">looking</w>
+<w pos="II" lemma="at" class="PREP" usas="X3:4">at</w>
+<w pos="PPIO2" lemma="we" class="PRON" usas="Z8">us</w>
+<w pos="MC" lemma="twelve" class="ADJ" usas="N1">twelve</w>
+<w pos="MC" lemma="forty" class="ADJ" usas="N1">forty</w>
+</u>
+<u n="190" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="VM21" lemma="let" class="VERB" usas="Z5">let</w>
+<w pos="VM22" lemma="'s" class="VERB" usas="Z5">'s</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="RR31" lemma="a" class="ADV" usas="A13:6">a</w>
+<w pos="RR32" lemma="little" class="ADV" usas="A13:6">little</w>
+<w pos="RR33" lemma="bit" class="ADV" usas="A13:6">bit</w>
+<w pos="RRR" lemma="further" class="ADV" usas="N5">further</w>
+</u>
+<u n="191" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="MC" lemma="twenty" class="ADJ" usas="T1:2">twenty</w>
+<w pos="II" lemma="to" class="PREP" usas="T1:2">to</w>
+<w pos="MC1" lemma="one" class="ADJ" usas="T1:2">one</w>
+</u>
+<u n="192" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="193" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="VVD" lemma="see" class="VERB" usas="X3:4">saw</w>
+<w pos="NN" lemma="people" class="SUBST" usas="S2">people</w>
+<w pos="VVG" lemma="get" class="VERB" usas="A9">getting</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="ticket" class="SUBST" usas="Q1:2">ticket</w>
+<w pos="II" lemma="on" class="PREP" usas="S8">on</w>
+<w pos="APPGE" lemma="our" class="PRON" usas="S8">our</w>
+<w pos="NN1" lemma="side" class="SUBST" usas="S8">side</w>
+<w pos="RP" lemma="on" class="ADV" usas="M6">on</w>
+<w pos="II" lemma="outside" class="PREP" usas="Z5">outside</w>
+<w pos="APPGE" lemma="our" class="PRON" usas="Z8">our</w>
+<w pos="NN1" lemma="house" class="SUBST" usas="H1">house</w>
+<w pos="RT" lemma="yesterday" class="ADV" usas="T1:1:1">yesterday</w>
+</u>
+<u n="194" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="VDD" lemma="do" class="VERB" usas="Z5">did</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="195" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<trunc>
+<w pos="FU" lemma="def-" class="UNC" usas="Z99">def-</w>
+</trunc>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VV0" lemma="come" class="VERB" usas="M1">come</w>
+<w pos="RP" lemma="round" class="ADV" usas="M1">round</w>
+<w pos="RR" lemma="frequently" class="ADV" usas="N6">frequently</w>
+</u>
+<u n="196" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="right" class="ADV" usas="Z4">right</w>
+</u>
+<u n="197" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VVN" lemma="see" class="VERB" usas="X3:4">seen</w>
+<w pos="PPHO2" lemma="they" class="PRON" usas="Z8">them</w>
+</u>
+<u n="198" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="EX" lemma="there" class="PRON" usas="Z5">there</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RR" lemma="always" class="ADV" usas="N6">always</w>
+<w pos="PN1" lemma="someone" class="PRON" usas="Z8">someone</w>
+<w pos="VVG" lemma="get" class="VERB" usas="A9">getting</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="ticket" class="SUBST" usas="Q1:2">ticket</w>
+<w pos="RP" lemma="down" class="ADV" usas="M6">down</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+</u>
+<u n="199" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="CS" lemma="when" class="CONJ" usas="Z5">when</w>
+<w pos="CS" lemma="when" class="CONJ" usas="Z5">when</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVD" lemma="stay" class="VERB" usas="M8">stayed</w>
+<w pos="II" lemma="at" class="PREP" usas="Z5">at</w>
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="II" lemma="at" class="PREP" usas="Z5">at</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="PN1" lemma="one" class="PRON" usas="Z8">one</w>
+</u>
+<u n="200" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="NP1" lemma="antwerp" class="SUBST" usas="Z2">Antwerp</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="201" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="CS" lemma="when" class="CONJ" usas="Z5">when</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VHD" lemma="have" class="VERB" usas="A9">had</w>
+<w pos="NN2" lemma="kipper" class="SUBST" usas="F1">kippers</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+</u>
+<u n="202" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+</u>
+<u n="203" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NP1" lemma="dorset" class="SUBST" usas="Z2">Dorset</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="204" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="NP1" lemma="weymouth" class="SUBST" usas="Z2">Weymouth</w>
+</u>
+<u n="205" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="NP1" lemma="weymouth" class="SUBST" usas="Z2">Weymouth</w>
+</u>
+<u n="206" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="go" class="VERB" usas="M1">went</w>
+<w pos="RP" lemma="down" class="ADV" usas="M1">down</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="papershop" class="SUBST" usas="Z99">papershop</w>
+<w pos="II" lemma="at" class="PREP" usas="Z5">at</w>
+<w pos="MC" lemma="six" class="ADJ" usas="T1:2">six</w>
+<w pos="RA" lemma="o'clock" class="ADV" usas="T1:2">o'clock</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NNT1" lemma="morning" class="SUBST" usas="T1:3">morning</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="PPHS2" lemma="they" class="PRON" usas="Z8">they</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="Z5">was</w>
+<w pos="VVG" lemma="stick" class="VERB" usas="M2">sticking</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN2" lemma="ticket" class="SUBST" usas="Q1:2">tickets</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN2" lemma="car" class="SUBST" usas="M3">cars</w>
+<w pos="RT" lemma="then" class="ADV" usas="N4">then</w>
+</u>
+<u n="207" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="JJ" lemma="harsh" class="ADJ" usas="O4:2">harsh</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="Z5">is</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="MC" lemma="six" class="ADJ" usas="T1:2">six</w>
+<w pos="RA" lemma="o'clock" class="ADV" usas="T1:2">o'clock</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NNT1" lemma="morning" class="SUBST" usas="T1:3">morning</w>
+</u>
+<u n="208" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="209" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="erm" class="INTERJ" usas="Z4">erm</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z5">that</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="NP1" lemma="weymouth" class="SUBST" usas="Z2">Weymouth</w>
+<w pos="II" lemma="in" class="PREP" usas="Z2">in</w>
+<w pos="NP1" lemma="dorset" class="SUBST" usas="Z2">Dorset</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="210" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+<w pos="UH" lemma="nah" class="INTERJ" usas="Z4">nah</w>
+</u>
+<u n="211" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="no" class="INTERJ" usas="Z4">no</w>
+</u>
+<u n="212" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="nah" class="INTERJ" usas="Z4">nah</w>
+</u>
+<u n="213" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="NP1" lemma="--anonnamem" class="SUBST" usas="Z1">--ANONnameM</w>
+<w pos="VVD" lemma="ask" class="VERB" usas="Q2:2">asked</w>
+<w pos="PPIO1" lemma="i" class="PRON" usas="Z8">me</w>
+<w pos="CST" lemma="that" class="CONJ" usas="Z5">that</w>
+<w pos="AT" lemma="the" class="ART" usas="T1:1:1">the</w>
+<w pos="JJ" lemma="other" class="ADJ" usas="T1:1:1">other</w>
+<w pos="NNT1" lemma="day" class="SUBST" usas="T1:1:1">day</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVD" lemma="come" class="VERB" usas="A1:1:1">came</w>
+<w pos="RP" lemma="up" class="ADV" usas="A1:1:1">up</w>
+</u>
+<u n="214" who="S0230" trans="overlap" whoConfidence="high">
+<w pos="NP1" lemma="weymouth" class="SUBST" usas="Z2">Weymouth</w>
+<w pos="UH" lemma="yes" class="INTERJ" usas="Z4">yes</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+</u>
+<u n="215" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="VDZ" lemma="do" class="VERB" usas="Z5">does</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="RR" lemma="still" class="ADV" usas="T2">still</w>
+<w pos="VVI" lemma="come" class="VERB" usas="A1:8">come</w>
+<w pos="II" lemma="under" class="PREP" usas="A1:8">under</w>
+<w pos="NP1" lemma="dorset" class="SUBST" usas="Z2">Dorset</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="216" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="VDZ" lemma="do" class="VERB" usas="Z5">does</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVI" lemma="come" class="VERB" usas="A1:8">come</w>
+<w pos="II" lemma="under" class="PREP" usas="A1:8">under</w>
+<w pos="NP1" lemma="dorset" class="SUBST" usas="Z2">Dorset</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="217" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yes" class="INTERJ" usas="Z4">yes</w>
+<w pos="NP1" lemma="weymouth" class="SUBST" usas="Z2">Weymouth</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="NP1" lemma="dorset" class="SUBST" usas="Z2">Dorset</w>
+</u>
+<u n="218" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="mean" class="VERB" usas="Z4">mean</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VVD" lemma="say" class="VERB" usas="Q2:1">said</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBDZ" lemma="be" class="VERB" usas="A3">was</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="RR" lemma="entirely" class="ADV" usas="A13:2">entirely</w>
+<w pos="JJ" lemma="sure" class="ADJ" usas="A7">sure</w>
+<w pos="CS" lemma="if" class="CONJ" usas="Z7">if</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="CS" lemma="if" class="CONJ" usas="Z7">if</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VVD" lemma="tip" class="VERB" usas="M2">tipped</w>
+<w pos="RP" lemma="over" class="ADV" usas="T2">over</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="RL" lemma="somewhere" class="ADV" usas="M6">somewhere</w>
+<w pos="RR" lemma="else" class="ADV" usas="A6:1">else</w>
+</u>
+<u n="219" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVI" lemma="get" class="VERB" usas="M2">get</w>
+<w pos="RP" lemma="out" class="ADV" usas="M2">out</w>
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+<w pos="CS" lemma="cos" class="CONJ" usas="Z5">cos</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VBM" lemma="be" class="VERB" usas="Z5">'m</w>
+<w pos="VVG" lemma="roast" class="VERB" usas="F1">roasting</w>
+</u>
+<u n="220" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">are</w>
+<w pos="PPY" lemma="you" class="PRON" usas="Z8">you</w>
+<w pos="VVG" lemma="roast" class="VERB" usas="F1">roasting</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="221" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="NN1" lemma="hand" class="SUBST" usas="B1">hand</w>
+<w pos="II" lemma="on" class="PREP" usas="Z5">on</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<trunc>
+<w pos="FU" lemma="m-" class="UNC" usas="Z99">m-</w>
+</trunc>
+<w pos="NN1" lemma="nother" class="SUBST" usas="Z99">nother</w>
+<w pos="NNT1" lemma="minute" class="SUBST" usas="T1:3">minute</w>
+<w pos="VV0" lemma="give" class="VERB" usas="A9">give</w>
+<w pos="PPHO1" lemma="she" class="PRON" usas="Z8">her</w>
+<w pos="VV0" lemma="let" class="VERB" usas="S7:4">let</w>
+<w pos="PPHO1" lemma="she" class="PRON" usas="Z8">her</w>
+</u>
+<u n="222" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="VVI" lemma="give" class="VERB" usas="A9">give</w>
+<w pos="PPIO1" lemma="i" class="PRON" usas="Z8">me</w>
+<w pos="DD" lemma="some" class="ADJ" usas="N5">some</w>
+<w pos="JJ" lemma="ample" class="ADJ" usas="N5">ample</w>
+<w pos="NN1" lemma="timeage" class="SUBST" usas="Z99">timeage</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="VVI" lemma="need" class="VERB" usas="S6">need</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="wee" class="SUBST" usas="B1">wee</w>
+<w pos="RR" lemma="though" class="ADV" usas="Z5">though</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RR21" lemma="a" class="ADV" usas="A13:6">a</w>
+<w pos="RR22" lemma="bit" class="ADV" usas="A13:6">bit</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VD0" lemma="do" class="VERB" usas="Z5">do</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="CSW" lemma="if" class="CONJ" usas="Z7">if</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="NNT1" lemma="time" class="SUBST" usas="T1">time</w>
+<w pos="II" lemma="to" class="PREP" usas="Z5">to</w>
+</u>
+<u n="223" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="224" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">ca</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVI" lemma="remember" class="VERB" usas="X2:2">remember</w>
+<w pos="RR" lemma="exactly" class="ADV" usas="A4:2">exactly</w>
+</u>
+<u n="225" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="RRQ" lemma="where" class="ADV" usas="M6">where</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="II" lemma="from" class="PREP" usas="Z5">from</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+</u>
+<u n="226" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="know" class="VERB" usas="X2:2">know</w>
+</u>
+<u n="227" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="FU" lemma="--unclearword" class="UNC" usas="Z99">--UNCLEARWORD</w>
+</u>
+<u n="228" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="RR" lemma="only" class="ADV" usas="A14">only</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="MC" lemma="twenty" class="ADJ" usas="N1">twenty</w>
+</u>
+<u n="229" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="NP2" lemma="weatherspoon" class="SUBST" usas="Z99">Weatherspoons</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">is</w>
+<w pos="RL" lemma="here" class="ADV" usas="M6">here</w>
+<w pos="VBZ" lemma="in" class="VERB" usas="Z5">in</w>
+<w pos="XX" lemma="n" class="ADV" usas="Z5">n</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="230" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPH1" lemma="it" class="PRON" usas="Z8">it</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="RL" lemma="there" class="ADV" usas="M6">there</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="RR" lemma="only" class="ADV" usas="A14">only</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="MC" lemma="twenty" class="ADJ" usas="N1">twenty</w>
+<w pos="NNT2" lemma="minute" class="SUBST" usas="T1:3">minutes</w>
+<w pos="RR" lemma="so" class="ADV" usas="Z5">so</w>
+</u>
+<u n="231" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="well" class="ADV" usas="A5:1">well</w>
+<w pos="DD1" lemma="that" class="ADJ" usas="Z8">that</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="A3">'s</w>
+<w pos="JJ" lemma="alright" class="ADJ" usas="A5:1">alright</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="VVI" lemma="pop" class="VERB" usas="M1">pop</w>
+<w pos="II" lemma="in" class="PREP" usas="M1">in</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="DDQ" lemma="what" class="PRON" usas="Z8">what</w>
+<w pos="VBZ" lemma="be" class="VERB" usas="Z8">'s</w>
+<w pos="APPGE" lemma="her" class="PRON" usas="Z8">her</w>
+<w pos="NN1" lemma="name" class="SUBST" usas="Z8">name</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<w pos="NN1" lemma="thingumajig" class="SUBST" usas="Q1:1">thingumajig</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="UH" lemma="er" class="INTERJ" usas="Z4">er</w>
+<unclear>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="RR" lemma="always" class="ADV" usas="N6">always</w>
+</unclear>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="II" lemma="in" class="PREP" usas="Z5">in</w>
+<w pos="AT" lemma="the" class="ART" usas="Z5">the</w>
+<w pos="NN1" lemma="bank" class="SUBST" usas="I1">bank</w>
+</u>
+<u n="232" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="alright" class="ADV" usas="A5:1">alright</w>
+<w pos="VM21" lemma="let" class="VERB" usas="Z5">let</w>
+<w pos="VM22" lemma="'s" class="VERB" usas="Z5">'s</w>
+<w pos="RR" lemma="quickly" class="ADV" usas="N3:8">quickly</w>
+<w pos="VVI" lemma="go" class="VERB" usas="M1">go</w>
+<w pos="CC" lemma="and" class="CONJ" usas="Z5">and</w>
+<w pos="VVI" lemma="find" class="VERB" usas="A10">find</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NN1" lemma="bank" class="SUBST" usas="I1">bank</w>
+</u>
+<u n="233" who="S0229" trans="overlap" whoConfidence="high">
+<w pos="CSA" lemma="as" class="CONJ" usas="Z5">as</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">have</w>
+<w pos="XX" lemma="not" class="ADV" usas="Z6">n't</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="AT1" lemma="a" class="ART" usas="Z5">a</w>
+<w pos="NNU1" lemma="penny" class="SUBST" usas="I1">penny</w>
+<w pos="NNU1" lemma="penny" class="SUBST" usas="I1">penny</w>
+<w pos="II" lemma="between" class="PREP" usas="S1:1:2">between</w>
+<w pos="PPIO2" lemma="we" class="PRON" usas="S1:1:2">us</w>
+</u>
+<u n="234" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="RRQ" lemma="how" class="ADV" usas="Z5">how</w>
+<w pos="VBR" lemma="be" class="VERB" usas="Z5">are</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VDG" lemma="do" class="VERB" usas="A1:1:1">doing</w>
+<w pos="IF" lemma="for" class="PREP" usas="Z5">for</w>
+<w pos="NNT1" lemma="time" class="SUBST" usas="T1">time</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="235" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VH0" lemma="have" class="VERB" usas="Z5">'ve</w>
+<w pos="VVN" lemma="get" class="VERB" usas="A9">got</w>
+<w pos="MC" lemma="twenty" class="ADJ" usas="N1">twenty</w>
+<w pos="NNT2" lemma="minute" class="SUBST" usas="T1:3">minutes</w>
+<w pos="TO" lemma="to" class="PREP" usas="Z5">to</w>
+<w pos="VVI" lemma="meet" class="VERB" usas="S3:1">meet</w>
+<w pos="NP1" lemma="--anonnamem" class="SUBST" usas="Z1">--ANONnameM</w>
+</u>
+<u n="236" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z8">I</w>
+<w pos="VV0" lemma="know" class="VERB" usas="X2:2">know</w>
+<w pos="CCB" lemma="but" class="CONJ" usas="Z5">but</w>
+<w pos="PPIS1" lemma="i" class="PRON" usas="Z4">I</w>
+<w pos="VV0" lemma="mean" class="VERB" usas="Z4">mean</w>
+</u>
+<u n="237" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="RT" lemma="now" class="ADV" usas="T1:1:2">now</w>
+<w pos="VM" lemma="can" class="VERB" usas="A7">can</w>
+<w pos="PPIS2" lemma="we" class="PRON" usas="Z8">we</w>
+<w pos="VVI" lemma="get" class="VERB" usas="M2">get</w>
+<w pos="RP" lemma="out" class="ADV" usas="M2">out</w>
+<w pos="YQUE" lemma="PUNC" class="STOP" usas="">?</w>
+</u>
+<u n="238" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="UH" lemma="oh" class="INTERJ" usas="Z4">oh</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+<w pos="RR" lemma="alright" class="ADV" usas="Z4">alright</w>
+<w pos="RT" lemma="then" class="ADV" usas="Z4">then</w>
+</u>
+<u n="239" who="S0229" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="bloody" class="ADV" usas="Z4">bloody</w>
+<w pos="JJ" lemma="sweating" class="ADJ" usas="B1">sweating</w>
+</u>
+<u n="240" who="S0198" trans="nonoverlap" whoConfidence="high">
+<w pos="RR" lemma="just" class="ADV" usas="A14">just</w>
+<w pos="DD1" lemma="another" class="ADJ" usas="A6:1">another</w>
+<w pos="MC" lemma="forty" class="ADJ" usas="N1">forty</w>
+<w pos="NNT2" lemma="second" class="SUBST" usas="T1:3">seconds</w>
+<w pos="CC" lemma="or" class="CONJ" usas="Z4">or</w>
+<w pos="DDQV" lemma="whatever" class="PRON" usas="Z4">whatever</w>
+<w pos="UH" lemma="yeah" class="INTERJ" usas="Z4">yeah</w>
+</u>
+<u n="241" who="S0230" trans="nonoverlap" whoConfidence="high">
+<w pos="MC" lemma="forty" class="ADJ" usas="N1">forty</w>
+<trunc>
+<w pos="FU" lemma="second-" class="UNC" usas="Z99">second-</w>
+</trunc>
+</u>
+<event desc="abrupt end"/>
+</text>

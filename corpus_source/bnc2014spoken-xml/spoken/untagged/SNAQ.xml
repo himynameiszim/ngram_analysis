@@ -1,0 +1,670 @@
+<text id="SNAQ">
+	<header>
+		<rec_length>0:17:40</rec_length>
+		<rec_date>2015-07-03</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q3</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0428 S0431 S0432 S0433 S0434</list_speakers>
+		<rec_loc>Cambridge University Press Printing House</rec_loc>
+		<relationships>Colleagues</relationships>
+		<topics>Party arrangements, saving an insect, </topics>
+		<activity>The last twenty minutes of Horace</activity>
+		<conv_type>Discussing, Explaining, Advising, Inviting, Anecdote Telling, Making Arrangements</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T02</transcriber>
+		<speakerInfo>
+			<speaker id="S0428">
+				<exactage>27</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Aylesbury, Buckinghamshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Eastern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 year 8 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>eastern_engl</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Language Research Co-ordinator</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified; Italian -- level unspecified; French -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0431">
+				<exactage>29</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Birkenhead</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Merseyside/ North-West</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>10 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>liverpool</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Language Research Project Manager</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified; French -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0432">
+				<exactage>23</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>White British</nat>
+				<birthplace>Lincoln</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>East Midlands/ East Anglia</dialect_rep>
+				<hab_city>Gamlingay, Cambridgeshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>10 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Language Research Administrator</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified; Chinese -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0433">
+				<exactage>26</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Sunderland, Tyne and Wear</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>North-Eastern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>7 years 10 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Language Research Project Manager</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0434">
+				<exactage>30</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British and American</nat>
+				<birthplace>Pennsylvania</birthplace>
+				<birthcountry>USA</birthcountry>
+				<l1>English</l1>
+				<lingorig>Britain probably</lingorig>
+				<dialect_rep>Accent - General American, dialect - British English</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 month in Cambridge, 20 years in the UK</hab_dur>
+				<dialect_l1>non_uk</dialect_l1>
+				<dialect_l2>non_uk</dialect_l2>
+				<dialect_l3>non_uk</dialect_l3>
+				<dialect_l4>non_uk</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Senior ELT Research Manager</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>French -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0433">at the time we're like wherever it'd be happening we'd be like oh that's a <unclear/> <vocal desc="laugh"/> <pause dur="short"/> like massively <unclear/></u>
+<u n="2" who="S0431">where was your friend from?</u>
+<u n="3" who="S0433">I can't remember <unclear/></u>
+<u n="4" who="S0431" trans="overlap">mm</u>
+<u n="5" who="S0433"><unclear/></u>
+<u n="6" who="S0431">so do you want <unclear/> are you are you bothered what time people arrive tomorrow? I haven't like I probably won't stay</u>
+<u n="7" who="S0434" trans="overlap">not really</u>
+<u n="8" who="S0431">for the whole thing but I'm just wondering <trunc>w</trunc> if there's any particular time that I can't</u>
+<u n="9" who="S0434">well we sort of said from three onwards so I'm assuming that means switch the barbecue on at three</u>
+<u n="10" who="S0431">yeah</u>
+<u n="11" who="S0434">erm</u>
+<u n="12" who="S0433">yeah</u>
+<u n="13" who="S0434">but like some people aren't they're coming from out of Cambridge so they might come either right at the beginning so they can get back early or they might come much later and one of my friends might be staying so I don't really know what sort of time people are planning to arrive</u>
+<u n="14" who="S0431" trans="overlap">okay so you don't mind</u>
+<u n="15" who="S0434">I don't mind at all <vocal desc="laugh"/> my only fear is that if we only have at any given moment three guests <vocal desc="laugh"/></u>
+<u n="16" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="17" who="S0434"><unclear>it just</unclear> might be a bit weird for people</u>
+<u n="18" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="19" who="S0434">because if like</u>
+<u n="20" who="S0431" trans="overlap"><unclear/> fine</u>
+<u n="21" who="S0434">someone comes for this period of time then they go and then these people come and it's all a little bit and I'm afraid that two of my friends who are each other's ex might be there like at the same time and dude it's kind of <unclear/></u>
+<u n="22" who="S0428">what's that? oh</u>
+<u n="23" who="S0434">well whatever <unclear/> is</u>
+<u n="24" who="S0432" trans="overlap">oh it's trying to swim</u>
+<u n="25" who="S0434">well he's stuck <pause dur="short"/> he's stuck in the oil</u>
+<u n="26" who="S0432">oh no</u>
+<u n="27" who="S0428">maybe on the napkin</u>
+<u n="28" who="S0434">I don't know if I can get him out out of there maybe I can</u>
+<u n="29" who="S0431" trans="overlap">he's trying to push himself over</u>
+<u n="30" who="S0434">yeah but <trunc>hi</trunc> his wings are stuck</u>
+<u n="31" who="S0432">ah I feel really bad</u>
+<u n="32" who="S0434">I need something sharper</u>
+<u n="33" who="S0433"><unclear/> kind of stuck it under his tail maybe?</u>
+<u n="34" who="S0434" trans="overlap">I know</u>
+<u n="35" who="S0428" trans="overlap"><unclear/> help it maybe I've got erm</u>
+<u n="36" who="S0434">stop freaking out chill out</u>
+<u n="37" who="S0432" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="38" who="S0428" whoConfidence="low">stay still for one minute</u>
+<u n="39" who="S0431">what about <unclear/></u>
+<u n="40" who="S0433" trans="overlap">yay</u>
+<u n="41" who="S0434">those wings just stuck together</u>
+<u n="42" who="S0432" whoConfidence="low">oh no <pause dur="short"/> should we give him a bit of water? cos he can have a little wash</u>
+<u n="43" who="S0431" trans="overlap" whoConfidence="low">he's getting such VIP treatment</u>
+<u n="44" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="45" who="S0434">what is he?</u>
+<u n="46" who="S0428">crashed our lunch and now he's getting special</u>
+<u n="47" who="S0434" trans="overlap">yeah he probably should have a little water <pause dur="short"/> can I like is there anyone who's not drinking their water? I can dip him</u>
+<u n="48" who="S0431" trans="overlap"><unclear/></u>
+<u n="49" who="S0428" trans="overlap">yeah yeah</u>
+<u n="50" who="S0434">like let him wash <unclear/></u>
+<u n="51" who="S0428" trans="overlap">have a little bath</u>
+<u n="52" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="53" who="S0428">oh don't drown <unclear>him</unclear></u>
+<u n="54" who="S0434">alright <pause dur="short"/> alright go on go on</u>
+<u n="55" who="S0431">mm</u>
+<u n="56" who="S0434">I'm just gonna <unclear/></u>
+<u n="57" who="S0428" trans="overlap">yeah <unclear/></u>
+<u n="58" who="S0434">you can sort your own shit out Mr <unclear/></u>
+<u n="59" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="60" who="S0431">just don't put him near <anon type="name" nameType="f"/></u>
+<u n="61" who="S0433" trans="overlap">I think we've done all we can do now I don't need any more bites</u>
+<u n="62" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="63" who="S0431">what is he? I've never seen one of them</u>
+<u n="64" who="S0434">I don't know but his wings are stuck together with oil we need some water on top of him</u>
+<u n="65" who="S0432" trans="overlap">the water's completely like oh no</u>
+<u n="66" who="S0433" trans="overlap"><unclear>maybe</unclear> he needs to get rained on gently</u>
+<u n="67" who="S0428"><unclear/> slightly <unclear/></u>
+<u n="68" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="69" who="S0432"><unclear/> are on him <vocal desc="laugh"/></u>
+<u n="70" who="S0434" trans="overlap">he won't get off like let go</u>
+<u n="71" who="S0431">shall we briefly immerse him? <vocal desc="laugh"/></u>
+<u n="72" who="S0434">let go</u>
+<u n="73" who="S0433">haven't got many insect <unclear/></u>
+<u n="74" who="S0432">that's going terribly <unclear/></u>
+<u n="75" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="76" who="S0433">it's all gone weird again</u>
+<u n="77" who="S0432">are we recording this?</u>
+<u n="78" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="79" who="S0428">shall we <unclear/>?</u>
+<u n="80" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="81" who="S0431">we need to give him a name</u>
+<u n="82" who="S0434">I wanna put some water on top of it but I can't</u>
+<u n="83" who="S0431">but we need to think of a name before you do that</u>
+<u n="84" who="S0434">Horace</u>
+<u n="85" who="S0431">Horace?</u>
+<u n="86" who="S0434">he <unclear>just</unclear> looks like a Horace</u>
+<u n="87" who="S0428">I wonder what he is</u>
+<u n="88" who="S0434">what in case <unclear/> <vocal desc="laugh"/></u>
+<u n="89" who="S0432" trans="overlap">I don't want to I don't want to be responsible for drowning him</u>
+<u n="90" who="S0434">then go for <unclear/></u>
+<u n="91" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="92" who="S0431" trans="overlap"><unclear/> actually now we've named him</u>
+<u n="93" who="S0434" trans="overlap">come on Horace let's go</u>
+<u n="94" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="95" who="S0434">look you're not going to get your wings unstuck if you just stand there</u>
+<u n="96" who="S0431">can we get a consent form from Horace?</u>
+<u n="97" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="98" who="S0431"><unclear/></u>
+<u n="99" who="S0434">let's go walk</u>
+<u n="100" who="S0428" whoConfidence="low">I don't think he can find it cos his wings are stuck together</u>
+<u n="101" who="S0433">yeah</u>
+<u n="102" who="S0434">I don't</u>
+<u n="103" who="S0433">unfortunate cos otherwise</u>
+<u n="104" who="S0434" trans="overlap">oh no oh no</u>
+<u n="105" who="S0432">oh no <unclear/> has he died?</u>
+<u n="106" who="S0434">oh I think he might be dead or maybe he's playing dead</u>
+<u n="107" who="UNKMULTI" whoConfidence="low">playing dead</u>
+<u n="108" who="S0432" trans="overlap">oh no he's washing himself I reckon on the the kind of cool</u>
+<u n="109" who="S0428">yeah</u>
+<u n="110" who="S0431">yeah</u>
+<u n="111" who="S0428">do that on there</u>
+<u n="112" who="S0431">I think that's an option</u>
+<u n="113" who="S0432" trans="overlap">there's no water left on there</u>
+<u n="114" who="S0431">is that <unclear>evaporated</unclear>?</u>
+<u n="115" who="S0432">yeah <unclear/> I'm so shocked by the erm</u>
+<u n="116" who="S0433" trans="overlap">shocked by the thing</u>
+<u n="117" who="S0434">oh no oh have we killed him?</u>
+<u n="118" who="S0428">oh I think he has died ah</u>
+<u n="119" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="120" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="121" who="S0434">are we gonna have to bury him? <pause dur="short"/></u>
+<u n="122" who="S0432">funeral</u>
+<u n="123" who="S0434"><vocal desc="laugh"/> he's only just been baptised</u>
+<u n="124" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="125" who="S0434">life cut short</u>
+<u n="126" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="127" who="S0433">that's so weird</u>
+<u n="128" who="S0428">he has actually died then?</u>
+<u n="129" who="S0431">he kind of wriggled a bit</u>
+<u n="130" who="S0433" trans="overlap"><unclear/></u>
+<u n="131" who="S0432" trans="overlap">oh no he's wriggling he is wriggling</u>
+<u n="132" who="S0434"><unclear>I</unclear> just need to say I'm sorry to block</u>
+<u n="133" who="S0428" trans="overlap">you're gonna be a great mum why are you still drinking?</u>
+<u n="134" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="135" who="S0433">just put him upright <unclear/></u>
+<u n="136" who="S0432"><vocal desc="laugh"/> I wish we hadn't named him now</u>
+<u n="137" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="138" who="S0431">oh my god</u>
+<event desc="sound of aeroplane"/>
+<event desc="unintelligible"/>
+<pause dur="long"/>
+<u n="139" who="S0431">of all the conversations we could have recorded</u>
+<u n="140" who="S0434" trans="overlap">oh no</u>
+<u n="141" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="142" who="S0431">think you picked a good one there</u>
+<u n="143" who="S0432">it's going well</u>
+<u n="144" who="S0434">I didn't think it could go sillier <unclear>after</unclear> badger watch <unclear/></u>
+<u n="145" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="146" who="S0434">and when I said earlier that my garlic might kill someone I didn't imagine</u>
+<u n="147" who="S0432">oh</u>
+<u n="148" who="S0431">maybe it was that actually the oil and used garlic</u>
+<u n="149" who="S0428">mm</u>
+<u n="150" who="S0428">yeah maybe the oil he could cope with but the mustard and garlic</u>
+<u n="151" who="S0434">the mustard and garlic was too much</u>
+<u n="152" who="S0432">come on Horace <vocal desc="laugh"/></u>
+<u n="153" who="S0428">maybe he needs to like dry out</u>
+<u n="154" who="S0432">is he is he?</u>
+<u n="155" who="S0431" trans="overlap">so did we drown him in <unclear>oil</unclear>?</u>
+<u n="156" who="S0434" trans="overlap"><unclear/> but I put him in the shade cos I thought maybe <unclear/></u>
+<u n="157" who="S0433">funny cos <unclear/></u>
+<u n="158" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="159" who="S0434"><unclear/> not waving the <unclear/> <anon type="name" nameType="f"/> I think</u>
+<u n="160" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="161" who="UNKFEMALE" trans="overlap" whoConfidence="low">not <unclear/></u>
+<u n="162" who="S0433"><unclear/></u>
+<u n="163" who="S0434">yep</u>
+<u n="164" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="165" who="S0433">he's just sleeping now</u>
+<u n="166" who="S0432">he is he is moving</u>
+<u n="167" who="S0428">he's just having a nap</u>
+<u n="168" who="S0432"><vocal desc="laugh"/></u>
+<u n="169" who="S0428">traumatic experience</u>
+<u n="170" who="S0431">yeah <vocal desc="laugh"/></u>
+<u n="171" who="S0432">yeah mm</u>
+<event desc="background talk"/>
+<u n="172" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="173" who="S0431"><unclear>had</unclear> translate that at uni</u>
+<u n="174" who="S0428"><unclear/> really?</u>
+<u n="175" who="S0431">that erm that that</u>
+<u n="176" who="S0434" trans="overlap"><unclear/> a few <unclear/></u>
+<u n="177" who="S0431">yeah it was it was French or Spanish I can't remember yeah it was one of the <unclear/></u>
+<u n="178" who="S0434">mm you had to translate that?</u>
+<u n="179" who="S0431">yeah it was one of our tutors who just loved <unclear/> it was really outrageously complicated <unclear/> to translate like there were I can't remember I did count them there were</u>
+<u n="180" who="S0434" trans="overlap">thank you <vocal desc="laugh"/> sorry <unclear>my mum</unclear></u>
+<u n="181" who="S0431">like twenty some no more there were loads or things like alternative ways of saying to die</u>
+<u n="182" who="S0434" trans="overlap">mm yeah mm</u>
+<u n="183" who="S0431">could I</u>
+<u n="184" who="S0434">mm</u>
+<u n="185" who="S0431">yeah <unclear/> and yeah</u>
+<u n="186" who="S0433" trans="overlap">could join the <unclear/></u>
+<u n="187" who="S0431" trans="overlap">pushing up the daisies</u>
+<u n="188" who="S0434">yeah</u>
+<u n="189" who="S0431">it's like the most <unclear>difficult thing</unclear></u>
+<u n="190" who="S0434">meet its maker</u>
+<u n="191" who="S0431" trans="overlap">yeah</u>
+<u n="192" who="S0434">I did a lesson on that once and it <unclear/></u>
+<u n="193" who="S0431">really?</u>
+<u n="194" who="S0434">we watched the clip and they had to try and identify every single euphemism used for dying</u>
+<u n="195" who="S0431">wow</u>
+<u n="196" who="S0434">it was quite</u>
+<u n="197" who="S0431">yeah <vocal desc="laugh"/></u>
+<u n="198" who="S0434">quite a yeah but they chose it</u>
+<u n="199" who="S0433">oh right</u>
+<u n="200" who="S0434"><vocal desc="laugh"/></u>
+<u n="201" who="S0431" whoConfidence="low">that was really <unclear/></u>
+<u n="202" who="S0433">mm</u>
+<u n="203" who="S0434">yeah Horace has gone</u>
+<u n="204" who="S0431">yeah</u>
+<u n="205" who="S0432">yeah I thought he was wriggling but I think it's just <unclear/> table no he is</u>
+<u n="206" who="S0431">he is yeah <unclear/></u>
+<u n="207" who="S0434" trans="overlap">I think he is yeah</u>
+<u n="208" who="S0433"><unclear>he's still with us</unclear></u>
+<u n="209" who="S0434">but his legs are all crumpled up in agony</u>
+<u n="210" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="211" who="S0434">our team is just falling apart you're bitten</u>
+<u n="212" who="S0433"><vocal desc="laugh"/></u>
+<u n="213" who="S0434"><anon type="name" nameType="f"/> you're broken your back somehow</u>
+<u n="214" who="S0431" trans="overlap">yeah</u>
+<u n="215" who="S0434">Horace is dying</u>
+<u n="216" who="S0431">it's not going it's not going well</u>
+<u n="217" who="S0432" trans="overlap">we need <anon type="name" nameType="m"/> back</u>
+<u n="218" who="S0434">I'm getting burnt</u>
+<u n="219" who="S0428">yeah I think I am</u>
+<u n="220" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="221" who="S0434">we need <anon type="name" nameType="m"/></u>
+<u n="222" who="S0431">well he's gone since he's been cos he's you know not been here this week</u>
+<u n="223" who="S0434"><vocal desc="laugh"/></u>
+<u n="224" who="S0428">we're falling apart</u>
+<u n="225" who="S0431">we don't realise how much he clearly you know contributes in terms of the job</u>
+<u n="226" who="S0428">well being <unclear/></u>
+<u n="227" who="S0431">yeah</u>
+<u n="228" who="S0434">maybe we could revise our escape</u>
+<u n="229" who="S0431"><unclear/> like <trunc>whe</trunc> like my mum always used to give like when I was little we used to give bees if they were looking a little bit worse for wear like sugar and water</u>
+<u n="230" who="S0434">mm</u>
+<u n="231" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="232" who="S0431">put a drop of sugar and water next to them</u>
+<u n="233" who="S0434">mm that's good I've heard that you should give them honey</u>
+<u n="234" who="S0428" whoConfidence="low">yeah</u>
+<u n="235" who="S0434">yeah but but sugar and water would have a similar</u>
+<u n="236" who="S0428" trans="overlap">yeah</u>
+<u n="237" who="S0434">I <unclear/> sugar and water tried to go on <unclear/></u>
+<u n="238" who="S0428">I was about to say isn't that like isn't that weird like giving cows milk and I was like yeah but milk comes from cows <vocal desc="laugh"/></u>
+<u n="239" who="S0434"><vocal desc="laugh"/></u>
+<u n="240" who="S0428">and that's what they drink so that's not weird</u>
+<u n="241" who="S0434">no but that is it that is it is a bit weird</u>
+<u n="242" who="S0428" trans="overlap">yeah</u>
+<u n="243" who="S0434">but apparently it's like there is something like honey has just has so many properties</u>
+<u n="244" who="S0431">mm mm</u>
+<u n="245" who="S0434">including for the bees themselves</u>
+<u n="246" who="S0431">mm</u>
+<u n="247" who="S0434">being <unclear>restorative</unclear> <pause dur="short"/> they don't care that it's not pasteurised</u>
+<u n="248" who="S0431">mm <pause dur="short"/> <unclear>it's so warm</unclear></u>
+<u n="249" who="UNKFEMALE" whoConfidence="low">mm</u>
+<u n="250" who="S0428">it's not too muggy is it?</u>
+<u n="251" who="S0434">mm</u>
+<u n="252" who="S0432">yeah</u>
+<u n="253" who="S0433"><unclear/> yeah</u>
+<u n="254" who="S0434">they said in the morning there might be thunderstorms this afternoon but not here</u>
+<u n="255" who="S0428" trans="overlap">I was gonna say did we ever get?</u>
+<u n="256" who="S0434"><unclear/> so</u>
+<u n="257" who="S0433">it rains a lot <unclear/></u>
+<u n="258" who="S0431">my mum was</u>
+<u n="259" who="S0432" trans="overlap">I know</u>
+<u n="260" who="S0434" trans="overlap">like <unclear/></u>
+<u n="261" who="S0431">she said that erm oh</u>
+<u n="262" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="263" who="S0428" whoConfidence="low">she said there was hailstorms like and <unclear/> I made this weirdly I made this in <anon type="place"/> have a house in the same village where my grandad lived really strange like <unclear/> and they went over to see them well in the next village along and the hailstones were apparently this size like bigger than golf balls and</u>
+<u n="264" who="S0431">I saw that it was going to happen in Scotland but I didn't realise</u>
+<u n="265" who="UNKFEMALE" trans="overlap" whoConfidence="low">wow</u>
+<u n="266" who="S0431">it was gonna come down that far</u>
+<u n="267" who="S0428">yeah so they they actually picked them up and froze them</u>
+<u n="268" who="S0432">mm really?</u>
+<u n="269" who="S0428"><unclear/> cos it it <unclear/> fifteen miles from the house like <unclear/></u>
+<u n="270" who="S0433" trans="overlap">really?</u>
+<u n="271" who="S0428">so the insurance companies are actually <unclear/></u>
+<u n="272" who="S0434">mm</u>
+<u n="273" who="S0431">yeah <pause dur="short"/> when was this?</u>
+<u n="274" who="S0434">that's some really good thinking</u>
+<u n="275" who="S0428">about yeah about three days ago in</u>
+<u n="276" who="S0432" trans="overlap">oh wow</u>
+<u n="277" who="S0428">yeah in <anon type="place"/> that's alright though <pause dur="short"/> oh <pause dur="short"/> just woken up</u>
+<u n="278" who="S0431">he is isn't he? <unclear/> buried his face</u>
+<u n="279" who="S0433"><unclear/> worried about</u>
+<u n="280" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="281" who="S0428">ah</u>
+<u n="282" who="UNKFEMALE" whoConfidence="low">woah</u>
+<u n="283" who="S0428"><unclear/> us</u>
+<u n="284" who="S0431">yeah</u>
+<u n="285" who="S0434" trans="overlap"><unclear/> your end</u>
+<u n="286" who="S0428">yeah</u>
+<u n="287" who="S0431">basically an attention seeker isn't he?</u>
+<u n="288" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="289" who="S0431">like a toddler</u>
+<u n="290" who="S0434">mm</u>
+<u n="291" who="S0431">it's like oh I've got a tummy ache</u>
+<u n="292" who="S0434"><vocal desc="laugh"/></u>
+<u n="293" who="S0431">can I have <unclear/>?</u>
+<u n="294" who="S0434">come on Horace man up</u>
+<u n="295" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="296" who="S0432">come on Horace <unclear/> your age</u>
+<u n="297" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="298" who="S0431">we're all behind you <pause dur="long"/></u>
+<u n="299" who="S0431">sorry</u>
+<u n="300" who="S0434">I don't know <unclear/></u>
+<u n="301" who="S0431">no</u>
+<u n="302" who="S0434">it must be somebody in the <anon type="place"/> who knows that</u>
+<u n="303" who="S0431" trans="overlap">is he a sticky sticky one do you think?</u>
+<u n="304" who="S0434">mm mm don't think so</u>
+<u n="305" who="S0431"><unclear/> like a warning</u>
+<u n="306" who="S0434">so maybe it's one of those fake warnings like they look like a thing that stings</u>
+<u n="307" who="S0428">yeah</u>
+<u n="308" who="S0434">cos he hasn't got anything <unclear/> out</u>
+<u n="309" who="S0428" trans="overlap">well it looks like he's stuck again</u>
+<u n="310" who="S0431" trans="overlap">maybe we should <pause dur="short"/> maybe we should flip him over</u>
+<u n="311" who="S0428">yeah</u>
+<u n="312" who="S0431">it looks like he's he's got</u>
+<u n="313" who="S0434" trans="overlap"><unclear>I tried that</unclear> last time but he wasn't very grateful</u>
+<u n="314" who="S0431">I think we should try and</u>
+<u n="315" who="S0432" trans="overlap">we might have to <unclear/></u>
+<u n="316" who="S0434"><unclear/></u>
+<u n="317" who="S0432">yeah he's had a wash</u>
+<u n="318" who="S0434"><vocal desc="laugh"/> yeah that's true <vocal desc="laugh"/> <pause dur="short"/> I've never known a bug get so much attention <pause dur="short"/> got five humans <unclear/></u>
+<u n="319" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<event desc="background talk"/> <pause dur="long"/>
+<u n="320" who="S0428">say you're <unclear/></u>
+<u n="321" who="UNKFEMALE" whoConfidence="low">mm</u>
+<event desc="background talk"/> <pause dur="long"/>
+<u n="322" who="S0434"><vocal desc="laugh"/></u>
+<u n="323" who="S0432"><vocal desc="laugh"/> he had no energy though</u>
+<u n="324" who="S0428">we put him on a new</u>
+<u n="325" who="S0432" trans="overlap">yeah I think maybe</u>
+<u n="326" who="S0428">dry him out</u>
+<u n="327" who="S0432">dry him out a little bit</u>
+<u n="328" who="S0434">I think he needs shade though <pause dur="short"/> it's so hot</u>
+<u n="329" who="UNKMULTI" whoConfidence="low">yeah</u>
+<u n="330" who="S0428">has anyone got one of those one of those cocktail umbrellas?</u>
+<event desc="unintelligible"/>
+<u n="331" who="UNKFEMALE" whoConfidence="low">oh no</u>
+<u n="332" who="S0428"><vocal desc="laugh"/> <unclear/></u>
+<u n="333" who="S0434">make him a little tent out of a napkin</u>
+<u n="334" who="S0431">put a red cross on the front door</u>
+<u n="335" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="336" who="S0432">one of the mobile <unclear/></u>
+<u n="337" who="S0428" trans="overlap">he's sort of lost his balance</u>
+<u n="338" who="S0432">there we go <pause dur="short"/> and now some shade</u>
+<u n="339" who="S0433">no <unclear/></u>
+<u n="340" who="S0432"><vocal desc="laugh"/></u>
+<u n="341" who="S0434">it's the wind <vocal desc="laugh"/> <unclear>cos</unclear> he's drunk</u>
+<u n="342" who="S0433">a bit on the on the er on the</u>
+<u n="343" who="S0434">I didn't put any alcohol in the marinade</u>
+<u n="344" who="S0431" trans="overlap">garlic <pause dur="long"/> oh no he's running away now that's not a good sign</u>
+<u n="345" who="S0434">no <pause dur="short"/> so feeble he's actually being airlifted</u>
+<u n="346" who="S0432"><vocal desc="laugh"/></u>
+<u n="347" who="S0434">of <unclear/></u>
+<u n="348" who="S0428"><unclear>airlifted to safety</unclear></u>
+<u n="349" who="S0434">I'm not sure</u>
+<u n="350" who="S0431">I think I think Horace might have seen better days</u>
+<u n="351" who="S0434">maybe we've helped too much</u>
+<u n="352" who="S0431"><vocal desc="laugh"/></u>
+<u n="353" who="S0434">killing with kindness <vocal desc="laugh"/></u>
+<u n="354" who="S0431">loved him too much</u>
+<u n="355" who="S0434"><vocal desc="laugh"/> we asked <unclear/> touching <pause dur="short"/> is there not a sort of erm greenhouse effect going on through the plastic?</u>
+<u n="356" who="S0428">oh <unclear/> give him a nice clean one</u>
+<u n="357" who="S0434" trans="overlap">when we finish our lunch we'll <unclear/> anyway</u>
+<u n="358" who="S0432">yeah</u>
+<u n="359" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="360" who="S0434">bye Horace</u>
+<u n="361" who="S0428" whoConfidence="low"><unclear/></u>
+<u n="362" who="S0434" trans="overlap">it'd be good to know if he was on a</u>
+<u n="363" who="S0431" trans="overlap"><unclear/> <vocal desc="laugh"/></u>
+<u n="364" who="S0431">oh <vocal desc="laugh"/> Horace <pause dur="short"/> now he's got shelter from the wind and from the sun</u>
+<u n="365" who="S0434">mm</u>
+<u n="366" who="S0433">and <unclear/></u>
+<u n="367" who="S0431" trans="overlap">he's also just flipped himself onto his back</u>
+<u n="368" who="S0434">very very very <unclear/> oh but there's <unclear/></u>
+<u n="369" who="S0433"><unclear/></u>
+<u n="370" who="S0434"><vocal desc="laugh"/></u>
+<u n="371" who="S0431" trans="overlap"><unclear/></u>
+<u n="372" who="S0434" trans="overlap"><vocal desc="laugh"/> I thought you were gonna give more of an explanation <vocal desc="laugh"/></u>
+<u n="373" who="S0433" trans="overlap"><unclear/> get one or get your whatever the <unclear>problem</unclear> of the wings is or get them back in <unclear/></u>
+<u n="374" who="S0434" trans="overlap">get like a</u>
+<u n="375" who="S0431" trans="overlap"><unclear/> oil off their back</u>
+<u n="376" who="S0428" whoConfidence="low">yeah <pause dur="short"/> common problem</u>
+<u n="377" who="S0431" trans="overlap"><unclear/> again</u>
+<u n="378" who="S0434" trans="overlap">oh god yeah the effect of the sun would be so much worse if he was covered in oil</u>
+<u n="379" who="S0428">oh yeah been saying that</u>
+<u n="380" who="S0434" trans="overlap">you get <unclear/></u>
+<u n="381" who="S0428">does that <unclear/> today</u>
+<u n="382" who="S0433">you can <unclear/></u>
+<u n="383" who="S0428">yeah</u>
+<u n="384" who="S0434" trans="overlap">yeah</u>
+<u n="385" who="S0428">you can get <unclear/></u>
+<u n="386" who="S0432">yeah</u>
+<event desc="sound of aeroplane"/>
+<u n="387" who="S0431">he's having another little sleep <vocal desc="laugh"/></u>
+<u n="388" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="389" who="S0428">it's hard work</u>
+<u n="390" who="S0431">yeah well it's you know it's</u>
+<u n="391" who="S0434" trans="overlap"><unclear/> the bug commentary</u>
+<u n="392" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="393" who="S0428"><unclear/> <pause dur="short"/> I don't know whether he</u>
+<u n="394" who="S0432">is he gonna make it?</u>
+<u n="395" who="S0428">I don't know whether he's gonna make it</u>
+<event desc="background talk"/>
+<u n="396" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<event desc="unintelligible"/>
+<u n="397" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="398" who="S0432">let's let's talk about happy things <vocal desc="laugh"/></u>
+<u n="399" who="S0433" whoConfidence="low">yeah</u>
+<u n="400" who="S0428">let's talk about all the bugs that Horace has <unclear>helped</unclear></u>
+<u n="401" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="402" who="S0432">how? <vocal desc="laugh"/></u>
+<u n="403" who="S0433">Horace had such a <unclear>good life</unclear></u>
+<u n="404" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="405" who="S0433"><unclear/> to be fair he'll be the most remembered bug in many of our lives</u>
+<u n="406" who="S0428"><vocal desc="laugh"/> apart from the one that stung you</u>
+<u n="407" who="S0433">yeah apart from <unclear>that one</unclear></u>
+<u n="408" who="S0434" trans="overlap">did you name him?</u>
+<u n="409" who="S0433">I didn't</u>
+<u n="410" who="S0434"><vocal desc="laugh"/></u>
+<u n="411" who="S0433">well I called him lots of things but</u>
+<u n="412" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="413" who="S0433">but it was actually <unclear/></u>
+<u n="414" who="S0428" trans="overlap">that's good <pause dur="short"/> well in that case <vocal desc="laugh"/></u>
+<u n="415" who="S0433"><unclear/> come back</u>
+<u n="416" who="S0428"><unclear/> like karma <unclear/> yeah yeah</u>
+<u n="417" who="S0434" trans="overlap">you're doing a good turn by rehabilitating the the the assailant</u>
+<u n="418" who="S0433">mm mm yeah fine <vocal desc="laugh"/> <pause dur="short"/> I think that you know in every <unclear/> I think I've been stung before and it was like <unclear/> erm <unclear/> long legs with wings kind of a similar like disproportionate reaction</u>
+<u n="419" who="S0434">yeah</u>
+<u n="420" who="S0433">erm but I saw it <unclear/> I think <unclear/> but not not <unclear/></u>
+<u n="421" who="S0432"><vocal desc="laugh"/></u>
+<u n="422" who="S0431">alright Horace you're off the hook</u>
+<u n="423" who="S0434"><vocal desc="laugh"/></u>
+<u n="424" who="S0428">go back to lie down <pause dur="short"/> he's er <unclear/></u>
+<u n="425" who="S0431">just for the moment having a little sleep</u>
+<u n="426" who="S0434">yeah he did that earlier it doesn't look good</u>
+<u n="427" who="S0431">it's not looking great</u>
+<u n="428" who="S0428">no</u>
+<u n="429" who="S0433" trans="overlap"><unclear/></u>
+<u n="430" who="S0432"><unclear/> it's over guys it's over <unclear/></u>
+<u n="431" who="S0434"><unclear/> about it</u>
+<u n="432" who="S0431" trans="overlap"><unclear/> legs are all glued together with oil</u>
+<u n="433" who="S0433" whoConfidence="low">oh no <unclear/></u>
+<u n="434" who="S0428">you mean oil and drowned him I don't think <unclear/> choke</u>
+<u n="435" who="S0433">he doesn't look</u>
+<u n="436" who="S0434" trans="overlap">has he gone to the point where we can't tell if he's animated or being blown about in the wind?</u>
+<u n="437" who="S0431"><vocal desc="laugh"/></u>
+<u n="438" who="S0434">but I think he's probably</u>
+<u n="439" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="440" who="S0431" trans="overlap"><unclear/> another mission he's kind of pulled <unclear>his legs</unclear> towards him</u>
+<u n="441" who="S0434">oh they do that when they die though don't they?</u>
+<u n="442" who="S0431">oh</u>
+<u n="443" who="S0433">no <unclear/></u>
+<u n="444" who="S0431">I don't think it's looking good</u>
+<u n="445" who="S0434" trans="overlap">are insects <unclear>born</unclear> in utero? do they get a fetal position? <vocal desc="laugh"/></u>
+<u n="446" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="447" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="448" who="S0433" trans="overlap"><unclear/> must <unclear/> an egg</u>
+<u n="449" who="S0434">in ovum in ovo or something like that?</u>
+<u n="450" who="S0433">in ovum position</u>
+<u n="451" who="S0434"><vocal desc="laugh"/> I think they do bring their legs in when they die though don't they?</u>
+<u n="452" who="S0432">oh no</u>
+<u n="453" who="S0434">shall I say a few words?</u>
+<u n="454" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="455" who="S0431">in the short time that we knew <unclear/></u>
+<u n="456" who="S0434"><vocal desc="laugh"/></u>
+<u n="457" who="S0431">very <unclear/></u>
+<u n="458" who="S0433">not <unclear/> looking good</u>
+<u n="459" who="S0431">not looking great</u>
+<u n="460" who="S0428"><unclear/> funeral <unclear/></u>
+<u n="461" who="S0431" trans="overlap"><unclear/> funny would it?</u>
+<u n="462" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="463" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="464" who="S0431">oh well</u>
+<u n="465" who="S0428"><unclear/> that side</u>
+<u n="466" who="S0431">straight to heaven</u>
+<u n="467" who="S0433">yeah</u>
+<u n="468" who="S0428">yeah</u>
+<u n="469" who="S0431">straight up there</u>
+<u n="470" who="S0434">are we still <unclear/></u>
+<u n="471" who="S0432" trans="overlap">I don't know <unclear/> what's he done with his bum?</u>
+<u n="472" who="S0433">I think he's pooed</u>
+<u n="473" who="S0432">oh <vocal desc="laugh"/></u>
+<u n="474" who="S0431">has he? <vocal desc="laugh"/> it looked more <unclear/> worse <pause dur="short"/> oh it looks like something yeah</u>
+<u n="475" who="S0434" trans="overlap">it looks like there's a bit extra that wasn't there before</u>
+<u n="476" who="S0428">it looks like he's unless it's a sting unless he's trying to sting</u>
+<u n="477" who="S0431">but it looks like his toe's kind of broken</u>
+<u n="478" who="S0434">maybe we were watching him in all his most private moments we should give him</u>
+<u n="479" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="480" who="S0431">I'm just trying to poo <vocal desc="laugh"/></u>
+<u n="481" who="S0434">yeah</u>
+<u n="482" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="483" who="S0431">leave me alone I <unclear/> <pause dur="long"/></u>
+<u n="484" who="S0434">somebody should play the last <unclear/></u>
+<u n="485" who="S0432"><vocal desc="laugh"/></u>
+<u n="486" who="S0431">right well I think it's time</u>
+<u n="487" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="488" who="S0431">that we leave Horace</u>
+<u n="489" who="UNKMULTI" whoConfidence="low">yeah</u>
+<u n="490" who="S0433">we'll let him <unclear/></u>
+<u n="491" who="S0428">I'm sure he'll just fly away when we leave</u>
+<u n="492" who="S0434" whoConfidence="low">yeah</u>
+<u n="493" who="S0432" trans="overlap"><unclear/> put him in that bush</u>
+<u n="494" who="S0434">you know <unclear/></u>
+<u n="495" who="S0431" whoConfidence="low">yeah</u>
+<u n="496" who="S0428" whoConfidence="low">yeah</u>
+<u n="497" who="S0431">I'm going to deposit him in that bush</u>
+<u n="498" who="S0428">yeah</u>
+<u n="499" who="S0431" trans="overlap"><unclear/> shade yeah</u>
+<u n="500" who="S0432"><unclear/> act of a recovery bottle of <unclear/></u>
+<u n="501" who="S0434" whoConfidence="low"><vocal desc="laugh"/> ah <vocal desc="laugh"/></u>
+<u n="502" who="S0428">we'll see him every day when we have a <unclear/></u>
+<u n="503" who="S0434" whoConfidence="low"><vocal desc="laugh"/> and we'll think of him every time we come to</u>
+<u n="504" who="S0428">every time we look at that plan <pause dur="long"/></u>
+<u n="505" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<event desc="background talk"/>
+	
+	</body>
+</text>

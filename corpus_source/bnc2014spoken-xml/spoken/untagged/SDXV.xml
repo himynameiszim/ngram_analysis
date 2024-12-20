@@ -1,0 +1,342 @@
+<text id="SDXV">
+	<header>
+		<rec_length>0:16:37</rec_length>
+		<rec_date>2014-10-02</rec_date>
+		<rec_year>2014</rec_year>
+		<rec_period>2014_Q4</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0202 S0208 S0218 S0221 S0222</list_speakers>
+		<rec_loc>Home, Leeds</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Paedophiles, Stinson hunter</topics>
+		<activity>Chatting whilst watching TV</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, advising, requesting </conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T09</transcriber>
+		<speakerInfo>
+			<speaker id="S0202">
+				<exactage>23</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Doncaster, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Yorkshire</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0208">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cambridge</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Cambridge</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>eastern_engl</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- advanced</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0218">
+				<exactage>28</exactage>
+				<age1994>25_34</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Doncaster, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Yorkshire</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>no info</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0221">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Boston, Lincs</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0222">
+				<exactage>20</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Northallerton</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0218"><unclear/> as well</u>
+<u n="2" who="S0202">yeah cos that had something to do with it <pause dur="short"/> shit bastards <pause dur="short"/> you're comfy are you?</u>
+<event desc="sound of tv"/>
+<u n="3" who="S0208">yeah</u>
+<u n="4" who="S0218">I'm hungry actually</u>
+<u n="5" who="S0202">you hungry?</u>
+<u n="6" who="S0218">yeah <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="7" who="S0202">he looks like a right dickhead</u>
+<u n="8" who="S0222">who does?</u>
+<u n="9" who="S0202">that guy with the glasses <pause dur="long"/></u>
+<u n="10" who="S0222">why is it so creepy? <pause dur="long"/> why are there so many rapists everywhere?</u>
+<u n="11" who="S0202">are you a police officer? <pause dur="short"/> none of them are getting locked up though</u>
+<u n="12" who="S0218"><unclear/></u>
+<u n="13" who="S0222">but <unclear/> guilty like</u>
+<u n="14" who="S0202" trans="overlap">he'll go on the sex offenders' register and everything</u>
+<u n="15" who="S0218">he'll have to go to jail for three years him <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="16" who="S0218">he's without charge <unclear/></u>
+<u n="17" who="S0202" trans="overlap"><unclear/> with an eleven-year-old disabled girl</u>
+<u n="18" who="S0208" trans="overlap">that was that was the worst one</u>
+<u n="19" who="S0202">disabled girl <pause dur="long"/> it's fucking ridiculous</u>
+<u n="20" who="S0208"><vocal desc="misc"/> sorry</u>
+<u n="21" who="S0222">you are so so sexy</u>
+<u n="22" who="S0208">I know right? <vocal desc="laugh"/></u>
+<u n="23" who="S0202">which one d'you wanna watch? <anon type="name" nameType="f"/>?</u>
+<u n="24" who="S0208">yeah</u>
+<u n="25" who="S0222">what is it?</u>
+<u n="26" who="S0202">Catfish</u>
+<u n="27" who="S0222">what is Catfish? <vocal desc="yawn"/></u>
+<u n="28" who="S0202" trans="overlap">same as <unclear>Stinton</unclear> really but not paedophiles</u>
+<u n="29" who="S0218" trans="overlap"><unclear/> <vocal desc="laugh"/></u>
+<u n="30" who="S0202">just fake-o weirdos who pretend to be something else on the internet</u>
+<u n="31" who="S0218">oh yeah I remember <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="32" who="S0202">ha ha she does not look like that <pause dur="short"/> it's really loud this programme <pause dur="long"/> you've not met her <pause dur="long"/> paedophile <pause dur="long"/> what? <pause dur="long"/></u>
+<u n="33" who="S0218">he's a black guy <pause dur="short"/> all the black ones are cheaters</u>
+<u n="34" who="S0202">yeah</u>
+<u n="35" who="S0218">it's true we've watched five and two of them are black and two of them cheaters</u>
+<u n="36" who="S0202" trans="overlap">yeah <pause dur="long"/> that's fucked up you don't just jump out of one into another one <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="37" who="S0208">ah this is the one I watched the end of <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="38" who="S0202">how has he how has he got like three kids and known this girl three years? <pause dur="long"/></u>
+<u n="39" who="S0218"><unclear/></u>
+<u n="40" who="S0202">yeah I know but why if they've only been together for three years and now have three kids?</u>
+<u n="41" who="S0222" whoConfidence="low">they might be kids from his <pause dur="short"/> don't know <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="42" who="S0218">she ain't Jess</u>
+<u n="43" who="S0202">she ain't Jess</u>
+<u n="44" who="S0208">I know what happens</u>
+<u n="45" who="S0222">his girlfriend is Jess <pause dur="short"/> well that would have been a cool twist</u>
+<u n="46" who="S0202">yeah that would have been a cool twist</u>
+<u n="47" who="S0208">you fucking cheating bastard</u>
+<u n="48" who="S0222">unless she</u>
+<u n="49" who="S0202" trans="overlap"><unclear/> called Cheaters <vocal desc="laugh"/></u>
+<u n="50" who="S0222">Cheaters yeah <pause dur="short"/> unless she didn't know it was him either at which point she'd be like oh so this is awkward we've actually fallen for each other behind each other's back</u>
+<u n="51" who="S0208">yeah</u>
+<u n="52" who="S0202">yeah</u>
+<u n="53" who="S0222" whoConfidence="low"><vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="54" who="S0222">why are they involved if right right now they think Jess is real?</u>
+<u n="55" who="S0218">they no they get found whether Jess is real or not</u>
+<u n="56" who="S0222">so they do it a lot and the person ends up being real?</u>
+<u n="57" who="S0218">and not real</u>
+<u n="58" who="S0202">and not real</u>
+<u n="59" who="S0208">cos <unclear>he will</unclear> end up breaking up with his girlfriend ruining his life and it be some like fat chick or something <unclear/> no</u>
+<u n="60" who="S0202" trans="overlap">fat yeah a really fat horrible chick <pause dur="long"/> what's he doing with his <unclear/>?</u>
+<u n="61" who="S0218">what is that? I've just seen it</u>
+<u n="62" who="S0208">I think that American crutches are fucking ridiculous they're allowed to go to your armpits</u>
+<u n="63" who="S0202">ah yeah it's stupid</u>
+<u n="64" who="S0222">do what into your armpits?</u>
+<u n="65" who="S0202">the crutches</u>
+<u n="66" who="S0208">the crutches go to your armpits</u>
+<u n="67" who="S0222">oh right yeah <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="68" who="S0202">if you ever talk to anyone online behind my back I will fucking throttle you</u>
+<u n="69" who="S0218">I don't have time to talk to anyone online <pause dur="short"/> you got me doing all these jobs for you all the time</u>
+<u n="70" who="S0202">like what?</u>
+<u n="71" who="S0218"><unclear>running around after you</unclear> press play?</u>
+<u n="72" who="S0202">what jobs <unclear/>?</u>
+<u n="73" who="S0222" trans="overlap">press play</u>
+<u n="74" who="S0218" trans="overlap"><unclear/></u>
+<u n="75" who="S0202" trans="overlap">what the book thing?</u>
+<u n="76" who="S0218">book thing yeah that was a massive thing three hours out of my day <unclear>but</unclear></u>
+<u n="77" who="S0202">it wasn't three hours <unclear>out of your</unclear> day it was about ten minutes</u>
+<u n="78" who="S0218" trans="overlap">ten minutes yeah <pause dur="short"/> everything is yeah then it's no thanks to you while I'm driving home to you <pause dur="long"/> she's not real <shift new="singing"/> but I'm lost for her <shift new="normal"/></u>
+<u n="79" who="S0202"><shift new="singing"/> chocolate and vanilla swirls <shift new="normal"/> <shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="80" who="S0218"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="81" who="S0208">have you ever seen it be successful?</u>
+<u n="82" who="S0202">yeah</u>
+<u n="83" who="S0218">what on here? yeah</u>
+<u n="84" who="S0208">that's nice</u>
+<u n="85" who="S0222">just take that away this isn't successful because you've seen the end and it's obviously</u>
+<u n="86" who="S0208">I literally only saw the last five seconds where they get in a car and drive away <pause dur="short"/> they do that in every episode anyway <pause dur="long"/></u>
+<u n="87" who="S0202">she's <trunc>fa</trunc> she is fake <pause dur="long"/> hi</u>
+<u n="88" who="S0221">hey</u>
+<u n="89" who="S0208">hey</u>
+<u n="90" who="S0221">more paedophiles?</u>
+<u n="91" who="S0202">no <vocal desc="laugh"/></u>
+<u n="92" who="S0208">no we've moved on</u>
+<u n="93" who="S0202">we moved on</u>
+<u n="94" who="S0208">are you here to stay?</u>
+<u n="95" who="S0221">no <pause dur="short"/> I'm doing one more thing of washing <pause dur="short"/> then I'm going to get some food</u>
+<u n="96" who="S0222">are you going to stay?</u>
+<u n="97" who="S0221">when?</u>
+<u n="98" who="S0222">after that</u>
+<u n="99" who="S0221">yeah?</u>
+<u n="100" who="S0222">oh yeah</u>
+<u n="101" who="S0202">oh <anon type="name" nameType="f"/> I can make roast potatoes instead of chips</u>
+<u n="102" who="S0222">are you working tonight?</u>
+<u n="103" who="S0221">er it depends how much I've gotta do tomorrow actually</u>
+<u n="104" who="S0202">okay</u>
+<u n="105" who="S0221">if not I'll probably <unclear/> do some CDs <unclear/></u>
+<u n="106" who="S0208" trans="overlap">but thank you for thinking of it</u>
+<u n="107" who="S0221">I can't be bothered apparently there is a little thing but then I <pause dur="short"/> have a look</u>
+<u n="108" who="S0222">I've got a massive list of things to do and it's already like five o'clock four o'clock and I <unclear>cannot be bothered</unclear></u>
+<u n="109" who="S0221">it's four o'clock four</u>
+<u n="110" who="S0202">four <pause dur="short"/> I think you should do it</u>
+<u n="111" who="S0222">yeah it's not like pressing though <pause dur="short"/> some of it is stuff like buy a laundry bag</u>
+<u n="112" who="S0202">I think you're a bit late for that on a Sunday at four o'clock</u>
+<u n="113" who="S0218" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="114" who="S0222">no I mean online I'm not</u>
+<u n="115" who="S0202" trans="overlap">when everyone shuts</u>
+<u n="116" who="S0222">I'm not yeah</u>
+<u n="117" who="S0202">go later</u>
+<u n="118" who="S0222">mm</u>
+<u n="119" who="S0202">fucking Enrique Iglesias is such a pillock</u>
+<u n="120" who="S0218">why?</u>
+<u n="121" who="S0202">cos he just is</u>
+<u n="122" who="S0222">you know <unclear/> I was and I stayed in bed for <unclear>the whole time</unclear></u>
+<u n="123" who="S0202"><trunc>s</trunc>so cheesy</u>
+<u n="124" who="S0222"><vocal desc="laugh"/></u>
+<u n="125" who="S0208">it's a great story</u>
+<u n="126" who="S0218">his old stuff's better than his new stuff he's shit now</u>
+<u n="127" who="S0202">he was always shit</u>
+<u n="128" who="S0221">I've not seen this this wand thing it seems really cool</u>
+<u n="129" who="S0202">it does don't it? that</u>
+<u n="130" who="S0208" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="131" who="S0221">they had to they had to get the right matches</u>
+<u n="132" who="S0202" trans="overlap">have you seen the advert for it?</u>
+<u n="133" who="S0208">yeah <pause dur="short"/> I was telling you about the the French version they have I used to watch that at home</u>
+<u n="134" who="S0202" trans="overlap">I know <pause dur="short"/> durex so totally I have genital warts <pause dur="long"/></u>
+<u n="135" who="S0218">not again</u>
+<u n="136" who="S0221"><vocal desc="laugh"/> not again</u>
+<u n="137" who="S0222"><vocal desc="laugh"/> is her last name Moses?</u>
+<u n="138" who="S0218">who?</u>
+<u n="139" who="S0222"><unclear/> Moses</u>
+<u n="140" who="S0202">Moses is</u>
+<u n="141" who="S0221">I don't know who it is</u>
+<u n="142" who="S0222">it's Moses</u>
+<u n="143" who="S0221">if somebody hadn't told me the</u>
+<u n="144" who="S0202">he is proper black isn't he?</u>
+<u n="145" who="S0208">ink on <unclear>black</unclear></u>
+<u n="146" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="147" who="S0218" whoConfidence="low"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="148" who="S0202" trans="overlap"><vocal desc="nonsense"/></u>
+<u n="149" who="S0222">I'm a hundred percent <unclear/></u>
+<u n="150" who="S0202">mm</u>
+<u n="151" who="S0221">one photo on her Facebook page</u>
+<u n="152" who="S0202">the same photo as well</u>
+<u n="153" who="S0221">two hundred friends <pause dur="short"/> all men <pause dur="long"/></u>
+<event desc="sound of tv"/>
+<u n="154" who="S0202">I love I think he's so hot so so hot except he's too skinny</u>
+<u n="155" who="S0222">him?</u>
+<u n="156" who="S0202">yeah</u>
+<u n="157" who="S0222">I don't think he's hot</u>
+<u n="158" who="S0202">I think he's so hot <pause dur="short"/> so so hot <pause dur="short"/> I think you're hot too baby don't worry just in a very different way <pause dur="short"/> like normal <pause dur="short"/> average average guy</u>
+<u n="159" who="S0218"><unclear/> <pause dur="long"/> she used to be a dude what a twist that would be</u>
+<u n="160" who="S0221"><vocal desc="laugh"/></u>
+<u n="161" who="S0202"><vocal desc="laugh"/> <pause dur="short"/> like a million hits in fact why are we watching this? cos she's gonna tell him in a minute anyway may as well just fucking</u>
+<u n="162" who="S0222">wait what can I just?</u>
+<u n="163" who="S0221">no that he'd do he'll repeat it all to him so he'll tell them exactly what he found</u>
+<u n="164" who="S0202">yeah so like you watch it twice basically it's really annoying <pause dur="long"/></u>
+<u n="165" who="S0221" whoConfidence="low">I just don't like everyone can't just do like fake search you grab a picture and drag it into Google</u>
+<u n="166" who="S0202">I know</u>
+<u n="167" who="S0218" trans="overlap" whoConfidence="low">no no it's not</u>
+<u n="168" who="S0222">I didn't know you could do that</u>
+<u n="169" who="S0221" trans="overlap" whoConfidence="low">you can search by image <unclear>yeah</unclear></u>
+<u n="170" who="S0202">oh he's shaved don't shave please</u>
+<u n="171" who="S0218">is he shaved?</u>
+<u n="172" who="S0202">yeah</u>
+<u n="173" who="S0218">ah yeah</u>
+<u n="174" who="S0202">will you fuck off? <pause dur="short"/> ah</u>
+<u n="175" who="S0218"><unclear/></u>
+<event desc="sound of electrical humming"/>
+<u n="176" who="S0202">no fucking boiler why is it doing it again? it's so irritating <pause dur="long"/> he could just be lying</u>
+<u n="177" who="S0208" whoConfidence="low">mm <pause dur="long"/></u>
+<u n="178" who="S0202">I knew that is so irritating why is it making it? <pause dur="long"/> <vocal desc="laugh"/> he won't <unclear>see her</unclear> <pause dur="long"/></u>
+	
+	</body>
+</text>

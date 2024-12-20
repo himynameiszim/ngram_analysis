@@ -1,0 +1,531 @@
+<text id="SCNN">
+<header>
+		<rec_length>0:24:36</rec_length>
+		<rec_date>2012-03-24</rec_date>
+		<rec_year>2012</rec_year>
+		<rec_period>2012_Q1</rec_period>
+		<n_speakers>3</n_speakers>
+		<list_speakers>S0058 S0091 S0179</list_speakers>
+		<rec_loc>ANON's car</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Driving, farm animals</topics>
+		<activity></activity>
+		<conv_type>Discussing, explaining, inquiring, advising</conv_type>
+		<conventions>Original</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T11</transcriber>
+		<speakerInfo>
+			<speaker id="S0058">
+				<exactage>23</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Sunderland, Tyne and Wear</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>North East</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>4 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Corpus Administrator</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0091">
+				<exactage>90</exactage>
+				<age1994>60plus</age1994>
+				<agerange>90_99</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Timperley, Manchester</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Lancashire</dialect_rep>
+				<hab_city>Wincanton, Somerset</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>30 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northwest</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>BT (retired)</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls>French -- Advanced; German -- Advanced</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0179">
+				<exactage>23</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Harpenden, Hertfordshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>4 years, 7 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Consultant engineer</occupation>
+				<socgrade>A</socgrade>
+				<nssec>1_2</nssec>
+				<l2></l2>
+				<fls>French -- Beginner</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+<body>
+<u n="1" who="S0058">right</u>
+<u n="2" who="S0179">right <pause dur="short"/> okay</u>
+<u n="3" who="S0058">okay</u>
+<u n="4" who="S0179">cool</u>
+<u n="5" who="S0058"><vocal desc="laugh"/> Sound like <unclear/> don't we</u>
+<u n="6" who="S0179">I'm sorry <pause dur="short"/> oh um if you put the headrest up behind you it'll be more comfortable <pause dur="short"/> hang on <pause dur="short"/> yep <pause dur="short"/> that's it <pause dur="short"/> possibly the wrong sequence to do it in</u>
+<u n="7" who="S0058"><vocal desc="laugh"/> Yeah</u>
+<u n="8" who="S0179">yep</u>
+<u n="9" who="S0091">won't come up</u>
+<u n="10" who="S0179">yeah <pause dur="short"/> hang on</u>
+<u n="11" who="S0058"><vocal desc="laugh"/></u>
+<u n="12" who="S0179">it just won't reach</u>
+<u n="13" who="S0058">you reach</u>
+<u n="14" who="S0179">uh <unclear/></u>
+<u n="15" who="S0058"><vocal desc="laugh"/></u>
+<u n="16" who="S0179">it's a little stiff <pause dur="short"/> uh</u>
+<u n="17" who="S0058">there's a knack to it obviously</u>
+<u n="18" who="S0179">yes <pause dur="short"/> it's possibly not the easiest thing to do once you're already belted in</u>
+<u n="19" who="S0058"><vocal desc="laugh"/></u>
+<u n="20" who="S0091">turn right <pause dur="short"/> and at the bottom of the hill turn right again</u>
+<u n="21" who="S0179">yep <pause dur="short"/> so we'll go over back way to <anon type="place"/> <pause dur="short"/> and then</u>
+<u n="22" who="S0091">no not that way</u>
+<u n="23" who="S0179">so not <anon type="place"/>?</u>
+<u n="24" who="S0058">I'm guessing</u>
+<u n="25" who="S0179">yeah but we go through <anon type="place"/> to get to we sort of go through the outskirts <pause dur="short"/> uh</u>
+<u n="26" who="S0058">the sheep in that field were going very speedily</u>
+<u n="27" who="S0179"><vocal desc="laugh"/></u>
+<u n="28" who="S0058">it's little legs were <vocal desc="laugh"/> really er going</u>
+<u n="29" who="S0091">right at the bottom</u>
+<u n="30" who="S0179">yep <pause dur="short"/> hang on <pause dur="short"/> we've got to er</u>
+<u n="31" who="S0058">mm?</u>
+<u n="32" who="S0179">oh <pause dur="short"/> well one of our doors isn't shut properly</u>
+<u n="33" who="S0091">here</u>
+<u n="34" who="S0179">yep <pause dur="short"/> hang on</u>
+<u n="35" who="S0058">should I  should I  just check mine?</u>
+<u n="36" who="S0179">well not now</u>
+<u n="37" who="S0058">yeah <pause dur="short"/> no no no <pause dur="short"/> obviously</u>
+<u n="38" who="S0179">right <pause dur="short"/> we've got one of the doors isn't shut properly apparently</u>
+<u n="39" who="S0058">er <pause dur="short"/> I think mine is</u>
+<u n="40" who="S0179">yep <pause dur="short"/> that's good <pause dur="short"/> whoever it was we've sorted it</u>
+<u n="41" who="S0058">was there a little light on or something?</u>
+<u n="42" who="S0179">yeah</u>
+<u n="43" who="S0058">oh right</u>
+<u n="44" who="S0179">yeah <pause dur="short"/> it just tells you that a door's open but not which one</u>
+<u n="45" who="S0058"><vocal desc="laugh"/></u>
+<u n="46" who="S0179">which isn't dreadfully helpful</u>
+<u n="47" who="S0058">no <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="48" who="S0179">I think the thirty speed limit through this village is a bit optimistic <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="49" who="S0058">yes</u>
+<u n="50" who="S0179">it's ridiculous <pause dur="short"/> for places they put twenty mile an hour speed limits</u>
+<u n="51" who="S0058">yeah</u>
+<u n="52" who="S0179">in for no good reason <pause dur="short"/> and yet they feel the need to restrict you to thirty through here <pause dur="short"/> and then sorry don't</u>
+<u n="53" who="S0058">so yeah <pause dur="short"/> not restrict you to twenty through here <pause dur="short"/> yeah</u>
+<u n="54" who="S0179">yeah <pause dur="short"/> deep water <pause dur="short"/> cool</u>
+<u n="55" who="S0058"><vocal desc="laugh"/></u>
+<u n="56" who="S0179">if it didn't look quite stagnant I'd be very</u>
+<u n="57" who="S0058">I was gonna <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="58" who="S0179">keen on going for a swim</u>
+<u n="59" who="S0058">I was gonna say <pause dur="short"/> it did look a little bit er yeah <pause dur="short"/> been there a while <pause dur="short"/> oh a cat</u>
+<pause dur="long"/>
+<u n="60" who="S0179">oy oy oy <pause dur="long"/> <anon type="place"/> Lane</u>
+<u n="61" who="S0058"><vocal desc="laugh"/></u>
+<u n="62" who="S0179">have fun walking down there at night</u>
+<u n="63" who="S0058"><vocal desc="laugh"/> Yeah <pause dur="long"/> I guess that's quite a innocuous name really <pause dur="short"/> <anon type="place"/> <pause dur="short"/> like</u>
+<u n="64" who="S0179">I suppose so <pause dur="short"/> it's just the connotations it <unclear/></u>
+<u n="65" who="S0058"><vocal desc="laugh"/> Yeah <pause dur="short"/> no entirely</u>
+<u n="66" who="S0179">it's it sort of subsequently obtained <pause dur="long"/> It's easier driving along here in winter <pause dur="short"/> cos the vegetation sort of lessened</u>
+<u n="67" who="S0058">right <pause dur="short"/> so you can see where you're going</u>
+<u n="68" who="S0179">yeah <pause dur="short"/> oh there's another Yaris</u>
+<u n="69" who="S0058">mm</u>
+<u n="70" who="S0179">hello</u>
+<u n="71" who="S0058"><vocal desc="laugh"/></u>
+<u n="72" who="S0179">bit cleaner than us as well</u>
+<u n="73" who="S0058"><vocal desc="laugh"/> Yes <pause dur="short"/> did you say we're gonna get the guy at work to give it a going over? Or not? I can't remember what</u>
+<u n="74" who="S0179">the guys at work</u>
+<u n="75" who="S0058">yeah the valets</u>
+<u n="76" who="S0179">Valeters</u>
+<u n="77" who="S0058">Valeters <pause dur="short"/> that's it</u>
+<u n="78" who="S0179">there we go <pause dur="short"/> not actually valets <pause dur="short"/> um give it a try <pause dur="short"/> I just don't think it's a particularly efficient use of twenty-five quid</u>
+<u n="79" who="S0058">yeah</u>
+<u n="80" who="S0179">as in all I want is the inside vacuumed and the outside washed <pause dur="short"/> I mean we can do that very easily</u>
+<u n="81" who="S0058">yeah <pause dur="short"/> we can do that <pause dur="short"/> yeah <pause dur="short"/> true</u>
+<u n="82" who="S0179">in the space of half an hour</u>
+<u n="83" who="S0058">yeah</u>
+<u n="84" who="S0179">you know <pause dur="short"/> it's</u>
+<u n="85" who="S0058">fair enough</u>
+<u n="86" who="S0179">it's just we haven't been at home much to do it recently</u>
+<u n="87" who="S0058">no</u>
+<u n="88" who="S0179">but <trunc>tomorr</trunc></u>
+<u n="89" who="S0058">I will hoover the car out tomorrow</u>
+<u n="90" who="S0179">yeah <pause dur="short"/> please <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="91" who="S0058">yeah I will</u>
+<u n="92" who="S0179">to be honest it's now been so long I might do the outside <vocal desc="laugh"/> again</u>
+<u n="93" who="S0058"><vocal desc="laugh"/></u>
+<u n="94" who="S0179">there's a nice sort of ah</u>
+<u n="95" who="S0058">hmm?</u>
+<u n="96" who="S0179">who have we got um next week?</u>
+<u n="97" who="S0058"><vocal desc="laugh"/> Excellent</u>
+<u n="98" who="S0179">I think that's fair</u>
+<u n="99" who="S0058"><vocal desc="laugh"/> It's not a particularly horrible job</u>
+<u n="100" who="S0179">exactly <pause dur="long"/> There's some stupid thing in this country about the speed limits <pause dur="short"/> so the speed limit along here is national <pause dur="short"/> and with that</u>
+<u n="101" who="S0058">yeah</u>
+<u n="102" who="S0179">sort of admittedly I'm not seriously making progress but you know I'm sort of not been above fifty</u>
+<u n="103" who="S0058">no</u>
+<u n="104" who="S0179">but yet on other roads it's exactly the same speed limit despite the fact that they're multiple lanes</u>
+<u n="105" who="S0058">yeah <pause dur="short"/> open <pause dur="short"/> clear</u>
+<u n="106" who="S0179">yeah</u>
+<u n="107" who="S0058">no er <trunc>t</trunc> junctions <pause dur="short"/> yeah</u>
+<u n="108" who="S0179">yeah <pause dur="short"/> but um you see the thing was um you know the road safety charity Brake?</u>
+<u n="109" who="S0058">yeah</u>
+<u n="110" who="S0179">well let's guess what their main concern</u>
+<u n="111" who="S0058"><vocal desc="laugh"/></u>
+<u n="112" who="S0179">is going to be</u>
+<u n="113" who="S0058">yeah <pause dur="short"/> exactly</u>
+<u n="114" who="S0179">but again all of that's been there's <trunc>n</trunc> virtually no crossover to to um say the <unclear/> or <unclear/> Yet because um I suppose <unclear/> organizations <unclear/> solution is for driver training not for reducing speed limits</u>
+<u n="115" who="S0058">yeah</u>
+<u n="116" who="S0179">um <pause dur="short"/> and in most cases speed is er speed limit of road it's might be an aggravating factor in the severity of the accident but it doesn't cause it</u>
+<u n="117" who="S0058">no</u>
+<u n="118" who="S0179">er driver error causes the accident</u>
+<u n="119" who="S0058">yeah <pause dur="short"/>  how to drive safely at different speeds</u>
+<u n="120" who="S0179">yeah <pause dur="short"/> exactly <pause dur="short"/> I mean ideally you'd live in a situation where there was no speed limit <pause dur="short"/> and people</u>
+<u n="121" who="S0058">yeah</u>
+<u n="122" who="S0179">could be trusted to pick the appropriate speed for the set of circumstances <pause dur="short"/> um</u>
+<u n="123" who="S0058">er you might need sort of signs saying warning this thing is coming up that you won't be able to see</u>
+<u n="124" who="S0179">well exactly</u>
+<u n="125" who="S0058">but</u>
+<u n="126" who="S0179">you would need sort of accepted guidance</u>
+<u n="127" who="S0058">yeah</u>
+<u n="128" who="S0179">um <pause dur="short"/> well no <pause dur="short"/> what it should have is suggested speed limits</u>
+<u n="129" who="S0058">yeah</u>
+<u n="130" who="S0179">but the optimum</u>
+<u n="131" who="S0058">and you're you're penalised for driving dangerously not for</u>
+<u n="132" who="S0179">breaking the limit</u>
+<u n="133" who="S0058">the speed <pause dur="short"/> yeah</u>
+<u n="134" who="S0179">and that may well be the same thing</u>
+<u n="135" who="S0058">yes <pause dur="short"/> exactly <pause dur="short"/> yeah</u>
+<u n="136" who="S0179">but</u>
+<u n="137" who="S0058">that's what I mean <pause dur="short"/> but sometimes they're not</u>
+<u n="138" who="S0179">yes <unclear/></u>
+<u n="139" who="S0058">like you said sometimes it's safer to</u>
+<u n="140" who="S0091">left <pause dur="short"/> left at the top</u>
+<u n="141" who="S0179">yep <pause dur="short"/> <vocal desc="laugh"/> There are many situations in which it's acceptable</u>
+<u n="142" who="S0058">mm</u>
+<u n="143" who="S0179">or indeed <pause dur="short"/> er <pause dur="short"/> well that was leisurely</u>
+<u n="144" who="S0058"><vocal desc="laugh"/> Nice day for a cycle</u>
+<u n="145" who="S0179">he looked very happy didn't he <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="146" who="S0058">yeah <pause dur="short"/> well <pause dur="short"/> nice to be out on your bike</u>
+<u n="147" who="S0179">er indeed <pause dur="long"/> Um we got from  to here one bar of fuel <pause dur="short"/> that's impressive</u>
+<u n="148" who="S0058">nice</u>
+<u n="149" who="S0179">efficient little car</u>
+<u n="150" who="S0058"><vocal desc="laugh"/> That's pretty good <pause dur="short"/> does well</u>
+<u n="151" who="S0179">so light it's scary</u>
+<u n="152" who="S0058">so what?</u>
+<u n="153" who="S0179">so light it's scary</u>
+<u n="154" who="S0058"><vocal desc="laugh"/></u>
+<pause dur="long"/>
+<u n="155" who="S0091">next on the right</u>
+<u n="156" who="S0179">just on the bend isn't it</u>
+<u n="157" who="S0091">yeah</u>
+<u n="158" who="S0179">yep <pause dur="long"/> Not very easy</u>
+<u n="159" who="S0058">oh</u>
+<u n="160" who="S0179">to see it has to be said</u>
+<u n="161" who="S0058">farm there was selling boxes of eggs</u>
+<u n="162" who="S0179">I don't want a box <pause dur="short"/> I just want one egg</u>
+<u n="163" who="S0058"><vocal desc="laugh"/> They were quite big boxes as well</u>
+<u n="164" who="S0179">okay</u>
+<u n="165" who="S0058">I think we've probably still got some eggs in from er</u>
+<u n="166" who="S0179">oh at <unclear/> farm in Wales they have duck eggs <pause dur="short"/> from the ducks on</u>
+<u n="167" who="S0058">oh <pause dur="short"/> nice</u>
+<u n="168" who="S0179">on the farm</u>
+<u n="169" who="S0058">I dunno if I ever had duck egg</u>
+<u n="170" who="S0179">I can't remember having it <pause dur="short"/> I'm sure it was good in an omelette on one occasion</u>
+<u n="171" who="S0058">um yeah <pause dur="short"/> I'm sure I have had I probably have had duck eggs at some point <pause dur="short"/> but I imagine they're huge <pause dur="short"/> and um</u>
+<u n="172" who="S0179">you think they'd be intrinsically very big?</u>
+<u n="173" who="S0058">yeah I'm I'm sure duck eggs are bigger <pause dur="short"/> um <pause dur="short"/> I'm sure I've seen them you know on there's a market <trunc>s</trunc> stall outside the <anon type="place"/> Centre that sells them I think they are big</u>
+<u n="174" who="S0179">mm</u>
+<u n="175" who="S0058">so you could get a nice big fried egg</u>
+<pause dur="long"/>
+<u n="176" who="S0179">mm <pause dur="short"/> and <unclear/></u>
+<u n="177" who="S0058">Don't all there's a</u>
+<u n="178" who="S0179">however many people are about to beat you with sticks <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="179" who="S0058">yeah <pause dur="short"/> <vocal desc="laugh"/> Warning <pause dur="short"/> where was that we stayed that um they had loads of sort of food when we got there? So there was <trunc>e</trunc> big eggs and butter and milk and stuff <pause dur="short"/> in the <trunc>fr</trunc> was it <anon type="place"/>?</u>
+<u n="180" who="S0179">um</u>
+<u n="181" who="S0058">oh no er <trunc>h</trunc> not <anon type="place"/> um <anon type="place"/></u>
+<u n="182" who="S0179">could've been <pause dur="short"/> or it could've been no we were actually staying in Hay weren't we?</u>
+<u n="183" who="S0058">no no <anon type="place"/>'s in <anon type="place"/></u>
+<u n="184" who="S0179">oh alright <pause dur="short"/> er</u>
+<u n="185" who="S0058">we were staying near near <anon type="place"/> <pause dur="short"/> I can't remember the name of the actual place</u>
+<u n="186" who="S0179">no <pause dur="short"/> nor can I actually</u>
+<u n="187" who="S0091">right at the top</u>
+<u n="188" who="S0179">yep <pause dur="short"/> ah yes <pause dur="short"/> this is one of those points where we stop climbing <pause dur="short"/> now we're gonna hang back because they are gonna cut the corner <pause dur="short"/> yep <pause dur="short"/> thought so</u>
+<u n="189" who="S0091"></u>
+<u n="190" who="S0179">they're really not making rapid progress <pause dur="short"/> <vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="191" who="S0179">it is just a haze over there</u>
+<u n="192" who="S0058">yeah</u>
+<u n="193" who="S0179">specific meteorological conditions</u>
+<u n="194" who="S0058"><vocal desc="laugh"/></u>
+<u n="195" who="S0179"><unclear/></u>
+<u n="196" who="S0058">yeah <pause dur="short"/> nice view though</u>
+<u n="197" who="S0179">what you can see</u>
+<u n="198" who="S0058">hmm?</u>
+<u n="199" who="S0179">what you can see <pause dur="short"/> yeah <pause dur="short"/> there's a thing there for a Taylor Wimpey development</u>
+<u n="200" who="S0058">near <unclear/></u>
+<u n="201" who="S0179">yeah <pause dur="short"/> but <unclear/> sort of round here <unclear/></u>
+<u n="202" who="S0058">mm <pause dur="short"/> okay</u>
+<u n="203" who="S0179">at a guess</u>
+<u n="204" who="S0058">keep our eyes open <pause dur="short"/> <vocal desc="laugh"/> Tempted?</u>
+<u n="205" who="S0179">Holiday home</u>
+<u n="206" who="S0058">hmm <pause dur="long"/> Ah <pause dur="short"/> that looks a a very quiet pub</u>
+<u n="207" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="208" who="S0058"><unclear/></u>
+<u n="209" who="S0179">nice that you can just pop into a pub on a <vocal desc="laugh"/> slow Saturday afternoon</u>
+<u n="210" who="S0058"><vocal desc="laugh"/> Yeah</u>
+<u n="211" who="S0179">it's quite nice that pub in Ely actually</u>
+<u n="212" who="S0058">yeah <pause dur="short"/> that was more of a chainy type pub though <pause dur="short"/> but it was very nice</u>
+<u n="213" who="S0179">just the experience of sort of going in on a Sunday</u>
+<u n="214" who="S0058">oh right</u>
+<u n="215" who="S0179">for full on</u>
+<u n="216" who="S0058">yeah</u>
+<u n="217" who="S0179"><unclear/></u>
+<u n="218" who="S0058">well we could do that tomorrow if you want for lunch</u>
+<u n="219" who="S0179">er <pause dur="short"/> I was planning on having breakfast for lunch tomorrow</u>
+<u n="220" who="S0058"><vocal desc="laugh"/> Fair enough <pause dur="short"/> we could buy some brunch stuff if you want <pause dur="short"/> or just have breakfast <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="221" who="S0179">just have breakfast really <pause dur="short"/> I like brunch occasionally but not as a regular thing</u>
+<u n="222" who="S0058">yeah <pause dur="short"/> no <pause dur="short"/> fair enough <pause dur="long"/> mm</u>
+<u n="223" who="S0179"><unclear/></u>
+<u n="224" who="S0058">yes indeed</u>
+<u n="225" who="S0179">it's an awful lot more pleasant driving along here than on the A303</u>
+<u n="226" who="S0058"><vocal desc="laugh"/></u>
+<u n="227" who="S0179">ooh</u>
+<u n="228" who="S0058">it's very <trunc>quie</trunc> ooh <pause dur="short"/> yes</u>
+<u n="229" who="S0179">er <pause dur="short"/> yes <pause dur="short"/> what are you doing? Have to get past but</u>
+<u n="230" who="S0058">ff</u>
+<u n="231" who="S0179">you can't just</u>
+<u n="232" who="S0058"><vocal desc="laugh"/></u>
+<u n="233" who="S0179">you can't just reverse</u>
+<u n="234" who="S0058"><vocal desc="laugh"/> Yeah</u>
+<u n="235" who="S0179">into a national speed limit A road <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="236" who="S0058">in the wrong direction</u>
+<u n="237" who="S0179">er <pause dur="short"/> yes <pause dur="short"/> indeed <pause dur="short"/> that's not how it works</u>
+<u n="238" who="S0058">really bad</u>
+<u n="239" who="S0179">mm</u>
+<pause dur="long"/>
+<u n="240" who="S0058">it's weird how all these signs are all for er you know like on the for the wrong road if you like</u>
+<u n="241" who="S0179">in what <trunc>se</trunc>? Oh yes <pause dur="short"/> I see what you mean</u>
+<u n="242" who="S0058">all the signs from that road you could see perfectly well on this road <pause dur="short"/> they were sort of on the wrong side of it</u>
+<u n="243" who="S0179">quite steep <unclear/></u>
+<u n="244" who="S0058">mm</u>
+<u n="245" who="S0179">the er three O three's been flattened out a bit</u>
+<u n="246" who="S0058"><vocal desc="laugh"/> Right</u>
+<u n="247" who="S0179">in comparison to er to be fair that's <unclear/> <pause dur="long"/> Wow the cows</u>
+<u n="248" who="S0058"><vocal desc="laugh"/> They look quite contented</u>
+<u n="249" who="S0179">mm <pause dur="short"/> pig</u>
+<u n="250" who="S0058">yes</u>
+<u n="251" who="S0179">chicken</u>
+<u n="252" who="S0058">one of us is gonna see another speedy sheep</u>
+<u n="253" who="S0179">horses <pause dur="short"/> wow <pause dur="short"/> this is a</u>
+<u n="254" who="S0058">ah <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="255" who="S0179">real beginner's tour to farmyard England <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="256" who="S0058"><vocal desc="laugh"/> Yeah</u>
+<u n="257" who="S0179">we've seen some chickens and some pigs there</u>
+<u n="258" who="S0058"><vocal desc="laugh"/> Well there's some nearby pigs <pause dur="short"/> very nice pigs</u>
+<u n="259" who="S0179">they seemed very nice pigs <pause dur="short"/> might have been horrible pigs</u>
+<u n="260" who="S0058">they look nice <pause dur="short"/> I guess that's all you can really ask for in a pig</u>
+<pause dur="long"/>
+<u n="261" who="S0179"><vocal desc="laugh"/> <unclear/></u>
+<u n="262" who="S0058">mm</u>
+<u n="263" who="S0179"><unclear/> again it would be fun to ride a motorbike in this sort of weather</u>
+<u n="264" who="S0058">very warm</u>
+<u n="265" who="S0179">actually <pause dur="short"/> yeah <pause dur="short"/> they must've been very hot</u>
+<u n="266" who="S0058">yeah <pause dur="short"/> I've don't fancy that</u>
+<u n="267" who="S0179">I don't think you'd look very good in leathers</u>
+<u n="268" who="S0058">you don't?</u>
+<u n="269" who="S0179">no</u>
+<u n="270" who="S0058">no</u>
+<u n="271" who="S0179">quite funny perhaps</u>
+<u n="272" who="S0058"><vocal desc="laugh"/> Not really my look</u>
+<u n="273" who="S0179">mm <pause dur="short"/> oh dear <pause dur="short"/> it's er it's interesting about <anon type="name" nameType="f"/></u>
+<u n="274" who="S0058">what that she's just dropped out of college?</u>
+<u n="275" who="S0179">yeah <pause dur="short"/> ff <pause dur="short"/> huh</u>
+<u n="276" who="S0058">you're sort of worried she's gonna go the same way that  just sort of drifted about</u>
+<u n="277" who="S0179">well</u>
+<u n="278" who="S0058">but he's actually got qualifications is the thing</u>
+<u n="279" who="S0179">yeah <pause dur="short"/> he's actually very well qualified <pause dur="short"/> and he works very hard</u>
+<u n="280" who="S0058">yeah</u>
+<u n="281" who="S0179">but the problem is I can kind of see it er from her perspective <pause dur="short"/> because I imagine he's been trying <pause dur="short"/> but he's not the most he must be a nightmare to have as a father</u>
+<u n="282" who="S0058">yeah</u>
+<u n="283" who="S0179"><unclear/></u>
+<u n="284" who="S0058">well do you think she's sort of been testing and just gone oh I'll leave college and he's gone I <trunc>d</trunc> I don't care leave college? Or do you think he's been like you will go to college so she's left as a sort of?</u>
+<u n="285" who="S0179">I don't know <pause dur="short"/> but</u>
+<u n="286" who="S0058">yeah</u>
+<u n="287" who="S0179">I can just imagine her sort of cos I imagine he's tried very seriously to tell her no look you need an education  you need an education  to</u>
+<u n="288" who="S0058">right <pause dur="short"/> but maybe</u>
+<u n="289" who="S0179">make your life easier</u>
+<u n="290" who="S0058">yeah</u>
+<u n="291" who="S0179">but I don't think that cos a lot of the stuff you can like a lot of the stuff he says as a father you <trunc>sh</trunc> well you should ignore</u>
+<u n="292" who="S0058">yes <pause dur="short"/> <vocal desc="laugh"/> So that yeah the fact</u>
+<u n="293" who="S0179"><unclear/></u>
+<u n="294" who="S0058">that that's actually true</u>
+<u n="295" who="S0179">yeah <unclear/></u>
+<u n="296" who="S0058">yeah</u>
+<u n="297" who="S0179">I mean and I don't think she's a dreadfully easy daughter so</u>
+<u n="298" who="S0058">no</u>
+<u n="299" who="S0179">but I could <trunc>s</trunc> I can see her side of it</u>
+<u n="300" who="S0058">yes <pause dur="short"/> yeah <pause dur="short"/> she might go back of course</u>
+<u n="301" who="S0179">she might well do</u>
+<u n="302" who="S0058">you know <pause dur="short"/> she might learn for herself that she's gonna need <trunc>s</trunc> like your mum was saying that she's working with other people whose don't have anything any qualifications or anything and it's not particularly nice</u>
+<u n="303" who="S0179">mm</u>
+<u n="304" who="S0058">and she might think well actually if I  if I  can train in this area</u>
+<u n="305" who="S0179">mm</u>
+<u n="306" who="S0058">or you know do an apprenticeship <pause dur="short"/> or do something kind of</u>
+<u n="307" who="S0179">mm <pause dur="long"/> This is a very long section at forty miles an hour</u>
+<u n="308" who="S0058"></u>
+<u n="309" who="S0179">this is a very long section at forty miles an hour</u>
+<u n="310" who="S0058">yeah</u>
+<u n="311" who="S0179">A village which grew up along the London Road</u>
+<u n="312" who="S0058">ah</u>
+<u n="313" who="S0179">interesting how things <pause dur="short"/> cos that's what Melbourn is of course <pause dur="short"/> it was originally a sort of coaching</u>
+<u n="314" who="S0058">right</u>
+<u n="315" who="S0179">stop from <anon type="place"/> to <anon type="place"/></u>
+<u n="316" who="S0058">ah yeah <pause dur="short"/> I guess so <pause dur="short"/> interesting</u>
+<u n="317" who="S0179"><unclear/> and then the bypass was opened</u>
+<u n="318" who="S0058">yeah <pause dur="long"/> <event desc="sound of phone"/></u>
+<u n="319" who="S0058">oh <pause dur="short"/> excuse me</u>
+<u n="320" who="S0179">Excused</u>
+<u n="321" who="S0058">that's  <unclear/></u>
+<u n="322" who="S0179">? Wow <pause dur="short"/> hang gliders</u>
+<u n="323" who="S0058">oh cool</u>
+<u n="324" who="S0179">grandpa <pause dur="short"/> look <pause dur="short"/> you can just about er can you move your head? Thank you <pause dur="long"/> Must be a good day for all the thermals</u>
+<u n="325" who="S0058">mm</u>
+<u n="326" who="S0179">er what did she say?</u>
+<u n="327" who="S0058">um she said it's it <trunc>w</trunc> it would it be alright to pick her up from the station? She gets in at five to six <pause dur="short"/> that's actually better than earlier because it'll be quieter</u>
+<u n="328" who="S0179">yeah</u>
+<u n="329" who="S0058">for driving</u>
+<u n="330" who="S0179">um <pause dur="short"/> if huh I'm just thinking where her ticket's to <pause dur="short"/> where she's gonna change <pause dur="short"/> cos if it's down to <anon type="place"/> and then up again actually there's possibly better options <pause dur="short"/> like <anon type="place"/> would be better <pause dur="short"/> or <anon type="place"/> would be better <pause dur="short"/> so er it'd be worth <trunc>ge</trunc> actually getting that information out of her</u>
+<u n="331" who="S0058">okay <pause dur="short"/> yeah</u>
+<u n="332" who="S0179">Cos although you know to fair it's not her fault</u>
+<u n="333" who="S0058">no no</u>
+<u n="334" who="S0179">I mean <anon type="place"/> would be the obvious option</u>
+<u n="335" who="S0058">yeah yeah</u>
+<u n="336" who="S0179">um <pause dur="short"/> but</u>
+<u n="337" who="S0058">is is is</u>
+<u n="338" who="S0179">I mean just next time you should explain to her</u>
+<u n="339" who="S0058">yeah</u>
+<u n="340" who="S0179">go to <anon type="place"/></u>
+<u n="341" who="S0058">yeah</u>
+<u n="342" who="S0179">um <pause dur="short"/> but yeah <pause dur="short"/> if she has to come through <anon type="place"/> and that train may well stop in <anon type="place"/> then</u>
+<u n="343" who="S0058">yeah <pause dur="short"/> then that would be</u>
+<u n="344" who="S0179"></u>
+<u n="345" who="S0058">okay that's yeah <pause dur="short"/> I will yeah I'll I'll text her back in a bit and ask</u>
+<u n="346" who="S0179">alright <pause dur="short"/> yeah <pause dur="long"/> A lot easier is just to give her a call on the way home</u>
+<u n="347" who="S0058">okay</u>
+<u n="348" who="S0179">mm</u>
+<u n="349" who="S0058">then I'll just run past her what she needs to bring</u>
+<u n="350" who="S0179">mhm <pause dur="short"/> interestingly <anon type="place"/> is actually closer geographically <pause dur="short"/> the station that is</u>
+<u n="351" who="S0058">to <anon type="place"/>?</u>
+<u n="352" who="S0179">yeah</u>
+<u n="353" who="S0058">right</u>
+<u n="354" who="S0179">I was just looking at one of the property websites</u>
+<u n="355" who="S0058">right</u>
+<u n="356" who="S0179">and it's <trunc>f</trunc> you know <pause dur="short"/> what does she need to bring? Swimming and gym kit <pause dur="short"/> er</u>
+<u n="357" who="S0058">well not er just um sort of work <trunc>clo</trunc> so she doesn't need to bring towels for example</u>
+<u n="358" who="S0179">mm <pause dur="short"/> if she wants a gym towel she might wanna bring that</u>
+<u n="359" who="S0058">mm</u>
+<u n="360" who="S0179">as in we can probably provide her with one but it might be</u>
+<u n="361" who="S0058"><unclear/></u>
+<u n="362" who="S0179">oh dear <pause dur="short"/> huh <pause dur="short"/> mm <pause dur="short"/> that's very kind <pause dur="short"/> thank you <pause dur="short"/> uh <pause dur="long"/> Four <unclear/></u>
+<u n="363" who="S0058"><vocal desc="laugh"/></u>
+<u n="364" who="S0179">that's a hilarious looking plate</u>
+<u n="365" who="S0058">R O presumably?</u>
+<u n="366" who="S0179"><vocal desc="laugh"/></u>
+<u n="367" who="S0058">that must have been a present</u>
+<u n="368" who="S0179">yeah <pause dur="short"/> I was gonna say</u>
+<u n="369" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="370" who="S0179">I think it's really odd <unclear/> getting a car as a present</u>
+<u n="371" who="S0058">mm</u>
+<u n="372" who="S0179">as in like</u>
+<u n="373" who="S0058">yeah</u>
+<u n="374" who="S0179">a sort of a kind of big bow on it</u>
+<u n="375" who="S0058"><vocal desc="laugh"/> Yeah <pause dur="short"/> surprise</u>
+<u n="376" who="S0179">well lots of um sort of  sort of  recently teenage girls</u>
+<u n="377" who="S0058">mm</u>
+<u n="378" who="S0179">seem to <vocal desc="laugh"/> get that from their parents</u>
+<u n="379" who="S0058">yeah yeah <pause dur="short"/> um</u>
+<u n="380" who="S0179">presumably because teenage boys would just destroy it in a matter of days</u>
+<u n="381" who="S0058"><vocal desc="laugh"/></u>
+<u n="382" who="S0179">um <pause dur="short"/> I do think that the car that Simon got like er to some extent that made sense <pause dur="short"/> because you know it's not gonna cost anything to replace</u>
+<u n="383" who="S0058">yeah</u>
+<u n="384" who="S0179">on the other hand it means that he was quite likely to be killed in it</u>
+<u n="385" who="S0058">yes <pause dur="short"/> <vocal desc="laugh"/> Exactly</u>
+<pause dur="long"/>
+<u n="386" who="S0179">um and mum's attitude for getting the Yaris was she was quite happy to dad just likes spending money</u>
+<u n="387" who="S0058">yeah</u>
+<u n="388" who="S0179">she likes spending money because it was buying nine airbags</u>
+<u n="389" who="S0058">yes <pause dur="short"/> <vocal desc="laugh"/> Indeed <pause dur="short"/> pay for safety</u>
+<u n="390" who="S0179"><unclear/> was a very good thing <pause dur="short"/> <unclear/> so</u>
+<u n="391" who="S0058">mm</u>
+<u n="392" who="S0179">I couldn't quite I still couldn't believe that they were getting me a car <pause dur="short"/> yet alone I thought they were getting me something like er I I I assumed my first car I never really thought about it but I</u>
+<u n="393" who="S0058">yeah</u>
+<u n="394" who="S0179">sort of had a mental picture of sort of some shitty Ford Ka</u>
+<u n="395" who="S0058">yeah <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="396" who="S0179">or something along those lines <pause dur="short"/> whereas yeah</u>
+<u n="397" who="S0058">yeah <pause dur="short"/> second-hand <pause dur="short"/> small</u>
+<pause dur="long"/>
+<u n="398" who="S0179">well er <unclear/> and welcome to third gear</u>
+<u n="399" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="400" who="S0179">so we'll be staying in this gear</u>
+<u n="401" who="S0058"><vocal desc="laugh"/></u>
+<u n="402" who="S0179">for the remainder of this hill</u>
+<u n="403" who="S0058">nice <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="404" who="S0179">which seems to be continuing for quite a way</u>
+<u n="405" who="S0058"><vocal desc="laugh"/></u>
+<pause dur="long"/>
+<u n="406" who="S0179">now after a brief flirtation with fourth</u>
+<u n="407" who="S0058"><vocal desc="laugh"/></u>
+<u n="408" who="S0179">you've guessed it</u>
+<u n="409" who="S0058"><vocal desc="laugh"/></u>
+<u n="410" who="S0179">it goes back into third <pause dur="short"/> <vocal desc="laugh"/></u>
+<u n="411" who="S0058">nice</u>
+<u n="412" who="S0179">it's a balance up this hill between carrying enough momentum to keep the car moving effectively but also not going too fast round the bends from a visibility perspective</u>
+<u n="413" who="S0058">yeah</u>
+<u n="414" who="S0179">I think a balance which has been won <unclear/> on this occasion</u>
+<u n="415" who="S0058">mm <pause dur="short"/> excellent</u>
+<u n="416" who="S0179">mm <pause dur="short"/> the car park's just up here <pause dur="short"/> to the left <pause dur="long"/> Should probably have brought some sun cream</u>
+<u n="417" who="S0058">really? Won't be hot for very long</u>
+<u n="418" who="S0179">well we caught the sun in Derbyshire <pause dur="short"/> or at least I did</u>
+<u n="419" who="S0058">yeah but we were out all day</u>
+<u n="420" who="S0179">er <pause dur="short"/> let's go in the shade</u>
+<u n="421" who="S0058"><vocal desc="laugh"/> Cunning</u>
+<u n="422" who="S0179">thank you Mr caravan</u>
+<u n="423" who="S0058">excellent</u>
+</body>
+</text>

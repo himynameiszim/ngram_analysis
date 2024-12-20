@@ -1,0 +1,640 @@
+<text id="SJLF">
+	<header>
+		<rec_length>0:13:38</rec_length>
+		<rec_date>2014-10-05</rec_date>
+		<rec_year>2014</rec_year>
+		<rec_period>2014_Q4</rec_period>
+		<n_speakers>6</n_speakers>
+		<list_speakers>S0202 S0208 S0216 S0217 S0221 S0222</list_speakers>
+		<rec_loc>Home, Leeds</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Drugs, uni work, seminars, life, chocolate, moving in, new house, where we live</topics>
+		<activity>Friends chatting about general stuff</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, advising, requesting</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T09</transcriber>
+		<speakerInfo>
+			<speaker id="S0202">
+				<exactage>23</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Doncaster, Yorkshire</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Yorkshire</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0208">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cambridge</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Cambridge</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>2</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>eastern_engl</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>French -- advanced</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0216">
+				<exactage>22</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Newcastle</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Geordie</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>4</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0217">
+				<exactage>23</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Sunderland, Tyne and Wear</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Geordie</dialect_rep>
+				<hab_city>Sunderland</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>23</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Sales</occupation>
+				<socgrade>D</socgrade>
+				<nssec>6</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0221">
+				<exactage>19</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Boston, Lincs</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Northern</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0222">
+				<exactage>20</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Northallerton</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Southern</dialect_rep>
+				<hab_city>Leeds, Yorkshire</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0208">that's good so I have a lecture no two lectures tomorrow and a seminar</u>
+<u n="2" who="S0202">yeah</u>
+<u n="3" who="S0208">erm should I? <pause dur="short"/> do you have the lighter?</u>
+<u n="4" who="S0202">yeah it's in my pocket</u>
+<u n="5" who="S0208">do you reckon I'll have any work to do?</u>
+<u n="6" who="S0202">have you got a seminar yeah? well just have a look on VLE cos most likely</u>
+<u n="7" who="S0217">hi</u>
+<u n="8" who="S0202">hi</u>
+<u n="9" who="S0217">you alright?</u>
+<u n="10" who="S0202">you alright you live next door?</u>
+<u n="11" who="S0217">I don't <pause dur="short"/> just visiting</u>
+<u n="12" who="S0202">oh right okay</u>
+<u n="13" who="S0208" trans="overlap">hey</u>
+<u n="14" who="S0216">hiya</u>
+<u n="15" who="S0202">oh hi</u>
+<u n="16" who="S0216">you alright?</u>
+<u n="17" who="S0202">yeah are you?</u>
+<u n="18" who="S0208">okay</u>
+<event desc="unintelligible"/>
+<u n="19" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="20" who="S0208">I'll have a look to see what's written down <pause dur="short"/> cos if there's a little bit of reading then I'll just <pause dur="short"/> do it</u>
+<u n="21" who="S0202" trans="overlap">but we're on VLE anyway so just have a look on there <pause dur="long"/></u>
+<u n="22" who="S0208">I'm not ready for this</u>
+<u n="23" who="S0202">what uni or life?</u>
+<u n="24" who="S0208">life <pause dur="short"/> everything</u>
+<u n="25" who="S0217">you guys just moved in?</u>
+<u n="26" who="S0208">yeah I moved in just yesterday</u>
+<u n="27" who="S0202" trans="overlap">well I've been here about I've been about two weeks she's came here yesterday <vocal desc="laugh"/></u>
+<u n="28" who="S0208">yeah last night <vocal desc="laugh"/></u>
+<u n="29" who="S0202"><vocal desc="laugh"/> so whereabouts do you live?</u>
+<u n="30" who="S0217">oh I've I've had to move back to my parents' house for a few weeks but I'll be moving back into Leeds shortly</u>
+<u n="31" who="S0202">right</u>
+<u n="32" who="S0217">I was just round the corner but <pause dur="short"/> <vocal desc="sigh"/> now I'm miles away</u>
+<u n="33" who="S0208" trans="overlap">you had a nightmare?</u>
+<u n="34" who="S0217">no</u>
+<u n="35" who="S0202">are you at <anon type="place"/> as well or well <anon type="place"/> or at uni?</u>
+<u n="36" who="S0217">yeah <anon type="place"/> yeah</u>
+<u n="37" who="S0202">yeah it's <anon type="place"/> now innit? it's weird</u>
+<u n="38" who="S0217" trans="overlap">yeah</u>
+<u n="39" who="S0208">what?</u>
+<u n="40" who="S0202">yeah it's <anon type="place"/> it's not <anon type="place"/> any more</u>
+<u n="41" who="S0208">that's confusing</u>
+<u n="42" who="S0202">well it is for us</u>
+<u n="43" who="S0217" trans="overlap">yeah but they've changed all the email addresses as well so you couldn't I couldn't get into my email for ages cos nobody's told me that they changed it</u>
+<u n="44" who="S0208" trans="overlap">oh my god wow organisation</u>
+<u n="45" who="S0202" trans="overlap">you're joking <pause dur="short"/> that is so shit</u>
+<u n="46" who="S0217" trans="overlap">cos they changed all the prefixes of the emails so it wouldn't let me log on</u>
+<u n="47" who="S0202" trans="overlap">the thing is as well like as soon as your old email ceases to exist you don't have a chance to <trunc>e</trunc> <trunc>pa</trunc> change email or does it all forward to your new mail?</u>
+<u n="48" who="S0217">well no it's it's the same email address but they've just changed the name of it but obviously I was trying to log in with the old email address</u>
+<u n="49" who="S0202" trans="overlap">with your old one yeah your old prefixes and stuff</u>
+<u n="50" who="S0217">quite annoying</u>
+<u n="51" who="S0202">what do you study?</u>
+<u n="52" who="S0217">graphics graphic design</u>
+<u n="53" who="S0202">really?</u>
+<u n="54" who="S0208">ah that's what</u>
+<u n="55" who="S0202"><anon type="name" nameType="m"/> studied</u>
+<u n="56" who="S0208" trans="overlap"><anon type="name" nameType="m"/> did yeah</u>
+<u n="57" who="S0202">yeah my partner did that</u>
+<u n="58" who="S0217" trans="overlap">what are you guys doing?</u>
+<u n="59" who="S0202">I'm doing English language and literature I dropped the French so</u>
+<u n="60" who="S0208">finally <vocal desc="laugh"/></u>
+<u n="61" who="S0202" trans="overlap">I can stop staying that now</u>
+<u n="62" who="S0217">oh well that's what all of these girls do as well</u>
+<u n="63" who="S0202">really?</u>
+<u n="64" who="S0208">English literature</u>
+<u n="65" who="S0217" trans="overlap">yeah yeah</u>
+<u n="66" who="S0202">fucking hell I live next to a house full of awesome people <vocal desc="laugh"/></u>
+<u n="67" who="S0208" trans="overlap">study sessions <vocal desc="laugh"/></u>
+<u n="68" who="S0202"><vocal desc="laugh"/> we'll learn <unclear/></u>
+<u n="69" who="S0217">what year?</u>
+<u n="70" who="S0202">er second second year yeah <pause dur="short"/> so</u>
+<u n="71" who="S0217" trans="overlap">second <pause dur="short"/> right these are all currently dreading their third year</u>
+<u n="72" who="S0202"><vocal desc="laugh"/> I'm dreading my second year</u>
+<u n="73" who="S0217">no no</u>
+<u n="74" who="S0202">hi</u>
+<u n="75" who="S0216">hiya</u>
+<u n="76" who="S0202">do you do you live here then?</u>
+<u n="77" who="S0216">yeah I do actually live here they're just like visiting us <vocal desc="laugh"/></u>
+<u n="78" who="S0202" trans="overlap">yeah <pause dur="short"/> oh right what's your name?</u>
+<u n="79" who="S0216"><anon type="name" nameType="f"/> what's your name?</u>
+<u n="80" who="S0202"><anon type="name" nameType="f"/> I'm <anon type="name" nameType="f"/> this is <anon type="name" nameType="f"/></u>
+<u n="81" who="S0216">I've met one of youse but I don't think it's youse I hope it's not <vocal desc="laugh"/></u>
+<u n="82" who="S0208">no no it'll probably be <anon type="name" nameType="f"/></u>
+<u n="83" who="S0202" trans="overlap">no it'll be <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> yeah</u>
+<u n="84" who="S0216" trans="overlap">yeah cos she was like moving in and <anon type="name" nameType="f"/> and I were like in here and everything erm</u>
+<u n="85" who="S0202">I've met <anon type="name" nameType="f"/> before</u>
+<u n="86" who="S0216">yeah <anon type="name" nameType="f"/> has been here over the summer but like we've moved in for good now so</u>
+<u n="87" who="S0202">right okay</u>
+<u n="88" who="S0216">we're here</u>
+<u n="89" who="S0202">so you've not so you didn't live here last year then?</u>
+<u n="90" who="S0208">hi</u>
+<u n="91" who="S0216">yeah we've just stayed</u>
+<u n="92" who="S0202">hi hi</u>
+<u n="93" who="UNKMALE" trans="overlap" whoConfidence="low">I don't live here</u>
+<u n="94" who="S0202">hi</u>
+<u n="95" who="UNKMALE" whoConfidence="low">I don't live here</u>
+<u n="96" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="97" who="S0202">hi person who doesn't live here</u>
+<u n="98" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="99" who="UNKMALE" whoConfidence="low">I used to live next door though</u>
+<u n="100" who="S0216">well like they used to live in that house there used to be like sixteen of us on the street now it's just us</u>
+<u n="101" who="UNKMALE" trans="overlap" whoConfidence="low">yeah</u>
+<u n="102" who="S0208" trans="overlap">oh my god</u>
+<u n="103" who="S0202">do you know the people who used to live here?</u>
+<u n="104" who="UNKMALE" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="105" who="S0216">yeah they've moved into that one</u>
+<u n="106" who="S0202">yeah I think they hate us <vocal desc="laugh"/></u>
+<u n="107" who="S0216">do they?</u>
+<u n="108" who="S0208">why cos we stole their house?</u>
+<u n="109" who="S0217" trans="overlap">they were they were really really sound but like</u>
+<u n="110" who="S0202" trans="overlap">we stole their deposit <vocal desc="laugh"/></u>
+<u n="111" who="S0216" trans="overlap">oh did you? <vocal desc="laugh"/></u>
+<u n="112" who="S0217" trans="overlap"><unclear/> being sound</u>
+<u n="113" who="S0216">I won't tell them well I don't talk to them</u>
+<u n="114" who="UNKMALE" trans="overlap" whoConfidence="low">happy days hey?</u>
+<u n="115" who="S0217">well they've got their window open so just watch your fucking mouth if you don't want a street war okay?</u>
+<u n="116" who="S0216">shut up man</u>
+<u n="117" who="S0217">cos I will I shall tell them me</u>
+<u n="118" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="119" who="S0202">well they moved out in August we moved in in September so it's pretty obvious</u>
+<u n="120" who="UNKMALE" whoConfidence="low">what's that <anon type="name" nameType="m"/>?</u>
+<u n="121" who="S0217">oh it's <anon type="name" nameType="f"/>'s letter</u>
+<u n="122" who="UNKMALE" whoConfidence="low">oh no I need it</u>
+<u n="123" who="S0216">I know I know one of the girls</u>
+<u n="124" who="UNKMALE" whoConfidence="low">what do you need this for?</u>
+<u n="125" who="S0217"><unclear/></u>
+<u n="126" who="S0216">like we always used to like I always used to go and use the top one <unclear/> for like coming in but like erm I don't know the rest of the lads but one of the lads is like really really loud cos I've like got his wall</u>
+<u n="127" who="UNKMALE" trans="overlap" whoConfidence="low">oh yeah cos I'm <unclear/> like twenty-four seven</u>
+<u n="128" who="UNKMALE" trans="overlap" whoConfidence="low">you don't know that do you? <unclear/> ah shit</u>
+<u n="129" who="S0208">oh no</u>
+<u n="130" who="S0216">and I like I can hear him on the phone and everything</u>
+<u n="131" who="S0202">really?</u>
+<u n="132" who="S0216">I really want to like put a face to him <unclear/> I'm glad you smoke though</u>
+<u n="133" who="S0202">yeah well not for long we're both quitting</u>
+<u n="134" who="S0216">are you? are you doing stoptober?</u>
+<u n="135" who="S0202">yeah</u>
+<u n="136" who="S0216">are you?</u>
+<u n="137" who="S0202">we're doing this</u>
+<u n="138" who="S0216" trans="overlap">can I borrow your lighter please?</u>
+<u n="139" who="S0202">yeah of course yeah</u>
+<u n="140" who="S0208" trans="overlap">yeah I've got it</u>
+<u n="141" who="S0202">now</u>
+<u n="142" who="S0216">thank you so are youse going out tonight or anything?</u>
+<u n="143" who="S0202">no no we've got</u>
+<u n="144" who="S0216" trans="overlap">well we're just like we're just having a girly night in like with the other two girls cos these are going to watch the match if youse want to come round we're going to do face masks and that</u>
+<u n="145" who="S0202">yeah erm what time is it?</u>
+<u n="146" who="S0216">erm it's eight</u>
+<u n="147" who="S0202">hi</u>
+<u n="148" who="UNKFEMALE" whoConfidence="low">hi hi</u>
+<u n="149" who="S0202">hi there I'm <anon type="name" nameType="f"/></u>
+<u n="150" who="UNKFEMALE" whoConfidence="low">hi <anon type="name" nameType="f"/></u>
+<u n="151" who="S0208">I'm <anon type="name" nameType="f"/></u>
+<u n="152" who="UNKFEMALE" whoConfidence="low"><anon type="name" nameType="f"/> hi</u>
+<u n="153" who="S0208">do you live here?</u>
+<u n="154" who="UNKFEMALE" whoConfidence="low">yeah</u>
+<u n="155" who="S0202">yeah</u>
+<u n="156" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="157" who="S0202">just the boys who don't?</u>
+<u n="158" who="S0208" trans="overlap">just getting my bearings <pause dur="short"/> is it just girls then with you?</u>
+<u n="159" who="S0216">yeah well like there was a lad that was meant to live with us but we're not sure what he's doing</u>
+<u n="160" who="UNKFEMALE" trans="overlap" whoConfidence="low">I think he's still coming</u>
+<u n="161" who="S0216" trans="overlap">yeah like he was he's just not here yet but like yeah he was like I don't know when he's coming up</u>
+<u n="162" who="UNKFEMALE" whoConfidence="low">is it just girls in yours?</u>
+<u n="163" who="S0202">four girls one boy</u>
+<u n="164" who="UNKFEMALE" whoConfidence="low">oh yeah that's the same as us then isn't it?</u>
+<u n="165" who="S0216">yeah uhu</u>
+<u n="166" who="S0202" trans="overlap">is he gay or straight or?</u>
+<u n="167" who="S0216">no he's straight but you'll think he was gay</u>
+<u n="168" who="S0202">right okay</u>
+<u n="169" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="170" who="S0202">so what match are you going to watch the?</u>
+<u n="171" who="UNKMALE" whoConfidence="low">the Toon <pause dur="short"/> the Toon match the touring</u>
+<u n="172" who="UNKFEMALE" trans="overlap" whoConfidence="low">oh we're not we're staying in</u>
+<u n="173" who="S0202">ah</u>
+<u n="174" who="S0216">yeah like if youse wanna come round</u>
+<u n="175" who="S0217">Newcastle</u>
+<u n="176" who="UNKMALE" whoConfidence="low">like <unclear/> doesn't really like football but I'm <unclear/></u>
+<u n="177" who="S0202">oh there's a Newcastle girl who lives here</u>
+<u n="178" who="S0216">oh is there?</u>
+<u n="179" who="S0202">yeah</u>
+<u n="180" who="S0217">there's a what sorry?</u>
+<u n="181" who="S0202">there's a girl from Newcastle lives here</u>
+<u n="182" who="S0217">oh is she?</u>
+<u n="183" who="S0202">yeah she's not in though she's at work</u>
+<u n="184" who="S0217">ah</u>
+<u n="185" who="S0202">so</u>
+<u n="186" who="UNKMALE" whoConfidence="low">what's her name?</u>
+<u n="187" who="S0202"><anon type="name" nameType="f"/></u>
+<u n="188" who="S0217">we know her</u>
+<u n="189" who="UNKMALE" whoConfidence="low">aye I she's <unclear>one of us</unclear></u>
+<u n="190" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="191" who="S0216">oh god just hurry up and go to the match</u>
+<u n="192" who="UNKMALE" whoConfidence="low">I thought you wanted to walk round with us</u>
+<u n="193" who="S0202">are you going to pub to watch it?</u>
+<u n="194" who="UNKMALE" whoConfidence="low">aye the <anon type="place"/></u>
+<u n="195" who="S0217">just the <anon type="place"/></u>
+<u n="196" who="S0202">because what?</u>
+<u n="197" who="UNKMALE" whoConfidence="low">no just the <anon type="place"/></u>
+<u n="198" who="S0217" trans="overlap">the <anon type="place"/></u>
+<u n="199" who="S0202">just the <anon type="place"/>? <pause dur="short"/> oh yeah it's not far is it?</u>
+<u n="200" who="S0217">no</u>
+<u n="201" who="S0208">it's like a ten minute walk if that</u>
+<u n="202" who="S0217">have youse have youse lived in <anon type="place"/> before or is this your second year?</u>
+<u n="203" who="S0208" trans="overlap">no it's our second year so</u>
+<u n="204" who="S0217" trans="overlap">oh right <pause dur="short"/> all the joys</u>
+<u n="205" who="S0202">so yeah</u>
+<u n="206" who="UNKMALE" whoConfidence="low">well you'd better keep the noise down cos these are all in third year so</u>
+<u n="207" who="S0216">shut up <anon type="name" nameType="m"/></u>
+<u n="208" who="UNKMALE" whoConfidence="low">if there's any noise I'll be right round do you know what I mean?</u>
+<u n="209" who="S0202">well we're having a party on Saturday <trunc>ni</trunc> Saturday night if you want to come?</u>
+<u n="210" who="UNKFEMALE" whoConfidence="low">oh yeah</u>
+<event desc="unintelligible"/>
+<u n="211" who="S0202">I invited I invited <anon type="name" nameType="f"/> so I don't know if she passed it on or not</u>
+<u n="212" who="S0216" trans="overlap">oh yeah <pause dur="short"/> oh yeah she said yeah</u>
+<u n="213" who="UNKFEMALE" trans="overlap" whoConfidence="low">she did say</u>
+<u n="214" who="S0202" trans="overlap">yeah well you're welcome to come round like the door will be open so</u>
+<u n="215" who="UNKMALE" trans="overlap" whoConfidence="low">yes alright we'll be there we'll be there don't you worry</u>
+<u n="216" who="S0202" trans="overlap">yeah come yeah</u>
+<u n="217" who="S0216" trans="overlap">don't invite these <unclear/></u>
+<u n="218" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="219" who="UNKMALE" whoConfidence="low"><unclear/></u>
+<u n="220" who="S0217">so what are we doing then? <pause dur="short"/> are we getting sniffing ket off each other or?</u>
+<u n="221" who="S0202">well if you want to do that you can do that</u>
+<u n="222" who="UNKMALE" trans="overlap" whoConfidence="low">we will</u>
+<u n="223" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="224" who="S0216">trying to make a good impression and they're going to think we're like that</u>
+<u n="225" who="UNKMALE" whoConfidence="low">we are pure druggies</u>
+<u n="226" who="S0216">no we're not man</u>
+<u n="227" who="S0217" trans="overlap">we're alright</u>
+<u n="228" who="UNKMALE" whoConfidence="low">got a thousand grams of the stuff in there</u>
+<u n="229" who="S0217">grams of</u>
+<u n="230" who="S0216">I wish youse didn't meet these and just us</u>
+<u n="231" who="UNKMALE" whoConfidence="low">right now</u>
+<u n="232" who="S0202">don't be don't be daft we're not bothered</u>
+<u n="233" who="UNKMALE" whoConfidence="low">do you want that <unclear/>?</u>
+<u n="234" who="S0202">we are</u>
+<u n="235" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="236" who="UNKFEMALE" whoConfidence="low">what are your names sorry?</u>
+<u n="237" who="S0202">I'm <anon type="name" nameType="f"/> this is <anon type="name" nameType="f"/> <pause dur="short"/> what's your name?</u>
+<u n="238" who="UNKFEMALE" whoConfidence="low">I'm <anon type="name" nameType="f"/></u>
+<u n="239" who="S0202"><anon type="name" nameType="f"/> hi <vocal desc="laugh"/> <pause dur="short"/> hi neighbours</u>
+<u n="240" who="UNKFEMALE" trans="overlap" whoConfidence="low">I'm obviously dressed like I'm in <unclear/></u>
+<u n="241" who="S0202">same</u>
+<u n="242" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="243" who="S0217">did you not hear about those erm?</u>
+<u n="244" who="UNKMALE" whoConfidence="low">the guy who had popped them</u>
+<u n="245" who="S0217">yeah doing them and he was like on crack as well</u>
+<u n="246" who="S0202" trans="overlap">so what you all study English literature and language?</u>
+<u n="247" who="UNKFEMALE" whoConfidence="low">there's three of us doing English lit and then <anon type="name" nameType="f"/> does social sciences</u>
+<u n="248" who="UNKMALE" trans="overlap" whoConfidence="low">no I didn't</u>
+<u n="249" who="S0217" trans="overlap">I don't know if he died but <unclear/> doing it</u>
+<u n="250" who="S0202">right okay well I'm a fellow English lit person so hi yeah</u>
+<u n="251" who="UNKMALE" whoConfidence="low">that's why <unclear>it's</unclear> dangerous <unclear>isn't it</unclear>?</u>
+<u n="252" who="UNKFEMALE" whoConfidence="low">oh are you? oh</u>
+<u n="253" who="S0216">what at <anon type="place"/> or <anon type="place"/>?</u>
+<u n="254" who="S0202">er <anon type="place"/> uni</u>
+<u n="255" who="UNKFEMALE" whoConfidence="low">oh we're all at <anon type="place"/></u>
+<u n="256" who="S0202" trans="overlap">yeah she yeah well it's so weird innit saying <anon type="place"/> I bet especially for you guys</u>
+<u n="257" who="UNKFEMALE" trans="overlap" whoConfidence="low">yeah I know we we don't even say it do we we're just like <anon type="place"/></u>
+<u n="258" who="UNKMALE" trans="overlap" whoConfidence="low">I graduated as <anon type="place"/> so</u>
+<u n="259" who="S0202">did you?</u>
+<u n="260" who="S0216" trans="overlap">yeah I don't think I'll ever say <anon type="place"/></u>
+<u n="261" who="UNKFEMALE" whoConfidence="low"><unclear/></u>
+<u n="262" who="UNKMALE" whoConfidence="low">you've told me this darling I've everyone complains about the name change but I <trunc>w</trunc> I think it's</u>
+<u n="263" who="UNKFEMALE" trans="overlap" whoConfidence="low">ah look at it</u>
+<u n="264" who="S0202">I like it I really like it</u>
+<u n="265" who="UNKMALE" whoConfidence="low">I like the I liked the other name but I don't</u>
+<u n="266" who="S0217" trans="overlap">I complained but I don't mind it this way do you know what I mean?</u>
+<u n="267" who="S0216" trans="overlap">I'm I'm so yeah I don't really care</u>
+<u n="268" who="S0217">yeah and you get you can choose what you do anyway <pause dur="short"/> where you graduate which one you graduate from</u>
+<u n="269" who="S0216">can you?</u>
+<u n="270" who="S0202" trans="overlap">can you?</u>
+<u n="271" who="UNKMALE" whoConfidence="low">what? which one did you graduate from?</u>
+<u n="272" who="S0217"><anon type="place"/></u>
+<u n="273" who="UNKMALE" whoConfidence="low">but it says to be <anon type="place"/></u>
+<u n="274" who="S0217" trans="overlap">oh you weren't clever enough to get in <anon type="place"/> uni were you? <pause dur="short"/> thought so I don't know</u>
+<u n="275" who="S0202">so you're not a student any more then?</u>
+<u n="276" who="S0217">no I'm graduated</u>
+<u n="277" who="UNKMALE" whoConfidence="low">no no I like I <unclear/></u>
+<u n="278" who="S0202">but alright okay so do you work or anything?</u>
+<u n="279" who="UNKMALE" trans="overlap" whoConfidence="low">I'm working here at the minute yeah fortunately</u>
+<u n="280" who="S0216">he's just a lurker</u>
+<u n="281" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="282" who="S0202">oh bless him</u>
+<u n="283" who="UNKMALE" whoConfidence="low">but <anon type="name" nameType="f"/> loves it</u>
+<u n="284" who="S0202">a druggie lurker <vocal desc="laugh"/></u>
+<u n="285" who="S0216">yeah</u>
+<u n="286" who="S0217"><anon type="name" nameType="f"/> doesn't know I've got heroine needles under her mattress</u>
+<u n="287" who="S0202">oh you've got to share the heroine you can like heroine us up might make the lectures more interesting</u>
+<u n="288" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="289" who="S0216">whereabouts are youse from?</u>
+<u n="290" who="S0202">I'm from er Doncaster like <pause dur="short"/> cos someone's got to live there I suppose so</u>
+<u n="291" who="S0216" trans="overlap">oh right okay</u>
+<u n="292" who="S0217">hey you had a friend in Doncaster didn't you?</u>
+<u n="293" who="S0216">shut up <pause dur="short"/> <anon type="name" nameType="m"/> was from Doncaster</u>
+<u n="294" who="S0202">were they a dickhead?</u>
+<u n="295" who="S0216">yeah</u>
+<u n="296" who="S0202">I'm not a dickhead by the way</u>
+<u n="297" who="S0216">oh that's fine</u>
+<u n="298" who="S0202">just saying that</u>
+<u n="299" who="S0208">just putting that out there</u>
+<u n="300" who="S0202">just putting it out there <unclear/></u>
+<u n="301" who="S0216" whoConfidence="low">where are you from?</u>
+<u n="302" who="S0208">er originally from England but from France like technically</u>
+<u n="303" who="S0216" trans="overlap">ah really?</u>
+<u n="304" who="UNKFEMALE" trans="overlap" whoConfidence="low">ah</u>
+<u n="305" who="S0216">that's really cool</u>
+<u n="306" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="307" who="S0202">slightly jealous that she comes from France</u>
+<u n="308" who="S0216">yeah but they're so close aren't they?</u>
+<u n="309" who="UNKFEMALE" whoConfidence="low">is <anon type="name" nameType="m"/> coming?</u>
+<u n="310" who="S0217" trans="overlap">yeah they are</u>
+<u n="311" who="UNKMALE" trans="overlap" whoConfidence="low">do you have any nail clippers <anon type="name" nameType="f"/>?</u>
+<u n="312" who="S0216"><unclear/></u>
+<u n="313" who="UNKMALE" whoConfidence="low">I only have two left</u>
+<u n="314" who="S0216">well I worry sometimes <unclear/></u>
+<u n="315" who="UNKMALE" trans="overlap" whoConfidence="low"><unclear/></u>
+<u n="316" who="UNKFEMALE" whoConfidence="low">I need to get another pair so you can have mine</u>
+<u n="317" who="S0217" trans="overlap">you know what shall we just stay on the <unclear/>? I can't be arsed</u>
+<u n="318" who="S0202">we're going to go back in anyway but</u>
+<u n="319" who="S0216">alright well like if youse want to come round a bit we're just like it's just the girls in</u>
+<u n="320" who="S0202">yeah yeah we probably we probably will pop round do you want to <anon type="name" nameType="f"/>?</u>
+<u n="321" who="S0208" trans="overlap">I don't know I'll have a look if I've got work to do and if I don't then yes</u>
+<u n="322" who="S0202" trans="overlap">yes <pause dur="short"/> yeah same but what what time is it now?</u>
+<u n="323" who="S0216">erm like eight I think</u>
+<u n="324" who="S0202">eight yeah</u>
+<u n="325" who="S0216" trans="overlap">we're going to go and get some wine and that</u>
+<event desc="background talk"/>
+<u n="326" who="S0202">yeah I'll just yeah I'll probably come round in about an hour I'm just gonna finish a bit of work that I've got to do</u>
+<u n="327" who="S0216">yeah that's fine</u>
+<u n="328" who="S0202">because I did none last year so it's my new resolution for year two that I'll actually read a book</u>
+<u n="329" who="S0216" whoConfidence="low">yeah</u>
+<u n="330" who="S0202">so</u>
+<u n="331" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="332" who="S0202">cos that helps when you're studying literature right?</u>
+<u n="333" who="S0216" whoConfidence="low">what what are you doing?</u>
+<u n="334" who="S0202">erm English lit and language</u>
+<u n="335" who="S0216" whoConfidence="low">are you? we've done we've all done English if you want anything just cos we've got loads</u>
+<u n="336" who="UNKMALE" trans="overlap" whoConfidence="low"><anon type="name" nameType="m"/>'s graduated so</u>
+<u n="337" who="S0202" trans="overlap">yeah <pause dur="short"/> oh I don't know if they'll be the same but I'm assuming that they will</u>
+<u n="338" who="UNKFEMALE" whoConfidence="low">yeah well if you need any books we've got sort of loads of them</u>
+<u n="339" who="S0202" trans="overlap">so <pause dur="short"/> alright I'll let you know I probably will I'll be like can I borrow your books please? <vocal desc="laugh"/></u>
+<u n="340" who="UNKFEMALE" trans="overlap" whoConfidence="low"><anon type="name" nameType="f"/> yeah yeah that's fine</u>
+<u n="341" who="S0216">I'll see you later</u>
+<u n="342" who="S0202">see you later have a good night guys bye</u>
+<event desc="0217 leaves"/>
+<event desc="0216 leaves"/>
+<u n="343" who="S0222"><shift new="singing"/> I'm horny horny horny horny <shift new="normal"/></u>
+<u n="344" who="S0202" trans="overlap">hi erm the girls next door are having erm a girlie night I'm recording by the way erm for my job</u>
+<u n="345" who="S0221"><vocal desc="laugh"/></u>
+<u n="346" who="S0202">have I told you about my job?</u>
+<u n="347" who="S0222">what?</u>
+<u n="348" who="S0221">no but</u>
+<u n="349" who="S0202" trans="overlap">I need I need your explicit permission to record or I've got to stop</u>
+<u n="350" who="S0222" trans="overlap">wait so I just shouted out horny</u>
+<u n="351" who="S0221" trans="overlap">yeah that's what I just said you just shouted out horny</u>
+<u n="352" who="S0202" trans="overlap">yeah but we talk about drugs sex everything no not really but they were just talking about heroine so technically I'm talking about drugs and sex on the recording to Cambridge hi</u>
+<u n="353" who="S0221" trans="overlap">what is your job then? <pause dur="short"/> I didn't know that</u>
+<u n="354" who="S0202">am I allowed to record you? cos if not I'm gonna press stop</u>
+<u n="355" who="S0221">no of course you can record me</u>
+<u n="356" who="S0202">okay can I record you <anon type="name" nameType="f"/>?</u>
+<u n="357" who="S0222">you may</u>
+<u n="358" who="S0202">okay thank you erm right so basically what I do is I record erm conversations that I have with people</u>
+<u n="359" who="S0222">about drugs and sex</u>
+<u n="360" who="S0202">well about anything and it basically gets analysed so when I fill the forms in I'll put in where you're from and stuff like that and you've got to sign the forms as well by the way</u>
+<u n="361" who="S0221">yeah that's fine</u>
+<u n="362" who="S0202">so erm <pause dur="short"/> so basically what they do is they analyse different dialects and different use of language and how you use your mouth to pronounce things and different words that you use that I don't way like I say <pause dur="short"/> I say fings you say things <pause dur="short"/> so differences like that</u>
+<u n="363" who="S0222" trans="overlap">true that</u>
+<u n="364" who="S0221" trans="overlap">yeah yeah</u>
+<u n="365" who="S0202">so sorry I am actually correcting my speech impediment of saying fings and I'm trying to correct it how good was I the other night? like</u>
+<u n="366" who="S0208">and every time you said three or thing you were like <pause dur="short"/> oh <vocal desc="laugh"/></u>
+<u n="367" who="S0202">I was like whoo I can say it I can talk like a normal human being</u>
+<u n="368" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="369" who="S0202">not Yorkshire lass <pause dur="short"/> but erm yeah they've invited</u>
+<u n="370" who="S0208" trans="overlap">oh <anon type="name" nameType="f"/> do you mind if I borrow your erm laundry thing please?</u>
+<u n="371" who="S0202">the horse</u>
+<u n="372" who="S0208">to hang my stuff up?</u>
+<u n="373" who="S0202">can she have your horse?</u>
+<u n="374" who="S0221">the airer</u>
+<u n="375" who="S0208">yes that's the one</u>
+<u n="376" who="S0222">erm you can feel free to put stuff on it but I'm currently using it at the minute but it's not fully it's not full but you can put some stuff on it yeah</u>
+<u n="377" who="S0208" trans="overlap">oh <pause dur="short"/> do you mind where is it?</u>
+<u n="378" who="S0222">in my room</u>
+<u n="379" who="S0202" trans="overlap">use hangers <pause dur="short"/> are you it's towels innit?</u>
+<u n="380" who="S0208">that is <anon type="name" nameType="f"/></u>
+<u n="381" who="S0222">hangers</u>
+<u n="382" who="S0208">oh hangers</u>
+<u n="383" who="S0222">use <anon type="name" nameType="f"/>'s</u>
+<u n="384" who="S0202">I said hangers</u>
+<u n="385" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="386" who="S0202">knobhead erm but yeah the girls next door have invited us round for face masks and girliness you're not invited <anon type="name" nameType="m"/> sorry</u>
+<u n="387" who="S0208" trans="overlap">thank you</u>
+<u n="388" who="S0222" trans="overlap">that's quite alright</u>
+<u n="389" who="S0221">oh oh fuck off</u>
+<u n="390" who="UNKFEMALE" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="391" who="S0202">but they I invited them round to the party on Saturday they all said that they're going to come <pause dur="short"/> so you can put a face mask on if you want? I'm sure they'll let you</u>
+<u n="392" who="S0221" trans="overlap">I love a face I love a face mask</u>
+<u n="393" who="S0222">do you know the other day no the other week he was saying how he wished he was a girl so he could join in with girls' nights</u>
+<u n="394" who="S0202">you can join in with them</u>
+<u n="395" who="S0221">it was like months ago</u>
+<u n="396" who="S0202">you can join in with them</u>
+<u n="397" who="S0208" trans="overlap">yes you can</u>
+<u n="398" who="S0221" trans="overlap">yeah and then then they get snuggled up in bed with popcorn and watch girl chick flicks and I'm so</u>
+<u n="399" who="S0202" trans="overlap">none of us have a big enough bed to do that so</u>
+<u n="400" who="S0208" trans="overlap">yeah</u>
+<u n="401" who="S0221">that's true</u>
+<u n="402" who="S0208">you've got broccoli in your hair</u>
+<u n="403" who="S0222"><vocal desc="laugh"/></u>
+<u n="404" who="S0221">I'll <trunc>je</trunc> I'm jealous</u>
+<u n="405" who="S0222">that's my favourite thing to have in my hair</u>
+<u n="406" who="S0202">yeah I love that for later when I'm hungry I always want broccoli <pause dur="short"/> erm but yeah so I'm gonna go round in about an hour if you're up for it we'll go round for half an hour show our face get to know them a little bit and then</u>
+<u n="407" who="S0222">sounds good I'm down with that</u>
+<u n="408" who="S0208" trans="overlap">I'm going to have a look at the work and unpack so I think I might give tonight a miss but</u>
+<u n="409" who="S0202" trans="overlap">yeah <pause dur="short"/> well don't give tonight a miss cos you were saying you wanted to make more friends do your <trunc>pa</trunc> unpacking tomorrow I'm doing mine tomorrow</u>
+<u n="410" who="S0222" trans="overlap">also don't say you have work it's the first day if you're going to be free one day it's gonna be today</u>
+<u n="411" who="S0208">yeah but I have a seminar tomorrow and I really want to make a good impression this year cos last year I turned up like fuck I have no clue</u>
+<u n="412" who="S0202">what is going on? I'm still hungover</u>
+<u n="413" who="S0208" trans="overlap">like I actually walked in I was like is this International Politics? and they were like no this is <unclear/> I was like good stuff</u>
+<u n="414" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="415" who="S0208">I don't know where I am right now so</u>
+<u n="416" who="S0221">I walked into one in fresher's week saying that</u>
+<u n="417" who="S0208" trans="overlap">I'm just going to get my basket</u>
+<u n="418" who="S0202">okay but erm yeah just <pause dur="short"/> do your unpacking tomorrow I'm going to so</u>
+<u n="419" who="S0208">yeah I'll just leave it on the floor <pause dur="short"/> it's fine</u>
+<u n="420" who="S0202" trans="overlap">yeah just do it it's fine <pause dur="short"/> we need to make friends with our neighbours</u>
+<u n="421" who="S0208">I know <pause dur="short"/> I know</u>
+<u n="422" who="S0202">so yeah so that's why I record things so I ever say to you erm</u>
+<u n="423" who="S0222" trans="overlap">is it okay if I fart on the <trunc>re</trunc>re?</u>
+<u n="424" who="S0202">if you want to fart</u>
+<u n="425" who="S0222">I really need to fart</u>
+<u n="426" who="S0202">fart then</u>
+<u n="427" who="S0221">you'd hear mine on there</u>
+<u n="428" who="S0222">ah</u>
+<u n="429" who="S0202">can I just point out this is for Cambridge University? so</u>
+<u n="430" who="S0222">they don't know me though</u>
+<u n="431" who="S0202">if you ever want to go there <anon type="name" nameType="f"/> has just farted on recording and she shouted horny so <pause dur="short"/> I'll cut it out it's fine</u>
+<u n="432" who="S0222" trans="overlap">please don't don't <pause dur="short"/> yeah but at least I can say things correctly</u>
+<u n="433" who="S0202">oh god</u>
+<u n="434" who="S0222">farting's not a crime</u>
+<u n="435" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="436" who="S0202">anything you want to say is fine</u>
+<u n="437" who="S0208">does everyone have like a?</u>
+<u n="438" who="S0202">this pan's <unclear/> to the sink</u>
+<u n="439" who="S0208">yes <pause dur="short"/> had my shoes in that and everything</u>
+<u n="440" who="S0221">loads of dust from that room</u>
+<u n="441" who="S0208">oh</u>
+<u n="442" who="S0202">still haven't been moved since they've been put there so <pause dur="short"/> right I'm going to go and do some work and then in about an hour I'm going to go next door so who's coming?</u>
+<u n="443" who="S0208">I'll come <unclear/></u>
+<u n="444" who="S0222" trans="overlap">I'll come I <unclear/> <anon type="name" nameType="f"/>?</u>
+<u n="445" who="S0208" trans="overlap">don't leave without me</u>
+<u n="446" who="S0202">you what <anon type="name" nameType="f"/>?</u>
+<u n="447" who="S0208">I said I'm coming so don't leave without me</u>
+<u n="448" who="S0202">okay well if you want to do some work come down to my room and sit with me if you want?</u>
+<u n="449" who="S0208">I will do</u>
+<u n="450" who="S0202">yeah alright</u>
+<u n="451" who="S0208">I'll just hang this up and I'll go get my laptop</u>
+<u n="452" who="S0202">yeah okay I'll see you in a sec</u>
+<u n="453" who="S0208">yeah</u>
+<u n="454" who="S0202">see you later guys</u>
+<u n="455" who="S0221">see you later</u>
+	
+	</body>
+</text>

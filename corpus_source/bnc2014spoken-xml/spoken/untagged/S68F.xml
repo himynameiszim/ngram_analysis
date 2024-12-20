@@ -1,0 +1,533 @@
+<text id="S68F">
+	<header>
+		<rec_length>0:24:11</rec_length>
+		<rec_date>2016-03-19</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0492 S0493 S0604 S0605 S0666</list_speakers>
+		<rec_loc>HOLIDAY COTTAGE, HEREFORD, ENGLAND</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>PLANS FOR UPCOMING DAYS </topics>
+		<activity>FAMILY EATING DINNER</activity>
+		<conv_type>Discussing, explaining, inquiring, anecdote telling, making arrangements</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0492">
+				<exactage>33</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cape Town</birthplace>
+				<birthcountry>South Africa</birthcountry>
+				<l1>English</l1>
+				<lingorig>British</lingorig>
+				<dialect_rep>Neutral English</dialect_rep>
+				<hab_city>Valencia</hab_city>
+				<hab_country>Spain</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>unspecified</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0493">
+				<exactage>31</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff, Wales</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>South Wales</dialect_rep>
+				<hab_city>Valencia</hab_city>
+				<hab_country>Spain</hab_country>
+				<hab_dur>5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0604">
+				<exactage>34</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>34 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0605">
+				<exactage>60</exactage>
+				<age1994>60plus</age1994>
+				<agerange>60_69</agerange>
+				<gender>M</gender>
+				<nat>Welsh</nat>
+				<birthplace>Singapore</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh (south)</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>58 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Charity worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0666">
+				<exactage>57</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>Welsh</nat>
+				<birthplace>Cardiff</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh (South Wales)</dialect_rep>
+				<hab_city>Barry</hab_city>
+				<hab_country>Wales</hab_country>
+				<hab_dur>35 years in Barry</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Senior support Worker</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0666">it's lovely <anon type="name" nameType="f"/></u>
+<u n="2" who="S0492">good good <pause dur="short"/> first time cooking for one so I hope that's alright</u>
+<u n="3" who="S0604" whoConfidence="low">really nice</u>
+<u n="4" who="S0492">I figured you can't really get ill from it can you? <pause dur="short"/> what with it not being meat and all</u>
+<u n="5" who="S0604" trans="overlap" whoConfidence="low">I don't <unclear/> <pause dur="long"/> are you getting your mum and dad to bring <pause dur="short"/> lincolnshire sausages?</u>
+<u n="6" who="S0492">mm <pause dur="short"/> and pork and apple burgers that are pretty good I asked them to bring <pause dur="short"/> I'm not entirely sure of things for anything vegetarian <pause dur="short"/> apart from gingerbread <pause dur="long"/></u>
+<u n="7" who="S0666">still the <pause dur="long"/></u>
+<u n="8" who="S0492">do you think <anon type="name" nameType="m"/>'ll come?</u>
+<u n="9" who="S0604">er talking about it yeah</u>
+<u n="10" who="S0493">yeah I know him</u>
+<u n="11" who="S0604">really?</u>
+<u n="12" who="S0666">quite a way to come with a baby I suppose</u>
+<u n="13" who="S0492">yeah</u>
+<u n="14" who="S0604">you can have a proper play with him now</u>
+<u n="15" who="S0492">yeah <pause dur="short"/> be nice for him to see the animals <pause dur="short"/> but then when I was saying you always think that though and you're like and they are like seven months like it's not like it's</u>
+<u n="16" who="S0666" trans="overlap">yeah it's too little</u>
+<u n="17" who="S0492">like it really doesn't matter that much</u>
+<u n="18" who="S0666">no</u>
+<u n="19" who="S0604">he seems quite bright to me though and he's walking around and you know</u>
+<u n="20" who="S0666">yeah oh yeah</u>
+<u n="21" who="S0492">and he's very good being passed from person to person</u>
+<u n="22" who="S0666"><unclear/></u>
+<u n="23" who="S0492">which means he does it often <pause dur="short"/> and it also means that they're quite chilled out not like</u>
+<u n="24" who="S0604"><unclear/></u>
+<u n="25" who="S0666">yeah <pause dur="long"/> what's <anon type="name" nameType="m"/>'s dad like?</u>
+<u n="26" who="S0493"><unclear>he's a gardener</unclear> like</u>
+<u n="27" who="S0604">has his sister got a kid yet?</u>
+<u n="28" who="S0493">bit off the rails I think she's</u>
+<u n="29" who="S0666">oh is she?</u>
+<u n="30" who="S0493">well I think a party girl still</u>
+<u n="31" who="S0666">uhu</u>
+<u n="32" who="S0493">she's about twenty-nine or something</u>
+<u n="33" who="S0492">so did you see them in <anon type="place"/> as well?</u>
+<u n="34" who="S0493">yeah she went away for uni but she's back now yeah <pause dur="long"/></u>
+<u n="35" who="S0604">how much has he got on Facebook of <pause dur="short"/> pictures of flowers?</u>
+<u n="36" who="S0492">not much really <pause dur="short"/> it seems to be other people that then like tag him</u>
+<u n="37" who="S0604">okay</u>
+<u n="38" who="S0492">but he doesn't put very much <pause dur="short"/> again it just seems to pop up if they're both tagged in it <pause dur="long"/> if you get on a Facebook account for ten minutes</u>
+<u n="39" who="S0604">yeah</u>
+<u n="40" who="S0492">if there was a nosy app</u>
+<u n="41" who="S0666"><vocal desc="laugh"/></u>
+<u n="42" who="S0604">just put nosy <pause dur="short"/> <unclear>I think</unclear></u>
+<u n="43" who="S0492"><anon type="name" nameType="f"/>?</u>
+<u n="44" who="S0666">yeah</u>
+<u n="45" who="S0492">you know from school <unclear>you were teased about</unclear> <pause dur="short"/> or uni or <pause dur="short"/> no? <pause dur="long"/></u>
+<u n="46" who="S0604">I know that's what it's for</u>
+<u n="47" who="S0492"><vocal desc="laugh"/></u>
+<u n="48" who="S0666"><vocal desc="laugh"/> to look at everybody's <trunc>pic</trunc>pictures? <pause dur="short"/> that's what people do isn't it?</u>
+<u n="49" who="S0492">especially cos you can do it untracked <pause dur="short"/> the day they bring in the</u>
+<u n="50" who="S0666"><vocal desc="laugh"/></u>
+<u n="51" who="S0492">you can see who's looked</u>
+<u n="52" who="S0666" trans="overlap">so and so is looking at you</u>
+<u n="53" who="S0492">I'm leaving</u>
+<u n="54" who="S0666"><vocal desc="laugh"/> <pause dur="long"/> do you do that? look up all your old <trunc>sch</trunc>school friends <pause dur="short"/> and look at their pictures secretly?</u>
+<u n="55" who="S0493">I bet she does</u>
+<u n="56" who="S0666"><vocal desc="laugh"/></u>
+<u n="57" who="S0605">we had a Facebook first world problem the other day <pause dur="short"/> one of my friends er <pause dur="short"/> I started like a Facebook page er for old school people you know?</u>
+<u n="58" who="S0666">mm</u>
+<u n="59" who="S0605">and er <pause dur="short"/> and my friend posted on there that one of our friends <pause dur="short"/> who most people hadn't seen since school had died <trunc>su</trunc>suddenly <pause dur="short"/> so all <unclear/> people just thought oh that's a shame you know <pause dur="short"/> let us know when the funeral is he was a good guy and all this stuff <pause dur="short"/> and then one the next morning about half past seven in the morning I had a Facebook message from <pause dur="short"/> er another of the school friends <pause dur="short"/> who said could I stop all these people posting on <pause dur="short"/> what she perceived as my Facebook page <pause dur="short"/> because <vocal desc="cough"/> she'd been <anon type="name" nameType="m"/>'s <trunc>par</trunc> secret partner for the last <trunc>thir</trunc> <vocal desc="cough"/> about thirteen years <pause dur="short"/> she didn't like to see she was <trunc>s</trunc>so upset she didn't like to see his name being mentioned and bandied about on Facebook</u>
+<u n="60" who="S0492">but how was she his secret partner?</u>
+<u n="61" who="S0605">well <unclear>there's no last name</unclear> you know</u>
+<u n="62" who="S0492" whoConfidence="low">oh right</u>
+<u n="63" who="S0605">she was living in <anon type="place"/> <pause dur="short"/> she was divorced I think and I think he was divorced so <unclear/> <pause dur="short"/> and no one had said anything bad and I mean</u>
+<u n="64" who="S0492" trans="overlap">yeah</u>
+<u n="65" who="S0605">you know they said they just said and leaving respects and so on <pause dur="short"/> and she said could I take them off or er on Facebook and I explained that I I don't think I can remove other people's posts you know?</u>
+<u n="66" who="S0493">she can't really control what the public say about her</u>
+<u n="67" who="S0605">but it was only it was like</u>
+<u n="68" who="S0604" trans="overlap">just unfollow that group</u>
+<u n="69" who="S0605">I created that group</u>
+<u n="70" who="S0493">she doesn't have to be in it</u>
+<u n="71" who="S0492" trans="overlap">he'd obviously joined it though <pause dur="short"/> so every time he was</u>
+<u n="72" who="S0605" trans="overlap">no no he he <trunc>wa</trunc></u>
+<u n="73" who="S0492" trans="overlap">oh</u>
+<u n="74" who="S0605">he wasn't on there</u>
+<u n="75" who="S0666" trans="overlap">she was but she was</u>
+<u n="76" who="S0605" trans="overlap">she was</u>
+<u n="77" who="S0492">well then</u>
+<u n="78" who="S0666">leave the group</u>
+<u n="79" who="S0604">or just don't look at it</u>
+<u n="80" who="S0605">but she was saying she obviously that guy had just died <pause dur="short"/> and she said I can't see that seeing his name makes me so upset seeing his name in the <trunc>pa</trunc> in the past tense you know <pause dur="short"/> can I take him off? I said oh I would but I think I think</u>
+<u n="81" who="S0493">and have you got the right to <unclear/>?</u>
+<u n="82" who="S0492" trans="overlap">yeah that's right cos there might become a day <pause dur="short"/> when she's quite like to read all of that</u>
+<u n="83" who="S0605">but she said something like erm <pause dur="short"/> we I think you know he had cancer for a couple of two months or something <pause dur="short"/> and she said we planned his <pause dur="short"/> final months</u>
+<u n="84" who="S0492" whoConfidence="low">mm</u>
+<u n="85" who="S0605">and Facebook wasn't a part of that plan so</u>
+<u n="86" who="S0492" trans="overlap">mm I read a <trunc>rea</trunc> a good thing in the Guardian it was in the family bit</u>
+<u n="87" who="S0493" trans="overlap"><unclear>do you want these?</unclear></u>
+<u n="88" who="S0605"><unclear>no thanks</unclear></u>
+<u n="89" who="S0492">and it was about like almost like your digital <pause dur="short"/> death</u>
+<u n="90" who="S0605" trans="overlap">oh</u>
+<u n="91" who="S0492">like what you need to do for that</u>
+<u n="92" who="S0605">but what er what I did then is I posted on there saying <pause dur="short"/> and I couldn't say her name cos everyone would know</u>
+<u n="93" who="S0492">oh right</u>
+<u n="94" who="S0605">I said er someone from er er his family <anon type="name" nameType="m"/>'s family <pause dur="short"/> er asked us to stop posting on there and they'll be making an announcement soon and didn't wanna upset them cos they'd have all left</u>
+<u n="95" who="S0492">yeah</u>
+<u n="96" who="S0493">mm</u>
+<u n="97" who="S0492"><unclear/></u>
+<u n="98" who="S0605">and they'd all left respectful messages</u>
+<u n="99" who="S0492" trans="overlap">yeah</u>
+<u n="100" who="S0492">you know <pause dur="short"/> it was one of these things he was in school but no one's really seen him since you know not like and I felt awful then I've gone er I've gone and upset the whole family like</u>
+<u n="101" who="S0492">no you created the group to</u>
+<u n="102" who="S0605">well yeah</u>
+<u n="103" who="S0492">keep in touch you didn't create the group for</u>
+<u n="104" who="S0605" trans="overlap">I mean I I've got and I I should have said well I actually posted on myself saying yeah it's a shame he was a nice guy and you know</u>
+<u n="105" who="S0492">yeah</u>
+<u n="106" who="S0605">and er anyway it was posted on there and everyone posted on and said I'm sorry and of course they post</u>
+<u n="107" who="S0493"><vocal desc="laugh"/></u>
+<u n="108" who="S0605">because they were posting on saying sorry</u>
+<u n="109" who="S0492" trans="overlap">yeah</u>
+<u n="110" who="S0605">it was perpetuated so then she sent me another message <pause dur="short"/> and said er said <pause dur="short"/> and then a couple of days later there was er <pause dur="short"/> an announcement from his daughters saying about the funeral and the arrangements and not mentioning at all her</u>
+<u n="111" who="S0492">oh right</u>
+<u n="112" who="S0605">you know god knows what er <pause dur="short"/> what the story was it was a thing from the family you know</u>
+<u n="113" who="S0492">yeah</u>
+<u n="114" who="S0605">the daughters but I mean she wasn't mentioned anywhere so whether she had made all this up or</u>
+<u n="115" who="S0492">it can be a bit weird when people don't check this er a woman I used to work with <pause dur="short"/> and she obviously no one's shut down her Facebook account and she must have registered on like <pause dur="short"/> frequent things cos every once in a while I get a thing saying this woman's invited me to do something and I'm like she really hasn't at all could you please can someone please stop that <trunc>s</trunc></u>
+<u n="116" who="S0604">how can she automatically <unclear/></u>
+<u n="117" who="S0492" trans="overlap">I think I don't know like it's thing like has asked you to play Candy Crush so I don't know if somehow you're er like you're signed up for like er <pause dur="short"/> every six months</u>
+<u n="118" who="S0605" trans="overlap">yeah yeah</u>
+<u n="119" who="S0492">it automatically goes or something</u>
+<u n="120" who="S0605" trans="overlap">when you sign up for it unless you say no it will automatically do stuff like that</u>
+<u n="121" who="S0492">the moral of that story is not to play Candy Crush <vocal desc="laugh"/></u>
+<u n="122" who="S0666">mm</u>
+<u n="123" who="S0604">everybody gets addicted though <anon type="name" nameType="f"/></u>
+<u n="124" who="S0492">I've never played it is it basically like erm <pause dur="short"/> tetris?</u>
+<u n="125" who="S0604">it's erm a simplified version of</u>
+<u n="126" who="S0666" trans="overlap">yeah</u>
+<u n="127" who="S0604" trans="overlap">Tetris yeah</u>
+<u n="128" who="S0492">yeah <pause dur="short"/> and what were what the the?</u>
+<u n="129" who="S0604" trans="overlap">I was quite good at it I haven't played it <unclear/></u>
+<u n="130" who="S0666">I haven't played it for ages</u>
+<u n="131" who="S0493" trans="overlap">you don't play that do you mum?</u>
+<u n="132" who="S0666">I haven't played any for a long long time</u>
+<u n="133" who="S0493" trans="overlap"><unclear/> don't play that now</u>
+<u n="134" who="S0492">it was a bit like what was the one that used to be on the Mega Drive? and you had it with Ecco the Dolphin and <pause dur="short"/> sonic and then there was another one and it was and they dropped down and there were <pause dur="short"/> er like it was really old though <pause dur="long"/></u>
+<u n="135" who="S0493" whoConfidence="low">don't know</u>
+<u n="136" who="S0492" trans="overlap">was that the same thing or Sonic <pause dur="short"/> and Ecco? always thought it was a bit rubbish</u>
+<u n="137" who="S0605">but they have got a problem of digital sort of legacies where people who have died <pause dur="short"/> and old stuff is still on there</u>
+<u n="138" who="S0666">mm</u>
+<u n="139" who="S0604">you know that American film critic I don't remember his name now who died of <pause dur="short"/> you know had half his face gone by the end <pause dur="short"/> he was a really famous one</u>
+<u n="140" who="S0605">American?</u>
+<u n="141" who="S0604">yeah <pause dur="short"/> I can't remember but yeah he had he knew he was gonna die and he sort of <pause dur="short"/> he had written reviews for films that were now he had whenever he had and him and his wife had a <pause dur="short"/> sort of planned that he'd post these after his death you know and</u>
+<u n="142" who="S0666">mm</u>
+<u n="143" who="S0492">it's like that awful Black Mirror episode</u>
+<u n="144" who="S0604">I've not seen it</u>
+<u n="145" who="S0492">have you not?</u>
+<u n="146" who="S0604">no I've only seen the first one <pause dur="short"/> it's the yeah</u>
+<u n="147" who="S0492" trans="overlap">the first ever one?</u>
+<u n="148" who="S0604">yeah</u>
+<u n="149" who="S0492">was the first ever one the pig one?</u>
+<u n="150" who="S0604">yeah</u>
+<u n="151" who="S0492">mm I wanna see it again watch it</u>
+<u n="152" who="S0605">what was that?</u>
+<u n="153" who="S0492" trans="overlap">obviously it's not cheerful viewing</u>
+<u n="154" who="S0605">who was that one a celebrity <pause dur="short"/> that took Apple to court because he'd left <pause dur="short"/> his kids his entire Apple music collection in his will? <pause dur="short"/> you know he's still alive quite a big celebrity</u>
+<u n="155" who="S0604">yeah I don't remember</u>
+<u n="156" who="S0605" trans="overlap">and he was it was worth thousands and thousands dollar now <pause dur="short"/> his music collection but it was a virtual one rather than an actual one and Apple <pause dur="short"/> saw it <pause dur="short"/> took <pause dur="short"/> took him to court and I think won <pause dur="short"/> saying that <trunc>h</trunc>he while he owned all of that music cos he'd purchased it legally <pause dur="short"/> he</u>
+<u n="157" who="S0666" trans="overlap">it's not in <trunc>pe</trunc>perpetuity is it? or</u>
+<u n="158" who="S0605" trans="overlap">it's not in perpetuity exactly and he couldn't leave it to his kids and it was a test case of a</u>
+<u n="159" who="S0492" trans="overlap">mm what's in <trunc>p</trunc> what's in perpetuity?</u>
+<u n="160" who="S0666">forever</u>
+<u n="161" who="S0605" trans="overlap">forever <pause dur="short"/> so</u>
+<u n="162" who="S0493">so own a actual record collection that you could pass onto someone or</u>
+<u n="163" who="S0605" trans="overlap">er <trunc>exa</trunc> yeah</u>
+<u n="164" who="S0604" trans="overlap" whoConfidence="low">yeah</u>
+<u n="165" who="S0666" trans="overlap">yeah</u>
+<u n="166" who="S0605">a record er</u>
+<u n="167" who="S0493" trans="overlap">it's <unclear/></u>
+<u n="168" who="S0605" trans="overlap">I could pass on to you but like <pause dur="short"/> like he he it wasn't pirated in any kind of way he bought it and paid for it all <pause dur="short"/> but if I did if I did then I couldn't leave it to you and as well I couldn't leave it er be an <trunc>actua</trunc> an actual one <pause dur="short"/> and <unclear/></u>
+<u n="169" who="S0493" trans="overlap">he didn't really buy it then did he?</u>
+<u n="170" who="S0605">mm?</u>
+<u n="171" who="S0493">he didn't really buy it then did he?</u>
+<u n="172" who="S0666">no <pause dur="short"/> he only bought it till his</u>
+<u n="173" who="S0605" trans="overlap">no but to all intents and purposes he handed money over to pay for it</u>
+<u n="174" who="S0666" trans="overlap">for twenty years or forty years or whatever</u>
+<u n="175" who="S0605">he thought he</u>
+<u n="176" who="S0493" trans="overlap">no for personal <trunc>u</trunc> for personal use</u>
+<u n="177" who="S0666">mm</u>
+<u n="178" who="S0605">well it was a big test <trunc>c</trunc> they had some you know some I don't know what the I think it was Keanu Reeves you know some sort of biggish star</u>
+<u n="179" who="S0666">mm</u>
+<u n="180" who="S0493">but</u>
+<u n="181" who="S0492" trans="overlap">I</u>
+<u n="182" who="S0604">it doesn't make any sense as well cos it's <pause dur="short"/> it's not like you're they're getting it back <pause dur="short"/> after it's gone and it's like you're returning these</u>
+<u n="183" who="S0666" trans="overlap">no exactly yeah</u>
+<u n="184" who="S0493">yeah but you don't wanna set a precedent of one person buying something and going and sharing it with twenty friends</u>
+<u n="185" who="S0604">well he he can do that sort of anyway sharing IDs <pause dur="short"/> it but it it's just <pause dur="short"/> it's like old world versus new bumping into each other like you <pause dur="short"/> you <pause dur="short"/> you still think you know you sort of own this digital product because you know you buy something in the real world it's</u>
+<u n="186" who="S0666">mm</u>
+<u n="187" who="S0604">it's tangibly yours right? whereas yeah they</u>
+<u n="188" who="S0493">well it's an important lesson that you don't</u>
+<u n="189" who="S0605" trans="overlap">but</u>
+<u n="190" who="S0493">when you buy something digital</u>
+<u n="191" who="S0605" trans="overlap">that I would say that's different to say to say Netflix <pause dur="short"/> if I purchase Netflix I understand that I can't er give that to you <pause dur="short"/> what I've got but because I've bought these things <pause dur="short"/> I presume I would have bought the things surely they're my property to</u>
+<u n="192" who="S0666">mm to hand on</u>
+<u n="193" who="S0493" trans="overlap">so you would have signed terms and agreements when you did that like you wouldn't where it says third party</u>
+<u n="194" who="S0605" trans="overlap">well say on page thirty-four of the thing that you've bought</u>
+<u n="195" who="S0666">yeah oh</u>
+<u n="196" who="S0493">yeah I haven't really bought it in the traditional sense of</u>
+<u n="197" who="S0604">but you know</u>
+<u n="198" who="S0493" trans="overlap">buying it</u>
+<u n="199" who="S0604" trans="overlap">you're you're not supposed to <pause dur="short"/> lend DVDs or CDs or or watch a DVD if there's more than four people in the room and that sort of stuff</u>
+<u n="200" who="S0666"><vocal desc="laugh"/></u>
+<u n="201" who="S0604"><unclear/></u>
+<u n="202" who="S0493" trans="overlap">they're not gonna stop you doing it</u>
+<u n="203" who="S0604">they were thinking they were sort of you know that connect thing?</u>
+<u n="204" who="S0493">mm</u>
+<u n="205" who="S0604">they were <pause dur="short"/> it's like a <pause dur="short"/> camera feed Xbox <pause dur="short"/> it can tell how many people are in the room when they were muted to sort of <pause dur="short"/> look into the you know dunno if er <pause dur="short"/> and there's also there's also like technology for erm <pause dur="short"/> just like to block people's phones at gigs</u>
+<u n="206" who="S0666">so they can't take photos?</u>
+<u n="207" who="S0493" trans="overlap">yeah yeah</u>
+<u n="208" who="S0666">and take the music</u>
+<u n="209" who="S0492">I don't think they should do it in terms of not recording the music because it's the copyright of the artist I think they should just do it cos it's just really annoying</u>
+<u n="210" who="S0493">yeah they shouldn't do it and they advise <trunc>peo</trunc> there's a bit campaign as well or like remember don't record and it's asking people not to put their phones up</u>
+<u n="211" who="S0492" trans="overlap">yeah</u>
+<u n="212" who="S0666">yeah</u>
+<u n="213" who="S0493" trans="overlap">with the with the like the flashing lights on record</u>
+<u n="214" who="S0666" trans="overlap">cos there was someone coming round in Dylan concern wasn't it?</u>
+<u n="215" who="S0605" trans="overlap">it was a big thing in the Dylan concert <pause dur="short"/> I I'd read it beforehand you know in concerts beforehand so I was looking out for it <pause dur="short"/> but you know there were big guys in you know bouncer suits going round and if somebody in the middle of a row did it they were you know well you pushing past then go into the middle of the row and</u>
+<u n="216" who="S0492">and how many people in the concert to control that?</u>
+<u n="217" who="S0605" trans="overlap">well that that was the thing it was er er it was I mean you know <pause dur="short"/> <anon type="name" nameType="m"/> did</u>
+<u n="218" who="S0492">oh right</u>
+<u n="219" who="S0605">and it was like it they they were obvious then they weren't nasty exactly but they were big guys and they were</u>
+<u n="220" who="S0492">yeah</u>
+<u n="221" who="S0605">in no uncertain terms saying no no you</u>
+<u n="222" who="S0492">the pantomime I went to at Christmas which was in like my local theatre I could see people cos we were like in the towards the back so I could see there was a couple of people recording it cos obviously it like it's shines a light and er at the interval erm <pause dur="short"/> one of the people from like the back deck like the lighting deck came down</u>
+<u n="223" who="S0666" trans="overlap">mm</u>
+<u n="224" who="S0492">and said like you really have to stop doing that <pause dur="short"/> like it's not allowed</u>
+<u n="225" who="S0666">mm</u>
+<u n="226" who="S0492">and I was like blimey that's quite strict and also thinking like that's the job of the the</u>
+<u n="227" who="S0666" trans="overlap">ushers that were there</u>
+<u n="228" who="S0492" trans="overlap">of the ushers that's the only thing they're there for</u>
+<u n="229" who="S0666">mm</u>
+<u n="230" who="S0492">if they're in the performance otherwise they could just go off and have a cup of tea cos otherwise they have to watch it like fifty times</u>
+<u n="231" who="S0666">yeah</u>
+<u n="232" who="S0492">and then halfway through the second half they put all <trunc>s</trunc> all the lights came up and this like obviously backstage crew came on all in black and was like this this production will not continue <pause dur="short"/> until</u>
+<u n="233" who="S0605" trans="overlap" whoConfidence="low">wow</u>
+<u n="234" who="S0492" trans="overlap">these people have stopped recording it's illegal we take it very seriously <vocal desc="laugh"/></u>
+<u n="235" who="S0666">mm</u>
+<u n="236" who="S0492">and everyone just was silent and then the entire audience just went oh with this poor girl stood there just going</u>
+<u n="237" who="S0605">oh yes we can</u>
+<u n="238" who="S0492">yeah and it was just so stupid and then at the end of the show <pause dur="short"/> they went up to the two people and stood over them and made them delete everything</u>
+<u n="239" who="S0666">oh wow</u>
+<u n="240" who="S0605">that's a</u>
+<u n="241" who="S0492" trans="overlap">it's like god it's just a local pantomime they were</u>
+<u n="242" who="S0605" trans="overlap">well one was</u>
+<u n="243" who="S0492" trans="overlap">they're not recording to sell it they're recording it</u>
+<u n="244" who="S0605" trans="overlap">well</u>
+<u n="245" who="S0492">cos their little Johnny is in the third row</u>
+<u n="246" who="S0605">well what was what was that for? they was it simply the fact that they were duplicating it or was it because it was shining a light?</u>
+<u n="247" who="S0492">oh no cos they were they thought they were duplicating it</u>
+<u n="248" who="S0605">okay</u>
+<u n="249" who="S0492">probably because they thought they were gonna go and sell it but I don't imagine in a million years</u>
+<u n="250" who="S0666" trans="overlap">no</u>
+<u n="251" who="S0492">they were doing that</u>
+<u n="252" who="S0605">cos there was a thing there was something last week in in some play in the west end someone was erm <pause dur="short"/> nothing to do with the show but he was checking his emails <pause dur="short"/> text in the live theatre show</u>
+<u n="253" who="S0492" trans="overlap">mm</u>
+<u n="254" who="S0605">and the actor I think it was a Shakespeare one of the Shakespearian the actor got out of character <pause dur="short"/> and stood in front of the guy and said stop doing this you know</u>
+<u n="255" who="S0493">good</u>
+<u n="256" who="S0492" trans="overlap">yeah</u>
+<u n="257" who="S0605">well yeah yeah</u>
+<u n="258" who="S0604" trans="overlap">well <pause dur="short"/> I almost had a fight with someone <pause dur="short"/> doing that and he was doing it in <anon type="name" nameType="m"/>'s sort of er er the one in London <pause dur="short"/> and then the guy was he <trunc>rea</trunc> it was the ten minutes of the performance and it was obviously building to this he was sort of really touching</u>
+<u n="259" who="S0666" trans="overlap">mm</u>
+<u n="260" who="S0604">sentimental denouement <pause dur="short"/> and he was just yeah just checking his his emails</u>
+<u n="261" who="S0666">mm</u>
+<u n="262" who="S0604">he had you know <unclear/> to do <pause dur="short"/> and he said are you that important you <trunc>s</trunc> you check your emails in a live theatre production and you you know what what can you possibly be checking for?</u>
+<u n="263" who="S0666">mm</u>
+<u n="264" who="S0605">but from a sort of erm <pause dur="short"/> a morals point of view let's just say the guy next to you read a book in the last ten minutes of <anon type="name" nameType="m"/></u>
+<u n="265" who="S0604">yeah I don't I don't care if he's not paying attention it's just it it's a</u>
+<u n="266" who="S0492">it's the lights</u>
+<u n="267" who="S0604" trans="overlap">screen in the <unclear>corner</unclear></u>
+<u n="268" who="S0605" trans="overlap">that's it</u>
+<u n="269" who="S0492">yeah</u>
+<u n="270" who="S0605" trans="overlap">you're right you you can't you can't tell him off for not paying attention</u>
+<u n="271" who="S0492">no</u>
+<u n="272" who="S0605">you know but you can if he's doing something that erm <pause dur="short"/> affects you and the people around you</u>
+<u n="273" who="S0492">but they did that in that in the first few weeks that Benedict Cumberbatch was Hamlet and he kept stopping</u>
+<u n="274" who="S0605" trans="overlap">oh that's right</u>
+<u n="275" who="S0492">the performance cos all he could see was just red lights</u>
+<u n="276" who="S0605">mm</u>
+<u n="277" who="S0492">of people just recording him</u>
+<u n="278" who="S0605">mm</u>
+<u n="279" who="S0604">although ironically you know there's the the bootleg <pause dur="short"/> industry is important right you know and it started with Dylan and then with you know we're grateful that these people bootlegged and that ultimately Dylan and his</u>
+<u n="280" who="S0605" trans="overlap">yeah</u>
+<u n="281" who="S0604" trans="overlap">label are are grateful for all that</u>
+<u n="282" who="S0605" trans="overlap">and some bands</u>
+<u n="283" who="S0604">and even <anon type="name" nameType="m"/> right I got an email from <anon type="name" nameType="m"/> the other day and he said oh did by any chance</u>
+<u n="284" who="S0605"><vocal desc="cough"/></u>
+<u n="285" who="S0604">did anybody bootleg my two thousand and twelve performance cos I've lost</u>
+<u n="286" who="S0605"><vocal desc="cough"/></u>
+<u n="287" who="S0604">lost my notes? and <unclear/></u>
+<u n="288" who="S0605" trans="overlap">yeah</u>
+<event desc="unintelligible"/>
+<u n="289" who="S0493">yeah</u>
+<u n="290" who="S0666">yeah</u>
+<u n="291" who="S0605">yeah</u>
+<u n="292" who="S0666">oh god</u>
+<u n="293" who="S0605">and some <vocal desc="cough"/> some bands like <unclear/> bands like remember Grateful Dead used to have a</u>
+<event desc="begin overlap"/>
+<u n="294" who="S0666" trans="overlap">are you gonna have a second <unclear/> then?</u>
+<u n="295" who="S0493">no I'm full</u>
+<event desc="end overlap"/>
+<u n="296" who="S0605">an area reserved for people in the old days with tripods and whatever they used to have an area at the front of the stage reserved for people to record their shows because they felt it was a <pause dur="short"/> you know they they were against the corporate Sony Records or whatever that did it and they wanted to encourage people to you know to distribute their show</u>
+<u n="297" who="S0493" trans="overlap">right</u>
+<u n="298" who="S0605">so they you know some bands will will will do it I I think with the Dylan thing I think it was <pause dur="short"/> it was the lights wasn't it? you know the</u>
+<u n="299" who="S0604">yeah but he's not even looking at the performance</u>
+<u n="300" who="S0493" trans="overlap"><vocal desc="laugh"/></u>
+<u n="301" who="S0604">you know</u>
+<u n="302" who="S0605">mm</u>
+<u n="303" who="S0604" trans="overlap">the it it's a very rare it's very rare you'll see footage of him live</u>
+<u n="304" who="S0605">no well no</u>
+<u n="305" who="S0604" trans="overlap">that it's not you know <unclear/></u>
+<u n="306" who="S0605" trans="overlap">er well exactly why I guess because er</u>
+<u n="307" who="S0492" trans="overlap">they're better off just getting one person to record it <pause dur="short"/> and saying to everybody who has a ticket for that gig <pause dur="short"/> like just don't bother you can download this video and these</u>
+<u n="308" who="S0604" trans="overlap">mm yeah</u>
+<u n="309" who="S0492">photos and they're yours and they're free just don't</u>
+<u n="310" who="S0605">yeah</u>
+<u n="311" who="S0492">like what are you filming it for?</u>
+<u n="312" who="S0605">but you said that thing about the er the local pantomime and they they stood on the people and said to delete from a legal point of view that's gotta be very dodgy you know someone's own property</u>
+<u n="313" who="S0666" trans="overlap">it's probably on the tickets</u>
+<u n="314" who="S0492" trans="overlap">yeah</u>
+<u n="315" who="S0666">probably on the tickets</u>
+<u n="316" who="S0492" trans="overlap">it's probably is on the ticket saying</u>
+<u n="317" who="S0605">well <unclear/></u>
+<u n="318" who="S0604" trans="overlap">yeah and you like you can't record films right you know you know that's illegal to</u>
+<u n="319" who="S0605" trans="overlap">yeah but but I'm saying well you <trunc>c</trunc> saying there's no so you can't record it but let's say you've done it <pause dur="short"/> what would you say if some big guy stood in front of you <trunc>l</trunc>looking at your</u>
+<u n="320" who="S0493">they can throw you out but they can't make you</u>
+<u n="321" who="S0605" trans="overlap"><unclear/></u>
+<u n="322" who="S0493">do something to your own camera</u>
+<u n="323" who="S0605" trans="overlap">that's that's that's right that's right</u>
+<u n="324" who="S0492">mm</u>
+<u n="325" who="S0605">although obviously they did</u>
+<u n="326" who="S0492">yeah but it was the end of the show so they were <pause dur="short"/> really if they'd had any kind of like <unclear/> about them they would have just said oh</u>
+<u n="327" who="S0605" trans="overlap">yeah</u>
+<u n="328" who="S0492">oh I'm going now anyway <pause dur="short"/> what are you gonna do about it?</u>
+<u n="329" who="S0605" trans="overlap">and again would they have stopped them leaving you know? it's a difficult</u>
+<u n="330" who="S0492" trans="overlap">it was just it was just really unnecessary</u>
+<u n="331" who="S0493" trans="overlap">they can't stop you leaving though</u>
+<u n="332" who="S0666" trans="overlap">no confiscate your phone</u>
+<u n="333" who="S0493">they can't touch your phone can't touch you and they can't stop you leaving <pause dur="long"/></u>
+<u n="334" who="S0492">it was just a very dramatic end to Beauty and the Beast</u>
+<u n="335" who="S0666">it was gosh</u>
+<u n="336" who="S0493">yeah but you will think twice about going there again</u>
+<u n="337" who="S0492">yeah</u>
+<u n="338" who="S0493">like if you treat people like <pause dur="short"/> criminals you're not likely to go back there <pause dur="short"/> it serves them right and people will go to <unclear>not look</unclear> you'd rather go to <unclear>not there</unclear> next time I imagine</u>
+<u n="339" who="S0492">yeah</u>
+<u n="340" who="S0493"><unclear/></u>
+<u n="341" who="S0492" trans="overlap">it was just a bit it was just a bit daft it made them look silly didn't make them look like we were the ones in the wrong it made them look like they were just like party poopers really</u>
+<u n="342" who="S0605">they did it at a football game didn't they? at a</u>
+<u n="343" who="S0493" trans="overlap">have they?</u>
+<u n="344" who="S0605" trans="overlap">couple of football games yeah they've or is that Arsenal? they've er they was you know people blatantly filming a penalty kick or a free kick or something and</u>
+<u n="345" who="S0493" trans="overlap">there's thousands of them do it</u>
+<u n="346" who="S0605">yeah but you know</u>
+<u n="347" who="S0666" trans="overlap"><unclear/></u>
+<u n="348" who="S0605" trans="overlap">they the they knew and and because they they were season ticket holders and I think they had a letter</u>
+<u n="349" who="S0492">for for what reason?</u>
+<u n="350" who="S0604">cos it</u>
+<u n="351" who="S0605" trans="overlap">copyright</u>
+<u n="352" who="S0604">cos cos Sky</u>
+<u n="353" who="S0605" trans="overlap">copyright</u>
+<u n="354" who="S0604">Sky Sports own that right?</u>
+<u n="355" who="S0492" trans="overlap">jesus</u>
+<u n="356" who="S0666">mm <pause dur="long"/></u>
+<u n="357" who="S0492">oh</u>
+<u n="358" who="S0493" whoConfidence="low">it's a modern world</u>
+<u n="359" who="S0666"><anon type="name" nameType="f"/> go and sit down and put your feet up</u>
+<u n="360" who="S0492">a cheeky snooze</u>
+<u n="361" who="S0666">yeah a cheeky snooze</u>
+<u n="362" who="S0493" whoConfidence="low">gonna have a bit of carrot cake?</u>
+<u n="363" who="S0492" trans="overlap">no I'm just have a <unclear/> sit down</u>
+<u n="364" who="S0666" trans="overlap">oh there's the carrot cake you can have or</u>
+<u n="365" who="S0492">a cream egg</u>
+<u n="366" who="S0666">a cream egg cream for the for the chef</u>
+<u n="367" who="S0604"><unclear>what have you done?</unclear></u>
+<u n="368" who="S0666">oh the there's</u>
+<u n="369" who="S0492" trans="overlap">oh there's a little bit left over</u>
+<u n="370" who="S0666" trans="overlap">you just</u>
+<u n="371" who="S0492">so if for the two boys</u>
+<event desc="unintelligible"/>
+<u n="372" who="S0492">or even if I want a little</u>
+<u n="373" who="S0604">they can have these</u>
+<u n="374" who="S0493">er leave this mum and then I'll have a bit</u>
+<u n="375" who="S0666">oh okay <pause dur="long"/></u>
+	
+	</body>
+</text>

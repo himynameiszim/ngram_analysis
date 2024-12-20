@@ -1,0 +1,758 @@
+<text id="SMVW">
+	<header>
+		<rec_length>0:24:34</rec_length>
+		<rec_date>2015-10-19</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q4</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0390 S0391 S0392 S0393 S0398</list_speakers>
+		<rec_loc>ANON’s home</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Retail, clearing out, branding, Home, moving house, food, plans, education, technology, planning events, holidays</topics>
+		<activity>Jonathan’s Birthday</activity>
+		<conv_type>Discussing, explaining, inquiring, complaining, advising, requesting, inviting, announcing, anecdote telling, making arrangements, apologizing</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T15</transcriber>
+		<speakerInfo>
+			<speaker id="S0390">
+				<exactage>76</exactage>
+				<age1994>60plus</age1994>
+				<agerange>70_79</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Kendal</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>British</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern RP</dialect_rep>
+				<hab_city>Near Thirsk</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>12 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Retired</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0391">
+				<exactage>55</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Darlington</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>British</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>County Durham</dialect_rep>
+				<hab_city>Near Thirsk</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0392">
+				<exactage>15</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Newcastle-upon-time</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern/Yorkshire</dialect_rep>
+				<hab_city>Near Thirsk</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Full-time education</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0393">
+				<exactage>47</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Kendal</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern/RP</dialect_rep>
+				<hab_city>Bagby near Thirsk</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Writer</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0398">
+				<exactage>87</exactage>
+				<age1994>60plus</age1994>
+				<agerange>80_89</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Darlington</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern (Co Durham/Yorks)</dialect_rep>
+				<hab_city>Bagby near Thirsk</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>18</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Retired</occupation>
+				<socgrade>E</socgrade>
+				<nssec>8</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0390">it's <trunc>r</trunc> I've never seen it before <pause dur="short"/> it used to be Sainsbury's <pause dur="short"/> home And Ware or whatever</u>
+<u n="2" who="S0391" trans="overlap">oh no that's not very good</u>
+<u n="3" who="S0390">but we had a look in there</u>
+<u n="4" who="S0391">no</u>
+<u n="5" who="S0393">where's this?</u>
+<u n="6" who="S0391" whoConfidence="low">where <pause dur="short"/> <anon type="place"/> was it <anon type="place"/> or something?</u>
+<u n="7" who="S0390" trans="overlap">no there was no chairs or anything</u>
+<u n="8" who="S0392">oh B and M B and M Home</u>
+<u n="9" who="S0390">yes that's right</u>
+<u n="10" who="S0392" trans="overlap">Value Family Value</u>
+<u n="11" who="S0391" trans="overlap">yeah it's not very good</u>
+<u n="12" who="S0393">in <anon type="place"/>?</u>
+<u n="13" who="S0391">yeah</u>
+<u n="14" who="S0392">it is like an American supermarket isn't it?</u>
+<u n="15" who="S0390" trans="overlap">yeah</u>
+<u n="16" who="S0391" trans="overlap">but if you keep going and go to <anon type="place"/> <pause dur="short"/> where that Italian café is</u>
+<u n="17" who="S0390" trans="overlap">oh yes yes</u>
+<u n="18" who="S0391">they might have some but <pause dur="short"/> they've got stuff in <anon type="place"/> as well <anon type="place"/></u>
+<u n="19" who="S0390">I'm gonna have a look in <anon type="place"/></u>
+<u n="20" who="S0391">I bought <pause dur="short"/> er <pause dur="short"/> a duvet <pause dur="short"/> was it a duvet or pillows?</u>
+<u n="21" who="S0392">might've been pillow covers</u>
+<u n="22" who="S0391" trans="overlap">I think I've had both I've had a <trunc>s</trunc> duvet and pillows from <anon type="place"/> in <anon type="place"/> you know upstairs? <pause dur="short"/> in the bedroom</u>
+<u n="23" who="S0390">yes</u>
+<u n="24" who="S0391">bit <pause dur="short"/> and and it says made in England or made in the northeast of England <pause dur="short"/> and when you open them</u>
+<u n="25" who="S0393" trans="overlap" whoConfidence="low">it is</u>
+<u n="26" who="S0392">not any more</u>
+<u n="27" who="S0391" trans="overlap">they're really really good price</u>
+<u n="28" who="S0393" trans="overlap">mm</u>
+<u n="29" who="S0391">and when you open them they're that really good make</u>
+<u n="30" who="S0390">mm</u>
+<u n="31" who="S0391">it's is it Slumberland or something else?</u>
+<u n="32" who="S0390" trans="overlap">oh Slumberland</u>
+<u n="33" who="S0393" trans="overlap">Slumberland yeah</u>
+<u n="34" who="S0391">whichever one's made in England in the northeast</u>
+<u n="35" who="S0390" trans="overlap">mm <pause dur="short"/> yeah</u>
+<u n="36" who="S0391">it's that make and they're cheaper</u>
+<u n="37" who="S0392" trans="overlap"><anon type="place"/></u>
+<u n="38" who="S0391">they</u>
+<u n="39" who="S0393" trans="overlap">with the <trunc>hi</trunc>hippopotamuses in it or?</u>
+<u n="40" who="S0391" trans="overlap">they're cheaper than erm</u>
+<u n="41" who="S0392" trans="overlap">no that's Silent Night</u>
+<u n="42" who="S0391">Argos and they're cheaper than Wilkinson's</u>
+<u n="43" who="S0390">never</u>
+<u n="44" who="S0391">and they're just in <anon type="place"/> upstairs in <anon type="place"/></u>
+<u n="45" who="S0392" trans="overlap">in the <unclear><anon type="place"/></unclear></u>
+<u n="46" who="S0391">if you have any pillows or duvets</u>
+<u n="47" who="S0390">I've given so many sort of</u>
+<u n="48" who="S0390" trans="overlap">it was</u>
+<u n="49" who="S0391">er duvets away <pause dur="short"/> I have given so many blankets away <pause dur="short"/> I've got my second car load ready to take up <pause dur="short"/> and when I say car load I mean it was <pause dur="short"/> <unclear>right up</unclear> <pause dur="short"/> I couldn't see <pause dur="short"/> I had to look at use er wing mirrors <pause dur="short"/> and the <trunc>f</trunc> that was my first love <pause dur="short"/> ah it was so brilliant I handed it over to <anon type="name" nameType="f"/> <pause dur="short"/> and</u>
+<u n="50" who="S0398" trans="overlap">er</u>
+<u n="51" who="S0391" trans="overlap">mm</u>
+<u n="52" who="S0398">oh yeah <pause dur="short"/> I was gonna say where did you take it <anon type="name" nameType="f"/>?</u>
+<u n="53" who="S0390" trans="overlap">I sent it to <anon type="name" nameType="f"/></u>
+<u n="54" who="S0398">oh right</u>
+<u n="55" who="S0390" trans="overlap">and she's not there at the moment but as soon as she said I'm taking my second load up</u>
+<u n="56" who="S0393">where is she?</u>
+<u n="57" who="S0390">I don't know she wasn't at mass <pause dur="short"/> so I was gonna er say to her at mass you know</u>
+<u n="58" who="S0393" trans="overlap">right</u>
+<u n="59" who="S0390">when do you want? but oh <pause dur="short"/> you're right I mean I must only have <pause dur="short"/> a little bit of stuff up now <pause dur="short"/> in the loft</u>
+<u n="60" who="S0391" trans="overlap">well that's good</u>
+<u n="61" who="S0390" trans="overlap">not a lot <pause dur="short"/> and I'm gonna start bringing stuff back from the lock-up which was a big mistake <pause dur="short"/> you know? stupid but <pause dur="short"/> you know you learn by your mistakes</u>
+<u n="62" who="S0393">that's right</u>
+<u n="63" who="S0390">I might as well you know the <trunc>l</trunc> the little loft that's easy <pause dur="short"/> over</u>
+<u n="64" who="S0393">yeah <pause dur="short"/> yeah I know the one yeah</u>
+<u n="65" who="S0390" trans="overlap">I might as well put it in there <pause dur="short"/> as <unclear>paper I</unclear> lock-up</u>
+<u n="66" who="S0393">and then when you're ready for me and <anon type="name" nameType="m"/> to get the rest of the stuff down you get er</u>
+<u n="67" who="S0390">there there's not that much I don't think <anon type="name" nameType="m"/></u>
+<u n="68" who="S0393" trans="overlap">get a skip <pause dur="short"/> and just do it all in one</u>
+<u n="69" who="S0390" trans="overlap">but is there enough for a skip?</u>
+<u n="70" who="S0393">well I think <pause dur="short"/> I don't know I think so</u>
+<u n="71" who="S0392" trans="overlap">yes isn't there?</u>
+<u n="72" who="S0393">up top and oh everything else that has to go?</u>
+<u n="73" who="S0390">well I have to <trunc>s</trunc> <pause dur="short"/> I'm not gonna pay for a skip if there's not enough stuff</u>
+<u n="74" who="S0393">right</u>
+<u n="75" who="S0390">so</u>
+<u n="76" who="S0393">cos <trunc>w</trunc> it'd be great if we could just take the stuff out the loft in one go</u>
+<u n="77" who="S0390">yes it would</u>
+<u n="78" who="S0393">cos going back up there is a bit</u>
+<u n="79" who="S0390">actually</u>
+<u n="80" who="S0391">what's in the sheds?</u>
+<u n="81" who="S0393" trans="overlap">was <anon type="name" nameType="m"/> quite good at going up?</u>
+<u n="82" who="S0390">yes</u>
+<u n="83" who="S0393">yeah</u>
+<u n="84" who="S0391">what's in the sheds?</u>
+<u n="85" who="S0390">oh don't mention sheds? they're leaking like mad and it stinks it's horrible <pause dur="short"/> <anon type="name" nameType="m"/> said he's gonna put some <trunc>pla</trunc>plastic stuff over but you know <anon type="name" nameType="m"/> would put another thing on the on the sheds wouldn't you? a roof a roofing</u>
+<u n="86" who="S0393" trans="overlap">just <pause dur="short"/> is there much in there?</u>
+<u n="87" who="S0391" trans="overlap">oh yeah</u>
+<u n="88" who="S0393">is there much in there?</u>
+<u n="89" who="S0390">yeah a a a fair bit but <pause dur="short"/> you know it's just <pause dur="short"/> oh <anon type="name" nameType="m"/></u>
+<u n="90" who="S0391" trans="overlap">do you just want some roofing felt put on?</u>
+<u n="91" who="S0390">yeah</u>
+<u n="92" who="S0391">oh just get <anon type="name" nameType="m"/> to do that</u>
+<u n="93" who="S0390" trans="overlap">cos I'm thinking if I don't <pause dur="short"/> if these people don't want the house <pause dur="short"/> and I'm not sure they seem to quite like it <pause dur="short"/> ah but there was a child there and it screamed from the moment they came in</u>
+<u n="94" who="S0393">what day was that?</u>
+<u n="95" who="S0390">Friday <pause dur="short"/> until they went out</u>
+<u n="96" who="S0393" trans="overlap">has <trunc>sh</trunc> <pause dur="short"/> has she rung back?</u>
+<u n="97" who="S0390">no I haven't been in today but <pause dur="short"/> <anon type="name" nameType="f"/> rang me up on Saturday and said they hadn't heard <pause dur="short"/> now if they don't want it I'm <trunc>pu</trunc> I'm taking it off the market till spring I think</u>
+<u n="98" who="S0393">yeah</u>
+<u n="99" who="S0390"><trunc>be</trunc> you know</u>
+<u n="100" who="S0398">yeah</u>
+<u n="101" who="S0390">that that wouldn't</u>
+<u n="102" who="S0393">yeah</u>
+<u n="103" who="S0390">but <pause dur="short"/> as <trunc>w</trunc> I think I want <anon type="name" nameType="m"/> is it <anon type="name" nameType="m"/> who put a shower in?</u>
+<u n="104" who="S0391">no those are the <trunc>f</trunc> plumbers numbers I gave you do showers</u>
+<u n="105" who="S0398" trans="overlap">no it's not no</u>
+<u n="106" who="S0390">right <pause dur="short"/> I think I've got those <pause dur="short"/> they haven't as yet I think</u>
+<u n="107" who="S0393" trans="overlap">it's quite an easy job isn't it putting a shower in?</u>
+<u n="108" who="S0391">they did our whole bathroom in a day</u>
+<u n="109" who="S0393">yeah</u>
+<u n="110" who="S0390">I just want a shower <pause dur="short"/> you know for myself I can't get out</u>
+<u n="111" who="S0391" trans="overlap">but just just get a mixer tap</u>
+<u n="112" who="S0393" trans="overlap">the timing takes a while <pause dur="short"/> the timing takes a while though doesn't it?</u>
+<u n="113" who="S0391" trans="overlap">no good <pause dur="short"/> should never get a tile just a mixer tap</u>
+<u n="114" who="S0393">you have to have a tile if you've got a bathroom</u>
+<u n="115" who="S0391" trans="overlap">oh is it not tiled?</u>
+<u n="116" who="S0390">I don't think so part of it's tiled but</u>
+<u n="117" who="S0391">cos you only need part of it tiled</u>
+<u n="118" who="S0393" trans="overlap">oh that might be enough <pause dur="short"/> for a mixer tap</u>
+<u n="119" who="S0390" trans="overlap">look I'll get them to come and give me a price</u>
+<u n="120" who="S0391">just that if you use the ones we use you just say I want</u>
+<u n="121" who="S0390" trans="overlap">I'm going to</u>
+<u n="122" who="S0391">just say I want the cheapest way <pause dur="short"/> you can get me er a mixer tap shower <pause dur="short"/> well get a mixer tap</u>
+<u n="123" who="S0390" trans="overlap">are you alright <anon type="name" nameType="f"/>?</u>
+<u n="124" who="S0398">yes I'm going now</u>
+<u n="125" who="S0391">I'll get you down</u>
+<u n="126" who="S0390">I'll get me <trunc>fa</trunc> I'll move the car</u>
+<u n="127" who="S0391" trans="overlap">a <trunc>m</trunc> a mixer a mixer tap shower</u>
+<u n="128" who="S0393" trans="overlap">okay</u>
+<u n="129" who="S0390">you can't get out <anon type="name" nameType="m"/> you'll have to get the car out</u>
+<u n="130" who="S0391" trans="overlap">which?</u>
+<u n="131" who="S0393" trans="overlap">okay well thanks for coming folks</u>
+<u n="132" who="S0390">oh it's a pleasure <vocal desc="laugh"/> <unclear>for</unclear></u>
+<u n="133" who="S0391" trans="overlap">but</u>
+<u n="134" who="S0393" trans="overlap">much appreciated</u>
+<u n="135" who="S0391">get erm <pause dur="short"/> get a don't get a <pause dur="short"/> an expensive <trunc>sh</trunc>shower just get one like ours <pause dur="short"/> <trunc>o</trunc> isn't ours good <anon type="name" nameType="m"/>?</u>
+<u n="136" who="S0393">it's brilliant <pause dur="short"/> it's superb</u>
+<u n="137" who="S0390">I just thought <unclear>I'd get</unclear></u>
+<u n="138" who="S0391" trans="overlap">you you you <trunc>j</trunc> honestly it's all you need</u>
+<u n="139" who="S0393">shall I do put the rice on <anon type="name" nameType="f"/>?</u>
+<u n="140" who="S0391">oh I'll do all that <anon type="name" nameType="m"/> just leave it <pause dur="short"/> just do erm <pause dur="short"/> just <trunc>u</trunc> just ask for a mixer tap one</u>
+<u n="141" who="S0390">right it's alright <pause dur="short"/> I'm not taking I'm trying to take this image</u>
+<u n="142" who="S0391" trans="overlap">no <pause dur="short"/> he's erm <pause dur="short"/> do you have to be back for six mum? for your tablets</u>
+<u n="143" who="S0390">no I've had me tablets I've got got to get back for me meal <pause dur="short"/> now</u>
+<u n="144" who="S0391" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="145" who="S0390" trans="overlap">running a bit late <vocal desc="laugh"/></u>
+<u n="146" who="S0391">she's on strict timing when she can eat <pause dur="short"/> <unclear>now then</unclear></u>
+<u n="147" who="S0390">you will be you will be yes</u>
+<u n="148" who="S0393" trans="overlap"><unclear>yes</unclear> <pause dur="short"/> just shut the back door</u>
+<u n="149" who="S0391">is it six o'clock <unclear><anon type="name" nameType="f"/></unclear>?</u>
+<u n="150" who="S0392">are you going now as well now <anon type="name" nameType="f"/> or are you staying a bit longer?</u>
+<u n="151" who="S0390">well I think your dad's wanting to get rid of us actually so</u>
+<u n="152" who="S0392" trans="overlap">no <vocal desc="laugh"/> no you're very welcome to stay a bit longer if you want make this more erm <pause dur="short"/> <trunc>m</trunc>more bearable for me if you want I don't know <unclear>or something</unclear></u>
+<u n="153" who="S0390" trans="overlap">I might <trunc>j</trunc>just shaking you up</u>
+<u n="154" who="S0392"><vocal desc="laugh"/></u>
+<u n="155" who="S0390">stay for a minute <pause dur="short"/> but I have to let your mum out <pause dur="short"/> so she can</u>
+<u n="156" who="S0392">yeah</u>
+<u n="157" who="S0390">take</u>
+<u n="158" who="S0393">right</u>
+<u n="159" who="S0390">grandma</u>
+<u n="160" who="S0393">I'll see you out <anon type="name" nameType="f"/> have you got your bag?</u>
+<u n="161" who="S0390">no I'm not going I've got to come back and talk to our <anon type="name" nameType="m"/> <pause dur="short"/> tough</u>
+<u n="162" who="S0393">I think we're having tea now are we? are we having tea <anon type="name" nameType="f"/>? are you er?</u>
+<u n="163" who="S0390">they look as though I'm being thrown out <anon type="name" nameType="m"/></u>
+<u n="164" who="S0392">oh okay then I'll see you soon</u>
+<u n="165" who="S0390" trans="overlap">I'll see you again sweetheart</u>
+<u n="166" who="S0392">ta-ra</u>
+<u n="167" who="S0393">oh no what er well just <trunc>j</trunc> what have you got something to? <trunc>w</trunc><trunc>w</trunc>what do you mean?</u>
+<u n="168" who="S0398" trans="overlap">I'll take these our <anon type="name" nameType="f"/> is gonna carry them through <trunc>t</trunc>thank you</u>
+<u n="169" who="S0390" whoConfidence="low">no it's alright I'll just <unclear>have it in this hand</unclear></u>
+<u n="170" who="S0398" whoConfidence="low">cheers see you</u>
+<u n="171" who="S0392" trans="overlap">bye bye <anon type="name" nameType="f"/> as well see you soon</u>
+<u n="172" who="S0398">bye I didn't go yet <vocal desc="laugh"/></u>
+<u n="173" who="S0393">just he's got a bit of revision to do</u>
+<u n="174" who="S0392" trans="overlap"><vocal desc="laugh"/></u>
+<u n="175" who="S0398">I'm on my way</u>
+<u n="176" who="S0393"><anon type="name" nameType="m"/> come out and follow <unclear>auntie <anon type="name" nameType="f"/></unclear> she'll follow you as you come</u>
+<u n="177" who="S0392" trans="overlap">oh okay</u>
+<u n="178" who="S0390">no no oh no we'll just <pause dur="short"/> have a look at his revision that's all</u>
+<u n="179" who="S0392">so we have our mocks in January</u>
+<u n="180" who="S0390">yes</u>
+<u n="181" who="S0392">and this is the erm <pause dur="short"/> a little preparation one just to give you an idea <pause dur="short"/> but erm</u>
+<u n="182" who="S0390">timing wise</u>
+<u n="183" who="S0392" trans="overlap"><trunc>y</trunc> <pause dur="short"/> yeah you can't get the past papers online because it's the ones that</u>
+<u n="184" who="S0390" trans="overlap">yes</u>
+<u n="185" who="S0392">they've just done this summer</u>
+<u n="186" who="S0390">yes</u>
+<u n="187" who="S0392">so <trunc>th</trunc> you can't go and find the answers on the internet which you can for all the other topics <pause dur="short"/> and it's</u>
+<u n="188" who="S0390" trans="overlap">just hang on <pause dur="short"/> <trunc>h</trunc> <pause dur="short"/> you <vocal desc="sigh"/> <pause dur="short"/> can you get the papers the past papers?</u>
+<u n="189" who="S0392">er you can do but they haven't put these ones up yet so only teachers with a special login can get access to them access to them so it's <trunc>y</trunc> yeah so we're okay</u>
+<u n="190" who="S0390" trans="overlap">okay yeah yeah yeah I understand yes</u>
+<u n="191" who="S0392">we can't go find out the answers <pause dur="short"/> but it's biology tomorrow <pause dur="short"/> thursday it's physics and Friday it's chemistry so we've got them all covered in</u>
+<u n="192" who="S0390" trans="overlap">hey now that's hard</u>
+<u n="193" who="S0392">it's not easy</u>
+<u n="194" who="S0390" trans="overlap">that's really hard <pause dur="short"/> so <pause dur="short"/> how long's each paper did you say?</u>
+<u n="195" who="S0392">well in the real thing it'll be an hour <pause dur="short"/> each and you get three in each science so there's one two three</u>
+<u n="196" who="S0390" trans="overlap"><unclear>good</unclear></u>
+<u n="197" who="S0392">in biology and each <unclear>from that somehow</unclear> <pause dur="short"/> I don't know what they're gonna do for this one it might they might just be doing half an hour because it's not <pause dur="short"/> a full unit they were doing it's sort of a bit of two <pause dur="short"/> and in chemistry it overlaps over some papers so there's some bits of paper two involved so <trunc>i</trunc> there won't be an exact paper but it'll just be <pause dur="short"/> some questions and it'll equate to about <pause dur="short"/> that anyway yeah</u>
+<u n="198" who="S0390">are you telling me that you have <trunc>fil</trunc>finished the syllabus?</u>
+<u n="199" who="S0392">not yet no we've still got another <trunc>u</trunc> we've still got unit three to do after our mocks</u>
+<u n="200" who="S0390">and what does unit three mean?</u>
+<u n="201" who="S0392">unit three is cells organs and populations enzymes and genetics</u>
+<u n="202" who="S0390">I don't know <pause dur="short"/> populations</u>
+<u n="203" who="S0392">that's like population so like a population of daisies or a population of animals and <unclear>all</unclear> so yeah <vocal desc="laugh"/></u>
+<u n="204" who="S0390" trans="overlap">no <pause dur="short"/> I thought it was going to be a human population</u>
+<u n="205" who="S0392">no that's geography <pause dur="short"/> oh sorry that's the unit two I've read out there</u>
+<u n="206" who="S0390" trans="overlap">oh</u>
+<u n="207" who="S0392">unit three is life processes and humans and their environment <pause dur="short"/> which a lot especially humans in their environment is a lot shorter so that would be quite quick <unclear>for me</unclear></u>
+<u n="208" who="S0390">is that where? <pause dur="short"/> erm <trunc>h</trunc> is it demographics?</u>
+<u n="209" who="S0392">er no that's geography again it's more like erm <pause dur="short"/> humans deforestation and food production things</u>
+<u n="210" who="S0390" trans="overlap">right yes</u>
+<u n="211" who="S0392">so it's quite current anyway yeah</u>
+<u n="212" who="S0390" trans="overlap">mm mm</u>
+<u n="213" who="S0392">things I've already done unit unit one is human biology environment and evolution <pause dur="short"/> unit two is cells organs populations enzymes and genetics <pause dur="short"/> unit three is life processes and humans and their environment so there's <pause dur="short"/> loads of stuff and they expect you to know it all all those <pause dur="short"/> hundred pages</u>
+<u n="214" who="S0390">do you select? do you look at past papers? and see what's come up? and try to go</u>
+<u n="215" who="S0392" trans="overlap">yeah <pause dur="short"/> a lot of</u>
+<u n="216" who="S0390" trans="overlap">your granddad used to do that all the time</u>
+<u n="217" who="S0392" trans="overlap">yeah a lot of the time the questions <pause dur="short"/> come back round again as well as I said there's like <pause dur="short"/> a six mark question on each paper <pause dur="short"/> and that's you've got to be a bit more thinking in that <pause dur="short"/> as opposed to those that are just a memory test</u>
+<u n="218" who="S0390" trans="overlap">okay <pause dur="short"/> is it like an essay you have to do for that or?</u>
+<u n="219" who="S0392">well they're trying to make it more essay based so people can't say that oh it's science it's all memory do you know what I mean? they're trying to make it more <pause dur="short"/> it isn't <pause dur="short"/> but they're trying to make it more like that <pause dur="short"/> by the looks of it</u>
+<u n="220" who="S0390">well that used to be the gap between O levels and A levels <pause dur="short"/> you know your O levels <pause dur="short"/> at</u>
+<u n="221" who="S0392">yeah</u>
+<u n="222" who="S0390" trans="overlap">my time were erm memory based</u>
+<u n="223" who="S0392">yeah</u>
+<u n="224" who="S0390">and then you got a shock when you're expected to think</u>
+<u n="225" who="S0392" trans="overlap">yeah <pause dur="short"/> a levels are a combination of both</u>
+<u n="226" who="S0390">yeah yeah uhu</u>
+<u n="227" who="S0392" trans="overlap">that's in <trunc>scien</trunc> A but the other subjects it tends to be a bit more even really there's a lot of thinking involved <pause dur="short"/> yeah</u>
+<u n="228" who="S0390">right is <trunc>i</trunc> when I look at your textbook</u>
+<u n="229" who="S0392">yeah?</u>
+<u n="230" who="S0390">erm it looks inviting</u>
+<u n="231" who="S0392">it does yeah <vocal desc="laugh"/></u>
+<u n="232" who="S0390">compared to what we had</u>
+<u n="233" who="S0392" trans="overlap">it has to be really cos you spend so much <trunc>stu</trunc>staring into it do you know what I mean it has to be <pause dur="short"/> they underline words I think that's a bit random really cos there just don't there seems to be no order to which words they underline but there's plenty of colours diagrams and things and there's a few jokes at the bottom as well it's the ones that every school uses really <pause dur="short"/> I think that</u>
+<u n="234" who="S0390" trans="overlap">yes I've seen I've seen them</u>
+<u n="235" who="S0392" trans="overlap">yeah</u>
+<u n="236" who="S0390"><trunc>i</trunc> you know for <trunc>a</trunc>all subjects</u>
+<u n="237" who="S0392">yes they do all subjects all exam boards</u>
+<u n="238" who="S0390">yeah</u>
+<u n="239" who="S0392">CGP</u>
+<u n="240" who="S0390" trans="overlap">our own exam <pause dur="short"/> you know your <pause dur="short"/> your syllabus <pause dur="short"/> is covered in there <pause dur="short"/> but in the</u>
+<u n="241" who="S0392" trans="overlap">yeah because this is the AQA edition <pause dur="short"/> exam board AQA you can buy one for Edexcel OCR <trunc>whiche</trunc> whichever board you do <pause dur="short"/> our school has sort of like a thing for AQA most of them are on that exam board <pause dur="short"/> so we're lucky so</u>
+<u n="242" who="S0390">so you're lucky <pause dur="short"/> yeah yeah</u>
+<u n="243" who="S0392" trans="overlap">yeah <pause dur="short"/> there's one or two that aren't but other schools and that use other ones which is why there's a different edition <pause dur="short"/> cos it's different content in it with <trunc>in</trunc> different ways of</u>
+<u n="244" who="S0390">but will that <trunc>ha</trunc> you you said A for A to A? no?</u>
+<u n="245" who="S0392" trans="overlap">AQA</u>
+<u n="246" who="S0390">is that your exam board?</u>
+<u n="247" who="S0392">yeah Assessment and Qualifications Association</u>
+<u n="248" who="S0390">okay <pause dur="short"/> so <pause dur="short"/> is it not like you used to do <pause dur="short"/> one biology book covered all syllabuses</u>
+<u n="249" who="S0392">er you can get one of those and it shows and it points out which bits are but the third for if you're in a rush and you're trying to find out and you're looking for that it's a lot easier if <pause dur="short"/> you can just have one book and then you know <pause dur="short"/> that's <unclear>any</unclear></u>
+<u n="250" who="S0390" trans="overlap">I would think it would I would prefer that</u>
+<u n="251" who="S0392">yeah</u>
+<u n="252" who="S0390">because sometimes <pause dur="short"/> if it's got all the syllabuses on you see something and you think I don't know that</u>
+<u n="253" who="S0392">yeah</u>
+<u n="254" who="S0390">and you might get a sudden fright think I haven't done it</u>
+<u n="255" who="S0392" trans="overlap">mm <pause dur="short"/> yeah <pause dur="short"/> exactly yeah</u>
+<u n="256" who="S0390" trans="overlap">oh no <pause dur="short"/> so you're having <pause dur="short"/> biology tomorrow</u>
+<u n="257" who="S0392">yeah and then Thursday and Friday's physics and chemistry yeah</u>
+<u n="258" who="S0390" trans="overlap">chemistry and physics? <pause dur="short"/> wow <pause dur="short"/> erm do you get time off to do <trunc>a</trunc><trunc>a</trunc> is it study leave?</u>
+<u n="259" who="S0392" trans="overlap">no it's in the lesson no <pause dur="short"/> we don't get study leave no</u>
+<u n="260" who="S0390">but will you?</u>
+<u n="261" who="S0392" trans="overlap">well this these are just sort of like <trunc>s</trunc> tests in school <pause dur="short"/> they're not official run by the school they're run by the department</u>
+<u n="262" who="S0390">ah yes</u>
+<u n="263" who="S0392" trans="overlap">for these <pause dur="short"/> the actual mocks are run by the school</u>
+<u n="264" who="S0390">yes</u>
+<u n="265" who="S0392">but still you don't get it then <pause dur="short"/> these are sort of like assessments that you would do in year seven eight nine ten and everything <pause dur="short"/> it's it's all of that <pause dur="short"/> of that</u>
+<u n="266" who="S0390">yeah ah</u>
+<u n="267" who="S0392" trans="overlap">type</u>
+<u n="268" who="S0390">so you're</u>
+<u n="269" who="S0392">yes</u>
+<u n="270" who="S0390">quite comfortable with them?</u>
+<u n="271" who="S0392">yeah I mean there's not a huge amount riding on them <pause dur="short"/> the worst they do if you do really badly is they'll look at your previous record and if it is questionable <pause dur="short"/> suggest to your parents or whoever <pause dur="short"/> that they think you should maybe drop down and not do triple science which is where you do a separate GCSE in all three</u>
+<u n="272" who="S0390" trans="overlap">yes <pause dur="short"/> yeah yeah mm</u>
+<u n="273" who="S0392" trans="overlap">instead <pause dur="short"/> just do core science which is <pause dur="short"/> cos what it is is each one has got three units as we say unit one unit two unit three</u>
+<u n="274" who="S0390" trans="overlap">yes <pause dur="short"/> so there's nine units altogether?</u>
+<u n="275" who="S0392" trans="overlap">yeah so if if you do drop down all you do is you <trunc>d</trunc> still do biology chemistry physics but you only do unit one and two you don't do unit three <pause dur="short"/> and then it's called <pause dur="short"/> core science</u>
+<u n="276" who="S0390">ah right I got it yes</u>
+<u n="277" who="S0392" trans="overlap">you yeah you do core science which is</u>
+<u n="278" who="S0391" trans="overlap"><unclear>okay <pause dur="short"/> bye</unclear></u>
+<u n="279" who="S0392">the unit ones</u>
+<u n="280" who="S0390">mm</u>
+<u n="281" who="S0391">did you say you had a <unclear/> <anon type="name" nameType="m"/> yeah?</u>
+<u n="282" who="S0390" trans="overlap">and it's just one paper for unit ones or it might be three papers I dunno and then you do additional science which is the unit twos</u>
+<u n="283" who="S0391" trans="overlap"><unclear/></u>
+<u n="284" who="S0390">so you three unit twos</u>
+<u n="285" who="S0392" trans="overlap">you don't do the <pause dur="short"/> yeah and three unit ones <pause dur="short"/> you don't do that as opposed to in erm previously they've done where you drop a whole science and you still do all three units in it in this you still do all but you don't do it in as much depth</u>
+<u n="286" who="S0390">right <pause dur="short"/> okay <pause dur="short"/> but that'll give you three sciences won't it?</u>
+<u n="287" who="S0391" trans="overlap"><unclear/></u>
+<u n="288" who="S0392" trans="overlap">it will yeah</u>
+<u n="289" who="S0393" trans="overlap">so have you worked out biology then <anon type="name" nameType="f"/>? has he taught you?</u>
+<u n="290" who="S0392" trans="overlap"><vocal desc="laugh"/></u>
+<u n="291" who="S0390">well actually it's not biology it's and I haven't even got to grips with <pause dur="short"/> what's happening and how they do it so <pause dur="short"/> you know?</u>
+<u n="292" who="S0393">what the study methodology and everything <event desc="sound of acoustic guitar"/></u>
+<u n="293" who="S0390">how those books work <pause dur="short"/> and how you sort it out between the different examining boards <pause dur="short"/> and I now know that they've got three papers <pause dur="short"/> for each subject <event desc="sound of acoustic guitar"/></u>
+<u n="294" who="S0390">and <pause dur="short"/> they haven't tackled the second one <trunc>y</trunc> third one yet</u>
+<u n="295" who="S0393">oh</u>
+<u n="296" who="S0392">that's right <vocal desc="laugh"/> yeah we've done <pause dur="short"/> in chemistry we've done a little bit <pause dur="short"/> but then</u>
+<u n="297" who="S0393" trans="overlap">exciting innit?</u>
+<u n="298" who="S0392" trans="overlap">but then <pause dur="short"/> we haven't done all <pause dur="short"/> erm unit two in that so erm it it sort of</u>
+<u n="299" who="S0390">yes but you've a long time to know</u>
+<u n="300" who="S0392" trans="overlap"><unclear>between er</unclear> <pause dur="short"/> oh yeah there's plenty of time <pause dur="short"/> we've <pause dur="short"/> er when it's the mocks you still only do unit one and two you don't do unit three at the mocks <pause dur="short"/> but that you've still got <pause dur="short"/> january February March April to do it four months and start revising in May for the exams in June and July so there's no rush</u>
+<u n="301" who="S0390">ah you'll be okay</u>
+<u n="302" who="S0392">yeah yeah it's nothing really</u>
+<u n="303" who="S0390" trans="overlap">yeah <pause dur="short"/> yeah I mean <pause dur="short"/> have you <trunc>d</trunc> have you done any so far?</u>
+<u n="304" who="S0392">erm <pause dur="short"/> some people in some groups did core science <pause dur="short"/> paper one or two or whatever which erm</u>
+<u n="305" who="S0390">yeah</u>
+<u n="306" who="S0392">was the unit ones they did that last summer</u>
+<u n="307" who="S0390">yes</u>
+<u n="308" who="S0392">erm they've got the results some of them are resitting that some of them are not <pause dur="short"/> which is erm but we haven't we haven't done we've what you do as well that each paper is worth each sort of sorry each three <trunc>pa</trunc> each unit</u>
+<u n="309" who="S0390">yeah yeah</u>
+<u n="310" who="S0392" trans="overlap">is worth twenty-five <pause dur="short"/> that's right yeah you've <unclear>put</unclear> twenty-five percent of your GCSE <pause dur="short"/> which adds up to seventy-five percent</u>
+<u n="311" who="S0390">just a minute I'm getting mixed up here <anon type="name" nameType="m"/> <pause dur="short"/> erm <pause dur="short"/> the way you're doing it</u>
+<u n="312" who="S0392">yeah</u>
+<u n="313" who="S0390">for your <trunc>sa</trunc> for biology</u>
+<u n="314" who="S0392">er yeah let's stick with biology actually</u>
+<u n="315" who="S0390" trans="overlap">which is <trunc>com</trunc> <pause dur="short"/> you'll have to do three papers</u>
+<u n="316" who="S0392">that's right unit one unit two unit three each one lasts an hour</u>
+<u n="317" who="S0390" trans="overlap">you're doing each thing got it got it yes</u>
+<u n="318" who="S0392">that however twenty-five twenty-five twenty-five doesn't take a mathematician to work out that that's only seventy-five and not a hundred</u>
+<u n="319" who="S0390">so</u>
+<u n="320" who="S0392">so where does</u>
+<u n="321" who="S0390"><trunc>r</trunc>really I would never have known</u>
+<u n="322" who="S0392" trans="overlap">where it does another twenty? <pause dur="short"/> where does the other twenty-five percent come from? well</u>
+<u n="323" who="S0390" trans="overlap">from <pause dur="short"/> modules <pause dur="short"/> erm no what do you call them?</u>
+<u n="324" who="S0392" trans="overlap">no</u>
+<u n="325" who="S0390">projects?</u>
+<u n="326" who="S0392">controlled assessment ISA and we actually did that last week and that is where you do an <trunc>expe</trunc> well first of all you plan an experiment and do an exam paper on that in the classroom then you do the experiment and you do a second exam paper on</u>
+<u n="327" who="S0390">did they tell you what you could do?</u>
+<u n="328" who="S0392" trans="overlap">drawing conclusions and <trunc>evalu</trunc> <pause dur="short"/> erm they give you the question</u>
+<u n="329" who="S0390">yeah yeah</u>
+<u n="330" who="S0392">and the first paper is where you plan an experiment and then they tell you what experiment to do <pause dur="short"/> and then you do it and then the <trunc>s</trunc> paper two is where you analyse the results and draw conclusion and things</u>
+<u n="331" who="S0390">well what's the point of getting you to erm plan an experiment experiment and then giving you one?</u>
+<u n="332" who="S0392" trans="overlap">to show <pause dur="short"/> to show you've got the skills of being able to plan one</u>
+<u n="333" who="S0390">ah</u>
+<u n="334" who="S0392">to examine the <trunc>s</trunc>the skills of everything like that</u>
+<u n="335" who="S0390">do you still do it? your sort of preparation <pause dur="short"/> and what you and then conclusion at the end?</u>
+<u n="336" who="S0392">yeah yeah</u>
+<u n="337" who="S0390">yeah</u>
+<u n="338" who="S0392">sort of yeah but it's it's more question based so it'll say erm <pause dur="short"/> typical question might be what problems might you encounter and then there's a big <pause dur="short"/> twelve mark or whatever it is to say</u>
+<u n="339" who="S0390" trans="overlap">mm</u>
+<u n="340" who="S0392">just outline your method <pause dur="short"/> have to outline the methods in that one</u>
+<u n="341" who="S0390" trans="overlap">like you light the Bunsen burner and</u>
+<u n="342" who="S0392"><vocal desc="laugh"/> yeah except this is erm</u>
+<u n="343" who="S0390" trans="overlap">you put the <trunc>e</trunc> <pause dur="short"/> the <pause dur="short"/> diluted hydrochloric acid into a</u>
+<u n="344" who="S0392" trans="overlap">yeah <pause dur="short"/> okay this is biology so it was</u>
+<u n="345" who="S0390">yeah</u>
+<u n="346" who="S0392">you erm</u>
+<u n="347" who="S0390" trans="overlap">oh</u>
+<u n="348" who="S0392">you do <pause dur="short"/> you do an exercise for sixty seconds and you rest thirty then you do an exercise for sixty and you rest ten you rest twenty rest <trunc>th</trunc> like that and you write your results in</u>
+<u n="349" who="S0390" trans="overlap">to see how <pause dur="short"/> tired you are or?</u>
+<u n="350" who="S0392">yeah to see</u>
+<u n="351" who="S0390" trans="overlap">how your muscles</u>
+<u n="352" who="S0392">yeah and how <trunc>c</trunc> how many lifts you can do</u>
+<u n="353" who="S0390">right how many can you do?</u>
+<u n="354" who="S0392">we haven't done it cos they give us a separate experiment to do cos that turned out it wasn't</u>
+<u n="355" who="S0390">it wasn't all that good</u>
+<u n="356" who="S0392" trans="overlap">the one that <unclear>it fell to</unclear></u>
+<u n="357" who="S0393" trans="overlap">have you eaten <anon type="name" nameType="f"/> or do you want some curry?</u>
+<u n="358" who="S0390">oh no thank you <anon type="name" nameType="m"/></u>
+<u n="359" who="S0393">are you sure?</u>
+<u n="360" who="S0390">yes I'm absolutely sure <pause dur="short"/> I'm just <trunc>wai</trunc>waiting here and we've having this <pause dur="short"/> actually it's very interesting <anon type="name" nameType="m"/> because it's so different</u>
+<u n="361" who="S0392">yeah</u>
+<u n="362" who="S0390">it really is it sounds as though</u>
+<u n="363" who="S0392">oh well we do eleven subjects and I'm sure that you could</u>
+<u n="364" who="S0390" trans="overlap">yeah <pause dur="short"/> oh yes</u>
+<u n="365" who="S0392" trans="overlap"><unclear>you could act</unclear> everyone</u>
+<u n="366" who="S0393" trans="overlap"><vocal desc="laugh"/></u>
+<u n="367" who="S0390">well actually I would I like learning</u>
+<u n="368" who="S0392">yes well this is the</u>
+<u n="369" who="S0390">yeah that's</u>
+<u n="370" who="S0392">yeah</u>
+<u n="371" who="S0390">that's your <unclear/> <pause dur="short"/> it's</u>
+<u n="372" who="S0392">yeah</u>
+<u n="373" who="S0393">no <anon type="name" nameType="f"/> isn't having <anon type="name" nameType="f"/></u>
+<u n="374" who="S0392" trans="overlap">but the what gives <trunc>m</trunc> surprised me is how much stuff there is you know what I mean there's all that</u>
+<u n="375" who="S0390">yeah but don't panic about it</u>
+<u n="376" who="S0392" trans="overlap">oh I'm not I wouldn't panic about it no no not all but <pause dur="short"/> it's just <pause dur="short"/> bit annoying rally</u>
+<u n="377" who="S0390" trans="overlap">but you <pause dur="short"/> your grandad he always went through all the <pause dur="short"/> sort of six years past papers and</u>
+<u n="378" who="S0392">yeah</u>
+<u n="379" who="S0390">made plans</u>
+<u n="380" who="S0392">yeah</u>
+<u n="381" who="S0390">and this question and this <trunc>quest</trunc> and <pause dur="short"/> then he would rule out maybe a third of the syllabus and not bother with it</u>
+<u n="382" who="S0392">really?</u>
+<u n="383" who="S0390" trans="overlap">I mean it was risky <pause dur="short"/> I didn't I didn't have a</u>
+<u n="384" who="S0392" trans="overlap">yeah <pause dur="short"/> oh you mean he <trunc>d</trunc> he that that's not coming up it hasn't come up in the past?</u>
+<u n="385" who="S0390" trans="overlap">yes <pause dur="short"/> yeah <pause dur="short"/> he <pause dur="short"/> decided what he thought would up</u>
+<u n="386" who="S0392" trans="overlap">that's very methodical</u>
+<u n="387" who="S0390">it was <trunc>re</trunc></u>
+<u n="388" who="S0392" trans="overlap">I <trunc>w</trunc> I would prefer to just do it all just on the off chance to be honest but yeah</u>
+<u n="389" who="S0390">well <pause dur="short"/> that's what I did <pause dur="short"/> it's not so bad when you just sort of GCSEs</u>
+<u n="390" who="S0392">yeah</u>
+<u n="391" who="S0390">it's later on that that comes into play</u>
+<u n="392" who="S0392" trans="overlap">yeah <pause dur="short"/> yeah</u>
+<u n="393" who="S0390">but</u>
+<u n="394" who="S0392">here is <pause dur="short"/> an example of a question layout</u>
+<u n="395" who="S0390" trans="overlap">yes <pause dur="short"/> yes go on</u>
+<u n="396" who="S0392">this is what the pages look like obviously I've written in here</u>
+<u n="397" who="S0390">yes</u>
+<u n="398" who="S0392">you get A4 it says do not write outside the box and that is because</u>
+<u n="399" who="S0390" trans="overlap">okay</u>
+<u n="400" who="S0392">they scan it into the computer for the examiner</u>
+<u n="401" who="S0390" trans="overlap">yes <pause dur="short"/> yes</u>
+<u n="402" who="S0392"><trunc>wi</trunc> outside the board <pause dur="short"/> might be a bit of <trunc>wr</trunc>writing and then it'll say it'll ask you a question and there's dotted lines two marks in brackets <pause dur="short"/> tells you how many marks it's worth and it's all that sort of Arial font <pause dur="short"/> and tables and things to answer about <pause dur="short"/> then this is the six mark question it's a longer one and one that's worth two <trunc>m</trunc> so most of them are worth two marks that's where the bulk of the marks come from <pause dur="short"/> and there might be a calculation one or something or <pause dur="short"/> read the information</u>
+<u n="403" who="S0390" trans="overlap">it looks very <pause dur="short"/> er <pause dur="short"/> there's a lot of stuff on that</u>
+<u n="404" who="S0392" trans="overlap">diagram</u>
+<u n="405" who="S0390">a lot of stuff to read</u>
+<u n="406" who="S0392">yeah <pause dur="short"/> well most if it's my writing to be honest</u>
+<u n="407" who="S0390">yeah</u>
+<u n="408" who="S0392">my answers</u>
+<u n="409" who="S0390" trans="overlap">I can't haven't got my glasses on I can't see from here but</u>
+<u n="410" who="S0392" trans="overlap">yeah <pause dur="short"/> and that one there as well</u>
+<u n="411" who="S0390">mm</u>
+<u n="412" who="S0392">yeah <pause dur="short"/> cos we did a maths question from nineteen fifty-one</u>
+<u n="413" who="S0390">did you?</u>
+<u n="414" who="S0392" trans="overlap">er <pause dur="short"/> yeah and he said</u>
+<u n="415" who="S0390">what was it trig or?</u>
+<u n="416" who="S0392">it was it was about circle theorems where you say that these things are equal in a circle or angles in a circle things</u>
+<u n="417" who="S0390">oh yeah yes?</u>
+<u n="418" who="S0392">and he said that <pause dur="short"/> don't let anyone tell you that GCSEs have got easier because <pause dur="short"/> you could easily manage that <pause dur="short"/> from nineteen fifty <pause dur="short"/> <vocal desc="sigh"/> apparently</u>
+<u n="419" who="S0390" trans="overlap">well <pause dur="short"/> what made it harder in nineteen fifties when I took mine was <pause dur="short"/> you didn't have calculators <pause dur="short"/> so they had to allow you time</u>
+<u n="420" who="S0392"><unclear>yeah</unclear></u>
+<u n="421" who="S0390">to do all the calculatings all the adding ups in your head</u>
+<u n="422" who="S0392" trans="overlap">oh <vocal desc="laugh"/> I see <pause dur="short"/> okay <pause dur="short"/> god</u>
+<u n="423" who="S0390">so <pause dur="short"/> you know <trunc>i</trunc>it was quite hard</u>
+<u n="424" who="S0392">yeah that's how you'll've recognised that it was a picture of a circle</u>
+<u n="425" who="S0390">yes</u>
+<u n="426" who="S0392">that's like all hand drawn and all hand labelled</u>
+<u n="427" who="S0390">yes</u>
+<u n="428" who="S0392">and <unclear>just a</unclear></u>
+<u n="429" who="S0390" trans="overlap">and was it a triangle inside the circle?</u>
+<u n="430" who="S0392">it was yeah it was a <pause dur="short"/> yes</u>
+<u n="431" who="S0390">was it an isosceles?</u>
+<u n="432" who="S0392">er no it was a scalene triangle actually</u>
+<u n="433" who="S0390">a scalene?</u>
+<u n="434" who="S0392">yeah</u>
+<u n="435" who="S0390">wow</u>
+<u n="436" who="S0392">it looked like erm</u>
+<u n="437" who="S0390">and what what was your question?</u>
+<u n="438" who="S0392">it was like that and then it</u>
+<u n="439" who="S0390">mm</u>
+<u n="440" who="S0392">just had an angle labelled calculate this angle</u>
+<u n="441" who="S0390">yeah but he'd have to give you more than that</u>
+<u n="442" who="S0392">oh yeah <pause dur="short"/> it labelled some angles in and I think</u>
+<u n="443" who="S0390" trans="overlap">yeah it was after you couldn't do it</u>
+<u n="444" who="S0392" trans="overlap">yeah</u>
+<u n="445" who="S0390">yeah yeah <pause dur="short"/> I used to love that actually</u>
+<u n="446" who="S0392">mm</u>
+<u n="447" who="S0390">it was one of those things <pause dur="short"/> that was easy</u>
+<u n="448" who="S0392">mm</u>
+<u n="449" who="S0390">but I <pause dur="short"/> I don't know if I could pass a maths paper now</u>
+<u n="450" who="S0392">well</u>
+<u n="451" who="S0390">do you get do you get them to bring home or not I know you can</u>
+<u n="452" who="S0392" trans="overlap">er the maths department no you don't get your paper naturally cos they're all sent off but the maths department <trunc>th</trunc> you print you could go on the internet and find one to be honest they're all you don't have to have a login or anything</u>
+<u n="453" who="S0390">yes</u>
+<u n="454" who="S0392" trans="overlap">you need to go on the AQA website click GCSE or A level maths and things like that</u>
+<u n="455" who="S0390" trans="overlap">now now that's another thing</u>
+<u n="456" who="S0392" trans="overlap">or RMS or whatever yeah</u>
+<u n="457" who="S0390">okay if <pause dur="short"/> erm <pause dur="short"/> do you know why <pause dur="short"/> york is a city a refuge city a city of refuge? <pause dur="short"/> now I've just come across that people have been talking about it <pause dur="short"/> and I'm gonna have to look it up on the internet</u>
+<u n="458" who="S0392">who's who's been saying that?</u>
+<u n="459" who="S0390">well apparently it was on the news and somebody that I know sent me an email</u>
+<u n="460" who="S0392" trans="overlap">what what context? what context was? <pause dur="short"/> what context is that in?</u>
+<u n="461" who="S0390">because they're getting a lot of stuff together for the refugees <pause dur="short"/> and they're organising for you know to look after so many</u>
+<u n="462" who="S0392">oh no I didn't hear about that</u>
+<u n="463" who="S0390">well I just want to know what a city of <trunc>re</trunc><trunc>u</trunc>refuge means</u>
+<u n="464" who="S0392">no I don't know that kinda stuff that</u>
+<u n="465" who="S0390" trans="overlap">you know? is it historical? when did it come about?</u>
+<u n="466" who="S0392">haven't come across that before</u>
+<u n="467" who="S0390">well my cynical answer was well it didn't do a lot for the Jews did it? so I don't know how long it goes back</u>
+<u n="468" who="S0392" trans="overlap">don't know <pause dur="short"/> might just be a new thing</u>
+<u n="469" who="S0390">it might be a new thing I don't know <pause dur="short"/> so I might if I get time look it up on the internet</u>
+<u n="470" who="S0392" trans="overlap">mm <pause dur="short"/> yeah but if if you do I mean fancy having a look at the kind of thing that we're doing <pause dur="short"/> you can just go on the AQA AQA</u>
+<u n="471" who="S0390">yes but I can't erm <pause dur="short"/> I <trunc>ha</trunc> <pause dur="short"/> would they send it to me were there any?</u>
+<u n="472" who="S0392" trans="overlap">oh no no it's on the internet for anyone to see now <pause dur="short"/> you go on the AQA website and then you find your way navigate through it's it's quite self-explanatory how you click on subjects and</u>
+<u n="473" who="S0390">oh yes</u>
+<u n="474" who="S0392">you spend a long time running around the website you'll soon come across where it says <pause dur="short"/> erm assessment materials or past papers and marks schemes and you click on <pause dur="short"/> anyone can go on it and you can print you can download the marks scheme <unclear>just</unclear> something <unclear>to</unclear></u>
+<u n="475" who="S0390" trans="overlap">well I would do the maths <pause dur="short"/> and the religious studies</u>
+<u n="476" who="S0392" trans="overlap">well do it <pause dur="short"/> yeah well <trunc>r</trunc> for religious studies we use OCR which is a different exam board but AQA do it as well</u>
+<u n="477" who="S0390" trans="overlap">Oxford</u>
+<u n="478" who="S0392">yeah <unclear>right</unclear></u>
+<u n="479" who="S0390" trans="overlap">mm <pause dur="short"/> yeah right</u>
+<u n="480" who="S0392">so it's anyone can look at it really</u>
+<u n="481" who="S0390" trans="overlap">oh <pause dur="short"/> well that's interesting</u>
+<u n="482" who="S0392">it's open for anybody</u>
+<u n="483" who="S0391">I've printed you off an halo <anon type="name" nameType="f"/> I don't know where I've put it</u>
+<u n="484" who="S0390" trans="overlap">right <pause dur="short"/> <anon type="name" nameType="f"/>?</u>
+<u n="485" who="S0391">yeah</u>
+<u n="486" who="S0390">you know we were going to go out to Pizza Express <pause dur="short"/> and you couldn't find <unclear><anon type="name" nameType="f"/></unclear></u>
+<u n="487" who="S0391">oh yeah</u>
+<u n="488" who="S0390">the vouchers have run out</u>
+<u n="489" who="S0391">oh no</u>
+<u n="490" who="S0390">so we're going to go to the <anon type="place"/> <pause dur="short"/> can you give me a date?</u>
+<u n="491" who="S0391">how about erm <pause dur="short"/> <vocal desc="misc"/> when now let's have a look let's see when</u>
+<u n="492" who="S0392" trans="overlap">but what's that thing in the oven there then?</u>
+<u n="493" who="S0391">it's it's me it's <anon type="name" nameType="m"/> and <anon type="name" nameType="m"/> <unclear>I've been going carrying around in there but</unclear></u>
+<u n="494" who="S0390"><vocal desc="laugh"/></u>
+<u n="495" who="S0392">yeah <pause dur="short"/> I'll write it down for you here</u>
+<u n="496" who="S0390">yes please that were great and I'll put it in my diary</u>
+<u n="497" who="S0392" trans="overlap">mm <pause dur="short"/> yeah</u>
+<u n="498" who="S0390">I'll stick it in my diary <pause dur="short"/> and we're okay</u>
+<u n="499" who="S0391">how about? <pause dur="short"/> well how about erm <pause dur="short"/> the weekend <anon type="name" nameType="m"/>'s back what about the Sunday <anon type="name" nameType="m"/>?</u>
+<u n="500" who="S0392">yeah yeah it's fine by me</u>
+<u n="501" who="S0390">Sunday lunch?</u>
+<u n="502" who="S0392">is Sunday no good?</u>
+<u n="503" who="S0390">yeah <pause dur="short"/> I said Sunday lunch <pause dur="short"/> or dinner</u>
+<u n="504" who="S0391">er <pause dur="short"/> lunchtime yeah?</u>
+<u n="505" who="S0390">hang on wait till I get there</u>
+<u n="506" who="S0391">er that would be lovely</u>
+<u n="507" who="S0390">shall we say that's <pause dur="short"/> november the first</u>
+<u n="508" who="S0391">oh Saints' Day</u>
+<u n="509" who="S0390">is that right November the first?</u>
+<u n="510" who="S0391">it will be if that's the date?</u>
+<u n="511" who="S0390">and <pause dur="short"/> what will you prefer lunch or dinner?</u>
+<u n="512" who="S0391">oh lunchtime</u>
+<u n="513" who="S0390">I think lunch is better</u>
+<u n="514" who="S0391">yeah</u>
+<u n="515" who="S0390">lend me your pen when you've finished</u>
+<u n="516" who="S0392">yeah</u>
+<u n="517" who="S0391" trans="overlap">yeah cos we don't know erm</u>
+<u n="518" who="S0392">the marks scheme's on there as well</u>
+<u n="519" who="S0391" trans="overlap">we don't know if <anon type="name" nameType="m"/>'ll have homework to do</u>
+<u n="520" who="S0392" trans="overlap">there's your pen</u>
+<u n="521" who="S0390">thank you</u>
+<u n="522" who="S0391" trans="overlap">you know what time even after he's been away all week</u>
+<u n="523" who="S0392">I've got a little but it it it'll it won't be <unclear>certain</unclear> if I'll be able to do it on the Saturday or the Sunday</u>
+<u n="524" who="S0390" trans="overlap">well <pause dur="short"/> let's put it this way</u>
+<u n="525" who="S0391">ah</u>
+<u n="526" who="S0390">we'll just have a lunch and then you can come <trunc>ha</trunc> <pause dur="short"/> this is the <anon type="place"/> <pause dur="short"/> erm</u>
+<u n="527" who="S0391" trans="overlap">I'll write it down</u>
+<u n="528" who="S0390"><anon type="place"/> <pause dur="short"/> <anon type="place"/> erm lunch</u>
+<u n="529" who="S0391">lovely</u>
+<u n="530" who="S0390">right <pause dur="short"/> lovely thank you</u>
+<u n="531" who="S0392" trans="overlap"><unclear>that'll do it?</unclear></u>
+<u n="532" who="S0391">that'll be very nice</u>
+<u n="533" who="S0392">it will be I like it there</u>
+<u n="534" who="S0390">I like it there</u>
+<u n="535" who="S0392">I know the person who washes up there</u>
+<u n="536" who="S0390" trans="overlap">yeah</u>
+<u n="537" who="S0392"><vocal desc="laugh"/></u>
+<u n="538" who="S0390">who?</u>
+<u n="539" who="S0392">I know the person who washes up washes the dishes</u>
+<u n="540" who="S0390" trans="overlap">is it somebody from your school?</u>
+<u n="541" who="S0392">yeah <vocal desc="laugh"/></u>
+<u n="542" who="S0390">now I was talking to some oh yeah er I went with <anon type="name" nameType="f"/> to Pizza Express today I had to use up <pause dur="short"/> one set of vouchers</u>
+<u n="543" who="S0391">oh right</u>
+<u n="544" who="S0390" trans="overlap">today <pause dur="short"/> so we went there <pause dur="short"/> and <pause dur="short"/> the girl was so pleasant that served us <pause dur="short"/> she's from <pause dur="short"/> the college <anon type="place"/> college</u>
+<u n="545" who="S0391">ah</u>
+<u n="546" who="S0390">and</u>
+<u n="547" who="S0391">it's all one school now</u>
+<u n="548" who="S0392">yeah</u>
+<u n="549" who="S0390" trans="overlap">had a</u>
+<u n="550" who="S0392"><anon type="place"/> school and sixth form college</u>
+<u n="551" who="S0391" trans="overlap">it's all one school now</u>
+<u n="552" who="S0390">well whatever she's</u>
+<u n="553" who="S0391">yeah</u>
+<u n="554" who="S0390">hang on</u>
+<u n="555" who="S0391">well that's nice</u>
+<u n="556" who="S0390">she was <pause dur="short"/> she was really nice <pause dur="short"/> I quite enjoyed chatting</u>
+<u n="557" who="S0392" trans="overlap">they're trying to be like <anon type="place"/> school calling themselves <anon type="place"/> school and sixth form college</u>
+<u n="558" who="S0390">well that's okay</u>
+<u n="559" who="S0392">yeah <pause dur="short"/> that's what ours is <pause dur="short"/> yeah</u>
+<u n="560" who="S0391">okay</u>
+<u n="561" who="S0392">have you got a busy rest of the week <anon type="name" nameType="f"/> cos erm?</u>
+<u n="562" who="S0390">I don't know <anon type="name" nameType="m"/></u>
+<u n="563" who="S0391" trans="overlap">so you'll be able to</u>
+<u n="564" who="S0392">I know right</u>
+<u n="565" who="S0390">I've got I've got a whole load of stuff to do</u>
+<u n="566" who="S0392">yeah</u>
+<u n="567" who="S0390">but I don't know whether I'm gonna get it done</u>
+<u n="568" who="S0392">no well if you get a loose moment then you've got that there</u>
+<u n="569" who="S0390">that'll be grand <pause dur="short"/> if I can if I can get a <trunc>l</trunc> a loose moment any</u>
+<u n="570" who="S0391" trans="overlap">well it'd be nice then we can hear about <anon type="name" nameType="m"/>'s trip</u>
+<u n="571" who="S0392" trans="overlap">yeah <pause dur="short"/> yeah we'll have to</u>
+<u n="572" who="S0390">oh yes</u>
+<u n="573" who="S0392">yeah</u>
+<u n="574" who="S0390">oh yeah <pause dur="short"/> when you? when are you getting back Friday?</u>
+<u n="575" who="S0392">erm <pause dur="short"/> <unclear>long</unclear> time <pause dur="short"/> er the itinerary's somewhere <anon type="name" nameType="f"/> oh it's over <pause dur="short"/> oh <pause dur="short"/> I dunno where the oh I dunno where the itinerary is but</u>
+<u n="576" who="S0390">but you'll be getting back</u>
+<u n="577" who="S0392" trans="overlap">here here it is <pause dur="short"/> is it? <pause dur="short"/> no</u>
+<u n="578" who="S0390">you'll be getting back either Friday or Saturday?</u>
+<u n="579" who="S0392" trans="overlap"><unclear>mm</unclear> <pause dur="short"/> erm <pause dur="short"/> we leave Thursday so we'll be getting back on the Friday some time yeah</u>
+<u n="580" who="S0390" trans="overlap">yeah</u>
+<u n="581" who="S0391">Friday night he's back so at about</u>
+<u n="582" who="S0392" trans="overlap">what time at what time on Friday night?</u>
+<u n="583" who="S0391">well <trunc>you</trunc> <unclear>they always stop</unclear> and let you text <pause dur="short"/> then erm <pause dur="short"/> so he'll <trunc>o</trunc> he'll've been able to have a good sleep</u>
+<u n="584" who="S0390">yes <pause dur="short"/> okay kids</u>
+<u n="585" who="S0392" trans="overlap">yeah <pause dur="short"/> oh oh <pause dur="short"/> it was nice to see you and I'll see you</u>
+<u n="586" who="S0390" trans="overlap">well it's always nice</u>
+<u n="587" who="S0392" trans="overlap">and I'll see <pause dur="short"/> I'll I'll I might see you before I go otherwise if I don't I'll see you when I get back</u>
+<u n="588" who="S0390">well have a nice time <anon type="name" nameType="m"/> I'm sure you will</u>
+<u n="589" who="S0392" trans="overlap">thanks a lot cheers</u>
+<u n="590" who="S0390">erm <pause dur="short"/> <unclear>tell the</unclear></u>
+<u n="591" who="S0393" trans="overlap">have you done your maths? <pause dur="short"/> I mean your biology?</u>
+<u n="592" who="S0390">yeah <pause dur="short"/> it's science</u>
+<u n="593" who="S0393" trans="overlap">brilliant</u>
+<u n="594" who="S0390">we've had a good <pause dur="short"/> have we? I think we have</u>
+<u n="595" who="S0392" trans="overlap">yeah we've had a good amount of time</u>
+<u n="596" who="S0390">so I think okay I knew you wanted me for something</u>
+<u n="597" who="S0392"><vocal desc="laugh"/></u>
+<u n="598" who="S0390">I can do a few things you know</u>
+<u n="599" who="S0392"><vocal desc="laugh"/></u>
+<u n="600" who="S0393">I'll just get er my er</u>
+<u n="601" who="S0392">au revoir</u>
+<u n="602" who="S0390">cheers now I've got my car on</u>
+<u n="603" who="S0392" trans="overlap">ta-ra nan</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

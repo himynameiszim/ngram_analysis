@@ -1,0 +1,675 @@
+<text id="S5QR">
+	<header>
+		<rec_length>0:32:00</rec_length>
+		<rec_date>2016-01-18</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>2</n_speakers>
+		<list_speakers>S0324 S0325</list_speakers>
+		<rec_loc>ANONs house</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>A film we just watched (10 things I hate about you), School, future trip to London</topics>
+		<activity>Friends talking about school </activity>
+		<conv_type>discussing, explaining, inquiring, complaining, requesting, announcing, anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T04</transcriber>
+		<speakerInfo>
+			<speaker id="S0324">
+				<exactage>14</exactage>
+				<age1994>0_14</age1994>
+				<agerange>11_18</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cambridge</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>South East</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>14</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>southeast</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>German -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0325">
+				<exactage>13</exactage>
+				<age1994>0_14</age1994>
+				<agerange>11_18</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Cambridge</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>South</dialect_rep>
+				<hab_city>Cambridge</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>9</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>Japanese -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0324">so what did you think about the film?</u>
+<u n="2" who="S0325">erm yeah it was good</u>
+<u n="3" who="S0324">did you like it?</u>
+<u n="4" who="S0325">no</u>
+<u n="5" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="6" who="S0325">wouldn't that be funny if someone how do you feel about the film? and you went <pause dur="short"/> no did you like it? no</u>
+<u n="7" who="S0324"><vocal desc="laugh"/></u>
+<u n="8" who="S0325">why not? I just didn't like it <vocal desc="laugh"/></u>
+<u n="9" who="S0324">no cos it's my favourite film <pause dur="short"/> did you actually like it?</u>
+<u n="10" who="S0325">I did I loved it</u>
+<u n="11" who="S0324">good <pause dur="short"/> I'm surprised you haven't seen it before</u>
+<u n="12" who="S0325">to be fair I only like two people <pause dur="short"/> that's like you and <anon type="name" nameType="f"/></u>
+<u n="13" who="S0324">yeah I can't believe no one's seen it before</u>
+<u n="14" who="S0325">yeah true</u>
+<u n="15" who="S0324">literally one of my favourite films</u>
+<u n="16" who="S0325">it was on the plane apparently</u>
+<u n="17" who="S0324">yeah and you should have actually no you shouldn't have watched it</u>
+<u n="18" who="S0325">yeah sure</u>
+<u n="19" who="S0324">because then you wouldn't be able to watch it here</u>
+<u n="20" who="S0325">yeah <pause dur="short"/> can I have that bowl?</u>
+<u n="21" who="S0324">no</u>
+<u n="22" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="23" who="S0324">no you can't have the bowl</u>
+<u n="24" who="S0325">I want to have the bowl</u>
+<u n="25" who="S0324">well tough</u>
+<u n="26" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="27" who="S0324">so what were you gonna say about English?</u>
+<u n="28" who="S0325" trans="overlap"><unclear/> basically <pause dur="short"/> is there sugar in your glass cos I can taste sugar?</u>
+<u n="29" who="S0324">in my glass?</u>
+<u n="30" who="S0325">probably cos there's apple juice in that glass wasn't there?</u>
+<u n="31" who="S0324">yeah</u>
+<u n="32" who="S0325">basically we were saying this in maths right? <anon type="name" nameType="m"/> was saying how girls are so much better at English than the boys</u>
+<u n="33" who="S0324">that's true</u>
+<u n="34" who="S0325">and there's only <pause dur="short"/> like nine boys in our English class</u>
+<u n="35" who="S0324">and how boys are <trunc>m</trunc> so much better at maths than girls</u>
+<u n="36" who="S0325" trans="overlap">yeah and Miss <anon type="name" nameType="n"/> was like <pause dur="short"/> really upset cos that's you weren't there that day <pause dur="short"/> erm <pause dur="short"/> basically she was like so put your hand up if you're definitely doing A level maths</u>
+<u n="37" who="S0324">mm hm</u>
+<u n="38" who="S0325">and she was like it really upsets me the ten people that put their hand up said they were definitely doing A level maths were all boys and I'm like</u>
+<u n="39" who="S0324" trans="overlap">who put their hand up?</u>
+<u n="40" who="S0325">like loads of boys</u>
+<u n="41" who="S0324"><vocal desc="cough"/></u>
+<u n="42" who="S0325">and no girls <pause dur="short"/> and but to be to be honest</u>
+<u n="43" who="S0324" trans="overlap">disappointing</u>
+<u n="44" who="S0325">there's only like oh actually no no there's fourteen girls and fourteen boys</u>
+<u n="45" who="S0324">mm</u>
+<u n="46" who="S0325">and nobody's taking</u>
+<u n="47" who="S0325" trans="overlap">and no one</u>
+<u n="48" who="S0324" trans="overlap">and only ten people like in the whole class</u>
+<u n="49" who="S0325" trans="overlap">yeah</u>
+<u n="50" who="S0324">that would be the most <unclear>present</unclear> <pause dur="short"/> yeah cos she asked me today and she was like oh you're taking A level maths and I was like yeah probably and she was like <vocal desc="gasp"/> one girl woo <vocal desc="laugh"/></u>
+<u n="51" who="S0325" trans="overlap">yeah no <unclear/> <pause dur="short"/> erm she was like it really upsets me that the ten people that would take it are all boys and I was like er what about <anon type="name" nameType="f"/>? she's not a boy and she was like yeah <anon type="name" nameType="f"/> will definitely take it and I'm like she's not a boy is she?</u>
+<u n="52" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="53" who="S0324"><unclear/></u>
+<u n="54" who="S0325">she's like <anon type="name" nameType="f"/>'ll definitely take it I'm like yes that's you know one girl that is not another boy <vocal desc="laugh"/> and she goes erm <pause dur="short"/> and so then we were talking about that advert you know Like a Girl</u>
+<u n="55" who="S0324" trans="overlap">yeah Like a Girl</u>
+<u n="56" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="57" who="S0325">so I was like oh my God have you seen that advert? and she's like yeah <vocal desc="laugh"/></u>
+<u n="58" who="S0324">yeah she's like <pause dur="short"/> one thing you should definitely watch Like a Girl it's really really <unclear/></u>
+<u n="59" who="S0325" trans="overlap">which is really powerful I told you that</u>
+<u n="60" who="S0324" trans="overlap">yeah because I was like what video? and she was like Like a Girl and I was like oh I saw that when I was waiting to watch a Youtube video <vocal desc="laugh"/></u>
+<u n="61" who="S0325" trans="overlap">yeah so was I <vocal desc="laugh"/></u>
+<u n="62" who="S0324">and I saw these little children running</u>
+<u n="63" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="64" who="S0324">and it was really interesting</u>
+<u n="65" who="S0325" trans="overlap">it's like what does it mean to run like a girl and the girl was like woo and there's like inspiring music on</u>
+<u n="66" who="S0324">yeah</u>
+<u n="67" who="S0325"><shift new="singing"/> de de de de de <shift new="normal"/></u>
+<u n="68" who="S0324">what does it mean to throw like a girl? woo throwing my javelin</u>
+<u n="69" who="S0325">and then</u>
+<u n="70" who="S0324" trans="overlap">and then there's these <pause dur="short"/> women who are like what does it mean to throw like a girl and they're like woo down on the floor</u>
+<u n="71" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="72" who="S0325">that's me</u>
+<u n="73" who="S0324">that's you <unclear>sailing</unclear></u>
+<u n="74" who="S0325" trans="overlap"><unclear/> girls throw badly it's cos I</u>
+<u n="75" who="S0324" trans="overlap">I throw really far oops</u>
+<u n="76" who="S0325">right guys we've got this come on right I'm lobbing it I'm <trunc>lob</trunc> oh</u>
+<u n="77" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="78" who="S0325">it's just like <unclear/> upwards <pause dur="short"/> I I was looking for it to land</u>
+<u n="79" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="80" who="S0325">I'm like <unclear/> and I was like</u>
+<u n="81" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="82" who="S0324">yeah but it was like a proper looked like it was gonna be a really good throw and then somehow it just like dropped</u>
+<u n="83" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="84" who="S0324"><vocal desc="cough"/></u>
+<u n="85" who="S0325">and then she was like guys and then and then I went <pause dur="short"/> yeah cos it's just like a thing isn't it? people think that girls shouldn't do science and she was like what are you saying? girls should do science don't say that and I was like woah <vocal desc="laugh"/> I was like no no no I wasn't saying that I'm just saying that it's like a stereotype and she was like <pause dur="short"/> girls can do science if they want if you go into <trunc>s</trunc> and I was like and boys do STEM and girls do like music and she was like no if you go into STEM you will get so much money and I was like woah woah woah <unclear/> so much money</u>
+<u n="86" who="S0324" trans="overlap">what have you got loads of money miss? <vocal desc="laugh"/></u>
+<u n="87" who="S0325">and she was like she was you know she went to us erm my parents for my birthday they actually er they paid for my breakdown cover because I couldn't afford it <vocal desc="laugh"/></u>
+<u n="88" who="S0324">oh</u>
+<u n="89" who="S0325">and we were all like</u>
+<u n="90" who="S0324">oh</u>
+<u n="91" who="S0325">and she was like <pause dur="short"/> thank you</u>
+<u n="92" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="93" who="S0325">and we were like oh</u>
+<u n="94" who="S0324">and <vocal desc="laugh"/> yeah and then <anon type="name" nameType="m"/> was getting really into it on my table he was like yeah that's true like when you think about running like a girl you think running not very well but then you think like running like a man and you think really fast like Usain Bolt and it's like when you think of a man you think of them going to the gym every day when you think of a girl you think of her like not going to the gym every day</u>
+<u n="95" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="96" who="S0324">and I was like yeah yeah and then <anon type="name" nameType="m"/> was like yeah yeah that's me and <anon type="name" nameType="m"/> we go to the gym every day</u>
+<u n="97" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="98" who="S0324">I was</u>
+<u n="99" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="100" who="S0324">and <anon type="name" nameType="m"/> was like yeah we get up at six o'clock in the morning and go to the gym every day <vocal desc="laugh"/> and then like <anon type="name" nameType="f"/> was having this proper conversation and she was like I I would love to go to the gym every day but I can't I just can't see the six o'clock mornings working for me</u>
+<u n="101" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="102" who="S0324">and I was like I don't think you're going to go to the gym</u>
+<u n="103" who="S0325">and you're like I'm not going to the gym at all</u>
+<u n="104" who="S0324"><vocal desc="laugh"/> guys I'm just not going</u>
+<u n="105" who="S0325"><vocal desc="laugh"/> you know cos she goes so guys I'm erm erm well she was like yeah I hate that thing when people say like a girl and I go yeah cos it's like an insult and she goes yeah but I say that you know and I go but you don't really say oh that's <trunc>r</trunc>really good for a boy and she goes yeah I say that <pause dur="short"/> and I went</u>
+<u n="106" who="S0324" trans="overlap"><vocal desc="laugh"/> <unclear>isn't that</unclear> what you were actually just saying that</u>
+<u n="107" who="S0325" trans="overlap">yeah and I went but you've literally just said that you hate gender stereotypes and because I went <pause dur="short"/> oh yeah cos people say that as like an insult they say oh you run like a girl but you wouldn't say oh you run like a boy he goes yeah yeah I say that <unclear/> she just said that you hated it and she was like yeah yeah and then she what did she say? what else did she say to me? <pause dur="short"/> I don't remember what she said but then I was like Miss you literally just said like twenty seconds ago <pause dur="short"/> like no and then I was like yeah actually the subjects that I've picked art and triple science are actually really like traditional girl like French like language you know like French</u>
+<u n="108" who="S0324" trans="overlap">yeah</u>
+<u n="109" who="S0325">or like music and history it's really like traditional</u>
+<u n="110" who="S0324" trans="overlap">she took music?</u>
+<u n="111" who="S0325">I took music</u>
+<u n="112" who="S0324" trans="overlap">oh wait yeah okay I was</u>
+<u n="113" who="S0325">and then <anon type="name" nameType="f"/> was like well yeah I mean I mean I took stats geography triple science</u>
+<u n="114" who="S0324" trans="overlap">and she's really girlie</u>
+<u n="115" who="S0325">and she's like yeah I feel like I'm I'm like a man and I was like yeah <vocal desc="laugh"/> yeah compared to me <unclear/> history music French <unclear/></u>
+<u n="116" who="S0324" trans="overlap">and then we had exactly the same conversation with Miss <anon type="name" nameType="n"/> about good girl good man yeah</u>
+<u n="117" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="118" who="S0324">and it's like I wouldn't say that anyway</u>
+<u n="119" who="S0325">yeah but I wouldn't even care if someone said good girl to me I'd be like</u>
+<u n="120" who="S0324">neither would I I'd be like mm okay yeah whatever</u>
+<u n="121" who="S0325">yeah like they'd be like good girl and I'll be like <pause dur="short"/> but like who says that?</u>
+<u n="122" who="S0324" trans="overlap">I I think it's really weird <anon type="name" nameType="n"/> saying that to her like</u>
+<u n="123" who="S0325" trans="overlap">yeah can you imagine that? I mean like good girl and I'd be like what?</u>
+<u n="124" who="S0324" trans="overlap">cos then you're like colleagues and it's really weird</u>
+<u n="125" who="S0325" trans="overlap">yeah <pause dur="short"/> it's like but you wouldn't say good boy well no you would say good boy but you wouldn't say <pause dur="short"/> good woman good woman you'd say good man</u>
+<u n="126" who="S0324" trans="overlap">yeah because good man makes <unclear/> just like woman sounds really weird</u>
+<u n="127" who="S0325" trans="overlap"><unclear/> to a woman you can't <unclear/> <pause dur="short"/> you could be like good man</u>
+<u n="128" who="S0324"><vocal desc="laugh"/> maybe</u>
+<u n="129" who="S0325">you could</u>
+<u n="130" who="S0324">yeah actually yeah you could</u>
+<u n="131" who="S0325" trans="overlap">like a very butch <vocal desc="laugh"/></u>
+<u n="132" who="S0324">a butch <pause dur="short"/> good man</u>
+<u n="133" who="S0325">good man yeah but you'd also be like</u>
+<u n="134" who="S0324" trans="overlap">yeah but it's just kind of like woman sounds weird not like because it's woman just like the word</u>
+<u n="135" who="S0325" trans="overlap">you wouldn't say it would you? good woman</u>
+<u n="136" who="S0324">yeah</u>
+<u n="137" who="S0325">it sounds weird</u>
+<u n="138" who="S0324">I wouldn't really say any of that I'd just be like <pause dur="short"/> good <vocal desc="laugh"/></u>
+<u n="139" who="S0325" trans="overlap">whatever <pause dur="short"/> you'd just be like great well done and I would be like</u>
+<u n="140" who="S0324" trans="overlap">good <anon type="name" nameType="f"/> <vocal desc="laugh"/></u>
+<u n="141" who="S0325">every time I think oh maybe I'll say good girl I'll think of that in my head and be like no</u>
+<u n="142" who="S0324">well done <vocal desc="laugh"/></u>
+<u n="143" who="S0325">I can't say that <vocal desc="laugh"/> when I'm and Miss <anon type="name" nameType="n"/> she goes yes if boys if you go into primary school teaching or nursing you'll get loads of money and I'm like but why?</u>
+<u n="144" who="S0324" trans="overlap">yeah</u>
+<u n="145" who="S0325">and it's like cos it's cos it's mainly female female-based and I'm like yeah but</u>
+<u n="146" who="S0324">why does that mean that you'll get loads of money?</u>
+<u n="147" who="S0325">exactly and she's like girls that go into STEM get more promotions I'm like how is that fair?</u>
+<u n="148" who="S0324" trans="overlap">no they don't <trunc>n</trunc> that's not true</u>
+<u n="149" who="S0325">she's like <pause dur="short"/> you'll get loads of money if you go into STEM more cos like and I'm like what cos like you're the <trunc>minor</trunc>minority? and she was like no cos you get loads of promotions and I'm like well what about the boys don't they get promotions as well?</u>
+<u n="150" who="S0324" trans="overlap">yeah exactly yeah but obviously if they do get more promotions it's because they're a girl like in terms of like what she's saying</u>
+<u n="151" who="S0325" trans="overlap">yeah</u>
+<u n="152" who="S0324">that girls get more promotions in STEM</u>
+<u n="153" who="S0325">then actually it should be</u>
+<u n="154" who="S0324" trans="overlap">well that's not even true</u>
+<u n="155" who="S0325">you get more promotions because of what you're doing</u>
+<u n="156" who="S0324">yeah exactly not because because you're a girl</u>
+<u n="157" who="S0325" trans="overlap"><unclear/> girls can do STEM better than boys? <vocal desc="laugh"/></u>
+<u n="158" who="S0324">that's so weird she's she's really confusing</u>
+<u n="159" who="S0325">yeah she's like guys if you go into the nurse sector like boys you then you'll get loads of money <pause dur="short"/> I'm like why? why can't a girl just get loads of money from going into like the nurse? I'm like well <pause dur="short"/> surely you can just like <pause dur="short"/> <unclear>don't even know</unclear> like anybody surely you should all get the same amount of money isn't that like what <pause dur="short"/> the equality is?</u>
+<u n="160" who="S0324">exactly</u>
+<u n="161" who="S0325">and there's <anon type="name" nameType="f"/> like</u>
+<u n="162" who="S0324">gender stereotypes</u>
+<u n="163" who="S0325" trans="overlap">stereotypes <pause dur="short"/> I'm just gonna find out on my own and <unclear/> because this that's she was literally like my hair just falls out all the time ah yeah and then I went</u>
+<u n="164" who="S0324" trans="overlap">actually my hair falls out too</u>
+<u n="165" who="S0325">did I tell you this? you know so is mine and then and then I went oh I don't want to like pick it up and like get it over the <anon type="name" nameType="m"/>'s head and she went why don't you just put over <anon type="name" nameType="m"/>'s head? <pause dur="short"/> I was like <pause dur="short"/> I thought you were gonna be nice? and then today I went and I oh <anon type="name" nameType="m"/> can you get my folder? and then she got my folder so I went oh don't worry and she goes you should have just made him look for it and it's like why do you hate <anon type="name" nameType="m"/> so much I mean what is up with you?</u>
+<u n="166" who="S0324">I think she just hates everyone</u>
+<u n="167" who="S0325">I think she actually fancies <anon type="name" nameType="m"/></u>
+<u n="168" who="S0324">why?</u>
+<u n="169" who="S0325">because she's always talking to <anon type="name" nameType="m"/> and she's like <anon type="name" nameType="m"/> how do you feel about this? and I'm like what are you doing?</u>
+<u n="170" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="171" who="S0325">and <anon type="name" nameType="f"/> is like oh <anon type="name" nameType="m"/> and I'm like back off</u>
+<u n="172" who="S0324">and then you're like ha ha <anon type="name" nameType="m"/></u>
+<u n="173" who="S0325">I'm like guys get away <vocal desc="laugh"/></u>
+<u n="174" who="S0324">go away</u>
+<u n="175" who="S0325">I'm like <anon type="name" nameType="f"/> get away</u>
+<u n="176" who="S0324"><vocal desc="laugh"/> yeah erm Miss Miss <anon type="name" nameType="n"/> was like talk when she was talking about my table doing loads of work and I was like er er</u>
+<u n="177" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="178" who="S0324">and and then she was erm saying to <anon type="name" nameType="m"/> and er <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> she was like yeah and you two just talk the whole time and then <anon type="name" nameType="m"/> was like no I don't no I don't I don't talk to <anon type="name" nameType="f"/> the whole time</u>
+<u n="179" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="180" who="S0325"><anon type="name" nameType="f"/> was like yeah me and <anon type="name" nameType="m"/> we're best friends <vocal desc="laugh"/></u>
+<u n="181" who="S0324">and <anon type="name" nameType="m"/> was erm <pause dur="short"/> not happy about that</u>
+<u n="182" who="S0325"><anon type="name" nameType="m"/> wasn't happy?</u>
+<u n="183" who="S0324">no</u>
+<u n="184" who="S0325">why? <vocal desc="laugh"/></u>
+<u n="185" who="S0324">I don't know he was like I don't talk to her the whole time</u>
+<u n="186" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="187" who="S0324">he was really worried he was like I <unclear/> I don't talk to her</u>
+<u n="188" who="S0325">look how many <unclear/> my book</u>
+<u n="189" who="S0324">I don't talk to <anon type="name" nameType="f"/></u>
+<u n="190" who="S0325">yeah but I don't <trunc>unders</trunc> yeah because like when erm <pause dur="short"/> <anon type="name" nameType="f"/> goes <anon type="name" nameType="m"/> are you flirting with <anon type="name" nameType="m"/> or something and <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> was like <vocal desc="misc"/> and <anon type="name" nameType="m"/> was like calm down it's only a joke</u>
+<u n="191" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="192" who="S0324">he's what?</u>
+<u n="193" who="S0325">and <anon type="name" nameType="m"/> was in maths <anon type="name" nameType="f"/> goes <anon type="name" nameType="m"/> I don't I'm not sure whether you were there</u>
+<u n="194" who="S0324"><vocal desc="laugh"/></u>
+<u n="195" who="S0325">and she goes <anon type="name" nameType="m"/> are you flirting with <anon type="name" nameType="m"/>? and then they were like <trunc>lau</trunc> like everyone turned around and they were like ha ha la la and <anon type="name" nameType="n"/> was like he can flirt with whoever he wants and <anon type="name" nameType="m"/> was like</u>
+<u n="196" who="S0324"><vocal desc="laugh"/></u>
+<u n="197" who="S0325">and <anon type="name" nameType="m"/> was like seriously just calm down and I was like what <unclear>is he doing</unclear>?</u>
+<u n="198" who="S0324"><vocal desc="cough"/></u>
+<u n="199" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="200" who="S0324"><vocal desc="cough"/></u>
+<u n="201" who="S0325">are you alright?</u>
+<u n="202" who="S0324">er I have a cold</u>
+<u n="203" who="S0325">yeah</u>
+<u n="204" who="S0324">I hate winter winter everyone has a cold and then everyone's miserable</u>
+<u n="205" who="S0325" trans="overlap">yeah <pause dur="short"/> everyone's like I've got a cold and no one feels sorry for you when you've got a cold</u>
+<u n="206" who="S0324">yeah</u>
+<u n="207" who="S0325"><unclear/> and they're like what's wrong? and you're like I've got a cold</u>
+<u n="208" who="S0324" trans="overlap">if you say you have the flu</u>
+<u n="209" who="S0325" trans="overlap">yeah then they're like</u>
+<u n="210" who="S0324" trans="overlap">everyone's like oh poor you or they stay away</u>
+<u n="211" who="S0325">yeah <vocal desc="laugh"/></u>
+<u n="212" who="S0324">if you have a cold they're just like er</u>
+<u n="213" who="S0325" trans="overlap">oh whatever <pause dur="short"/> you look terrible and they're like what's wrong? and you're like I've got a cold and they're like oh <pause dur="short"/> get better soon you're just like when someone stays off school for a cold they're like oh my such a wimp</u>
+<u n="214" who="S0324"><vocal desc="laugh"/></u>
+<u n="215" who="S0325">like you can't stay off school for a cold</u>
+<u n="216" who="S0324">exactly</u>
+<u n="217" who="S0325">but actually colds are really bad and I hate having a stuffed up nose and you can't breathe and you're like</u>
+<u n="218" who="S0324">yeah <pause dur="short"/> that's <unclear/></u>
+<u n="219" who="S0325">yeah <pause dur="short"/> I've just had something in my throat</u>
+<u n="220" who="S0324"><vocal desc="laugh"/></u>
+<u n="221" who="S0325">every day <anon type="name" nameType="n"/> is like I've got I've got something wrong with my throat I'm like literally you've got nothing wrong with your throat or like I'll cough and she's like I've got such a sore throat</u>
+<u n="222" who="S0324"><vocal desc="laugh"/></u>
+<u n="223" who="S0325"><unclear/></u>
+<u n="224" who="S0324">yeah that's like <anon type="name" nameType="f"/></u>
+<u n="225" who="S0325">yeah <vocal desc="laugh"/> like so yeah</u>
+<u n="226" who="S0324">like in in physics I was like I'm really ill I have a cold and she was like oh everyone has a cold I don't seem to have a cold in chemistry she's like I have a cold I feel so bad I need to go home</u>
+<u n="227" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="228" who="S0324">er she's really annoying</u>
+<u n="229" who="S0325">I know she's like oh I didn't I can't I can't believe she didn't come to wind band</u>
+<u n="230" who="S0324" trans="overlap">I know</u>
+<u n="231" who="S0325">I can't believe she didn't at least come in go I'm not coming</u>
+<u n="232" who="S0324" trans="overlap">yeah exactly</u>
+<u n="233" who="S0325">and then go</u>
+<u n="234" who="S0324">I'm really I really don't get that she didn't</u>
+<u n="235" who="S0325" trans="overlap">why did she?</u>
+<u n="236" who="S0324">want to come why would she not want to come?</u>
+<u n="237" who="S0325" trans="overlap">she just and why didn't she just say oh I don't really want to I'm not coming this week?</u>
+<u n="238" who="S0324">yeah instead of like say</u>
+<u n="239" who="S0325" trans="overlap">save me a seat</u>
+<u n="240" who="S0324">I need to go and find my planner save me a seat maybe she just decided last minute not to go</u>
+<u n="241" who="S0325">what when she was walking out the school? <vocal desc="laugh"/></u>
+<u n="242" who="S0324">yeah</u>
+<u n="243" who="S0325">she could have just come and been like</u>
+<u n="244" who="S0324" trans="overlap">sorry</u>
+<u n="245" who="S0325">it wouldn't have taken her like we started like twenty past and it wouldn't have taken her twenty minutes to find her planner</u>
+<u n="246" who="S0324">yeah</u>
+<u n="247" who="S0325">cos she could have just come and been like oh I'm not going in then we could have given someone else the seat that we were saving</u>
+<u n="248" who="S0324" trans="overlap">yeah exactly</u>
+<u n="249" who="S0325">the whole time and they were like why why have you just stolen that seat like?</u>
+<u n="250" who="S0324">yeah and then we just had to like awkwardly sit there <pause dur="short"/> with the seat</u>
+<u n="251" who="S0325" trans="overlap">yeah <vocal desc="laugh"/> <pause dur="short"/> like with all the music on it like <pause dur="short"/> there was someone coming but now they've stood us up</u>
+<u n="252" who="S0324" trans="overlap"><unclear/> we're basically doing this because we don't wanna sit next to you</u>
+<u n="253" who="S0325">yeah <vocal desc="laugh"/> <pause dur="short"/> and he just put all his music we were like no we didn't wanna sit there and then you moved and then you were like actually I don't like the seat</u>
+<u n="254" who="S0324"><vocal desc="laugh"/> so then it was a really bad seat it was like really wonky and it just wobbled the whole time</u>
+<u n="255" who="S0325">yeah like</u>
+<u n="256" who="S0324" trans="overlap">yeah</u>
+<u n="257" who="S0325">like <anon type="name" nameType="f"/> she the other day she sat down in English and she was like wow this seat is really firm and I was like</u>
+<u n="258" who="S0324" trans="overlap"><vocal desc="laugh"/> firm?</u>
+<u n="259" who="S0325">and she was like you know when a seat is just like not broken? and I was like</u>
+<u n="260" who="S0324">wow</u>
+<u n="261" who="S0325">and she was like actually it is broken and I was like what?</u>
+<u n="262" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="263" who="S0324">god</u>
+<u n="264" who="S0325">she was like yeah it's really broken and I was like what are you doing? <vocal desc="laugh"/> she's just really kind of like <pause dur="short"/> I think she's she doesn't like me</u>
+<u n="265" who="S0324">yes she does</u>
+<u n="266" who="S0325">but it's kind of awkward cos I don't really know what to say and I kind of just sit there and like laugh at her</u>
+<u n="267" who="S0324"><vocal desc="laugh"/></u>
+<u n="268" who="S0325">like erm she's just like oh yeah don't you <unclear>get that</unclear>? and I'm like ha ha ha yeah erm</u>
+<u n="269" who="S0324" trans="overlap"><vocal desc="laugh"/> yeah</u>
+<u n="270" who="S0325">yeah and then she was just like putting her hair on my book and I'm like yeah</u>
+<u n="271" who="S0324" trans="overlap">ha ha my hair is so much shorter than yours ha ha ha</u>
+<u n="272" who="S0325" trans="overlap">I'm like oh and she's like let's compare our hair lengths and I'm like right better pull out one of my hairs then and I'm like oh wow</u>
+<u n="273" who="S0324" trans="overlap">oh ha ha my hair falls out too <pause dur="short"/> my hair actually does fall out</u>
+<u n="274" who="S0325">my hair falls out loads</u>
+<u n="275" who="S0324">it used to fall out loads when my hair was longer <pause dur="short"/> now it's cut to well it still falls out and if I brush my hair</u>
+<u n="276" who="S0325" trans="overlap">yeah mine does it falls out more when it was longer</u>
+<u n="277" who="S0324" trans="overlap">yeah</u>
+<u n="278" who="S0325">but now it stills falls out like a bit but not as much as hers like it's cos people with long hair their hair always falls out</u>
+<u n="279" who="S0324" trans="overlap">it's not as good</u>
+<u n="280" who="S0325">yeah</u>
+<u n="281" who="S0324">like condition</u>
+<u n="282" who="S0325">yeah</u>
+<u n="283" who="S0324"><vocal desc="laugh"/> we <unclear>could really</unclear> even though my hair's <pause dur="short"/> <unclear/></u>
+<u n="284" who="S0325" trans="overlap">my hair's really like <anon type="name" nameType="n"/> literally said to me that my hair looked like a triangle</u>
+<u n="285" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="286" who="S0324"><vocal desc="laugh"/> your hair looks like a triangle?</u>
+<u n="287" who="S0325">because I was like she was like you see your hair like puffs out and I was like yeah it looks like a triangle and she was like yeah</u>
+<u n="288" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="289" who="S0325">but you but you can get away with that cos you've got really short hair and I was like oh <pause dur="short"/> thanks</u>
+<u n="290" who="S0324" trans="overlap"><vocal desc="laugh"/> thanks <pause dur="short"/> your hair does not look like a triangle</u>
+<u n="291" who="S0325">when it's puffy it looks like a triangle and it's like <pause dur="short"/> and she's like but my hair is like half wavy half straight and I'm like seriously it's fine like the other day she had her done and she was literally crying like on the way to school and she was literally like crying about her hair and she was like it's really bad oh my god it's fine</u>
+<u n="292" who="S0324" trans="overlap">that day <pause dur="short"/> that day I was like walking with her and I don't know why and you told me that she was crying and <pause dur="short"/> and then she like was telling me how she had such a bad hair day she was like you know those days when you just have such a bad hair day you just wanna stay at home because your hair is so bad and I was like <pause dur="short"/> ah ha yeah</u>
+<u n="293" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="294" who="S0325">she was literally like oh don't <unclear/> don't know what to do</u>
+<u n="295" who="S0324" trans="overlap">I care so much about my hair I literally do nothing to it every single day</u>
+<u n="296" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="297" who="S0324">I just come in with the same hair every day</u>
+<u n="298" who="S0325" trans="overlap">just <unclear/> go</u>
+<u n="299" who="S0324">she's like I just I don't know what to do and I'm like oh my gosh calm down seriously it looks fine <vocal desc="laugh"/> <pause dur="short"/> I don't know what to do I just want to stay at home cos it's so bad</u>
+<u n="300" who="S0325" trans="overlap">yeah I'm like oh my God cos</u>
+<u n="301" who="S0324" trans="overlap">because literally no one cares</u>
+<u n="302" who="S0325">yeah nobody notices unless it's like <pause dur="short"/> like greased to your face</u>
+<u n="303" who="S0324" trans="overlap">exactly</u>
+<u n="304" who="S0325">like nobody notices what your hair looks like</u>
+<u n="305" who="S0324">exactly</u>
+<u n="306" who="S0325">or unless you do some kind of like massive donut do you remember when <anon type="name" nameType="f"/> had that massive donut in her hair?</u>
+<u n="307" who="S0324"><vocal desc="laugh"/> it was like</u>
+<u n="308" who="S0325" trans="overlap">like it was literally as big as her head</u>
+<u n="309" who="S0324" trans="overlap">wider than her head <vocal desc="laugh"/> <pause dur="short"/> it was like a hat but hair</u>
+<u n="310" who="S0325">yeah and we were all like oh my God</u>
+<u n="311" who="S0324">oh my God <anon type="name" nameType="f"/>'s hair</u>
+<u n="312" who="S0325">we were like oh <pause dur="short"/> hi</u>
+<u n="313" who="S0324">hi</u>
+<u n="314" who="S0325" trans="overlap">and I'm like</u>
+<u n="315" who="S0324">nice bun</u>
+<u n="316" who="S0325">and when she had that party and they all like her <pause dur="short"/> <anon type="name" nameType="f"/> and</u>
+<u n="317" who="S0324" trans="overlap">oh yeah her <anon type="name" nameType="f"/> and <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> definitely didn't get the best one <vocal desc="laugh"/></u>
+<u n="318" who="S0325">no <vocal desc="laugh"/></u>
+<u n="319" who="S0324">cos hers is like a French plait but like snaked around her head</u>
+<u n="320" who="S0325">yeah and <anon type="name" nameType="f"/>'s was like bow wasn't it?</u>
+<u n="321" who="S0324" trans="overlap">it was really bad <pause dur="short"/> no <anon type="name" nameType="f"/>'s was a bow I think</u>
+<u n="322" who="S0325"><anon type="name" nameType="f"/> was a bow what was <anon type="name" nameType="f"/>'s?</u>
+<u n="323" who="S0324"><anon type="name" nameType="f"/>'s was like that <pause dur="short"/> bun but it was like plaited or something</u>
+<u n="324" who="S0325">oh yeah oh yeah</u>
+<u n="325" who="S0324" trans="overlap">I can't</u>
+<u n="326" who="S0325">they had like really fancy hairstyles</u>
+<u n="327" who="S0324" trans="overlap">yeah</u>
+<u n="328" who="S0325">and we all just turned up like</u>
+<u n="329" who="S0324" trans="overlap"><anon type="name" nameType="f"/>'s was nice</u>
+<u n="330" who="S0325">yeah <anon type="name" nameType="f"/>'s was nice <anon type="name" nameType="f"/>'s was alright</u>
+<u n="331" who="S0324" trans="overlap"><anon type="name" nameType="f"/>'s was alright <anon type="name" nameType="f"/>'s was</u>
+<u n="332" who="S0325" trans="overlap"><anon type="name" nameType="f"/>'s was like</u>
+<u n="333" who="S0324" trans="overlap">oh yeah</u>
+<u n="334" who="S0325">it was like flipped over like a</u>
+<u n="335" who="S0324">yeah exactly it was like an S shape on her</u>
+<u n="336" who="S0325" trans="overlap">yeah</u>
+<u n="337" who="S0324">head it was really weird</u>
+<u n="338" who="S0325" trans="overlap">it was kind of weird <vocal desc="laugh"/></u>
+<u n="339" who="S0324">we were like oh</u>
+<u n="340" who="S0325">I could have done that</u>
+<u n="341" who="S0325" trans="overlap">yeah like</u>
+<u n="342" who="S0324">like it's literally just a <trunc>Fren</trunc></u>
+<u n="343" who="S0325" trans="overlap">a French plait like around your head</u>
+<u n="344" who="S0324" trans="overlap">French plait yeah</u>
+<u n="345" who="S0325">yeah sort of couldn't it now because my hair's so short <pause dur="short"/> like if I</u>
+<u n="346" who="S0324" trans="overlap">yeah I couldn't do that to myself I could do that to her</u>
+<u n="347" who="S0325" trans="overlap">if I do the French braid now it would end like here like <anon type="name" nameType="f"/> she always has her hair like half up in a French braid</u>
+<u n="348" who="S0324" trans="overlap">mine wouldn't mine would literally <pause dur="short"/> I'd have to like tuck this under or something because I wouldn't be able to French plait it any more</u>
+<u n="349" who="S0325">can you like yeah but <anon type="name" nameType="f"/> always has hers like half French plait like half well I <trunc>s</trunc>say half it's like this much French plait and then like this much hair underneath so it's like</u>
+<u n="350" who="S0324"><vocal desc="laugh"/> nice it's like a mullet</u>
+<u n="351" who="S0325">yeah <vocal desc="laugh"/> like <anon type="name" nameType="m"/></u>
+<u n="352" who="S0324">yeah</u>
+<u n="353" who="S0325"><anon type="name" nameType="m"/> puts <unclear/> so</u>
+<u n="354" who="S0324">oh <pause dur="short"/> it's such a shame and it's really sad</u>
+<u n="355" who="S0325">I know</u>
+<u n="356" who="S0324">also I think <anon type="name" nameType="m"/> got a haircut such a</u>
+<u n="357" who="S0325" trans="overlap">he did yeah</u>
+<u n="358" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="359" who="S0325">yeah he did</u>
+<u n="360" who="S0324">oh</u>
+<u n="361" who="S0325">but he didn't get it cut much at like at the front</u>
+<u n="362" who="S0324">at the front yeah it's exactly the same</u>
+<u n="363" who="S0325" trans="overlap">I think he just got it like cut at the sides and like</u>
+<u n="364" who="S0324">so then it looks a bit weird</u>
+<u n="365" who="S0325">it's kind of still like you <pause dur="short"/> can tell when he's like woken up late cos he <unclear/> so it just flips down yesterday it was just like</u>
+<u n="366" who="S0324"><vocal desc="laugh"/></u>
+<u n="367" who="S0325">but that's how it was on the Barcelona like every time you'd look at like <anon type="name" nameType="m"/>'s Instagram whatever <pause dur="short"/> and he's like on there and he's literally got his hair like this but I'm not even joking I didn't even realise <anon type="name" nameType="m"/> went on the Barcelona trip until like</u>
+<u n="368" who="S0324">yeah that's true</u>
+<u n="369" who="S0325">I'm pretty sure he didn't say anything the whole time the one thing I do remember</u>
+<u n="370" who="S0324" trans="overlap">probably not</u>
+<u n="371" who="S0325">is when we were playing cards on the balcony and <anon type="name" nameType="m"/> goes do we have to play with them? and I was like</u>
+<u n="372" who="S0324"><vocal desc="laugh"/> yeah okay thanks a lot</u>
+<u n="373" who="S0325">and then I was like right I'm going cos I don't wanna deal with you grumpy <vocal desc="laugh"/> person like cos everyone else was like yeah</u>
+<u n="374" who="S0324" trans="overlap">yeah you know <anon type="name" nameType="m"/> was like yeah you can play with us we were like thanks</u>
+<u n="375" who="S0325" trans="overlap">and <anon type="name" nameType="m"/> was like oh why do we have to play with them? and I'm like right I'm off then fine just bring down the mood <pause dur="short"/> and I even said to him I was like yeah and then everyone else like <pause dur="short"/> I was like oh yeah and then <anon type="name" nameType="m"/> and all of them they were like erm outside flirting with all of you whilst I was inside doing my French controlled assessment and he was like <pause dur="short"/> that's why I didn't take a language and I was like <pause dur="short"/> <unclear/> you</u>
+<u n="376" who="S0324" trans="overlap"><unclear/> you</u>
+<u n="377" who="S0325">yeah but not even me cos I was sat inside like</u>
+<u n="378" who="S0324">yeah well he was with <unclear/></u>
+<u n="379" who="S0325" trans="overlap"><unclear/> the balcony then he got locked out of his room when I was getting told off by Mr <anon type="name" nameType="n"/></u>
+<u n="380" who="S0324">yes <unclear/></u>
+<u n="381" who="S0325" trans="overlap">so he was literally <unclear/> while I went the boys made me do it</u>
+<u n="382" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="383" who="S0324">and he was like <pause dur="short"/> she was a liar</u>
+<u n="384" who="S0325">yeah but he didn't hear me say that cos he didn't tell his friends that I said that</u>
+<u n="385" who="S0324">oh yeah that's true <pause dur="short"/> the boys made me climb over the balcony <vocal desc="laugh"/></u>
+<u n="386" who="S0325">and then Mr <anon type="name" nameType="n"/> went to <anon type="name" nameType="m"/> who else did it? and <anon type="name" nameType="m"/> was like erm I don't know and <anon type="name" nameType="m"/> was like I like <unclear/> and I was like well totally <anon type="name" nameType="m"/> just dobbed them in</u>
+<u n="387" who="S0324" trans="overlap">yeah exactly</u>
+<u n="388" who="S0325">but then they had a go at me for dobbing them and I was like wait hold on a minute but then I was like I'm not gonna dob in <anon type="name" nameType="m"/> cos you know I literally have no idea who this <anon type="name" nameType="m"/> kid is</u>
+<u n="389" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="390" who="S0325">like I'm not even joking in year nine nobody had any idea who <anon type="name" nameType="m"/> was</u>
+<u n="391" who="S0324" trans="overlap">yeah</u>
+<u n="392" who="S0325">in year ten since <anon type="name" nameType="f"/> was like <anon type="name" nameType="m"/> everyone was like <anon type="name" nameType="m"/> <pause dur="short"/> like literally everyone was like <anon type="name" nameType="m"/> <anon type="name" nameType="m"/></u>
+<u n="393" who="S0324" trans="overlap">yeah <pause dur="short"/> yeah and then he started spiking up his hair</u>
+<u n="394" who="S0325" trans="overlap">yeah and he's friends with <anon type="name" nameType="m"/> <vocal desc="laugh"/></u>
+<u n="395" who="S0324">and talking to <anon type="name" nameType="f"/></u>
+<u n="396" who="S0325" trans="overlap">yeah</u>
+<u n="397" who="S0324">even though he's not he's definitely not talking to <anon type="name" nameType="f"/> <vocal desc="laugh"/></u>
+<u n="398" who="S0325" trans="overlap">it's like woah no</u>
+<u n="399" who="S0324">no I'm not talking to <anon type="name" nameType="f"/> <vocal desc="laugh"/> I'm doing my maths lesson</u>
+<u n="400" who="S0325" trans="overlap">and <anon type="name" nameType="f"/>'s like oh I was talking to <anon type="name" nameType="m"/></u>
+<u n="401" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="402" who="S0324"><vocal desc="cough"/></u>
+<u n="403" who="S0325">yeah cos I remember she was like <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/> <pause dur="short"/> I never pictured that and I was like what? and she was like erm and <anon type="name" nameType="m"/> was like woah</u>
+<u n="404" who="S0324">woah no no <vocal desc="laugh"/></u>
+<u n="405" who="S0325"><vocal desc="laugh"/> that's what he always does he goes woah and I'm like what are you doing? <vocal desc="laugh"/> yeah but it's in music because like <anon type="name" nameType="f"/> is like in love with <anon type="name" nameType="m"/> basically <pause dur="short"/> because <anon type="name" nameType="m"/>'s like a cool kid <pause dur="short"/> him and <anon type="name" nameType="m"/> are like the two cool kids</u>
+<u n="406" who="S0324"><unclear/></u>
+<u n="407" who="S0325">and then there's us two like we're like the two cool kids <pause dur="short"/> out of our music class <vocal desc="laugh"/></u>
+<u n="408" who="S0324">actually yeah probably <vocal desc="laugh"/></u>
+<u n="409" who="S0325">cos it is like me you <anon type="name" nameType="m"/> and <anon type="name" nameType="m"/></u>
+<u n="410" who="S0324" trans="overlap">and <anon type="name" nameType="f"/></u>
+<u n="411" who="S0325">are like <pause dur="short"/> slightly like the outsiders <vocal desc="laugh"/> and then there's everyone else like <pause dur="short"/> yeah but we're just not part of that friendship group really are we?</u>
+<u n="412" who="S0324">yeah</u>
+<u n="413" who="S0325">like they're all kind of part of the same kind of you know</u>
+<u n="414" who="S0324">yeah that's true actually</u>
+<u n="415" who="S0325">but then it's just us four that are like slightly <pause dur="short"/> on the side</u>
+<u n="416" who="S0324" trans="overlap">so we have to be in a group with them and then <anon type="name" nameType="m"/></u>
+<u n="417" who="S0325" trans="overlap">yeah</u>
+<u n="418" who="S0324">goes grumpy when he can't do jazz</u>
+<u n="419" who="S0325">and <anon type="name" nameType="f"/> was with she I'm not gonna lie <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> <pause dur="short"/> well actually <anon type="name" nameType="f"/>'s quite flirty</u>
+<u n="420" who="S0324" trans="overlap">yes she is actually</u>
+<u n="421" who="S0325" trans="overlap">isn't she? <vocal desc="laugh"/> she is actually very flirty she's worse than me <pause dur="short"/> like I don't even</u>
+<u n="422" who="S0324" trans="overlap"><vocal desc="laugh"/> well</u>
+<u n="423" who="S0325">yeah but I don't even like talk to that many people in music I just talk to you</u>
+<u n="424" who="S0324" trans="overlap">I don't talk to that many people</u>
+<u n="425" who="S0325">and then you get moved</u>
+<u n="426" who="S0324" trans="overlap">I only talk to one girl <vocal desc="laugh"/></u>
+<u n="427" who="S0325">I promise that's you I talk to one girl and one other girl but she's way out of my league so I'm talking to you right now <vocal desc="laugh"/></u>
+<u n="428" who="S0324">right thanks</u>
+<u n="429" who="S0325">yeah but that's what <anon type="name" nameType="m"/> said</u>
+<u n="430" who="S0324">yeah I know</u>
+<u n="431" who="S0325">oh right I thought you were saying right thanks and I was like no no</u>
+<u n="432" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="433" who="S0324">no that's what I was <unclear/></u>
+<u n="434" who="S0325" trans="overlap">yeah but then you let down your sneaky guard and you got moved</u>
+<u n="435" who="S0324">yeah</u>
+<u n="436" who="S0325">but probably just cos he loves me</u>
+<u n="437" who="S0324">yeah yeah how come he didn't tell you off? I can't be gossiping <pause dur="short"/> to myself? <vocal desc="laugh"/></u>
+<u n="438" who="S0325" trans="overlap">to <vocal desc="laugh"/> and he was like when he said it to me like you she you weren't gossiping to me he was like wasn't <anon type="name" nameType="f"/> naughty? and I was like do you remember that I was actually like <unclear/></u>
+<u n="439" who="S0324" trans="overlap">but <unclear/> <pause dur="long"/> <vocal desc="laugh"/> yeah and you just went along with it like yeah yeah she is so naughty today</u>
+<u n="440" who="S0325" trans="overlap">no I was like I was like</u>
+<u n="441" who="S0324">she was just gossiping really distracting me from <anon type="name" nameType="n"/></u>
+<u n="442" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="443" who="S0325">and then he was like do you know <anon type="name" nameType="f"/>? <pause dur="short"/> of course you know <anon type="name" nameType="f"/> and I was like <pause dur="short"/> <unclear/></u>
+<u n="444" who="S0324" trans="overlap">yeah because everyone knows <unclear>me</unclear></u>
+<u n="445" who="S0325" trans="overlap">she was really naughty and I had to move her in the end and I was just there like yeah but I was actually the one she was talking to <vocal desc="laugh"/> like <pause dur="short"/> it's not like I was just sat there while you were going <anon type="name" nameType="n"/> and I'm just going</u>
+<u n="446" who="S0324"><vocal desc="laugh"/> shush please</u>
+<u n="447" who="S0325">did you hear about?</u>
+<u n="448" who="S0324">shush please</u>
+<u n="449" who="S0325">it's like <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> like she's such like a teacher's pet seriously she will not talk she will not talk when the teacher is talking like in maths you should see her in maths everyone's laughing and she's sat there like</u>
+<u n="450" who="S0324"><vocal desc="laugh"/></u>
+<u n="451" who="S0325">I'm like oh my <unclear>god</unclear> just lighten up</u>
+<u n="452" who="S0324" trans="overlap">with a stupid pout and like like how can you just sit there and <unclear/></u>
+<u n="453" who="S0325" trans="overlap">but she has such good posture as well it's so annoying it's just like</u>
+<u n="454" who="S0324" trans="overlap">oh I know like sitting straight <pause dur="short"/> I could not sit straight</u>
+<u n="455" who="S0325">and I'm just like <pause dur="short"/> yeah hey</u>
+<u n="456" who="S0324" trans="overlap">because it's so much <unclear/></u>
+<u n="457" who="S0325" trans="overlap">sometimes I realise like how bad my posture is when I'm sitting there in science like on the table and <anon type="name" nameType="f"/>'s like</u>
+<u n="458" who="S0324">you're sitting on the table?</u>
+<u n="459" who="S0325">yeah like when cos in physics basically he makes like every lesson going around and I just sit on the table like on this side and I'm sat there like this <pause dur="short"/> and then I'm like wait hold on a minute like my posture is so bad <vocal desc="laugh"/></u>
+<u n="460" who="S0324">yeah my posture is really bad like I sit on the sofa like this</u>
+<u n="461" who="S0325">yeah but I just lean I just lean forward like when I'm sitting I I can't like sit like this</u>
+<u n="462" who="S0324" trans="overlap">I like curl my back really badly</u>
+<u n="463" who="S0325">like how do people sit like this?</u>
+<u n="464" who="S0324">I know <pause dur="short"/> like <unclear>Mandarin</unclear></u>
+<u n="465" who="S0325">it's so painful</u>
+<u n="466" who="S0324">I know</u>
+<u n="467" who="S0325">and like <unclear/></u>
+<u n="468" who="S0325" trans="overlap">even though every time <anon type="name" nameType="f"/> is there in like a perfect posture because I'm taller than her even though one day she's gonna be taller than me and it's gonna be really</u>
+<u n="469" who="S0325" trans="overlap">no she's not</u>
+<u n="470" who="S0324">yeah she is both her parents are taller than my parents</u>
+<u n="471" who="S0325" trans="overlap">she's not that tall <pause dur="short"/> yeah but she's not that tall is she?</u>
+<u n="472" who="S0324">no but she will be <unclear/></u>
+<u n="473" who="S0325" trans="overlap">she called me a midget</u>
+<u n="474" who="S0324">yeah that's</u>
+<u n="475" who="S0325" trans="overlap">because she's taller than me</u>
+<u n="476" who="S0324">just because she's finally pleased that she's actually tall like</u>
+<u n="477" who="S0325" trans="overlap">yeah</u>
+<u n="478" who="S0324">she used to be really small</u>
+<u n="479" who="S0325">yeah</u>
+<u n="480" who="S0324">and now she's pleased that she's small and she calls everyone a midget</u>
+<u n="481" who="S0325" trans="overlap">to be honest</u>
+<u n="482" who="S0324" trans="overlap">she called all her family a midget <pause dur="short"/> midgets</u>
+<u n="483" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="484" who="S0324">like when she was around on the weekend and she was ill and she didn't talk apart from the time when we were talking about how tall she was</u>
+<u n="485" who="S0325" trans="overlap">yeah</u>
+<u n="486" who="S0324">and it was like yeah all my family are midgets and I was like right okay yeah but like I'm taller than most of my family and they're not midgets</u>
+<u n="487" who="S0325">yeah exactly <vocal desc="laugh"/> I wouldn't be like to my mum and be like</u>
+<u n="488" who="S0324">you're a midget you're a midget</u>
+<u n="489" who="S0325">yeah but I don't understand like how people are so tall?</u>
+<u n="490" who="S0324" trans="overlap">I'm taller than my mum</u>
+<u n="491" who="S0325">everyone's so tall</u>
+<u n="492" who="S0324">everyone is really tall</u>
+<u n="493" who="S0325">yeah and I'm just I've just stopped growing</u>
+<u n="494" who="S0324">like literally all the boys they're like</u>
+<u n="495" who="S0325" trans="overlap">I know</u>
+<u n="496" who="S0324">how tall? like literally</u>
+<u n="497" who="S0325" trans="overlap">so like literally in Japan <pause dur="short"/> I was taller than like most of the like adults I was like the same height as all the adults nobody in Japan is tall so I felt really tall and when I come back to England I'm like</u>
+<u n="498" who="S0324" trans="overlap">yeah literally my family my family makes me feel so tall and then when I get back to school I'm not even that tall <vocal desc="laugh"/></u>
+<u n="499" who="S0325">yeah like I'm like at school like woah</u>
+<u n="500" who="S0324">like you stand up and then everyone's like <pause dur="short"/> really</u>
+<u n="501" who="S0325" trans="overlap">yeah</u>
+<u n="502" who="S0324">tall and you have to like</u>
+<u n="503" who="S0325">look up <unclear/> really tiny year sevens like down here</u>
+<u n="504" who="S0324">year seven are finally taller than some of <vocal desc="laugh"/></u>
+<u n="505" who="S0325"><vocal desc="laugh"/> year eights <unclear/> kicked out there</u>
+<u n="506" who="S0324">and she was like when I'm grumpy I can be rude and I was like mm yeah <vocal desc="laugh"/></u>
+<u n="507" who="S0325">yeah maybe <vocal desc="laugh"/></u>
+<u n="508" who="S0324">and she was like but I wasn't rude today I just told them to get out and it's like that sounds kind of rude to me <vocal desc="laugh"/></u>
+<u n="509" who="S0325">she was like this is unacceptable get out</u>
+<u n="510" who="S0324"><vocal desc="laugh"/> yeah and they were like we have nowhere to go and she was like well why don't you just get out then?</u>
+<u n="511" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="512" who="S0325">yeah that's totally not rude</u>
+<u n="513" who="S0324">there's no rooms there's no rooms for it well just get out then</u>
+<u n="514" who="S0325">and like oh well that's</u>
+<u n="515" who="S0324">and was really polite</u>
+<u n="516" who="S0325"><unclear>well yeah</unclear></u>
+<u n="517" who="S0324">actually that is kind of polite for her</u>
+<u n="518" who="S0325"><vocal desc="laugh"/> is it?</u>
+<u n="519" who="S0324">yeah cos normally she'd just like stare at them and be like <pause dur="short"/> get out</u>
+<u n="520" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="521" who="S0325">I can actually imagine her doing that</u>
+<u n="522" who="S0324">stop it <pause dur="short"/> shut up</u>
+<u n="523" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="524" who="S0324">I'm trying to have a lesson here so get out</u>
+<u n="525" who="S0325">does she do that to people like outside of lessons?</u>
+<u n="526" who="S0324">yeah she always used to do that like when I had my lesson down in the old practise room I had it in opposite the computer room</u>
+<u n="527" who="S0325">yeah</u>
+<u n="528" who="S0324">and there's all like year sevens running around and she used to like stand outside and stare at them and be like I have a student and we're doing proper music so can you please be quiet</u>
+<u n="529" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="530" who="S0324">and I had to stand there like hiya <unclear/> <vocal desc="laugh"/></u>
+<u n="531" who="S0325">alright guys <vocal desc="laugh"/></u>
+<u n="532" who="S0324">I'm doing proper music you're running around in the corridor</u>
+<u n="533" who="S0325" trans="overlap">proper <pause dur="short"/> yeah like literally when <unclear>we were</unclear> in room eighteen all you can hear is them year sevens on their recorders like</u>
+<u n="534" who="S0324" trans="overlap">yeah <unclear/> <shift new="singing"/> wha we we we we we <shift new="normal"/> and it's like windy sound</u>
+<u n="535" who="S0325" trans="overlap">ah yeah</u>
+<u n="536" who="S0324">I don't know how to</u>
+<u n="537" who="S0325" trans="overlap">and I'm just like</u>
+<u n="538" who="S0324">it's such a horrible sound <shift new="singing"/> mm mm mm <shift new="normal"/></u>
+<u n="539" who="S0325">it was horrible like the sound of and then <anon type="name" nameType="f"/> is like the recorder is not what did she say? the recorder is not a stupid instrument</u>
+<u n="540" who="S0324" trans="overlap">oh <pause dur="short"/> she got a recorder for <trunc>C</trunc>Christmas <vocal desc="laugh"/> for a Christmas present</u>
+<u n="541" who="S0325" trans="overlap">does she not already have like four recorders?</u>
+<u n="542" who="S0324">yeah she does but she got a fancy handmade wood one from Germany <vocal desc="laugh"/> for Christmas</u>
+<u n="543" who="S0325">wow</u>
+<u n="544" who="S0324">what a great Christmas present</u>
+<u n="545" who="S0325" trans="overlap">yeah but I swear like well like five minutes I'm not even joking five minutes and I could probably be able to play like Frère Jacques on the recorder</u>
+<u n="546" who="S0324">yeah exactly you just</u>
+<u n="547" who="S0325" trans="overlap">all you do is just go it's like there's like four keys like it's not even keys it's just holes</u>
+<u n="548" who="S0324" trans="overlap">yeah it's not yeah it's <pause dur="short"/> literally you could probably only play eight notes on the recorder</u>
+<u n="549" who="S0325">yeah like literally what can you play on the recorder? like if it's a proper like big recorder then fair enough</u>
+<u n="550" who="S0324" trans="overlap">yeah if it's like one of those bass recorders they sound</u>
+<u n="551" who="S0325" trans="overlap">yeah</u>
+<u n="552" who="S0324">okay that's okay</u>
+<u n="553" who="S0325">but when it's like the little plastic like Yamaha</u>
+<u n="554" who="S0324" trans="overlap">er they're so er <pause dur="short"/> yeah</u>
+<u n="555" who="S0325">you know like little recorders and you're like <shift new="singing"/> ba ba be be be be <shift new="normal"/> it's so like</u>
+<u n="556" who="S0324"><shift new="singing"/> be boop ooh ooh ooh ooh <shift new="normal"/></u>
+<u n="557" who="S0325" trans="overlap">oh it's like the ocarina oh my gosh that was the most horrible thing I've ever done in my life</u>
+<u n="558" who="S0324" trans="overlap">oh <pause dur="short"/> those were even more windy sounding like windy <vocal desc="laugh"/> you know I don't know they just sound like a breeze squeaking on something I don't know like when the classroom next door all you could hear was like <shift new="singing"/> mm <shift new="normal"/></u>
+<u n="559" who="S0325" trans="overlap">yeah <vocal desc="laugh"/> <pause dur="short"/> but like they sound horrible like in the performances everyone playing their ocarina together literally sounds like squeaky</u>
+<u n="560" who="S0324" trans="overlap">and then the parents would have to be like that was so pleasing well done <vocal desc="misc"/></u>
+<u n="561" who="S0325" trans="overlap">yeah they were like <pause dur="short"/> and we're all just sat there like <pause dur="short"/> mm mm <vocal desc="laugh"/></u>
+<u n="562" who="S0324">even though not some people like thought they were amazing and like</u>
+<u n="563" who="S0325" trans="overlap">yeah</u>
+<u n="564" who="S0324">thought it was really good</u>
+<u n="565" who="S0325">and then some right we'd just blow as hard as we could</u>
+<u n="566" who="S0324">to squeak it <vocal desc="laugh"/></u>
+<u n="567" who="S0325">we'd be like <vocal desc="misc"/></u>
+<u n="568" who="S0324">and then it would like squeak so badly oh</u>
+<u n="569" who="S0325" trans="overlap">yeah <pause dur="short"/> that's like me on the clarinet and I just sit there like this like <anon type="name" nameType="m"/> went in with his bass clarinet like <pause dur="short"/> <vocal desc="misc"/></u>
+<u n="570" who="S0324" trans="overlap"><vocal desc="laugh"/> why did he and it's so high literally</u>
+<u n="571" who="S0325">I know he's literally like</u>
+<u n="572" who="S0324"><vocal desc="cough"/> facing the ceiling</u>
+<u n="573" who="S0325">yeah</u>
+<u n="574" who="S0324"><trunc>s</trunc> I'm really jealous of him</u>
+<u n="575" who="S0325">well yeah but the mouthpiece is like mouldy it was like the mouthpiece smells a bit funny and we were like oh</u>
+<u n="576" who="S0324"><vocal desc="laugh"/> ah that's gross</u>
+<u n="577" who="S0325" trans="overlap">er <vocal desc="laugh"/></u>
+<u n="578" who="S0324">can't you use your own mouthpiece though?</u>
+<u n="579" who="S0325" trans="overlap">no</u>
+<u n="580" who="S0324">surely it's like the same?</u>
+<u n="581" who="S0325">no it's bigger <pause dur="short"/> on the bass clarinet it's like a saxophone mouthpiece</u>
+<u n="582" who="S0324">oh right</u>
+<u n="583" who="S0325">but like not</u>
+<u n="584" who="S0324">nice</u>
+<u n="585" who="S0325">I really want to buy a saxophone I was like to my parents I said</u>
+<u n="586" who="S0324" trans="overlap">so do I actually</u>
+<u n="587" who="S0325">I'm gonna save up and buy a saxophone and they just laughed at me and I was like</u>
+<u n="588" who="S0324">great</u>
+<u n="589" who="S0325">and my mum was like do you know how much saxophones cost? I was like <pause dur="short"/> yeah</u>
+<u n="590" who="S0324" trans="overlap">yeah but <unclear/> <pause dur="short"/> really expensive</u>
+<u n="591" who="S0325">she was like <pause dur="short"/> good luck and I was like hey I've got I've got you know I'm doing my paper round now and she was like yeah good luck with that</u>
+<u n="592" who="S0324" trans="overlap">I still have no money oh I'm so depressed I'm really looking forward to Friday</u>
+<u n="593" who="S0325">it's it's fine it's two weeks</u>
+<u n="594" who="S0324" trans="overlap">but I have no money</u>
+<u n="595" who="S0325">yeah but by that point you'll have like ten pounds in from the paper round</u>
+<u n="596" who="S0324">ten pounds extra <vocal desc="laugh"/></u>
+<u n="597" who="S0325">yeah</u>
+<u n="598" who="S0324">I'll have fifty pounds instead of <trunc>for</trunc></u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>

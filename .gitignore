@@ -1,11 +1,15 @@
 # output
-source/*.txt
+# source/*.txt
+# *.zip
+# output/*.csv
+# bigram/*.csv
+# bigram/*.png
+# trigram/*.csv
+# trigram/*.png
+# corpus/
+# corpus_processed/
+# output/
+
 *.zip
-output/*.csv
-bigram/*.csv
-bigram/*.png
-trigram/*.csv
-trigram/*.png
-corpus/
-corpus_processed/
-output/
+*.csv
+*.txt

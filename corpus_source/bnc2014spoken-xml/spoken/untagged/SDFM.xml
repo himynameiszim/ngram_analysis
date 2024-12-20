@@ -1,0 +1,986 @@
+<text id="SDFM">
+	<header>
+		<rec_length>0:24:04</rec_length>
+		<rec_date>2015-01-04</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q1</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0104 S0108 S0110 S0167 S0186</list_speakers>
+		<rec_loc>Speakers' home</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Birthday messages, New Year celebrations, work, social media, evening plans, job interview, foreign affairs, homosexuality, birthday presents, house décor, pets</topics>
+		<activity>Family chats</activity>
+		<conv_type>Discussing, explaining, inquiring, anecdote telling, making arrangements, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0104">
+				<exactage>49</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Kemsing, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Kent</dialect_rep>
+				<hab_city>Ashford, Kent</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>24 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>southeast</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Registered general nurse</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0108">
+				<exactage>21</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Ashford, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>South East Kent</dialect_rep>
+				<hab_city>Faversham</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1.5 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>southeast</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Hairdresser</occupation>
+				<socgrade>D</socgrade>
+				<nssec>7</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0110">
+				<exactage>57</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Southport</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Kent</dialect_rep>
+				<hab_city>Ashford, Kent</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>25 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>southeast</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Head of Department</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0167">
+				<exactage>24</exactage>
+				<age1994>15_24</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Ashford, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>South East/Kent</dialect_rep>
+				<hab_city>Romney Marsh, Kent</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>24 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>southeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Copywriter</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0186">
+				<exactage>32</exactage>
+				<age1994>25_34</age1994>
+				<agerange>30_39</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Faversham, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>South East/Kent</dialect_rep>
+				<hab_city>Faversham</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>32 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>southeast</dialect_l4>
+				<edqual>3_sixthform</edqual>
+				<occupation>Silversmith</occupation>
+				<socgrade>C2</socgrade>
+				<nssec>5</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0167">what's happened? <pause dur="short"/> what's happened?</u>
+<u n="2" who="S0108"><anon type="name" nameType="f"/> sent a birthday message</u>
+<u n="3" who="S0167">what's wrong with that?</u>
+<u n="4" who="S0186">she she keeps laughing at me cos I every <trunc>ti</trunc> I've had like twenty-five messages today <event desc="sound of knocking"/> happy birthday</u>
+<u n="5" who="S0167">yeah</u>
+<u n="6" who="S0186">and whenever I</u>
+<u n="7" who="S0104">that's why I didn't write it on Facebook</u>
+<u n="8" who="S0186">no</u>
+<u n="9" who="S0167"><vocal desc="laugh"/></u>
+<u n="10" who="S0186">but erm every every time I you know had had a message <anon type="name" nameType="f"/>'s been like you don't have to say ah for every single one</u>
+<u n="11" who="S0167">mm</u>
+<u n="12" who="S0186">but it's like <anon type="name" nameType="f"/> it's just like ah</u>
+<u n="13" who="S0108" trans="overlap">it was when he was reading it he was going ah</u>
+<u n="14" who="S0186" trans="overlap">ah</u>
+<u n="15" who="S0108">ah <vocal desc="laugh"/></u>
+<u n="16" who="S0186">yes <vocal desc="laugh"/></u>
+<u n="17" who="S0167"><vocal desc="laugh"/></u>
+<u n="18" who="S0104">how was New Year's Eve?</u>
+<u n="19" who="S0108">it was good we were up till half four</u>
+<u n="20" who="S0186">yeah</u>
+<u n="21" who="S0104">were you? who was here?</u>
+<u n="22" who="S0108">erm well</u>
+<u n="23" who="S0186">just</u>
+<u n="24" who="S0108">it was your <trunc>mu</trunc> your mum and dad but I didn't know they were coming though <pause dur="short"/> your mum and dad then</u>
+<u n="25" who="S0186">mum mum wanted</u>
+<u n="26" who="S0108" trans="overlap"><anon type="name" nameType="f"/> and <anon type="name" nameType="m"/></u>
+<u n="27" who="S0186" trans="overlap">to see <anon type="name" nameType="m"/></u>
+<u n="28" who="S0108"><anon type="name" nameType="f"/> and <anon type="name" nameType="m"/> and <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/></u>
+<u n="29" who="S0104">oh right yeah</u>
+<u n="30" who="S0186" trans="overlap">but it was quite funny cos</u>
+<u n="31" who="S0108" trans="overlap">you know <anon type="name" nameType="m"/> and <anon type="name" nameType="f"/>?</u>
+<u n="32" who="S0186" trans="overlap">mum and dad</u>
+<u n="33" who="S0108">his brother <unclear/></u>
+<u n="34" who="S0186" trans="overlap">mum and dad weren't gonna come</u>
+<u n="35" who="S0104" trans="overlap">oh</u>
+<u n="36" who="S0186">because dad was <trunc>s</trunc> <trunc>s</trunc> being a bit I don't know a bit particular er what he wanted to do</u>
+<u n="37" who="S0108">when I asked him he went <trunc>s</trunc> erm no that's a lovely offer but I've got a nice quiet we've got a nice <trunc>pl</trunc> quiet a night planned and a nice bottle of champagne haven't we darling? <vocal desc="laugh"/> and she was like</u>
+<u n="38" who="S0186">and she was like brilliant</u>
+<u n="39" who="S0108">yeah</u>
+<u n="40" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="41" who="S0186">and so mum <pause dur="short"/> ended up <pause dur="short"/> having a bit of a ah a say really would like to cos get to see <anon type="name" nameType="m"/> and</u>
+<u n="42" who="S0104" trans="overlap">mm</u>
+<u n="43" who="S0186"><anon type="name" nameType="f"/> a bit more so they came over about eight o'clock wasn't it?</u>
+<u n="44" who="S0108">around that I think</u>
+<u n="45" who="S0186">and they were just gonna stay for a couple of hours and then there basically we just tried to make them stay as long as</u>
+<u n="46" who="S0108" trans="overlap">and <anon type="name" nameType="f"/> was telling the most embarrassing stories</u>
+<u n="47" who="S0186">about what?</u>
+<u n="48" who="S0108" trans="overlap">apparently <pause dur="short"/> about like</u>
+<u n="49" who="S0167" trans="overlap">like what?</u>
+<u n="50" who="S0108">going to</u>
+<u n="51" who="S0186" trans="overlap">just her</u>
+<u n="52" who="S0108">going to get in a <trunc>ta</trunc> <vocal desc="laugh"/> about forgetting she had a tampon in and left it up for two weeks and</u>
+<u n="53" who="S0167">oh <vocal desc="laugh"/></u>
+<u n="54" who="S0108">it smelt fishy</u>
+<u n="55" who="S0104">oh</u>
+<u n="56" who="S0167"><vocal desc="laugh"/></u>
+<u n="57" who="S0186">she just</u>
+<u n="58" who="S0167">did that actually happen <anon type="name" nameType="f"/>?</u>
+<u n="59" who="S0108">yeah</u>
+<u n="60" who="S0104">and what did they say were they shocked?</u>
+<u n="61" who="S0108" trans="overlap">no I don't I dunno what they were I wasn't looking at them</u>
+<u n="62" who="S0167">mm <vocal desc="laugh"/> oh dear <pause dur="short"/> oh</u>
+<u n="63" who="S0186">yeah</u>
+<u n="64" who="S0167">maybe they don't want you as a daughter in law now</u>
+<u n="65" who="S0108"><vocal desc="laugh"/></u>
+<u n="66" who="S0186">what else? oh they were just just try to be a bit embarrassing but it was just funny <pause dur="short"/> well <pause dur="short"/> I think it was quite funny actually <pause dur="short"/> but my dad was just like looking at his watch at like ten o'clock going well <vocal desc="cough"/></u>
+<u n="67" who="S0108"><vocal desc="laugh"/></u>
+<u n="68" who="S0186">so everyone just er filled up my mum's glass with wine so she I've got lots of wine and then she got really drunk</u>
+<u n="69" who="S0108">yeah and then they</u>
+<u n="70" who="S0167" trans="overlap">oh <unclear/></u>
+<u n="71" who="S0186"><vocal desc="laugh"/></u>
+<u n="72" who="S0108">they ended up staying till midnight didn't they?</u>
+<u n="73" who="S0186">and then went about half an hour afterwards</u>
+<u n="74" who="S0108">yeah</u>
+<u n="75" who="S0167">did you watch Big Ben?</u>
+<u n="76" who="S0108">yeah</u>
+<u n="77" who="S0186">I think so yeah put it on the think <pause dur="short"/> bit rubbish it's always I dunno I always find the the telly</u>
+<u n="78" who="S0108" trans="overlap">but I wanna do</u>
+<u n="79" who="S0186" trans="overlap">on that part of the</u>
+<u n="80" who="S0108" trans="overlap">er something like that for New Year not like a party but the same kind of thing just have a few people next year because I much prefer it when than going out</u>
+<u n="81" who="S0108">do you?</u>
+<u n="82" who="S0167">well invite me next year</u>
+<u n="83" who="S0108">well you were going out</u>
+<u n="84" who="S0186">yeah we would have invited you</u>
+<u n="85" who="S0167">would you?</u>
+<u n="86" who="S0186">yes</u>
+<u n="87" who="S0108">er what did you say?</u>
+<u n="88" who="S0186">what?</u>
+<u n="89" who="S0108">what did you say before she came round there on the day?</u>
+<u n="90" who="S0186">oh yeah what's <anon type="name" nameType="f"/> doing did you invite her?</u>
+<u n="91" who="S0167">oh okay</u>
+<u n="92" who="S0186" trans="overlap">and <anon type="name" nameType="f"/> said oh she's going out with all her friends that she hasn't seen for ages</u>
+<u n="93" who="S0167">oh okay that's okay then</u>
+<u n="94" who="S0186" trans="overlap">and I was thinking yeah fair enough</u>
+<u n="95" who="S0110">yeah and why didn't you invite mum?</u>
+<u n="96" who="S0108">I did invite mum and you</u>
+<u n="97" who="S0108">but she wouldn't go</u>
+<u n="98" who="S0104">why didn't you come?</u>
+<u n="99" who="S0110">oh I don't celebrate New Year <pause dur="short"/> I don't do it</u>
+<u n="100" who="S0108">I invited you both ages ago</u>
+<u n="101" who="S0110">I don't think you did I think you</u>
+<u n="102" who="S0108" trans="overlap">mum</u>
+<u n="103" who="S0110">deliberately so that</u>
+<u n="104" who="S0108" trans="overlap"><trunc>sh</trunc> didn't I say to you</u>
+<u n="105" who="S0110">I couldn't come and your mum</u>
+<u n="106" who="S0108">mum?</u>
+<u n="107" who="S0167"><vocal desc="laugh"/></u>
+<u n="108" who="S0104">erm <pause dur="short"/> yeah I think so I don't</u>
+<u n="109" who="S0167"><vocal desc="laugh"/></u>
+<u n="110" who="S0110"><vocal desc="laugh"/></u>
+<u n="111" who="S0108">I hundred percent</u>
+<u n="112" who="S0104">oh</u>
+<u n="113" who="S0108">I hundred percent invited you both</u>
+<u n="114" who="S0104">did you?</u>
+<u n="115" who="S0186" trans="overlap">because</u>
+<u n="116" who="S0104">oh you know</u>
+<u n="117" who="S0110">mm <pause dur="short"/> did actually</u>
+<u n="118" who="S0108">I did didn't</u>
+<u n="119" who="S0104" trans="overlap">well yeah erm yeah cos</u>
+<u n="120" who="S0186">I?</u>
+<u n="121" who="S0110">you did yeah</u>
+<u n="122" who="S0104" trans="overlap">I was at work as I will do next year</u>
+<u n="123" who="S0108" trans="overlap">and you said well I'm working but dad might be able to</u>
+<u n="124" who="S0104">I</u>
+<u n="125" who="S0108" trans="overlap">dad and <anon type="name" nameType="f"/></u>
+<u n="126" who="S0104">I will be working next year as well</u>
+<u n="127" who="S0108">why don't you book it off?</u>
+<u n="128" who="S0104">I can't book it off because it's my night <pause dur="short"/> it'll be on Thursday</u>
+<u n="129" who="S0108">yes so don't say I didn't invite any of you</u>
+<u n="130" who="S0104" trans="overlap">well I might actually I might be able to I didn't I <trunc>bu</trunc> I didn't say that</u>
+<u n="131" who="S0110">I think you didn't did you?</u>
+<u n="132" who="S0104">I might be able to erm swap next year with <anon type="name" nameType="f"/> I think</u>
+<u n="133" who="S0167">at least the year after you will be</u>
+<u n="134" who="S0104">no</u>
+<u n="135" who="S0110">that's a leap year so it won't happen next er the year after will it?</u>
+<u n="136" who="S0104">oh</u>
+<u n="137" who="S0104">yeah it will</u>
+<u n="138" who="S0110">if it's a leap year</u>
+<u n="139" who="S0167">well even if it's a leap year it will go to Saturday so you still might be working</u>
+<u n="140" who="S0104" trans="overlap">yeah it will it just pushes it all forward a <unclear/></u>
+<u n="141" who="S0108" trans="overlap">it doesn't mean it leaps it</u>
+<u n="142" who="S0110">oh I thought it meant you didn't have New Year</u>
+<u n="143" who="S0186">yeah I thought that it meant that</u>
+<u n="144" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="145" who="S0186">I thought you just got on with the</u>
+<u n="146" who="S0110" trans="overlap">yeah</u>
+<u n="147" who="S0186">normal yeah</u>
+<u n="148" who="S0110" trans="overlap">yeah</u>
+<u n="149" who="S0167">well</u>
+<u n="150" who="S0108"><vocal desc="laugh"/></u>
+<u n="151" who="S0167">such an idiot</u>
+<u n="152" who="S0104">anyway <pause dur="short"/> it doesn't it I will get two or three clear years but the <trunc>peo</trunc> leap year does push it forward so that</u>
+<u n="153" who="S0110" trans="overlap">mm</u>
+<u n="154" who="S0104">I don't get as many as I should considering how many I work</u>
+<u n="155" who="S0108">surely it happens to everyone there</u>
+<u n="156" who="S0110">yeah</u>
+<u n="157" who="S0104">erm</u>
+<u n="158" who="S0108">yeah</u>
+<u n="159" who="S0110">well it must be the same for everyone</u>
+<u n="160" who="S0104">yeah it's just that</u>
+<u n="161" who="S0110" trans="overlap">it's not just you that <unclear/></u>
+<u n="162" who="S0104" trans="overlap">it seems worse for me cos I work er of all the night nurses I work the most amount of nights</u>
+<u n="163" who="S0110" trans="overlap">right oh see</u>
+<u n="164" who="S0104" trans="overlap">in a</u>
+<u n="165" who="S0108" trans="overlap">oh okay</u>
+<u n="166" who="S0104" trans="overlap">er in a week</u>
+<u n="167" who="S0110">yeah</u>
+<u n="168" who="S0104">so it's always worse</u>
+<u n="169" who="S0110">yeah</u>
+<u n="170" who="S0104">for me</u>
+<u n="171" who="S0110">yeah</u>
+<u n="172" who="S0108">anyway most people hate New Year's Eve don't they?</u>
+<u n="173" who="S0110">do they?</u>
+<u n="174" who="S0108">well not hate it but</u>
+<u n="175" who="S0110">I don't like it really</u>
+<u n="176" who="S0104" trans="overlap">I quite like New Year's Eve but it just seems like it's so many years since I've actually been able to do anything</u>
+<u n="177" who="S0110" trans="overlap">mm</u>
+<u n="178" who="S0104" trans="overlap">on New Year's Eve</u>
+<u n="179" who="S0108">I like New Year's Eve it's just I hate going out for New Year's Eve</u>
+<u n="180" who="S0104">we had a little drink at work but and erm watched the telly and er in fact <anon type="name" nameType="f"/> got <anon type="name" nameType="f"/> and I got a little bit pissed <vocal desc="laugh"/></u>
+<u n="181" who="S0167"><vocal desc="laugh"/> mum</u>
+<u n="182" who="S0104"><vocal desc="laugh"/></u>
+<u n="183" who="S0186">god they're gonna enjoy this conversation aren't they?</u>
+<u n="184" who="S0104"><vocal desc="laugh"/></u>
+<u n="185" who="S0186">it'll be like well</u>
+<u n="186" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="187" who="S0167"><vocal desc="laugh"/> they might call the police</u>
+<u n="188" who="S0186">there's a <vocal desc="laugh"/> an alcoholic nurse</u>
+<u n="189" who="S0104" trans="overlap">oh yeah but they don't know what I do for a living</u>
+<u n="190" who="S0186" trans="overlap">a girl that doesn't know anything about <unclear/></u>
+<u n="191" who="S0167">oh they didn't they didn't until you filled out the form</u>
+<u n="192" who="S0186"><unclear/></u>
+<u n="193" who="S0104">oh yeah</u>
+<u n="194" who="S0167"><vocal desc="laugh"/></u>
+<u n="195" who="S0186"><unclear/></u>
+<u n="196" who="S0104">but they don't know who I am now</u>
+<u n="197" who="S0167">they might do</u>
+<u n="198" who="S0104">anyway <pause dur="short"/> and yeah and we had a couple of the patients like we had quite a good time New Year's Eve</u>
+<u n="199" who="S0186">don't bend it</u>
+<u n="200" who="S0110">why do you do those dressing up at that as nurses and</u>
+<u n="201" who="S0108"><vocal desc="laugh"/></u>
+<u n="202" who="S0110">doing that as a job do you ever do a different uniforms?</u>
+<u n="203" who="S0104">mm yes sometimes we dress up as erm Geisha girls</u>
+<u n="204" who="S0110">yeah yeah and what else do you do?</u>
+<u n="205" who="S0108">what?</u>
+<u n="206" who="S0186">police? do you ever dress up as the police?</u>
+<u n="207" who="S0110" trans="overlap">police?</u>
+<u n="208" who="S0104">police yeah</u>
+<u n="209" who="S0110" trans="overlap">yes yeah</u>
+<u n="210" who="S0104" trans="overlap">often yeah</u>
+<u n="211" who="S0110" trans="overlap">yeah</u>
+<u n="212" who="S0104">police is always a bit of a laugh</u>
+<u n="213" who="S0110">yeah</u>
+<u n="214" who="S0108">dad you're a <unclear>freak</unclear></u>
+<u n="215" who="S0186" trans="overlap">are you not gonna play?</u>
+<u n="216" who="S0104">oh good for you <anon type="name" nameType="f"/> bloody <anon type="name" nameType="n"/></u>
+<u n="217" who="S0110">oh what? please</u>
+<u n="218" who="S0104">oh she pisses me off</u>
+<u n="219" who="S0110">what what?</u>
+<u n="220" who="S0104">right <pause dur="short"/> this it just booked a last <trunc>minu</trunc></u>
+<u n="221" who="S0110" trans="overlap"><anon type="name" nameType="f"/> listen</u>
+<u n="222" who="S0104">just booked a last minute deal that's it so now she wants everyone to think oh</u>
+<u n="223" who="S0186" trans="overlap">do it</u>
+<u n="224" who="S0104">where are you going?</u>
+<u n="225" who="S0186">do it</u>
+<u n="226" who="S0104">why do people do that? if you're gonna <trunc>sa</trunc> if you want everyone to know where you've gone just say I've just booked</u>
+<u n="227" who="S0186" trans="overlap">just write just write</u>
+<u n="228" who="S0104">yeah</u>
+<u n="229" who="S0186">Dignitas is good this time of year</u>
+<u n="230" who="S0104">no someone's written <trunc>s</trunc> she's only got one comment</u>
+<u n="231" who="S0108" trans="overlap">what's Dignitas?</u>
+<u n="232" who="S0104" trans="overlap">that's yay where are you off to? which she hasn't replied cos obviously people are waiting</u>
+<u n="233" who="S0110"><vocal desc="laugh"/></u>
+<u n="234" who="S0186">I'm just seriously I thought that was quite a funny joke</u>
+<u n="235" who="S0104" trans="overlap">where's that? where's quite?</u>
+<u n="236" who="S0186">Dignatas is quite good this time of year</u>
+<u n="237" who="S0167" trans="overlap">isn't it in Switzerland where they</u>
+<u n="238" who="S0104">oh the</u>
+<u n="239" who="S0167" trans="overlap">people go to?</u>
+<u n="240" who="S0104" trans="overlap">the suicide</u>
+<u n="241" who="S0186" trans="overlap">euthanise yeah</u>
+<u n="242" who="S0104">clinic</u>
+<u n="243" who="S0186" trans="overlap">yeah yeah</u>
+<u n="244" who="S0104">yeah</u>
+<u n="245" who="S0186" trans="overlap">yeah yeah yeah</u>
+<u n="246" who="S0104">yeah</u>
+<u n="247" who="S0186">it's where</u>
+<u n="248" who="S0104">oh I wish <pause dur="short"/> she doesn't well why if you're gonna if you want everyone to know</u>
+<u n="249" who="S0167">bit strong</u>
+<u n="250" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="251" who="S0110">oh man that's gone too quickly</u>
+<u n="252" who="S0104"><vocal desc="laugh"/> just say</u>
+<u n="253" who="S0110"><vocal desc="laugh"/></u>
+<u n="254" who="S0104">oh just booked to go to so and so don't put oh yes just booked and then wait for everybody to say oh where have you been oh she gets on my nerves this girl</u>
+<u n="255" who="S0108"><vocal desc="laugh"/></u>
+<u n="256" who="S0104">everybody gets on my nerves <vocal desc="laugh"/> but</u>
+<u n="257" who="S0108" trans="overlap">yeah everyone gets on</u>
+<u n="258" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="259" who="S0104"><unclear/></u>
+<u n="260" who="S0108">yesterday</u>
+<u n="261" who="S0110">do you need a hug quickly?</u>
+<u n="262" who="S0104"><vocal desc="laugh"/></u>
+<u n="263" who="S0108">you're very uptight tonight I feel a bit like whatever I say <vocal desc="laugh"/> is wrong</u>
+<u n="264" who="S0104"><vocal desc="laugh"/></u>
+<u n="265" who="S0186">I'm a little bit scared</u>
+<u n="266" who="S0110"><vocal desc="laugh"/></u>
+<u n="267" who="S0104"><vocal desc="laugh"/> oh my my you're funny <pause dur="short"/> she drives me mad</u>
+<u n="268" who="S0108">but sorry I can't do your hair on Saturday well why not Saturday? cos I'm busy on Saturday</u>
+<u n="269" who="S0104">so when have we decided?</u>
+<u n="270" who="S0108" trans="overlap">I'll do it Sunday Sunday morning</u>
+<u n="271" who="S0104"><anon type="name" nameType="f"/>'s daughter is so beautiful</u>
+<u n="272" who="S0108" trans="overlap">fine but why can't you do Saturday?</u>
+<u n="273" who="S0167">you think?</u>
+<u n="274" who="S0104">oh I think she's gorgeous don't you?</u>
+<u n="275" who="S0110">who?</u>
+<u n="276" who="S0167">she's quite cute</u>
+<u n="277" who="S0110">is that <anon type="name" nameType="f"/>?</u>
+<u n="278" who="S0104">no it's <anon type="name" nameType="f"/>'s girl <pause dur="short"/> she's beautiful <pause dur="short"/> erm <pause dur="short"/> sunday morning what time do you want meto be here? <pause dur="long"/></u>
+<u n="279" who="S0186">three</u>
+<u n="280" who="S0108">no cos it starts at one</u>
+<u n="281" who="S0186">no three in the morning</u>
+<u n="282" who="S0108">I think half nine or ten o'clock <vocal desc="misc"/></u>
+<u n="283" who="S0104">oh that's very early</u>
+<u n="284" who="S0108">okay come at twelve and then we'll miss the party</u>
+<u n="285" who="S0104"><vocal desc="laugh"/></u>
+<u n="286" who="S0110">whatever you say</u>
+<u n="287" who="S0108" trans="overlap">okay</u>
+<u n="288" who="S0110"><anon type="name" nameType="f"/> it'll be wrong</u>
+<u n="289" who="S0108" trans="overlap">yeah</u>
+<u n="290" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="291" who="S0186">happy birthday <anon type="name" nameType="m"/></u>
+<u n="292" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="293" who="S0104">so about ten then oh half an hour that'll mean leaving the house at half eight</u>
+<u n="294" who="S0108">no it'll mean leaving the house at about nine</u>
+<u n="295" who="S0104"><vocal desc="laugh"/> between half nine and ten then</u>
+<u n="296" who="S0167"><anon type="name" nameType="m"/></u>
+<u n="297" who="S0108"><vocal desc="laugh"/></u>
+<u n="298" who="S0104"><vocal desc="laugh"/></u>
+<u n="299" who="S0167"><anon type="name" nameType="m"/></u>
+<u n="300" who="S0186">what?</u>
+<u n="301" who="S0167">take the measuring tape away from my phone</u>
+<u n="302" who="S0108"><vocal desc="laugh"/></u>
+<u n="303" who="S0186">can I do interesting turns with it?</u>
+<u n="304" who="S0108"><vocal desc="laugh"/></u>
+<u n="305" who="S0167"><anon type="name" nameType="m"/></u>
+<u n="306" who="S0186">oh okay</u>
+<u n="307" who="S0167">I'm being lenient on your because it's your birthday</u>
+<u n="308" who="S0186">oh lenient</u>
+<u n="309" who="S0104"><vocal desc="laugh"/></u>
+<u n="310" who="S0167">on another day I wouldn't be so forgiving</u>
+<u n="311" who="S0104">well what is the time?</u>
+<u n="312" who="S0186"><vocal desc="laugh"/></u>
+<u n="313" who="S0104">you're going out soon haven't you we'd better go</u>
+<u n="314" who="S0110">where are you off to tonight then?</u>
+<u n="315" who="S0108" trans="overlap">no mum we're going</u>
+<u n="316" who="S0186">we're going for Chinese</u>
+<u n="317" who="S0108" trans="overlap">oh</u>
+<u n="318" who="S0110">oh are you?</u>
+<u n="319" who="S0108" trans="overlap">I thought it was quarter to four</u>
+<u n="320" who="S0167">no it's quarter to five</u>
+<u n="321" who="S0110" trans="overlap">quarter to five</u>
+<u n="322" who="S0186">I'm gonna go over to mum's and dad's mum's got presents for me I think</u>
+<u n="323" who="S0110">oh has she?</u>
+<u n="324" who="S0167">oh what's she got for you?</u>
+<u n="325" who="S0104" trans="overlap">well you but it it is your birthday</u>
+<u n="326" who="S0186">she bought me some shoes</u>
+<u n="327" who="S0167">oh I need some new shoes</u>
+<u n="328" who="S0186" trans="overlap">well</u>
+<u n="329" who="S0110">oh</u>
+<u n="330" who="S0186">I chose the shoes she just paid for them</u>
+<u n="331" who="S0110">mm</u>
+<u n="332" who="S0167">actually I need a new blouse</u>
+<u n="333" who="S0104">do you want a white blouse?</u>
+<u n="334" who="S0186" trans="overlap">well it's not your birthday</u>
+<u n="335" who="S0104">I've got a white blouse</u>
+<u n="336" who="S0167">have you? that would be good</u>
+<u n="337" who="S0104">I've got two or three white blouses</u>
+<u n="338" who="S0167" trans="overlap">tell you what else I need is black shoes</u>
+<u n="339" who="S0104">I've got a black skirt as well</u>
+<u n="340" who="S0167">I've got a black skirt</u>
+<u n="341" who="S0104">really nice black skirt</u>
+<u n="342" who="S0167" trans="overlap">I've got a <unclear/> as well</u>
+<u n="343" who="S0186">what what's this for? is this working?</u>
+<u n="344" who="S0167">job interview</u>
+<u n="345" who="S0186">mm</u>
+<u n="346" who="S0167">I actually need to prepare for my interview</u>
+<u n="347" who="S0104">mm yes you do</u>
+<u n="348" who="S0186" trans="overlap">what what job?</u>
+<u n="349" who="S0167">it's just tomorrow at one <pause dur="short"/> erm it's a job at a film literary and TV agency in <anon type="place"/> <pause dur="short"/> and hopefully</u>
+<u n="350" who="S0186">what? <pause dur="short"/> you need to send me a copy of your CV</u>
+<u n="351" who="S0167">why?</u>
+<u n="352" who="S0186">because I know some people in publishing so</u>
+<u n="353" who="S0167">do you?</u>
+<u n="354" who="S0186">yes</u>
+<u n="355" who="S0167">oh I'll send you it I'll send it to you then</u>
+<u n="356" who="S0186">okay <pause dur="short"/> and I'll send it forward and but er</u>
+<u n="357" who="S0167" trans="overlap">you kept this very quiet <anon type="name" nameType="m"/></u>
+<u n="358" who="S0186">yes well I'm a man of many mysteries</u>
+<u n="359" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="360" who="S0186">I'm an enigma wrapped in a mystery</u>
+<u n="361" who="S0104">where's the publishing company?</u>
+<u n="362" who="S0167" trans="overlap">yeah</u>
+<u n="363" who="S0186">erm in <anon type="place"/> it is <anon type="miscPersonalInfo"/></u>
+<u n="364" who="S0167">I don't know that one</u>
+<u n="365" who="S0186">it's quite a big one and</u>
+<u n="366" who="S0104">don't draw on the settee</u>
+<u n="367" who="S0186">it's <anon type="miscPersonalInfo"/> I think <pause dur="short"/> yeah <pause dur="short"/> erm they own <anon type="miscPersonalInfo"/> I think</u>
+<u n="368" who="S0167">they own or they own <anon type="miscPersonalInfo"/> or <anon type="miscPersonalInfo"/> owns them?</u>
+<u n="369" who="S0186">I'm not sure I <anon type="miscPersonalInfo"/></u>
+<u n="370" who="S0167" trans="overlap">probably <anon type="miscPersonalInfo"/> owns them I would imagine</u>
+<u n="371" who="S0186"><anon type="miscPersonalInfo"/> er</u>
+<u n="372" who="S0167">it's a subsidiary is it?</u>
+<u n="373" who="S0186">er <trunc>pa</trunc> I wish I could</u>
+<u n="374" who="S0167" trans="overlap">probably</u>
+<u n="375" who="S0108">dad?</u>
+<u n="376" who="S0110">what?</u>
+<u n="377" who="S0108">do you want to put that that back in the bag?</u>
+<u n="378" who="S0110">no I don't love</u>
+<u n="379" who="S0167"><vocal desc="laugh"/></u>
+<u n="380" who="S0186"><anon type="miscPersonalInfo"/> publishers <pause dur="short"/> er</u>
+<u n="381" who="S0110">bang and the dirt is gone</u>
+<u n="382" who="S0186">I think it's</u>
+<u n="383" who="S0167">hello Barry Scott here <pause dur="short"/> does Barry Scott grace the screens anymore or is Barry Scott gone?</u>
+<u n="384" who="S0104"><anon type="miscPersonalInfo"/> have got a <trunc>sor</trunc> a thing in Uganda</u>
+<u n="385" who="S0167">oh I actually read an article about Uganda today</u>
+<u n="386" who="S0104" trans="overlap">please don't go to Uganda</u>
+<u n="387" who="S0167">I read an article about Uganda and they there's a erm LGBT group that publish a magazine all about being gay</u>
+<u n="388" who="S0110">east Africa</u>
+<u n="389" who="S0104" trans="overlap">yeah</u>
+<u n="390" who="S0167" trans="overlap">and erm</u>
+<u n="391" who="S0110">yeah</u>
+<u n="392" who="S0167">there's loads of people like calling for their arrests and their execution</u>
+<u n="393" who="S0104" trans="overlap">it's illegal in in Uganda isn't it?</u>
+<u n="394" who="S0167" trans="overlap">yeah</u>
+<u n="395" who="S0104">yeah</u>
+<u n="396" who="S0167">they keeping stepping up the law to try and outlaw it and things there's loads of groups springing up in places <pause dur="long"/></u>
+<u n="397" who="S0104">his main office is in Kampala</u>
+<u n="398" who="S0167">oh <pause dur="short"/> I would actually like to go to Uganda</u>
+<u n="399" who="S0104">oh don't go to Uganda</u>
+<u n="400" who="S0167">why?</u>
+<u n="401" who="S0108" trans="overlap">see he's <trunc>j</trunc> send <anon type="name" nameType="m"/> and <anon type="name" nameType="m"/> to Uganda</u>
+<u n="402" who="S0104"><vocal desc="laugh"/> no they'd be executed</u>
+<u n="403" who="S0167"><vocal desc="laugh"/></u>
+<u n="404" who="S0186">I think it's okay</u>
+<u n="405" who="S0108"><vocal desc="laugh"/></u>
+<u n="406" who="S0186">that's not very nice <anon type="name" nameType="f"/></u>
+<u n="407" who="S0104">but you loved your uncle <anon type="name" nameType="m"/></u>
+<u n="408" who="S0108">I didn't say <vocal desc="laugh"/> I mean I want them executed I just thought it would be funny</u>
+<u n="409" who="S0104">it wouldn't really be funny would it?</u>
+<u n="410" who="S0108"><vocal desc="laugh"/></u>
+<u n="411" who="S0110">I feel very rude sorry I keep</u>
+<u n="412" who="S0167" trans="overlap">erm <pause dur="short"/> could I just? you should have seen <anon type="name" nameType="m"/> yesterday <anon type="name" nameType="f"/> hang on <pause dur="long"/></u>
+<u n="413" who="S0104">they're not going to hear that will they? <pause dur="long"/></u>
+<u n="414" who="S0108">yeah don't tell <anon type="name" nameType="f"/> that I got you a <unclear/></u>
+<u n="415" who="S0110">why?</u>
+<u n="416" who="S0186">the <anon type="place"/></u>
+<u n="417" who="S0108">mm</u>
+<u n="418" who="S0110">oh right yeah</u>
+<u n="419" who="S0167">why?</u>
+<u n="420" who="S0108" trans="overlap">cos it's kind of her idea cos I went oh I don't cos the <anon type="place"/> wasn't it wasn't as expensive as the <anon type="place"/></u>
+<u n="421" who="S0110">yeah</u>
+<u n="422" who="S0186">yeah</u>
+<u n="423" who="S0104">yeah</u>
+<u n="424" who="S0108">and I said oh I won't erm <pause dur="short"/> I won't be able to get there cos I said how much were they?</u>
+<u n="425" who="S0110">yeah</u>
+<u n="426" who="S0108">and I <trunc>s</trunc> and</u>
+<u n="427" who="S0110" trans="overlap">yeah</u>
+<u n="428" who="S0108">she she told me and I went oh maybe not then she goes well I said oh I was thinking of getting them for <anon type="name" nameType="m"/>'s birthday</u>
+<u n="429" who="S0186">yeah</u>
+<u n="430" who="S0108">then she went well if everyone chips in you can get them for me so I don't wanna then <pause dur="short"/> be like oh I got that from everyone and then went and got him something</u>
+<u n="431" who="S0186"><vocal desc="laugh"/></u>
+<u n="432" who="S0108">really cool and stuff so</u>
+<u n="433" who="S0186">no</u>
+<u n="434" who="S0104">I wonder what</u>
+<u n="435" who="S0186"><unclear/></u>
+<u n="436" who="S0108">is it it was just kind of a <trunc>car</trunc> a nice thing of her because she knew I couldn't afford to get them</u>
+<u n="437" who="S0186">yeah it's very</u>
+<u n="438" who="S0110">yeah so it's a bit</u>
+<u n="439" who="S0108">it would look a bit like</u>
+<u n="440" who="S0110" trans="overlap">mm yeah well it's not very <trunc>sen</trunc> it's sensitive of you</u>
+<u n="441" who="S0108" trans="overlap">yeah</u>
+<u n="442" who="S0110">not to yeah yeah yeah</u>
+<u n="443" who="S0108">so <trunc>sh</trunc> it was kind of her idea cos she was like well</u>
+<u n="444" who="S0167" trans="overlap"><vocal desc="laugh"/></u>
+<u n="445" who="S0108">what <unclear/>?</u>
+<u n="446" who="S0167"><vocal desc="laugh"/></u>
+<u n="447" who="S0108">do you know what don't laugh</u>
+<u n="448" who="S0167">no we're not laughing at you</u>
+<u n="449" who="S0104" trans="overlap">no we're not laughing at you love</u>
+<u n="450" who="S0167">no I was laughing at dad</u>
+<u n="451" who="S0104">she's laughing at dad</u>
+<u n="452" who="S0186">well that's alright</u>
+<u n="453" who="S0110">why are you laughing at me?</u>
+<u n="454" who="S0167" trans="overlap">I don't know <vocal desc="laugh"/> cos you no it was very sensitive weren't you love?</u>
+<u n="455" who="S0110">well I can understand what you were saying I mean you were</u>
+<u n="456" who="S0108">I don't <unclear/></u>
+<u n="457" who="S0167">no we're just joking dad</u>
+<u n="458" who="S0108"><vocal desc="laugh"/></u>
+<u n="459" who="S0167">chill out</u>
+<u n="460" who="S0110">well it's sensitive of you to</u>
+<u n="461" who="S0167"><vocal desc="laugh"/></u>
+<u n="462" who="S0110">to be like that and to feel that way</u>
+<u n="463" who="S0167"><vocal desc="laugh"/></u>
+<u n="464" who="S0110">this blasted thing like going everywhere</u>
+<u n="465" who="S0167"><vocal desc="laugh"/> <pause dur="short"/> did it suck all the air out?</u>
+<u n="466" who="S0186">two hours and <vocal desc="laugh"/> I've got one in there</u>
+<u n="467" who="S0167">you suck all the air out?</u>
+<u n="468" who="S0110">I tell you what</u>
+<u n="469" who="S0108">yeah</u>
+<u n="470" who="S0110">erm I'll push you <trunc>pu</trunc> if you pull on the handles I'll just</u>
+<u n="471" who="S0108" trans="overlap">I don't think I folded it very well</u>
+<u n="472" who="S0110">or whatever yeah <pause dur="short"/></u>
+<u n="473" who="S0186">oh god</u>
+<u n="474" who="S0110">did you sort of roll it?</u>
+<u n="475" who="S0108">no just roll it there</u>
+<u n="476" who="S0110">okay oh it's alright yeah you're supposed to at the end you roll it until it <trunc>shh</trunc> and then it sucks all the air out</u>
+<u n="477" who="S0108">oh</u>
+<u n="478" who="S0110">but it's fine that's that's alright</u>
+<u n="479" who="S0186">probably be good</u>
+<u n="480" who="S0104">was it comfortable?</u>
+<u n="481" who="S0186">well did we sleep in it?</u>
+<u n="482" who="S0108">we did sleep in it once</u>
+<u n="483" who="S0104">you slept in it at our house</u>
+<u n="484" who="S0110">and then it goes on your back</u>
+<u n="485" who="S0108"><vocal desc="laugh"/></u>
+<u n="486" who="S0110">cos it's pack packable</u>
+<u n="487" who="S0104">so that's what you slept in in the dining room</u>
+<u n="488" who="S0186">yeah <pause dur="short"/> I couldn't remember it</u>
+<u n="489" who="S0108">we've gotta get a new one</u>
+<u n="490" who="S0186" trans="overlap">cos we took our well our <trunc>t</trunc></u>
+<u n="491" who="S0108" trans="overlap">in January</u>
+<u n="492" who="S0186">took our one back didn't we?</u>
+<u n="493" who="S0104">well that's erm that was Lidl's</u>
+<u n="494" who="S0108">well I saw it in Lidl's</u>
+<u n="495" who="S0104" trans="overlap">forty quid</u>
+<u n="496" who="S0108">it was forty quid in Lidl's</u>
+<u n="497" who="S0167">mm</u>
+<u n="498" who="S0108">but the only thing is in Lidl if it goes wrong Lidl's is the sort of place that has something for about a month and it's</u>
+<u n="499" who="S0104" trans="overlap">no that's rubbish</u>
+<u n="500" who="S0110" trans="overlap">no that's rubbish</u>
+<u n="501" who="S0104">we bought a microwave from Lidl's a few years ago and it went wrong just well about nearly a year after we'd bought it and dad phoned up the company and they said oh okay then and they sent us a new one without any questions asked and then it went wrong again and they sent us another new one didn't they? erm you know sort of within within the warrant guarantee period but quite a long time so all you do is phone up the company</u>
+<u n="502" who="S0108">mm</u>
+<u n="503" who="S0104">and there was something else we got from Lidl's that they we had no trouble <pause dur="short"/> with wasn't it?</u>
+<u n="504" who="S0110">wasn't that? oh no it wasn't the air <unclear/></u>
+<u n="505" who="S0104">no</u>
+<u n="506" who="S0110" trans="overlap">the erm</u>
+<u n="507" who="S0104" trans="overlap">that was from QVC</u>
+<u n="508" who="S0110">oh yeah yeah</u>
+<u n="509" who="S0104">erm I can't remember but there was something else</u>
+<u n="510" who="S0108" trans="overlap">mm</u>
+<u n="511" who="S0104">so you don't have to take it back to the shop you just</u>
+<u n="512" who="S0108">we've got sixty quid voucher for Argos now though</u>
+<u n="513" who="S0167"><vocal desc="gasp"/></u>
+<u n="514" who="S0186">yeah that's why</u>
+<u n="515" who="S0167" trans="overlap">why?</u>
+<u n="516" who="S0186">well I've a thing and <unclear/> something in there I think it goes for sixty quid</u>
+<u n="517" who="S0104" trans="overlap">they've got a brilliant one in Argos that I would have liked to buy but</u>
+<u n="518" who="S0108">what?</u>
+<u n="519" who="S0104">it's got internal springs and <vocal desc="laugh"/></u>
+<u n="520" who="S0110">or whatever you know</u>
+<u n="521" who="S0108" trans="overlap">how much was it?</u>
+<u n="522" who="S0110" trans="overlap">not I don't think it's springs it was internal <pause dur="short"/> things that blow up</u>
+<u n="523" who="S0108">yeah supports</u>
+<u n="524" who="S0110" trans="overlap">it's <unclear/> it's on a membrane inside the</u>
+<u n="525" who="S0104">hundred and seventy-five quid but I couldn't justify that for an airbed</u>
+<u n="526" who="S0186">no can't justify that</u>
+<u n="527" who="S0104">no</u>
+<u n="528" who="S0186">can't decide if you're</u>
+<u n="529" who="S0104" trans="overlap">I was tempted but I thought no that's erm</u>
+<u n="530" who="S0108">yeah but I</u>
+<u n="531" who="S0186" trans="overlap">cos realistically they are intrinsically flawed as a thing</u>
+<u n="532" who="S0110">mm</u>
+<u n="533" who="S0186">because whatever you do</u>
+<u n="534" who="S0110">mm</u>
+<u n="535" who="S0186">you're gonna put pressure on it and</u>
+<u n="536" who="S0104" trans="overlap">yeah</u>
+<u n="537" who="S0108">but I I <trunc>alwa</trunc></u>
+<u n="538" who="S0186" trans="overlap">it will just tear and it will just leak and</u>
+<u n="539" who="S0108">before I missed that I hoovered doing that</u>
+<u n="540" who="S0186">yeah well you know</u>
+<u n="541" who="S0104" trans="overlap">mm</u>
+<u n="542" who="S0186">hoovering and cleaning up and everything yeah</u>
+<u n="543" who="S0104" trans="overlap">yeah that's the just make sure you</u>
+<u n="544" who="S0110" trans="overlap">yeah yeah</u>
+<u n="545" who="S0108" trans="overlap">but I've taken that's like the fourth one I've taken back to Argos now</u>
+<u n="546" who="S0104">mm</u>
+<u n="547" who="S0186">cos they keep bursting</u>
+<u n="548" who="S0108">yeah</u>
+<u n="549" who="S0104">I don't think they're designed to last <trunc>lo</trunc> they're not gonna last forever would it?</u>
+<u n="550" who="S0110" trans="overlap">yeah no</u>
+<u n="551" who="S0104">it's just quite handy to have cos I can get rid of the <trunc>s</trunc> the settee in the spare room</u>
+<u n="552" who="S0108">I don't know why you're doing that</u>
+<u n="553" who="S0104">because we want to get</u>
+<u n="554" who="S0108" trans="overlap">I think that's such a stupid idea</u>
+<u n="555" who="S0186">what getting rid of the settee?</u>
+<u n="556" who="S0108">yeah</u>
+<u n="557" who="S0186">why? why don't you think?</u>
+<u n="558" who="S0104" trans="overlap">the bed's sitting</u>
+<u n="559" who="S0186" trans="overlap">it's a good idea of your dad's</u>
+<u n="560" who="S0108">because</u>
+<u n="561" who="S0186">you're gonna put just a proper bed in it?</u>
+<u n="562" who="S0108" trans="overlap">it's much more comfortable</u>
+<u n="563" who="S0104" trans="overlap">no we're just gonna have an airbed when people stay</u>
+<u n="564" who="S0108" trans="overlap">I think it's much more comfortable</u>
+<u n="565" who="S0104" trans="overlap">because we wanna make it just some office the area</u>
+<u n="566" who="S0108" trans="overlap">yeah but that is a sofa it's not a bed in the middle of the room is it? it's a sofa it's <trunc>y</trunc> it's nice in an office anyway</u>
+<u n="567" who="S0104">I suppose I suppose we could get rid of the wardrobe out of there</u>
+<u n="568" who="S0110">yeah we'll see</u>
+<u n="569" who="S0104" trans="overlap">and just have some filing cabinet</u>
+<u n="570" who="S0108">I mean I think you</u>
+<u n="571" who="S0186" trans="overlap">just don't you have on your <pause dur="short"/> it's only got the one window which is at the end yeah?</u>
+<u n="572" who="S0104">no there's two windows</u>
+<u n="573" who="S0186" trans="overlap">oh does it have two windows? ah</u>
+<u n="574" who="S0104" trans="overlap">it's got a window on each wall and it's just a <trunc>bedroo</trunc> and that's it depends the smallest room in the house but it's the only room in no you yeah</u>
+<u n="575" who="S0186" trans="overlap">cos I was just wondering</u>
+<u n="576" who="S0104" trans="overlap">it's the only room with two windows</u>
+<u n="577" who="S0186" trans="overlap">if you could have one of those have you seen those really skinny fold down beds and where you have the table on it?</u>
+<u n="578" who="S0110">yeah yeah yeah</u>
+<u n="579" who="S0186">and it all folds down and like so you can actually have your your</u>
+<u n="580" who="S0110" trans="overlap">oh right</u>
+<u n="581" who="S0186">table and then you just pull it and it all folds the table up</u>
+<u n="582" who="S0104" trans="overlap">yeah we should put <anon type="name" nameType="f"/> we should be <anon type="name" nameType="f"/>'s bed in there</u>
+<u n="583" who="S0108">oh yeah that would fit</u>
+<u n="584" who="S0104">yeah it would double bed would fit in there <pause dur="short"/> no what we really want is the her</u>
+<u n="585" who="S0186" trans="overlap">what's gonna be in my room then?</u>
+<u n="586" who="S0104">no we're keeping it as it is now <pause dur="short"/> as a spare room <pause dur="short"/> with my and my</u>
+<u n="587" who="S0108" trans="overlap">I liked my room when I before I moved back in I think that was the <trunc>rea</trunc> a really good idea</u>
+<u n="588" who="S0104">what do you mean before you moved back in?</u>
+<u n="589" who="S0108">when I moved out you moved it all around</u>
+<u n="590" who="S0110">yeah</u>
+<u n="591" who="S0104">yeah what with bed settee in there</u>
+<u n="592" who="S0108" trans="overlap">yeah I think it was really nice like that</u>
+<u n="593" who="S0104">yeah but we want a room where we can put a filing cabinet and all our cos we've gotta get all our paperwork sorted out it's a complete mess isn't it?</u>
+<u n="594" who="S0110" trans="overlap">well I was gonna start with the hallway it's full of</u>
+<u n="595" who="S0104">yeah</u>
+<u n="596" who="S0110" trans="overlap">you know paperwork that needs</u>
+<u n="597" who="S0104">most of it's chuckable</u>
+<u n="598" who="S0110" trans="overlap">storing or something yeah no so it is yeah</u>
+<u n="599" who="S0167">I'll help you</u>
+<u n="600" who="S0104">oh</u>
+<u n="601" who="S0110">no</u>
+<u n="602" who="S0108">there's a filing cabinet downstairs</u>
+<u n="603" who="S0167" trans="overlap">why?</u>
+<u n="604" who="S0108">if you want it</u>
+<u n="605" who="S0104" trans="overlap">because you go oh now come mum and dad let's get organised let's get oh you're the worst people at organising yourselves and then</u>
+<u n="606" who="S0167" trans="overlap">you are and that's a fact</u>
+<u n="607" who="S0110" trans="overlap">can we can we can we say something?</u>
+<u n="608" who="S0108" trans="overlap">there's a filing if you want a filing cabinet</u>
+<u n="609" who="S0110" trans="overlap">can we get the room started before we start</u>
+<u n="610" who="S0108" trans="overlap">there's one downstairs</u>
+<u n="611" who="S0110">sorting the paperwork out?</u>
+<u n="612" who="S0186">yeah</u>
+<u n="613" who="S0110">yeah?</u>
+<u n="614" who="S0186">that's probably a bit more</u>
+<u n="615" who="S0167">I just wanna</u>
+<u n="616" who="S0110" trans="overlap">look at the room I'll get a desk in there</u>
+<u n="617" who="S0167" trans="overlap">I just wanna be helpful</u>
+<u n="618" who="S0110" trans="overlap">and I'll get a phone and then I'll</u>
+<u n="619" who="S0108" trans="overlap">dad talking of erm things we're clearing out this house within like in like next two weeks we're gonna be clearing things away</u>
+<u n="620" who="S0110" trans="overlap">yeah well I'm going back to work on Monday so yeah</u>
+<u n="621" who="S0108" trans="overlap">okay</u>
+<u n="622" who="S0104">erm what we could do I suppose is keep the bed settee in there and get rid of the wardrobe and then have a filing cabinet and a desk over in that corner</u>
+<u n="623" who="S0110">yeah</u>
+<u n="624" who="S0108">what are we gonna do with that in the meantime?</u>
+<u n="625" who="S0110">yeah well we'll have a look when we go</u>
+<u n="626" who="S0104">mm</u>
+<u n="627" who="S0110">in there</u>
+<u n="628" who="S0104">yeah</u>
+<u n="629" who="S0110">what the light?</u>
+<u n="630" who="S0108">we wanna keep that for the salon</u>
+<u n="631" who="S0110">what the light or the gun?</u>
+<u n="632" who="S0108" trans="overlap">no the whole cabinet</u>
+<u n="633" who="S0110">oh right</u>
+<u n="634" who="S0108">that one do you reckon you is there any way you can store it until I need it?</u>
+<u n="635" who="S0110">what?</u>
+<u n="636" who="S0108">that cabinet <pause dur="short"/> if you're picking that one up</u>
+<u n="637" who="S0104">er</u>
+<u n="638" who="S0186">I don't know that might actually come apart</u>
+<u n="639" who="S0167">why don't you just keep it in here if you need it?</u>
+<u n="640" who="S0110">well yeah</u>
+<u n="641" who="S0108" trans="overlap">cos we wanna decorate this room and we want it as clear as we can possibly get it</u>
+<u n="642" who="S0186" trans="overlap">yeah well</u>
+<u n="643" who="S0110" trans="overlap">well I can store it but then I'll only store it in <anon type="place"/> or somewhere</u>
+<u n="644" who="S0108">yeah that's <trunc>wh</trunc> put it somewhere</u>
+<u n="645" who="S0110" trans="overlap">but isn't it a bit of a <pause dur="short"/> strange thing to do really? just cover it up and paint the room and put it back rather than</u>
+<u n="646" who="S0167"><vocal desc="laugh"/></u>
+<u n="647" who="S0108">I don't want it there</u>
+<u n="648" who="S0110" trans="overlap">hoick it all the way down to <anon type="place"/> and dismantle it</u>
+<u n="649" who="S0167"><vocal desc="laugh"/></u>
+<u n="650" who="S0108">I don't want it in this house</u>
+<u n="651" who="S0110" trans="overlap">and bring it back</u>
+<u n="652" who="S0186" trans="overlap">and it's annoying me</u>
+<u n="653" who="S0167">well <anon type="name" nameType="f"/> that's a stupid reason to go and store it in <anon type="place"/></u>
+<u n="654" who="S0186" trans="overlap">that is what we could do</u>
+<u n="655" who="S0104" trans="overlap">well it looks like it could be</u>
+<u n="656" who="S0186" trans="overlap">what what?</u>
+<u n="657" who="S0104" trans="overlap">flat packed</u>
+<u n="658" who="S0186">yeah</u>
+<u n="659" who="S0104" trans="overlap">yeah</u>
+<u n="660" who="S0108">is there? I want that smashed up</u>
+<u n="661" who="S0167"><vocal desc="laugh"/></u>
+<u n="662" who="S0186">you want what smashed up? <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> what we can do is</u>
+<u n="663" who="S0167"><vocal desc="laugh"/></u>
+<u n="664" who="S0186">is do what we said and which was the plan which was we clear the basement of all the junk and the rubbish <pause dur="short"/> we get rid of it and bin it yeah? and then we can probably put that down</u>
+<u n="665" who="S0167"><vocal desc="laugh"/></u>
+<u n="666" who="S0186">into the basement</u>
+<u n="667" who="S0108">is there a fish tank down there?</u>
+<u n="668" who="S0186">yeah</u>
+<u n="669" who="S0108">can we have some fish?</u>
+<u n="670" who="S0186">no</u>
+<u n="671" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="672" who="S0186">erm</u>
+<u n="673" who="S0110"><vocal desc="laugh"/></u>
+<u n="674" who="S0186">I I've gotta get back out for <anon type="name" nameType="m"/></u>
+<u n="675" who="S0110"><vocal desc="laugh"/></u>
+<u n="676" who="S0186">cos he's he's <unclear/></u>
+<u n="677" who="S0110">he's buying more fish?</u>
+<u n="678" who="S0186">yeah</u>
+<u n="679" who="S0104" trans="overlap">fish are a pain in the arse you get nothing no feedback from them all they need is cleaning out</u>
+<u n="680" who="S0186">have you seen the marine ones?</u>
+<u n="681" who="S0104" trans="overlap">absolutely nuisance they're beautiful</u>
+<u n="682" who="S0186" trans="overlap">the marine ones are amazing</u>
+<u n="683" who="S0104">yeah but they're very difficult</u>
+<u n="684" who="S0186" trans="overlap">I I would see that</u>
+<u n="685" who="S0104" trans="overlap">to keep alive cos you need to be really</u>
+<u n="686" who="S0186">yeah <anon type="name" nameType="m"/>'s got one</u>
+<u n="687" who="S0108"><anon type="name" nameType="m"/> spent ages doing it</u>
+<u n="688" who="S0186" trans="overlap">yeah he spent he does spend a about an hour a day</u>
+<u n="689" who="S0104" trans="overlap">they're really specialised well I used to have just a big fish tank with a filter and all that</u>
+<u n="690" who="S0110">mm</u>
+<u n="691" who="S0104">and I I was always cleaning them out all the time</u>
+<u n="692" who="S0110">yeah</u>
+<u n="693" who="S0108">we used it as</u>
+<u n="694" who="S0104" trans="overlap">it's like it was a pest</u>
+<u n="695" who="S0108">a chicken run didn't we?</u>
+<u n="696" who="S0104">yeah in the end well when we moved to <anon type="place"/> I didn't well to <anon type="place"/> from <anon type="place"/> I didn't bother replenishing it</u>
+<u n="697" who="S0110" trans="overlap">we didn't have chickens there</u>
+<u n="698" who="S0108">yeah we did</u>
+<u n="699" who="S0104" trans="overlap">yeah <anon type="name" nameType="f"/> bought</u>
+<u n="700" who="S0110" trans="overlap">surely they would <trunc>dr</trunc></u>
+<u n="701" who="S0104" trans="overlap"><anon type="name" nameType="f"/> came home from a</u>
+<u n="702" who="S0110">oh you came home with one</u>
+<u n="703" who="S0167"><vocal desc="laugh"/> what?</u>
+<u n="704" who="S0108"><vocal desc="laugh"/> I know</u>
+<u n="705" who="S0104"><vocal desc="laugh"/></u>
+<u n="706" who="S0167">what happened?</u>
+<u n="707" who="S0104">she went to her friend's house</u>
+<u n="708" who="S0110">they'd drown wouldn't they?</u>
+<u n="709" who="S0104" trans="overlap">and came home with a</u>
+<u n="710" who="S0110">that's just cruel <vocal desc="laugh"/></u>
+<u n="711" who="S0108">not with water in we put hay in it</u>
+<u n="712" who="S0110">oh</u>
+<u n="713" who="S0104">we had the fish tank in the garden</u>
+<u n="714" who="S0110" trans="overlap">but surely they'd just float</u>
+<u n="715" who="S0108">yeah</u>
+<u n="716" who="S0104">she came well she went to her friend's house to play one day and came home with a chicken <pause dur="short"/> or a chick</u>
+<u n="717" who="S0108">it was a chick</u>
+<u n="718" who="S0167"><vocal desc="laugh"/></u>
+<u n="719" who="S0104">oh it was a half grown chick it was half chick half chicken</u>
+<u n="720" who="S0167"><vocal desc="laugh"/> and what happened to it?</u>
+<u n="721" who="S0108">we kept it</u>
+<u n="722" who="S0104" trans="overlap">well I'm sure there was a chicken I don't know what to do I haven't got anywhere to put a chicken I've never kept chickens oh well we we temporarily put it kept it in this fish tank for a and then I said I really don't know what to do so I phoned up the dad and took it back cos <vocal desc="laugh"/> you don't send kids home with a chicken do you? <vocal desc="laugh"/></u>
+<u n="723" who="S0108"><vocal desc="laugh"/></u>
+<u n="724" who="S0186">well you know what <anon type="name" nameType="f"/> would be like she would like mum wouldn't mind I really really want one</u>
+<u n="725" who="S0104">yes she's</u>
+<u n="726" who="S0186">we've got a massive garden <vocal desc="laugh"/></u>
+<u n="727" who="S0167">whose friends was whose friend was it who was it?</u>
+<u n="728" who="S0108"><anon type="name" nameType="f"/></u>
+<u n="729" who="S0104"><anon type="name" nameType="f"/></u>
+<u n="730" who="S0167">oh yeah</u>
+<u n="731" who="S0104">you didn't even like <anon type="name" nameType="f"/></u>
+<u n="732" who="S0167">yeah she was er <trunc>y</trunc> yeah</u>
+<u n="733" who="S0110" trans="overlap">oh yeah the one who had the chicken</u>
+<u n="734" who="S0167">yeah</u>
+<u n="735" who="S0104">and so I phoned her dad up and said I really <trunc>d</trunc> I can't cope with this chicken can I bring it back? <vocal desc="laugh"/> and yeah alright then <vocal desc="laugh"/></u>
+<u n="736" who="S0167"><vocal desc="laugh"/></u>
+<u n="737" who="S0104"><vocal desc="laugh"/></u>
+<u n="738" who="S0167">why did you</u>
+<u n="739" who="S0186" trans="overlap">only you <anon type="name" nameType="f"/></u>
+<u n="740" who="S0167" trans="overlap">do things like that <anon type="name" nameType="f"/>?</u>
+<u n="741" who="S0108">I liked it</u>
+<u n="742" who="S0167">did you not think about the consequences?</u>
+<u n="743" who="S0108">no</u>
+<u n="744" who="S0104">no <anon type="name" nameType="f"/> never thought about the consequences come on <unclear/></u>
+<u n="745" who="S0186">it was like what was it that you were we watched the other day of er the little monkey in the bath?</u>
+<u n="746" who="S0167">oh yeah that was so cute</u>
+<u n="747" who="S0108">oh that was so cute</u>
+<u n="748" who="S0186">so <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> <trunc>stra</trunc> straight away was like can we get a monkey? and I was like</u>
+<u n="749" who="S0167">no it's illegal <anon type="name" nameType="f"/> <vocal desc="laugh"/></u>
+<u n="750" who="S0186">no it's not actually</u>
+<u n="751" who="S0167">no?</u>
+<u n="752" who="S0186">no but you have to go to university and become a zoologist and then</u>
+<u n="753" who="S0167" trans="overlap">oh</u>
+<u n="754" who="S0186" trans="overlap">you have to get in the right kind of a culture blah blah blah</u>
+<u n="755" who="S0167" trans="overlap"><trunc>ye</trunc> well yeah so it it is illegal</u>
+<u n="756" who="S0186" trans="overlap">so but basically</u>
+<u n="757" who="S0167">yeah</u>
+<u n="758" who="S0104">that little boy didn't look to me as though he had a degree in zoology</u>
+<u n="759" who="S0167">yeah but they were American</u>
+<u n="760" who="S0186">yeah</u>
+<u n="761" who="S0104"><vocal desc="laugh"/></u>
+<u n="762" who="S0110">I'll go and get the are which <unclear/></u>
+<u n="763" who="S0167" trans="overlap">they were American though weren't they?</u>
+<u n="764" who="S0104">what's the time?</u>
+<u n="765" who="S0186" trans="overlap">they were American and yeah some states</u>
+<u n="766" who="S0167">you're allowed to keep monkeys in America</u>
+<u n="767" who="S0110">I'm not even in <anon type="place"/></u>
+<u n="768" who="S0104"><vocal desc="laugh"/> alright then</u>
+<u n="769" who="S0167">apparently Justin Bieber was surprised because he came</u>
+<u n="770" who="S0110" trans="overlap">is this the same one?</u>
+<u n="771" who="S0167">he <trunc>ca</trunc> tried to come over to the UK with his pet monkey and they said no it's illegal and he was really surprised</u>
+<u n="772" who="S0104">yeah he</u>
+<u n="773" who="S0186" trans="overlap">well just it</u>
+<u n="774" who="S0104" trans="overlap">threw a bit of a tantrum didn't he?</u>
+<u n="775" who="S0167">yeah</u>
+<u n="776" who="S0186">it</u>
+<u n="777" who="S0104">oh</u>
+<u n="778" who="S0186">but that's Justin Bieber cos he thinks</u>
+<u n="779" who="S0167" trans="overlap">he's a twat</u>
+<u n="780" who="S0186">yeah cos he thinks he</u>
+<u n="781" who="S0104">well anyway Justin Bieber's he's</u>
+<u n="782" who="S0186" trans="overlap">he's famous and</u>
+<u n="783" who="S0104" trans="overlap">and he's lost his <pause dur="short"/> er he's blown it I don't think Justin Bieber sells many records now</u>
+<u n="784" who="S0167">yeah but he's got like an army of <trunc>teena</trunc> like not teen teenage like young girls like little girls who like him</u>
+<u n="785" who="S0186">who love him yeah it's yeah it's quite sad actually</u>
+<u n="786" who="S0110" trans="overlap">and <anon type="name" nameType="m"/> you know <anon type="name" nameType="m"/></u>
+<u n="787" who="S0167">does <anon type="name" nameType="m"/> like Justin Bieber?</u>
+<u n="788" who="S0167" trans="overlap"><anon type="name" nameType="m"/> does want to look like Justin Bieber doesn't he?</u>
+<u n="789" who="S0167" trans="overlap">oh yeah do you remember</u>
+<u n="790" who="S0104" trans="overlap">the hair</u>
+<u n="791" who="S0167" trans="overlap">when he had the Justin Bieber hair?</u>
+<u n="792" who="S0104"><vocal desc="laugh"/></u>
+<u n="793" who="S0167">oh I'm glad he had that cut off cos every time you talked to him he'd go <pause dur="short"/></u>
+<u n="794" who="S0108"><vocal desc="laugh"/></u>
+<u n="795" who="S0104"><vocal desc="laugh"/></u>
+<u n="796" who="S0167">funny</u>
+<u n="797" who="S0104">you two have seen him the other day when they were round that was so funny wasn't it?</u>
+<u n="798" who="S0108">what?</u>
+<u n="799" who="S0104">he's just so gay so unbelievably gay</u>
+<u n="800" who="S0108">what was he doing?</u>
+<u n="801" who="S0167">like this</u>
+<u n="802" who="S0104">he was dancing like that and he got all his <unclear/></u>
+<u n="803" who="S0167"><vocal desc="laugh"/></u>
+<u n="804" who="S0104"><vocal desc="laugh"/></u>
+<u n="805" who="S0186">I swear he does some of it for effect</u>
+<u n="806" who="S0104">I don't think he does</u>
+<u n="807" who="S0167" trans="overlap">no I don't think he does at all</u>
+<u n="808" who="S0186">I just don't know any gay people who are that gay</u>
+<u n="809" who="S0104">well he's so camp isn't he?</u>
+<u n="810" who="S0167" trans="overlap">no he's just very camp yeah</u>
+<u n="811" who="S0186">but I don't even know any gay camp people who are that</u>
+<u n="812" who="S0167" trans="overlap">no <anon type="name" nameType="m"/> <anon type="name" nameType="m"/> and <anon type="name" nameType="m"/> aren't</u>
+<u n="813" who="S0186">yeah</u>
+<u n="814" who="S0108"><anon type="name" nameType="m"/> and <anon type="name" nameType="m"/> are quite camp</u>
+<u n="815" who="S0104">they're quite camp but they're not</u>
+<u n="816" who="S0110" trans="overlap">but they're not as camp as</u>
+<u n="817" who="S0104" trans="overlap">but they're not as camp as <anon type="name" nameType="m"/> <pause dur="short"/> I mean when <anon type="name" nameType="m"/>'s</u>
+<u n="818" who="S0108" trans="overlap"><anon type="name" nameType="m"/> is <anon type="name" nameType="m"/> is very camp</u>
+<u n="819" who="S0104">with <anon type="name" nameType="m"/>'s</u>
+<u n="820" who="S0108">when he wants to be</u>
+<u n="821" who="S0104">okay he can camp it up but that's different <anon type="name" nameType="m"/>'s camp all the time</u>
+<u n="822" who="S0186" trans="overlap">yeah he can't help but be camp</u>
+<u n="823" who="S0104">yeah he's just</u>
+<u n="824" who="S0186" trans="overlap">just imagine if</u>
+<u n="825" who="S0167">oh he's a lovely boy</u>
+<u n="826" who="S0104">he's lovely I love him to bits but I can't believe that <anon type="name" nameType="f"/> is still completely unaware <vocal desc="laugh"/></u>
+<u n="827" who="S0108">no she's not</u>
+<u n="828" who="S0186">but oh if he got any camper he'd turn into a pink tent</u>
+<u n="829" who="S0104">yeah <vocal desc="laugh"/></u>
+<u n="830" who="S0108">he'd just be</u>
+<u n="831" who="S0167">ah I think he's nice</u>
+<u n="832" who="S0104">he hasn't got a well no he's got a couple but really on the whole he's got a huge amount of friends and they are all girls</u>
+	
+	</body>
+</text>

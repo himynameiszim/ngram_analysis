@@ -1,0 +1,623 @@
+<text id="SADE">
+	<header>
+		<rec_length>0:30:21</rec_length>
+		<rec_date>2016-01-19</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>3</n_speakers>
+		<list_speakers>S0653 S0654 S0655</list_speakers>
+		<rec_loc>Home kitchen, Comberton</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Unloading the dishwasher, Harry Potter, George Stephenson</topics>
+		<activity>George Stephenson</activity>
+		<conv_type>Discussing, explaining, anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T09</transcriber>
+		<speakerInfo>
+			<speaker id="S0653">
+				<exactage>39</exactage>
+				<age1994>35_44</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Dartford, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0654">
+				<exactage>7</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Norwich</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>1_primary</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0655">
+				<exactage>9</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bury St Edmunds</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>1_primary</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0653">alright sit down</u>
+<u n="2" who="S0654">everything is <unclear/> on here</u>
+<u n="3" who="S0655">there I found two dirty knives</u>
+<u n="4" who="S0653">did you?</u>
+<u n="5" who="S0655">and made some <unclear/></u>
+<u n="6" who="S0653">right so what you have is some chicken and some baguette</u>
+<u n="7" who="S0654">and look two</u>
+<u n="8" who="S0655">le baguette whoo</u>
+<u n="9" who="S0654">so let me check there's one two three there's one two three four five six seven eight nine ten so I can have five one no two three</u>
+<u n="10" who="S0655">wait <anon type="name" nameType="f"/></u>
+<u n="11" who="S0654">four five and wait</u>
+<u n="12" who="S0655">yeah</u>
+<u n="13" who="S0654" trans="overlap">one two three four five one two three four five six</u>
+<u n="14" who="S0655"><anon type="name" nameType="f"/> this isn't really much of a piece</u>
+<u n="15" who="S0654">I'll I'll only have a bit of it though</u>
+<u n="16" who="S0655">here and this isn't much either</u>
+<u n="17" who="S0654">yeah</u>
+<u n="18" who="S0655">not much here yeah mm chicken</u>
+<u n="19" who="S0654"><shift new="singing"/> silly little pony ch ch ch don't try to change me anyway ooh tell me what to do <shift new="normal"/></u>
+<u n="20" who="S0653">are these glasses here the ones that you erm took from the dishwasher?</u>
+<u n="21" who="S0654">yeah</u>
+<u n="22" who="S0655">I'm not sure I didn't take any glasses from the dishwasher</u>
+<u n="23" who="S0653">well clearly I'm talking to your sister aren't I?</u>
+<u n="24" who="S0655" trans="overlap">mm apart from Harry Potter</u>
+<u n="25" who="S0653">it obviously doesn't apply to you if you didn't do it</u>
+<u n="26" who="S0655">apart from Harry Potter's <pause dur="long"/></u>
+<u n="27" who="S0653">apart from Harry Potter's what?</u>
+<u n="28" who="S0655">glasses</u>
+<u n="29" who="S0653">when was Harry Potter staying here?</u>
+<u n="30" who="S0654">no glasses mum G L asses</u>
+<u n="31" who="S0655">yes I put his glasses</u>
+<u n="32" who="S0653">I understand just</u>
+<u n="33" who="S0654">he wears them all the time</u>
+<u n="34" who="S0655">yeah he can't see without them</u>
+<u n="35" who="S0653">yeah but why would they be in this house</u>
+<u n="36" who="S0655">cos he left them here</u>
+<u n="37" who="S0653">did he? that's a bit careless</u>
+<u n="38" who="S0654" trans="overlap">and then and then and then he had to go back</u>
+<u n="39" who="S0655">yeah</u>
+<u n="40" who="S0654">cos of uncle Kevin here erm he ran and stole him away</u>
+<u n="41" who="S0653">right</u>
+<u n="42" who="S0655">yeah I don't like uncle <trunc>ve</trunc> uncle Kevin?</u>
+<u n="43" who="S0654">uncle Kevin</u>
+<u n="44" who="S0655">it's uncle Vernon</u>
+<u n="45" who="S0654">no uncle Kevin <vocal desc="laugh"/></u>
+<u n="46" who="S0655">uncle Kevin</u>
+<u n="47" who="S0654">uncle Kevin</u>
+<u n="48" who="S0655">uncle it would be funny though if he was called uncle Kevin</u>
+<u n="49" who="S0654"><anon type="name" nameType="m"/> if you say uncle Kevin I'll say uncle Vernon</u>
+<u n="50" who="S0655">uncle Kevin</u>
+<u n="51" who="S0654">uncle Vernon sounds like uncle vermin</u>
+<u n="52" who="S0655">vermin he he he uncle vermin I I think uncle Vernon should be called uncle vermin</u>
+<u n="53" who="S0653">mm</u>
+<u n="54" who="S0654">I think he should have called uncle uncle <unclear>scar</unclear></u>
+<u n="55" who="S0655" trans="overlap">I think he but I also think he <trunc>c</trunc> should have called Dudley chubby</u>
+<u n="56" who="S0653">Vernon is a good name though</u>
+<u n="57" who="S0655">yeah although I think Dudley should be <trunc>ch</trunc> I think Dudley should be chubby</u>
+<u n="58" who="S0653">oh yeah?</u>
+<u n="59" who="S0655">instead cos that's what he looks like</u>
+<u n="60" who="S0653">yeah</u>
+<u n="61" who="S0655">he's a big fat boy</u>
+<u n="62" who="S0653">mm</u>
+<u n="63" who="S0655">he's a big fat idiot no offence to anyone called Dudley</u>
+<u n="64" who="S0653">I don't think we know anyone though do we?</u>
+<u n="65" who="S0655">no but there must be people called <anon type="name" nameType="m"/> in the world or maybe it's a made up name like Dumbledore or Voldemort?</u>
+<u n="66" who="S0653" trans="overlap">no no it's not a made up name</u>
+<u n="67" who="S0655">I like all the names in Harry Potter</u>
+<u n="68" who="S0653">they're well chosen aren't they?</u>
+<u n="69" who="S0655">yes and well made up it's always hard to make names for your characters in books</u>
+<u n="70" who="S0653">it is</u>
+<u n="71" who="S0655">cos you need to pick random names</u>
+<u n="72" who="S0653">well sometimes they have meanings don't they?</u>
+<u n="73" who="S0655">like banana but you could maybe give that person a nickname instead as a name</u>
+<u n="74" who="S0653">sorry?</u>
+<u n="75" who="S0655">you could maybe you could give a person a nickname instead of a name like Solid in Tom Gates his name's probably not Solid</u>
+<u n="76" who="S0653">I do want you to actually have some of this erm chicken please</u>
+<u n="77" who="S0655">I'll try a little bit and see if I like it <pause dur="short"/></u>
+<u n="78" who="S0653">it's just roast chicken <pause dur="long"/></u>
+<u n="79" who="S0655">I'm really sorry mum but I don't like it</u>
+<u n="80" who="S0653">you're going to eat it so if this is literally just chicken that's been roasted</u>
+<u n="81" who="S0655" trans="overlap">I don't I don't particularly like it</u>
+<u n="82" who="S0653">yeah well if you don't eat this then you won't get something tomorrow <pause dur="long"/> just eat it</u>
+<u n="83" who="S0655" trans="overlap">I'll eat I'll eat half of it</u>
+<u n="84" who="S0653">you can have you can have some mayonnaise with it if you want?</u>
+<u n="85" who="S0655">ketch-annaise</u>
+<u n="86" who="S0653">there's not very much ketchup I don't think it would be very nice I really don't think that would be a very good combination <pause dur="short"/> <anon type="name" nameType="f"/> I want to see you eat the <pause dur="long"/> chicken please</u>
+<u n="87" who="S0654">can it be on a different plate? cos this is all crumby</u>
+<u n="88" who="S0653">yes this spot</u>
+<u n="89" who="S0655" trans="overlap">okay I've halved them out <pause dur="long"/></u>
+<u n="90" who="S0653">you've carved what out?</u>
+<u n="91" who="S0655">halved them</u>
+<u n="92" who="S0653">you've halved it?</u>
+<u n="93" who="S0655">yeah</u>
+<u n="94" who="S0653">alright well I might have some</u>
+<u n="95" who="S0655">this is my half and that's <anon type="name" nameType="f"/> cos I've only eaten a bit well quite a few actually</u>
+<u n="96" who="S0653">really?</u>
+<u n="97" who="S0655">really</u>
+<u n="98" who="S0653">mm</u>
+<u n="99" who="S0655">mm <pause dur="long"/> there aren't enough pieces for <unclear/> <pause dur="long"/> and I can have Mr Kipling's</u>
+<u n="100" who="S0653">oh only if you eat some of the chicken</u>
+<u n="101" who="S0655">I'm gonna eat all of my half</u>
+<u n="102" who="S0653">do you want some coleslaw people?</u>
+<u n="103" who="S0655">mm no thank you</u>
+<u n="104" who="S0654">what's coleslaw?</u>
+<u n="105" who="S0655">yeah</u>
+<u n="106" who="S0653">it's sort of carrot and things in a nice sauce makes it taste yummy</u>
+<u n="107" who="S0654" trans="overlap">no thank you</u>
+<u n="108" who="S0653">yeah want to smell it?</u>
+<u n="109" who="S0654">no thank you</u>
+<u n="110" who="S0653">it's really nice mm so tell me more about <pause dur="short"/> george Stephenson</u>
+<u n="111" who="S0654">well he was in a race with the other people who <trunc>invent</trunc> who invented and by the time they were on like their last lap there was only two people him and another person</u>
+<u n="112" who="S0653">mm</u>
+<u n="113" who="S0655">erm is this a train race?</u>
+<u n="114" who="S0653" trans="overlap">is this an actual race or is it just a race to get things?</u>
+<u n="115" who="S0654">a train race</u>
+<u n="116" who="S0653">oh wow an actual race</u>
+<u n="117" who="S0655">thank you for taking a lot of my section</u>
+<u n="118" who="S0654">a race which had things</u>
+<u n="119" who="S0655">it is not on my section</u>
+<u n="120" who="S0654">a person who <unclear>got went far</unclear>who does</u>
+<u n="121" who="S0653">a person who what?</u>
+<u n="122" who="S0654">and the person who does not break down at any time</u>
+<u n="123" who="S0653">yeah was was what?</u>
+<u n="124" who="S0654">had fast wheels</u>
+<u n="125" who="S0653">mm</u>
+<u n="126" who="S0654">and was really good</u>
+<u n="127" who="S0653">mm</u>
+<u n="128" who="S0654">was the winner five hundred pounds</u>
+<u n="129" who="S0655">and did he win?</u>
+<u n="130" who="S0654">he won</u>
+<u n="131" who="S0653">yay</u>
+<u n="132" who="S0654">with his rocket he won with the rocket mum</u>
+<u n="133" who="S0653">that was a lot of money in those days</u>
+<u n="134" who="S0655">five hundred pounds?</u>
+<u n="135" who="S0653">mm</u>
+<u n="136" who="S0655">now now money here is different that would be about five million now</u>
+<u n="137" who="S0654" trans="overlap">the one with the rockets everybody was surprised</u>
+<u n="138" who="S0653" trans="overlap">be about <trunc>fi</trunc>five hundred thousand</u>
+<u n="139" who="S0655">is that more than five million?</u>
+<u n="140" who="S0653">he spent more than five million</u>
+<u n="141" who="S0655">no is that more than five million?</u>
+<u n="142" who="S0653">I've just said it's probably about five hundred thousand the equivalent of cos it'd be a a year's salary like and a really good year salary erm so why did people not expect him to win <anon type="name" nameType="f"/>?</u>
+<u n="143" who="S0655">cos he was new?</u>
+<u n="144" who="S0654">no because he suggested it first and then all and then the presidents of things they wanted to do the race and they thought they could prove his wrong him wrong</u>
+<u n="145" who="S0653">about what though?</u>
+<u n="146" who="S0654">about his idea for the first ever rocket</u>
+<u n="147" who="S0653">I don't what what are they proving him wrong about or trying to?</u>
+<u n="148" who="S0655" trans="overlap"><anon type="name" nameType="f"/> that's your section that his rocket is the fastest</u>
+<u n="149" who="S0654" trans="overlap">is this my section?</u>
+<u n="150" who="S0655">no this is my section there</u>
+<u n="151" who="S0654">these little bits are mine</u>
+<u n="152" who="S0655">no that is yours</u>
+<u n="153" who="S0654">and then</u>
+<u n="154" who="S0653">what <anon type="name" nameType="f"/> what were they trying to prove him wrong?</u>
+<u n="155" who="S0654">they were trying one of them who's really already idiotic said they can't let him kind he doesn't think that it's okay but</u>
+<u n="156" who="S0653">but why though?</u>
+<u n="157" who="S0654">well he does</u>
+<u n="158" who="S0653">did they think it was dangerous or that it just wouldn't work or what?</u>
+<u n="159" who="S0654">I guess <trunc>f</trunc> they didn't work they wouldn't work but then before that they couldn't create they couldn't put the rocket on wooden rails</u>
+<u n="160" who="S0653">why?</u>
+<u n="161" who="S0654" trans="overlap">so cos it would just break so they put metal rails instead</u>
+<u n="162" who="S0653">was it George behind that?</u>
+<u n="163" who="S0654">no one of his men and then mum</u>
+<u n="164" who="S0653">mm</u>
+<u n="165" who="S0654">they had to go they built their own factory and own rails and own rockets and he had a son called George I mean Robert</u>
+<u n="166" who="S0655">Robert Robert that's a good name for a son</u>
+<u n="167" who="S0653">see he's the one I've heard of Robert Louis Stevenson</u>
+<u n="168" who="S0654">never George</u>
+<u n="169" who="S0653">but I didn't know about George</u>
+<u n="170" who="S0654">that's cos he born in the eight</u>
+<u n="171" who="S0655" trans="overlap">why are they not famous?</u>
+<u n="172" who="S0653">mm?</u>
+<u n="173" who="S0655">he's quite famous</u>
+<u n="174" who="S0654" trans="overlap">in the eighteen seventies and he worked in a coal mine in <anon type="place"/> and his dad fixed things</u>
+<u n="175" who="S0653">mm</u>
+<u n="176" who="S0655">mm need more sugar</u>
+<u n="177" who="S0653">what a clever person</u>
+<u n="178" who="S0654">and it was very fun in the beginning cos whenever he <unclear/> up something he goes</u>
+<u n="179" who="S0653">sorry what?</u>
+<u n="180" who="S0654">it was really funny because whenever George sees his dad when he was little said talking about things that he should do if he doesn't want to go then when his son was born and he taught him when he was growing when he was growing up when he had a he said that his son would go so it was really funny</u>
+<u n="181" who="S0653">what that he wanted to be an inventor?</u>
+<u n="182" who="S0654">no if if you want to go do a job get the job done</u>
+<u n="183" who="S0653">wow <pause dur="short"/> so people didn't want trains then?</u>
+<u n="184" who="S0654">they didn't even know about trains they just called them trains wanted for them to be called trains</u>
+<u n="185" who="S0655">cos thinking about it Father Christmas and erm and also Santa he could be called anything I mean literally anything</u>
+<u n="186" who="S0653">mm</u>
+<u n="187" who="S0655">as in it's father anything</u>
+<u n="188" who="S0653">well <trunc>Christ</trunc>Christmas comes from Christ's mass the Holy Communion service you would have for Christ but as you all know pagans erm people celebrated winter yule time and midwinter</u>
+<u n="189" who="S0655">midwinter</u>
+<u n="190" who="S0653">before Christianity came a long and St Nicholas is another word for another name for Father Christmas isn't it? <pause dur="long"/> that's sort of just how things develop <pause dur="long"/> so how were things taken around how were things transported in the <trunc>wa</trunc> in the country before the railway then? the invention of the train do you think? do you know?</u>
+<u n="191" who="S0655">I think I do</u>
+<u n="192" who="S0654" trans="overlap">boats boats or old-fashioned cars which couldn't go much further</u>
+<u n="193" who="S0653">not cars</u>
+<u n="194" who="S0655">wagons</u>
+<u n="195" who="S0654">wagons</u>
+<u n="196" who="S0655">I said wagons</u>
+<u n="197" who="S0653">not really sort of no</u>
+<u n="198" who="S0655" trans="overlap">er sometimes wagons other times erm chariots</u>
+<u n="199" who="S0653" trans="overlap">stage stagecoaches well chariots were for a long time ago</u>
+<u n="200" who="S0655">oh yeah but still kind of chariots whatever</u>
+<u n="201" who="S0653">yeah coaches and canals canal boats</u>
+<u n="202" who="S0654">and sometimes some boxes with people going erm</u>
+<u n="203" who="S0655">yeah some people could even <trunc>ca</trunc> might even carry it</u>
+<u n="204" who="S0653">well people didn't most people didn't travel very far from where they grew up they stayed in the same area all the time</u>
+<u n="205" who="S0654">but not George Stephenson he went from there to there to there to there</u>
+<u n="206" who="S0653">well he sounds like an amazing person</u>
+<u n="207" who="S0655">I sound like an amazing person</u>
+<u n="208" who="S0653">would you like to go to the Science Museum to go and look at his rocket?</u>
+<u n="209" who="S0654">yeah and I might want to piece of it back</u>
+<u n="210" who="S0653">great idea</u>
+<u n="211" who="S0655">so you can do it for show and tell</u>
+<u n="212" who="S0654">yeah <anon type="name" nameType="f"/> put <anon type="name" nameType="m"/> a picture of it in his book</u>
+<u n="213" who="S0653">does he?</u>
+<u n="214" who="S0654">and we might be able to get a model from it for the museums</u>
+<u n="215" who="S0653">mm</u>
+<u n="216" who="S0655"><anon type="name" nameType="f"/> if I saw a photo of it I could erm draw a sketch of it and you could say this is what my brother drew of the rocket</u>
+<u n="217" who="S0653">I keep meaning to take you to places in <anon type="place"/> where Samuel Pepys was as well</u>
+<u n="218" who="S0655">Samuel Pepys</u>
+<u n="219" who="S0653">because you like him don't you?</u>
+<u n="220" who="S0654">He's really interesting</u>
+<u n="221" who="S0655">mum have I had enough chicken?</u>
+<u n="222" who="S0654" trans="overlap">cos of all the curly wurly hair he had flat hair straight hair like</u>
+<u n="223" who="S0653" trans="overlap">mm</u>
+<u n="224" who="S0654">like</u>
+<u n="225" who="S0655">have I had enough cos I only have these left?</u>
+<u n="226" who="S0654">like that hair</u>
+<u n="227" who="S0653">but I thought in the pictures he had curly hair</u>
+<u n="228" who="S0654">that's cos he wears a wig</u>
+<u n="229" who="S0653">oh and what did he bury under the Great Fire of London?</u>
+<u n="230" who="S0654">cheese a pigeon and his book</u>
+<u n="231" who="S0655" trans="overlap">cheese pigeon what what about wine didn't he bury some wine</u>
+<u n="232" who="S0654">oh yeah and some wine</u>
+<u n="233" who="S0653" trans="overlap">wine</u>
+<u n="234" who="S0655">yeah</u>
+<u n="235" who="S0653">a pigeon</u>
+<u n="236" who="S0654">yeah</u>
+<u n="237" who="S0653">did he?</u>
+<u n="238" who="S0654">yeah</u>
+<u n="239" who="S0653">I knew about the cheese and the wine</u>
+<u n="240" who="S0655" trans="overlap">yeah yeah it was yeah</u>
+<u n="241" who="S0654">in the video of it</u>
+<u n="242" who="S0653">mm</u>
+<u n="243" who="S0654">they go to put a they I think they put a pigeon they they put it in one of the boats one of the pigeons</u>
+<u n="244" who="S0653">and where do we need to take <anon type="name" nameType="m"/> still?</u>
+<u n="245" who="S0654">to the library of Simon Pepys</u>
+<u n="246" who="S0653">yeah</u>
+<u n="247" who="S0654">you can still see the you can still see his book and he wrote in a different language and he</u>
+<u n="248" who="S0653">he wrote in a code didn't he? a special code</u>
+<u n="249" who="S0654">yeah</u>
+<u n="250" who="S0655"><unclear>no</unclear> writing?</u>
+<u n="251" who="S0653">do you know not quite but it was very funny we read about this didn't we? when we went to mummy's old college so there was erm so he left he bequeathed that's called he left his library to oh some family member anyway they donated it to Magdalene and there it is and somebody really wanted but for years they didn't want what the diary's said and the reason why he put it in code is because he was talking about the people of his day sometimes in <trunc>no</trunc>not very nice like an honest way not a mean way</u>
+<u n="252" who="S0655">yeah honest way</u>
+<u n="253" who="S0653">but in those days you would really get into trouble if people found out about what you thought anyway so it was a code so one of the people erm made it their lifetime's work to try and crack the code okay</u>
+<u n="254" who="S0655">and they just had to found out erm twenty-six erm something letters</u>
+<u n="255" who="S0653">no it's a very complicated code and what they they spent about didn't they? I think thirty years trying to crack the code and then they realised I think the same week that in Samuel's library his collection of books there was a little book explaining the code so if he'd just read that then he would have understood the code they didn't really need to have spent thirty years cracking it</u>
+<u n="256" who="S0655">they might have been able to cos the most er erm nearly crack the code on that <trunc>th</trunc> or on the thing that <anon type="name" nameType="f"/></u>
+<u n="257" who="S0654">what code?</u>
+<u n="258" who="S0655">erm you know erm get those erm things where you can line up different letters like A is T</u>
+<u n="259" who="S0653" trans="overlap">mm mm <pause dur="long"/></u>
+<u n="260" who="S0655">I just put</u>
+<u n="261" who="S0653">when were they doing a spy day mm I'd forgotten about that</u>
+<u n="262" who="S0655">mm</u>
+<u n="263" who="S0653">do you remember when we went to Duxford and you were a spy?</u>
+<u n="264" who="S0655">oh yeah</u>
+<u n="265" who="S0653">mm and you were as well <anon type="name" nameType="f"/></u>
+<u n="266" who="S0655">I'm yeah I'm a <trunc>ca</trunc> now a fully qualified spy</u>
+<u n="267" who="S0653">mm</u>
+<u n="268" who="S0654">I don't remember I I missed I wasn't a very good one</u>
+<u n="269" who="S0653">you were very little</u>
+<u n="270" who="S0654">yeah</u>
+<u n="271" who="S0655">I managed to connect a wire</u>
+<u n="272" who="S0654">can we go there again so I can be a proper spy</u>
+<u n="273" who="S0653">I don't think they're running it any more</u>
+<u n="274" who="S0654">oh</u>
+<u n="275" who="S0653">we made fake French passports do you remember that?</u>
+<u n="276" who="S0655">yeah and disguised ourselves</u>
+<u n="277" who="S0653">we did it was lots of fun <pause dur="long"/> when are you going to eat your chicken? that's <anon type="name" nameType="m"/>'s chicken you know? he gave it to you <pause dur="long"/> well I'm not sure what we're doing in two weeks' time but I'd love to take you to <trunc>y</trunc> Science Museum</u>
+<u n="278" who="S0654">yeah</u>
+<u n="279" who="S0653">yeah? <pause dur="long"/> did you tell your friends that we went to a medieval hall to stay for the weekend</u>
+<u n="280" who="S0655">yeah I did it today</u>
+<u n="281" who="S0653">did you? what for show and tell? oh did you? did you bring a postcard with you?</u>
+<u n="282" who="S0654">yeah and <anon type="name" nameType="f"/> laughed when I told her I when I said I fell in the mud</u>
+<u n="283" who="S0653">oh</u>
+<u n="284" who="S0654">she laughed and I said it's not funny <anon type="name" nameType="f"/> but she was laughing because</u>
+<u n="285" who="S0653">it is a little bit funny</u>
+<u n="286" who="S0655">yeah <pause dur="long"/></u>
+<u n="287" who="S0654">it wasn't funny for me mum</u>
+<u n="288" who="S0653">it wasn't funny at the time but it's <trunc>k</trunc> a little bit funny <anon type="name" nameType="m"/> said that he could see it happen he was watching you from the window and he said oh no <anon type="name" nameType="f"/> is going to fall into the mud any minute and then you did so that's a little bit funny isn't it? it's not funny at the time cos you're cold and wet but looking back on it if someone was filming it they'd <trunc>pro</trunc> they could send it in to You've Been Framed</u>
+<u n="289" who="S0654">no way</u>
+<u n="290" who="S0653">nobody was filming it I'm just saying that some people find it funny well? were people interested? <pause dur="short"/> did you tell them about the bat?</u>
+<u n="291" who="S0654">if I did then <anon type="name" nameType="f"/> would want to get it back otherwise it might be endangered</u>
+<u n="292" who="S0653">you didn't mention the bat? what did you talk about?</u>
+<u n="293" who="S0654">I talked about the</u>
+<u n="294" who="S0655">ice?</u>
+<u n="295" who="S0654">I talked about the ice I talked about the pub and I</u>
+<u n="296" who="S0653">oh did you?</u>
+<u n="297" who="S0654">and I and I didn't say it was called the Cock Inn I said it was the Rooster Inn</u>
+<u n="298" who="S0653"><vocal desc="laugh"/></u>
+<u n="299" who="S0654">so they didn't get so the teacher didn't</u>
+<u n="300" who="S0653">well there's nothing wrong in saying it's called the Cock Inn it's just yes as we now know it has a range of meanings</u>
+<u n="301" who="S0655">mm</u>
+<u n="302" who="S0654">it is quite</u>
+<u n="303" who="S0655">yes</u>
+<u n="304" who="S0653">mm</u>
+<u n="305" who="S0655">I find sewage pipes the funniest</u>
+<u n="306" who="S0653">but sewage pipes is one meaning and and a male chicken is another</u>
+<u n="307" who="S0655">I wish there were different ways of pronouncing it <pause dur="short"/> erm</u>
+<u n="308" who="S0653">there are lots of <trunc>wo</trunc> well that's why people use it <unclear/> but I mean who knows why it also means penis I don't know but it does</u>
+<u n="309" who="S0655" trans="overlap">ah I need to use my cock if you say I need to use my cock it means I need a wee</u>
+<u n="310" who="S0654">mm</u>
+<u n="311" who="S0653">that's why cos that's why I said to you it's usually in a sexual context in kind of quite a rude way so I would definitely use it in any sort of context</u>
+<u n="312" who="S0655">no I just said I need a wee or I need to come I need a <unclear/></u>
+<u n="313" who="S0653" trans="overlap">well I don't think you need you need to <trunc>annou</trunc>announce you need a wee to anybody do you?</u>
+<u n="314" who="S0654">no I could say can I please go to the toilet?</u>
+<u n="315" who="S0653">yeah if you said could I get my cock out people would be absolutely scandalised and shocked and appalled that a <trunc>se</trunc> that a nine-year-old was saying that</u>
+<u n="316" who="S0655"><vocal desc="laugh"/> they would be so cocked</u>
+<u n="317" who="S0653">cos it is specifically for sexual kind of</u>
+<u n="318" who="S0655">meaning</u>
+<u n="319" who="S0653">mentioning yeah so I I would strongly urge you not to do that</u>
+<u n="320" who="S0655">I'm not planning on it</u>
+<u n="321" who="S0653">good well as you know if you ask me the question of the meaning of the word then I will always tell you</u>
+<u n="322" who="S0655">yeah</u>
+<u n="323" who="S0654">what's the meaning of poo?</u>
+<u n="324" who="S0653">well that's you know that already</u>
+<u n="325" who="S0654">I know</u>
+<u n="326" who="S0655">er there is a word I know but I'm not sure if I should really say it</u>
+<u n="327" who="S0653">why?</u>
+<u n="328" who="S0655">cos it's a swear word I'm wondering what the meaning of it is</u>
+<u n="329" who="S0653">ask away</u>
+<u n="330" who="S0655">it's the S word what does it mean?</u>
+<u n="331" who="S0653">shit that word</u>
+<u n="332" who="S0655">you just you just swore</u>
+<u n="333" who="S0653">I was just checking</u>
+<u n="334" who="S0655">yes it is</u>
+<u n="335" who="S0653">it means poo</u>
+<u n="336" who="S0654"><vocal desc="laugh"/></u>
+<u n="337" who="S0655"><vocal desc="laugh"/> so poo is a swear word?</u>
+<u n="338" who="S0653">well no using the word shit is a swear word</u>
+<u n="339" who="S0655">er why?</u>
+<u n="340" who="S0653">I don't know what the etymology I don't know the origin of that word actually</u>
+<u n="341" who="S0655">is asshole bottom?</u>
+<u n="342" who="S0653">is sorry</u>
+<u n="343" who="S0655">asshole bottom?</u>
+<u n="344" who="S0653">yes asshole that's <trunc>ano</trunc> you see you've heard these in American films haven't you?</u>
+<u n="345" who="S0655">yeah Back to the Future</u>
+<u n="346" who="S0653">asshole</u>
+<u n="347" who="S0655">they swear a lot in that</u>
+<u n="348" who="S0653">I know surprisingly so we would say arsehole in this country</u>
+<u n="349" who="S0654"><unclear>opium</unclear></u>
+<u n="350" who="S0655">or bum I know what the S word means and actually the B word isn't a B word isn't a erm a swear word it just means female dog</u>
+<u n="351" who="S0653">yes but men particularly use it in a derogatory manner in a negative manner</u>
+<u n="352" who="S0655">yeah like the son of a boop</u>
+<u n="353" who="S0653">but that's it's a nasty word to use against women</u>
+<u n="354" who="S0655">yeah so that's why I didn't say it</u>
+<u n="355" who="S0653">quite right too</u>
+<u n="356" who="S0655">erm I either say a something word or</u>
+<u n="357" who="S0653">sorry?</u>
+<u n="358" who="S0655">I either say something word like the B word the F word the S word something like that or I just cover my month with my hand and say beep</u>
+<u n="359" who="S0653">yeah or just don't swear</u>
+<u n="360" who="S0655">yeah I don't swear</u>
+<u n="361" who="S0654">well I thought I would</u>
+<u n="362" who="S0655" trans="overlap">although someone would</u>
+<u n="363" who="S0653" trans="overlap">well that's that's not a nice word <anon type="name" nameType="m"/></u>
+<u n="364" who="S0654">after I once watched a Back the Future thing I accidently said the S word at dad's and I was like ah and I was crying because I said it</u>
+<u n="365" who="S0655" trans="overlap">yeah too much Back to the Future</u>
+<u n="366" who="S0654">yeah I didn't mean to say it and dad knew that cos I was crying because I</u>
+<u n="367" who="S0653">mm</u>
+<u n="368" who="S0655">yeah and she just cried because dad went what did dad say?</u>
+<u n="369" who="S0653">how did dad react?</u>
+<u n="370" who="S0654">he was he was just trying to calm me down because he knew I said it by accident and he knew I didn't want to say it</u>
+<u n="371" who="S0653">mm</u>
+<u n="372" who="S0654">because if I did</u>
+<u n="373" who="S0653">you were just testing it out really from what you'd heard</u>
+<u n="374" who="S0654">I wasn't I just accidently said it</u>
+<u n="375" who="S0653" trans="overlap">how did you accidently say it?</u>
+<u n="376" who="S0655">oh she watched too much Back to the Future and they say that quite a lot in this one</u>
+<u n="377" who="S0654" trans="overlap">I was going to say oh no and then I just said it and went ah</u>
+<u n="378" who="S0653">mm</u>
+<u n="379" who="S0654">shockly</u>
+<u n="380" who="S0653">well if that happens again you've got to try and say oh sugar instead</u>
+<u n="381" who="S0654">okay</u>
+<u n="382" who="S0655"><vocal desc="laugh"/> yeah or</u>
+<u n="383" who="S0653">there's nothing wrong with that</u>
+<u n="384" who="S0654" trans="overlap">oh sugar</u>
+<u n="385" who="S0655" trans="overlap">and if you say and if you're going to say the F word say ah fudge and</u>
+<u n="386" who="S0653">foozle I say</u>
+<u n="387" who="S0655"><vocal desc="laugh"/> yeah and if you're about to say the B word say</u>
+<u n="388" who="S0654">banana</u>
+<u n="389" who="S0655">ah banana</u>
+<u n="390" who="S0653"><vocal desc="laugh"/></u>
+<u n="391" who="S0655">is there a P word?</u>
+<u n="392" who="S0654">yeah</u>
+<u n="393" who="S0653">not that I not that I know of</u>
+<u n="394" who="S0654">potato head</u>
+<u n="395" who="S0653"><vocal desc="laugh"/></u>
+<u n="396" who="S0655">yeah cos if you were going to say the P word you could say oh potato</u>
+<u n="397" who="S0653">mm <pause dur="long"/></u>
+<u n="398" who="S0655">and the B word</u>
+<u n="399" who="S0653">mm</u>
+<u n="400" who="S0655">or whatever it is</u>
+<u n="401" who="S0653">when you're a teenager you will probably swear</u>
+<u n="402" who="S0655"><anon type="name" nameType="f"/> yes me not really</u>
+<u n="403" who="S0653">but you will not be allowed to swear in your in school or if you get a like a Saturday job you wouldn't be able to do that then</u>
+<u n="404" who="S0654">I know</u>
+<u n="405" who="S0655">or you'd get fired</u>
+<u n="406" who="S0653">mm</u>
+<u n="407" who="S0655">burning hot</u>
+<u n="408" who="S0653"><vocal desc="laugh"/> <pause dur="long"/> I wonder if <anon type="name" nameType="m"/> would like to go the Science Museum? <pause dur="long"/></u>
+<u n="409" who="S0655">mm I'm going to have a Mr Kipling</u>
+<u n="410" who="S0653">go for it <anon type="name" nameType="f"/> I want you to try them because they're really nice</u>
+<u n="411" who="S0655" trans="overlap">even though I do have a huge tummy ache</u>
+<u n="412" who="S0653">you do?</u>
+<u n="413" who="S0655">yeah</u>
+<u n="414" who="S0653">how come?</u>
+<u n="415" who="S0655">I've eaten too much food but I've still having a Mr Kipling</u>
+<u n="416" who="S0654">ouchy</u>
+<u n="417" who="S0653">I don't know <anon type="name" nameType="f"/></u>
+<u n="418" who="S0655">I can only eat two</u>
+<u n="419" who="S0655">oh it's cos I've had too much pressure on my belt oh no it's still there oh yes baby that is a good Mr Kipling</u>
+<u n="420" who="S0654">I don't like Mr Kipling</u>
+<u n="421" who="S0655">they're lovely</u>
+<u n="422" who="S0653">yeah but you're gonna try one <anon type="name" nameType="f"/> let me consult my diary right so <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> stop that right now cos that's very irritating okay so not this weekend but the weekend after</u>
+<u n="423" who="S0655"><unclear/></u>
+<u n="424" who="S0653">when you're back with me the only thing that we've got planned the whole of that weekend is ballet so shall we go to the Science Museum?</u>
+<u n="425" who="S0654" trans="overlap"><trunc>a</trunc>actually I think dad will want to know about it</u>
+<u n="426" who="S0653">well but he took you there last time</u>
+<u n="427" who="S0654">no he didn't</u>
+<u n="428" who="S0653">mm</u>
+<u n="429" who="S0654">he didn't take us last time he took us somewhere else</u>
+<u n="430" who="S0653">no but the last time you went was with dad cos I've taken you a couple of times but that was quite a while ago <pause dur="long"/></u>
+<u n="431" who="S0655">I'm not that excited about it</u>
+<u n="432" who="S0653">I don't think <anon type="name" nameType="m"/> has been for a long time</u>
+<u n="433" who="S0655">well he is just thirty</u>
+<u n="434" who="S0653">and you know it's next door to the Natural History Museum do you want to go? or do you want to go with dad? I don't mind</u>
+<u n="435" who="S0654">I think I might go with dad he might be happy to go with him and with you</u>
+<u n="436" who="S0653" trans="overlap">okay well you let me know</u>
+<u n="437" who="S0655">I'm not exactly I'm not really that excited about erm the Science Museum and seeing the rocket</u>
+<u n="438" who="S0653">what we could do is go up north they've got things up there</u>
+<u n="439" who="S0655" trans="overlap">oh hey mum if you and <anon type="name" nameType="f"/> or <anon type="name" nameType="f"/> and dad</u>
+<u n="440" who="S0653" trans="overlap">go to <anon type="place"/> mm</u>
+<u n="441" who="S0655">erm have a mummy daughter day or a daddy daughter day</u>
+<u n="442" who="S0653">mm</u>
+<u n="443" who="S0655">then you can go and see a rocket</u>
+<u n="444" who="S0653">mm but <anon type="name" nameType="m"/> there's not just the rocket there's all sorts of great things at the museum</u>
+<u n="445" who="S0655">mm</u>
+<u n="446" who="S0653">now do you think you would be able to go to the Tower of London? <pause dur="short"/> they've got now they did use it obviously as a prison that was one of its roles</u>
+<u n="447" who="S0655">yep and the other one was a sausage roll</u>
+<u n="448" who="S0653">but people also stayed thank you <anon type="name" nameType="m"/> people also stayed there and the crown jewels are three</u>
+<u n="449" who="S0655">yeah</u>
+<u n="450" who="S0653">like the biggest diamond you'll ever see in your whole life is there</u>
+<u n="451" who="S0655" trans="overlap">yeah</u>
+<u n="452" who="S0653">cos it's very secure</u>
+<u n="453" who="S0655" trans="overlap">and a golden and I think a golden spoon</u>
+<u n="454" who="S0653">mm</u>
+<u n="455" who="S0655">and the actual crown</u>
+<u n="456" who="S0653">and the actual crown well one of the crowns that the queen wears sometimes</u>
+<u n="457" who="S0655">yeah one of the crowns it's like it's her special crown</u>
+<u n="458" who="S0654" trans="overlap">so where's the Tower of London?</u>
+<u n="459" who="S0653">in in London</u>
+<u n="460" who="S0655">yeah</u>
+<u n="461" who="S0654" trans="overlap">what does it look like?</u>
+<u n="462" who="S0653" trans="overlap">surprisingly it looks like a little castle</u>
+<u n="463" who="S0655">yeah</u>
+<u n="464" who="S0654">is it like I know oh I think I know what it is is it like a thing which has two legs down here and goes up and there's a point up at the top</u>
+<u n="465" who="S0655"><anon type="name" nameType="f"/></u>
+<u n="466" who="S0653">it's got kind of lots of crenulations they're called</u>
+<u n="467" who="S0655" trans="overlap">oh wait wait wait wait wait I can I get something?</u>
+<u n="468" who="S0653">like that can you get something?</u>
+<u n="469" who="S0654">yeah is it the thing which has legs yeah and then goes up</u>
+<u n="470" who="S0653" trans="overlap">it's kind of like in a square mm</u>
+<u n="471" who="S0654">but then a pointy little top and goes <vocal desc="misc"/> up</u>
+<u n="472" who="S0653">and it's got a big kind of erm gate and you know grisly things happen there but also interesting things</u>
+<u n="473" who="S0655">voila</u>
+<u n="474" who="S0653">what about it? <unclear/> granny</u>
+<u n="475" who="S0655">yeah they try and steal the crown jewels</u>
+<u n="476" who="S0653">oh</u>
+<u n="477" who="S0655">so if you read that</u>
+<u n="478" who="S0653">that would be a good book to read before then</u>
+<u n="479" who="S0655">and it does have</u>
+<u n="480" who="S0654">can we?</u>
+<u n="481" who="S0653" trans="overlap">mm</u>
+<u n="482" who="S0655">I think it has pictures yeah look</u>
+<u n="483" who="S0653">are you gonna have an a a a Mr Kipling apple pie</u>
+<u n="484" who="S0655">St Ed look these are the crown jewels</u>
+<u n="485" who="S0653">I want you to try it <anon type="name" nameType="f"/> please</u>
+<u n="486" who="S0655">the golden spoon the crown of India St Edward's crown</u>
+<u n="487" who="S0653" trans="overlap">sit down sit down sit down <anon type="name" nameType="m"/> I <trunc>ne</trunc> realise you've hoodwinked me again into letting you get up out of your chair</u>
+<u n="488" who="S0654"><vocal desc="laugh"/> yeah</u>
+<u n="489" who="S0653">right we're gonna <trunc>l</trunc>look at that <anon type="name" nameType="f"/> let go</u>
+<u n="490" who="S0654"><unclear/> and <unclear/> and buy one get one free</u>
+<u n="491" who="S0653" trans="overlap">hang on what's the conversation I've already had today about you not obeying me the first time I'm asking you to do something</u>
+<u n="492" who="S0654">that was yesterday</u>
+<u n="493" who="S0653">that was that was earlier today</u>
+<u n="494" who="S0654">no it was yesterday if I don't like it I won't eat it</u>
+<u n="495" who="S0653" trans="overlap">it was yesterday and today</u>
+<u n="496" who="S0654">can I get something to er cut into it cos I don't want to have to bite into it</u>
+<u n="497" who="S0653">we could also go to erm a an art gallery like the <trunc>Na</trunc>National Gallery which is where <anon type="name" nameType="f"/> goes for her lots of her her art adventures</u>
+<u n="498" who="S0655"><anon type="name" nameType="f"/> it's still it's still in the case</u>
+<u n="499" who="S0654">I wanted to hold the case</u>
+<u n="500" who="S0653">erm we could <trunc>g</trunc> oh I know what we could do we could go to the Globe and have a tour there cos that's on my list of things to take you to and St Paul's Cathedral</u>
+<u n="501" who="S0654" trans="overlap">oh</u>
+<u n="502" who="S0655">do you actually have a list of things to take you us to</u>
+<u n="503" who="S0653">mm <pause dur="short"/> a metaphorical list well not a <trunc>m</trunc> but an image of a list not erm an actual list but I could make it an actual list</u>
+<u n="504" who="S0655">yeah <trunc>ca</trunc> and I'll need to see it</u>
+<u n="505" who="S0654">is it that lift there</u>
+<u n="506" who="S0653"><anon type="name" nameType="f"/> you need to get on and I won't let you go to Brownies if you don't get on and eat it</u>
+<u n="507" who="S0654" trans="overlap">what's that?</u>
+<u n="508" who="S0653">those are the the things that we want to do <pause dur="short"/> can you please get on and try</u>
+<u n="509" who="S0654">I don't really want to eat it</u>
+<u n="510" who="S0653">yeah but you're going to eat a bit of it we want to go fossil hunting <pause dur="short"/> try crabbing go to the Wilder wood</u>
+<u n="511" who="S0654">if I don't like it <anon type="name" nameType="m"/> can have it</u>
+<u n="512" who="S0653">if you don't like it you'll eat half of it</u>
+<u n="513" who="S0654">if I don't like it I'll <unclear/> <anon type="name" nameType="m"/></u>
+<u n="514" who="S0653" trans="overlap"><trunc>wh</trunc> go to Harry Potter <trunc>studi</trunc> oh I said to <anon type="name" nameType="m"/> that's what you're going to eat up there in one go I said to <anon type="name" nameType="m"/> in November please let's book Harry Potter studios for my birthday and we didn't get round to it and it's all fully booked now for the whole of half term but you don't really want to go back anyway do you?</u>
+<u n="515" who="S0655">no</u>
+<u n="516" who="S0653">cos you said it spoilt the magic I'm waiting for you to eat that piece</u>
+<u n="517" who="S0654">he he he he</u>
+<u n="518" who="S0653">right Brownie's in half and hour</u>
+<u n="519" who="S0654">I know and I don't want to eat it I don't like that</u>
+<u n="520" who="S0653">oh well no spaghetti carbonara this week then</u>
+<u n="521" who="S0654">mm <pause dur="long"/></u>
+	
+	</body>
+</text>

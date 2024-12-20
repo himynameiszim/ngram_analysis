@@ -1,0 +1,683 @@
+<text id="SXK2">
+	<header>
+		<rec_length>0:21:38</rec_length>
+		<rec_date>2016-01-09</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q1</rec_period>
+		<n_speakers>4</n_speakers>
+		<list_speakers>S0517 S0570 S0571 S0572</list_speakers>
+		<rec_loc>Family home, Fradley, Staffs)</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>clearing up, tennis, Hitler, facial hair, girlfriend, Instagram</topics>
+		<activity>Parents talking with teenage sons after dinner.</activity>
+		<conv_type>Discussing, explaining, advising, anecdote telling</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T04</transcriber>
+		<speakerInfo>
+			<speaker id="S0517">
+				<exactage>47</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Sutton Coldfield</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Midlands</dialect_rep>
+				<hab_city>Lichfield</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>14 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>midlands</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Self employed - marketing &amp; Proofing services</occupation>
+				<socgrade>C1</socgrade>
+				<nssec>3</nssec>
+				<l2></l2>
+				<fls>French -- working knowledge; German -- Working knowledge</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0570">
+				<exactage>16</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Ascot</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Midlands</dialect_rep>
+				<hab_city>Lichfield</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>13yrs 8 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>midlands</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0571">
+				<exactage>46</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Seoul</birthplace>
+				<birthcountry>South Korea</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Brummie</dialect_rep>
+				<hab_city>Lichfield</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>13yrs 8 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>midlands</dialect_l3>
+				<dialect_l4>w_midlands</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Operations manager</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0572">
+				<exactage>14</exactage>
+				<age1994>0_14</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>CO. Durham</birthplace>
+				<birthcountry>UK</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>Midlands</dialect_rep>
+				<hab_city>Lichfield</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>13yrs 8 months</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>midlands</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0572"><trunc>we</trunc>we're clearing up</u>
+<u n="2" who="S0517">yeah clear up the dishwasher's on though so you can't do much you've got to wash up the rest</u>
+<u n="3" who="S0570">oh can we just get the Toblerone?</u>
+<u n="4" who="S0571">no well we'll have that after we've cleared up</u>
+<u n="5" who="S0517" trans="overlap">well I've got that cake for you</u>
+<u n="6" who="S0570" trans="overlap">I can't eat Toblerone</u>
+<u n="7" who="S0517"><anon type="name" nameType="m"/> I've got that cake for you</u>
+<event desc="begin overlap"/>
+<u n="8" who="S0571"><unclear/> <anon type="name" nameType="m"/> go on rub my neck <anon type="name" nameType="m"/> rub my neck it's really painful oh yeah right there that's where it hurts <anon type="name" nameType="m"/> push in there ow I know what <unclear/> right now</u>
+<event desc="end overlap"/>
+<u n="9" who="S0572">can we not just run the <trunc>wa</trunc> the dishwasher is <unclear/></u>
+<u n="10" who="S0517">yes but yes but the dishwasher hasn't been on long so yes you can</u>
+<u n="11" who="S0517">you can wait for it to finish and reload it</u>
+<u n="12" who="S0570" trans="overlap">so it's this thing?</u>
+<u n="13" who="S0517">how did you crick it?</u>
+<u n="14" who="S0572">I always do on the tennis</u>
+<u n="15" who="S0571" trans="overlap">I think I did it playing tennis</u>
+<u n="16" who="S0517" trans="overlap">how?</u>
+<u n="17" who="S0570">do you know you know when you see me do my head things just for first serve?</u>
+<u n="18" who="S0571" trans="overlap">yeah</u>
+<u n="19" who="S0570">that's because I always end up cricking my neck</u>
+<u n="20" who="S0571"><anon type="name" nameType="m"/> what was the score today?</u>
+<u n="21" who="S0572">seven five</u>
+<u n="22" who="S0517">who to <anon type="name" nameType="m"/>?</u>
+<u n="23" who="S0572"><unclear/></u>
+<u n="24" who="S0517">dad said he won</u>
+<u n="25" who="S0570">you got a good hit didn't you?</u>
+<u n="26" who="S0517">dad said you weren't on form</u>
+<u n="27" who="S0572">I wasn't on form?</u>
+<u n="28" who="S0517">that's what he said</u>
+<u n="29" who="S0572" trans="overlap"><unclear/> six one</u>
+<u n="30" who="S0571">well how can you be on form and lose to me six one?</u>
+<u n="31" who="S0572">that's like I say <unclear/> two all and be and do quite well you tell me that?</u>
+<u n="32" who="S0517">what?</u>
+<u n="33" who="S0571">well they were all young</u>
+<u n="34" who="S0572">I'm fourteen</u>
+<u n="35" who="S0571">I know well that's really good</u>
+<u n="36" who="S0517">your dad's really old though</u>
+<u n="37" who="S0571">I'm really old though</u>
+<u n="38" who="S0517">and not very mobile in the damp</u>
+<u n="39" who="S0571">nearly a legend but</u>
+<u n="40" who="S0570">how did <unclear/> today <anon type="name" nameType="m"/>?</u>
+<u n="41" who="S0572"><unclear/></u>
+<u n="42" who="S0571">that's alright that's great</u>
+<u n="43" who="S0572" trans="overlap">he came down for like two minutes</u>
+<u n="44" who="S0571">sorry?</u>
+<u n="45" who="S0572">disposal</u>
+<u n="46" who="S0571">he went off to play golf with <anon type="name" nameType="m"/></u>
+<u n="47" who="S0570">oh did he?</u>
+<u n="48" who="S0571">yeah</u>
+<u n="49" who="S0517">do you know him?</u>
+<u n="50" who="S0570">yeah yeah I <unclear/></u>
+<u n="51" who="S0517">when you did what thing?</u>
+<u n="52" who="S0570">you know the open day?</u>
+<u n="53" who="S0571">did he say hello to you?</u>
+<u n="54" who="S0570">no</u>
+<u n="55" who="S0572"><unclear/></u>
+<u n="56" who="S0570">sorry</u>
+<u n="57" who="S0571"><vocal desc="laugh"/></u>
+<u n="58" who="S0570">I'm just saying <pause dur="short"/> he knows his priorities</u>
+<u n="59" who="S0517">does he?</u>
+<u n="60" who="S0571" trans="overlap"><anon type="name" nameType="m"/> are you gonna have a shave soon?</u>
+<u n="61" who="S0572">I'm letting it grow</u>
+<u n="62" who="S0571">okay</u>
+<u n="63" who="S0517">how long?</u>
+<u n="64" who="S0572">I will <unclear/></u>
+<u n="65" who="S0571" trans="overlap">why don't you grow it into one of those long moustaches</u>
+<u n="66" who="S0572">no because I saw Hitler like that cos we</u>
+<u n="67" who="S0571" trans="overlap">Hitler? he only had a small one there</u>
+<u n="68" who="S0572">no no before before he <unclear/></u>
+<u n="69" who="S0517" trans="overlap">before he became Hitler</u>
+<u n="70" who="S0572">yeah in World War One</u>
+<u n="71" who="S0571">he had a big handlebar moustache?</u>
+<u n="72" who="S0572" trans="overlap">yeah yeah</u>
+<u n="73" who="S0517" trans="overlap">did he?</u>
+<u n="74" who="S0572">and he was yeah and er he failed his erm do you want me to tell you the story of Hitler?</u>
+<u n="75" who="S0517">yes please do</u>
+<u n="76" who="S0571" trans="overlap">and failed his GCSEs</u>
+<u n="77" who="S0572">dad he didn't get any GCSEs I don't think</u>
+<u n="78" who="S0570" trans="overlap"><unclear/></u>
+<u n="79" who="S0517">he didn't get any?</u>
+<u n="80" who="S0572">he didn't get any GCSEs erm because er his dad was really strict when he was younger and his mum like loved him but his dad was always</u>
+<u n="81" who="S0571" trans="overlap">is this like you then?</u>
+<u n="82" who="S0517" trans="overlap">this like our family</u>
+<u n="83" who="S0572" trans="overlap">his his dad</u>
+<u n="84" who="S0570"><unclear/></u>
+<u n="85" who="S0571">no it's not</u>
+<u n="86" who="S0570">it's one</u>
+<u n="87" who="S0517">shh listen <anon type="name" nameType="m"/> is <unclear>telling</unclear></u>
+<u n="88" who="S0572">his dad was also his great grandad</u>
+<u n="89" who="S0517">his dad was his great grandad what?</u>
+<u n="90" who="S0571" trans="overlap">how does that work out?</u>
+<u n="91" who="S0572" trans="overlap">cos he because his dad was incest</u>
+<u n="92" who="S0570">yeah</u>
+<u n="93" who="S0517">what?</u>
+<u n="94" who="S0572">so his dad like had sex with her with his</u>
+<u n="95" who="S0570" trans="overlap">with his mum</u>
+<u n="96" who="S0572">mum with and er with his nephew</u>
+<u n="97" who="S0517">what?</u>
+<u n="98" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="99" who="S0571">shut up</u>
+<u n="100" who="S0572">no there's a I'm not I'm not sure about the great grandad bit but</u>
+<u n="101" who="S0571"><vocal desc="laugh"/></u>
+<u n="102" who="S0572" trans="overlap"><unclear/></u>
+<u n="103" who="S0571">so you've made it up</u>
+<u n="104" who="S0572">no no</u>
+<u n="105" who="S0517" trans="overlap">are you taking history as an option?</u>
+<u n="106" who="S0572">no no right so pretty much what happened was he he was like the grandad</u>
+<u n="107" who="S0517">who?</u>
+<u n="108" who="S0572"><trunc>e</trunc>er Hitler's dad he was he was the grandad to Hitler and his nephew</u>
+<u n="109" who="S0517">how can Hitler's dad be grandad to him?</u>
+<u n="110" who="S0570">because he's</u>
+<u n="111" who="S0572">because it's incest</u>
+<u n="112" who="S0570">he had sex with his daughter</u>
+<u n="113" who="S0572" trans="overlap">he had sex with his nephew or something</u>
+<u n="114" who="S0517" trans="overlap">nephew?</u>
+<u n="115" who="S0570">no he had sex with his daughter</u>
+<u n="116" who="S0517">did he?</u>
+<u n="117" who="S0572">yeah and then that</u>
+<u n="118" who="S0571" trans="overlap">which would make him his dad and grandad</u>
+<u n="119" who="S0570">yeah</u>
+<u n="120" who="S0572">yeah and then his dad was really strict on him and like beat him</u>
+<u n="121" who="S0571"><unclear/></u>
+<u n="122" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="123" who="S0570">yeah and then when his <unclear/> he become grandad <unclear/></u>
+<u n="124" who="S0572"><vocal desc="laugh"/></u>
+<u n="125" who="S0570">and like give him sweets and stuff</u>
+<u n="126" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="127" who="S0572">and then but his mum always loved him</u>
+<u n="128" who="S0517">mm</u>
+<u n="129" who="S0571">ah</u>
+<u n="130" who="S0572">and so erm <vocal desc="laugh"/></u>
+<u n="131" who="S0517">I've forgotten where we were going with this</u>
+<u n="132" who="S0572">and then pretty much his dad died and then he's thought like what was the point in school?</u>
+<u n="133" who="S0571">his grandad's still alive?</u>
+<u n="134" who="S0572">no because his dad <unclear/></u>
+<u n="135" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="136" who="S0572">and then and then</u>
+<u n="137" who="S0517">good question though yeah <vocal desc="laugh"/></u>
+<u n="138" who="S0572">and then he thought oh what was the point? and so but he wanted to do art</u>
+<u n="139" who="S0517" trans="overlap">how old was he?</u>
+<u n="140" who="S0572">he was like it was high school</u>
+<u n="141" who="S0517">right</u>
+<u n="142" who="S0572">and then he wanted to do art so he took up like he was doing art but his dad wanted him to join the army but because his dad's dead and grandad is dead now</u>
+<u n="143" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="144" who="S0572">I'm just trying to make it clear his dad dad and grandad are dead now so erm he decided to do art and his mum supported him with it even though he left school at like the age of fifteen with no GCSEs or A levels or anything</u>
+<u n="145" who="S0570">I'd be naughty if my parents died</u>
+<u n="146" who="S0517">would you?</u>
+<u n="147" who="S0572">and his well his mum is still alive at this point but then his mum dies</u>
+<u n="148" who="S0570"><unclear/></u>
+<u n="149" who="S0517" trans="overlap">what of?</u>
+<u n="150" who="S0572">his mum died of breast cancer I think</u>
+<u n="151" who="S0571" trans="overlap">that's stupid</u>
+<u n="152" who="S0517">have you just made that up?</u>
+<u n="153" who="S0572">I think it's some sort of cancer so then he's</u>
+<u n="154" who="S0571"><vocal desc="laugh"/></u>
+<u n="155" who="S0571" trans="overlap">he's just making it up</u>
+<u n="156" who="S0572">just staring at his mum like naked and drawing pictures of her</u>
+<u n="157" who="S0517">when? <unclear/></u>
+<u n="158" who="S0572" trans="overlap">while while she was dead I know it's creepy isn't it? and he he</u>
+<u n="159" who="S0517" trans="overlap">what?</u>
+<u n="160" who="S0572">didn't have a job so he</u>
+<u n="161" who="S0571" trans="overlap">if this is your imagination I'm really worried <anon type="name" nameType="m"/></u>
+<u n="162" who="S0572" trans="overlap">no no</u>
+<u n="163" who="S0517" trans="overlap">are you gonna write this down for an exam cos I'm a little bit concerned?</u>
+<u n="164" who="S0572">and so he roamed the street erm whilst his mum was still alive because he didn't have a job so this is whilst he was alive and not alive and his mum was not alive so and that's he roamed the street <unclear/></u>
+<u n="165" who="S0517" trans="overlap"><vocal desc="laugh"/> who has any idea what you're on about?</u>
+<u n="166" who="S0572">he <vocal desc="laugh"/> he walked around like <unclear>Ger</unclear> no he lived in Austria Hungary he</u>
+<u n="167" who="S0517" trans="overlap">that's two separate countries you know that?</u>
+<u n="168" who="S0572" trans="overlap">he was in one of them</u>
+<u n="169" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="170" who="S0517">right</u>
+<u n="171" who="S0572" trans="overlap">and he and he was Austrian and then</u>
+<u n="172" who="S0517" trans="overlap">right</u>
+<u n="173" who="S0572">and erm so he <unclear>roamed</unclear> with his best friend but then that er he he wanted to join the army so he tried to join the army but cos he wasn't ready and fit erm they wouldn't let him in but then war broke out and he was in Germany and he</u>
+<u n="174" who="S0517" trans="overlap">why was he in Germany he just wondered there?</u>
+<u n="175" who="S0572">oh I dunno and then <vocal desc="laugh"/></u>
+<u n="176" who="S0571">was he just walking around?</u>
+<u n="177" who="S0572">yeah</u>
+<u n="178" who="S0517">when you say war broke out I mean he started the war?</u>
+<u n="179" who="S0571">no <unclear/></u>
+<u n="180" who="S0572" trans="overlap">no the First World War</u>
+<u n="181" who="S0517" trans="overlap">oh okay well as long as we're clear on that</u>
+<u n="182" who="S0572">and then so he was in the First World War and then war broke out and he was in Germany so he applied and cos they needed everyone he got in and he was the messenger which was like one of the most erm jobs where you get killed and so like there would be a new one every like three and four months cos everyone got killed but he was like</u>
+<u n="183" who="S0517" trans="overlap">so why would you apply?</u>
+<u n="184" who="S0572">cos he didn't know what it was gonna be</u>
+<u n="185" who="S0517">oh okay</u>
+<u n="186" who="S0572" trans="overlap">but erm he was the messenger and he was there for four years</u>
+<u n="187" who="S0571">so he was quite a good messenger</u>
+<u n="188" who="S0572">well he was okay his dog saved him well once because he was running he was running er to</u>
+<u n="189" who="S0571" trans="overlap">was his dog related to him?</u>
+<u n="190" who="S0572" trans="overlap">no no shh shh he was running to a hut and then erm and his dog he was and his dog made a fool out of him and so</u>
+<u n="191" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="192" who="S0571">what did he say?</u>
+<u n="193" who="S0517">oh my goodness</u>
+<u n="194" who="S0572" trans="overlap">and then so so his dog walked like ran out of the erm shelter thing that every where everyone was and so he ran after him and started beating him with him with a belt</u>
+<u n="195" who="S0517">what the dog?</u>
+<u n="196" who="S0572">yeah beating the he's weird and then a <trunc>b</trunc> a bomb flew in and like blew everyone and loads of people died where the shelter was</u>
+<u n="197" who="S0517" trans="overlap">oh</u>
+<u n="198" who="S0572">because he had ran out</u>
+<u n="199" who="S0517">after his dog</u>
+<u n="200" who="S0572" trans="overlap">yeah</u>
+<u n="201" who="S0517">and he got saved</u>
+<u n="202" who="S0571">so did he keep beating his dog?</u>
+<u n="203" who="S0572"><vocal desc="laugh"/> no</u>
+<u n="204" who="S0517">or did he <trunc>s</trunc> hug him</u>
+<u n="205" who="S0572" trans="overlap">no</u>
+<u n="206" who="S0517">and say thanks for saving my life?</u>
+<u n="207" who="S0572" trans="overlap">but but then there was something happened with his eyes didn't it? because there was gas his eyes went weird</u>
+<u n="208" who="S0517">did they?</u>
+<u n="209" who="S0571">oh did they?</u>
+<u n="210" who="S0517">well you say that like we're believing him</u>
+<u n="211" who="S0572" trans="overlap">no well</u>
+<u n="212" who="S0517">are you believing much of this story? I'm not</u>
+<u n="213" who="S0572" trans="overlap">it's true it's true and also do you know when he wanted to do art before he erm <trunc>be</trunc>before he joined the army?</u>
+<u n="214" who="S0517">mm</u>
+<u n="215" who="S0572">he erm he was assured that er that er a Jew person was head and told him that he could not er he couldn't be allowed into the school and so then er he he also had sort after that he heard someone else saying that the Jews just take their jobs and everything and that's where his hate for the Jews became</u>
+<u n="216" who="S0517">really?</u>
+<u n="217" who="S0572">because yeah</u>
+<u n="218" who="S0517">because a Jew wouldn't let him into art school?</u>
+<u n="219" who="S0572">yeah</u>
+<u n="220" who="S0571">so where did his hate for people that weren't of the true blood</u>
+<u n="221" who="S0572">what the blonde hair and?</u>
+<u n="222" who="S0571">yeah yeah the blonde hair and blue eyes?</u>
+<u n="223" who="S0572" trans="overlap">no he thought he thought like that they were just stronger than everyone else</u>
+<u n="224" who="S0571">so he just made that bit up himself?</u>
+<u n="225" who="S0572">I think so yeah</u>
+<u n="226" who="S0517">was that like a bit of a <anon type="name" nameType="m"/> thought?</u>
+<u n="227" who="S0572" trans="overlap">or he's or he might have had a friend that was like blonde and blue eyes</u>
+<u n="228" who="S0570">was he gay?</u>
+<u n="229" who="S0572">no I don't think so</u>
+<u n="230" who="S0570">I thought he was <unclear/> Hitler</u>
+<u n="231" who="S0517"><anon type="name" nameType="m"/></u>
+<u n="232" who="S0572"><anon type="name" nameType="n"/></u>
+<u n="233" who="S0517">really? it's like <anon type="name" nameType="m"/> you know thinking that <anon type="name" nameType="m"/> could be because he's so strong and</u>
+<u n="234" who="S0572">and then erm</u>
+<u n="235" who="S0571"><anon type="name" nameType="m"/>'s Darth Vader</u>
+<u n="236" who="S0572">and he got like two iron crosses didn't he?</u>
+<u n="237" who="S0570" trans="overlap"><unclear/> he was born on the <unclear/> birthday</u>
+<u n="238" who="S0517" trans="overlap">two what?</u>
+<u n="239" who="S0572" trans="overlap">two iron crosses</u>
+<u n="240" who="S0517">mm</u>
+<u n="241" who="S0572">yeah he got two of those</u>
+<u n="242" who="S0570">and he's blonde with blue eyes so a perfect man for Hitler</u>
+<u n="243" who="S0517">I don't think <anon type="name" nameType="m"/>'s the next Hitler</u>
+<u n="244" who="S0571">I don't think he is either he likes to sleep too much</u>
+<u n="245" who="S0517">yeah he likes to chill out</u>
+<u n="246" who="S0570">for all we know <unclear/></u>
+<u n="247" who="S0517" trans="overlap">so have you been doing this at school <anon type="name" nameType="m"/>?</u>
+<u n="248" who="S0572">yeah in history</u>
+<u n="249" who="S0571">do you think you perhaps need to erm ask for a revision class?</u>
+<u n="250" who="S0572">no we've just started the topic</u>
+<u n="251" who="S0571">oh okay</u>
+<u n="252" who="S0572">and we watched a movie</u>
+<u n="253" who="S0517">which movie?</u>
+<u n="254" who="S0572"><vocal desc="laugh"/> a movie about Hitler</u>
+<u n="255" who="S0571">called Adolf</u>
+<u n="256" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="257" who="S0572">oh no it is actually is Adolf the the War of his Life or something like that</u>
+<u n="258" who="S0517">oh</u>
+<u n="259" who="S0571">oh is that is what what's what does Mein Kampf <trunc>s</trunc>?</u>
+<u n="260" who="S0517">Mein Kampf means my fight</u>
+<u n="261" who="S0571">oh cos that's his book isn't it?</u>
+<u n="262" who="S0517">is it? I don't know</u>
+<u n="263" who="S0571">I think so I think so I might be wrong though</u>
+<u n="264" who="S0517">so how long are you doing him for as a topic?</u>
+<u n="265" who="S0572"><unclear>probably</unclear> a term</u>
+<u n="266" who="S0517">a term?</u>
+<u n="267" who="S0517"><vocal desc="laugh"/></u>
+<u n="268" who="S0571">mm have you got?</u>
+<u n="269" who="S0571" trans="overlap">are you are you liking him? <unclear>do you see him as er</unclear>?</u>
+<u n="270" who="S0572">that's why I knew he had a weird <trunc>mous</trunc> er moustache</u>
+<u n="271" who="S0517">oh <vocal desc="laugh"/></u>
+<u n="272" who="S0572"><unclear>cos I saw it</unclear></u>
+<u n="273" who="S0517">I got a little bit confused about the bit</u>
+<u n="274" who="S0571" trans="overlap">so how are you gonna</u>
+<u n="275" who="S0517" trans="overlap">hang on</u>
+<u n="276" who="S0571">style your moustache?</u>
+<u n="277" who="S0517">oh</u>
+<u n="278" who="S0572">use curlers mum's curlers</u>
+<u n="279" who="S0571">but so you are going for big</u>
+<u n="280" who="S0517" trans="overlap">I haven't got any curlers</u>
+<u n="281" who="S0571">curly ones?</u>
+<u n="282" who="S0572">no I told you ah yeah I wasn't</u>
+<u n="283" who="S0571">you weren't gonna do that cos Hitler had a big <unclear/></u>
+<u n="284" who="S0572" trans="overlap">yeah it's too much effort I might just shave it off</u>
+<u n="285" who="S0517">I haven't got any curlers <unclear/></u>
+<u n="286" who="S0571">so that didn't last long did it? the moustache idea</u>
+<u n="287" who="S0572" trans="overlap">no yes you do the things that you put in your hair that don't really curl your hair</u>
+<u n="288" who="S0571">yeah</u>
+<u n="289" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="290" who="S0517">well my hair doesn't curl I haven't got any curlers</u>
+<u n="291" who="S0571">but you put curlers in every morning at one point you went</u>
+<u n="292" who="S0572" trans="overlap">yeah yeah you did</u>
+<u n="293" who="S0517">through a phase of putting curlers in every morning <unclear/></u>
+<u n="294" who="S0572">you did</u>
+<u n="295" who="S0517">oh yeah they didn't work though</u>
+<u n="296" who="S0572">yeah I know <vocal desc="laugh"/></u>
+<u n="297" who="S0571">but you still tried <vocal desc="laugh"/></u>
+<u n="298" who="S0517" trans="overlap">I don't think I <vocal desc="laugh"/> I don't think I've still got them though</u>
+<u n="299" who="S0572">oh</u>
+<u n="300" who="S0571"><unclear/></u>
+<u n="301" who="S0517" trans="overlap">and also they were they were huge you wouldn't be able to put those into a moustache <vocal desc="laugh"/></u>
+<u n="302" who="S0572" trans="overlap">yes you would</u>
+<u n="303" who="S0517">they were like about about that big</u>
+<u n="304" who="S0572">I'm gonna grow it long</u>
+<u n="305" who="S0517">really?</u>
+<u n="306" who="S0571">are you gonna grow a pointy beard too?</u>
+<u n="307" who="S0572">no a goatee I told you</u>
+<u n="308" who="S0517">a goatee</u>
+<u n="309" who="S0571"><unclear/></u>
+<u n="310" who="S0572"><unclear/> goatee <unclear/></u>
+<u n="311" who="S0571">no</u>
+<u n="312" who="S0517">that's gonna look stupid</u>
+<u n="313" who="S0571"><anon type="name" nameType="m"/> are you gonna keep continuing with your sideburns?</u>
+<u n="314" who="S0570">no</u>
+<u n="315" who="S0572"><anon type="name" nameType="m"/>'s got sideburns</u>
+<u n="316" who="S0517">has he?</u>
+<u n="317" who="S0572">mm long ones</u>
+<u n="318" who="S0517">when's he gonna shave them off?</u>
+<u n="319" who="S0572">I'm sure he wants to keep them</u>
+<u n="320" who="S0517">does he? I think he wants to look a bit like Elvis</u>
+<u n="321" who="S0571">I think he does as well</u>
+<u n="322" who="S0517">with his big quiff and his sideburns oh did you want to go and watch him in the pantomime this year?</u>
+<u n="323" who="S0572">the <unclear/> one?</u>
+<u n="324" who="S0517">yeah</u>
+<u n="325" who="S0572">what is it?</u>
+<u n="326" who="S0570">go then</u>
+<u n="327" who="S0517" trans="overlap">what pantomime? I don't know</u>
+<u n="328" who="S0571">when is <anon type="name" nameType="f"/> coming over?</u>
+<u n="329" who="S0572">I dunno I I her mum had an operation I think I'm not sure if it's an operation</u>
+<u n="330" who="S0570">she can't keep using that old chestnut</u>
+<u n="331" who="S0572">well it's kind of hard when her dad works</u>
+<u n="332" who="S0517">so can her mum still not drive?</u>
+<u n="333" who="S0572">no</u>
+<u n="334" who="S0517">for how long?</u>
+<u n="335" who="S0570"><unclear/></u>
+<u n="336" who="S0571">why doesn't she come here from school?</u>
+<u n="337" who="S0570" trans="overlap">mum doesn't work</u>
+<u n="338" who="S0572">cos how is she meant to get home?</u>
+<u n="339" who="S0517">I'm sorry?</u>
+<u n="340" who="S0571">yeah <unclear/></u>
+<u n="341" who="S0517">did you say I don't work?</u>
+<u n="342" who="S0571">his mum goes to <anon type="place"/> she could probably drop her</u>
+<u n="343" who="S0517">who left the back door open?</u>
+<u n="344" who="S0570" trans="overlap"><unclear/> here</u>
+<u n="345" who="S0517">mm?</u>
+<u n="346" who="S0570">I don't know <anon type="name" nameType="m"/></u>
+<u n="347" who="S0572">it wasn't me</u>
+<u n="348" who="S0517">why did you leave the back door open?</u>
+<u n="349" who="S0572">it wasn't me mum</u>
+<u n="350" who="S0517">oh are you gonna</u>
+<u n="351" who="S0570" trans="overlap">her dad's dropped you off</u>
+<u n="352" who="S0517">would you like to invite her over?</u>
+<u n="353" who="S0572">yeah sure</u>
+<u n="354" who="S0517">when dad's not here?</u>
+<u n="355" who="S0572">Tuesday that's the only day I've got free</u>
+<u n="356" who="S0517">oh yeah it is</u>
+<u n="357" who="S0570" trans="overlap">I'm free</u>
+<u n="358" who="S0571" trans="overlap">why can't she come at the weekend?</u>
+<u n="359" who="S0517">I was gonna go to the gym on Tuesday night so</u>
+<u n="360" who="S0572" trans="overlap">so busy so no I've got football twice and on Saturday I'm normally doing hockey or tennis</u>
+<u n="361" who="S0517">mm she could come Saturday morning maybe if you don't do the tennis</u>
+<u n="362" who="S0571">or she could come on a Saturday and come go and watch you play football</u>
+<u n="363" who="S0572"><unclear/></u>
+<u n="364" who="S0517" trans="overlap">he doesn't play football on a Saturday</u>
+<u n="365" who="S0571" trans="overlap">Sunday Sunday come on a Sunday and come to</u>
+<u n="366" who="S0517" trans="overlap">well that's no fun is it?</u>
+<u n="367" who="S0571">well she can come back here after the football and then we could drop her back off when we take them to <pause dur="short"/> no?</u>
+<u n="368" who="S0517">well yeah could do could do <anon type="name" nameType="m"/></u>
+<u n="369" who="S0570">she's not gonna want to watch football though</u>
+<u n="370" who="S0517">not really</u>
+<u n="371" who="S0571">okay you can chat to her whilst he's playing football</u>
+<u n="372" who="S0570"><unclear/></u>
+<u n="373" who="S0517"><vocal desc="laugh"/> mm <pause dur="short"/> so is there anything you want to watch tonight?</u>
+<u n="374" who="S0571">er</u>
+<u n="375" who="S0572" trans="overlap">what's on?</u>
+<u n="376" who="S0517">I don't know there's there's nothing much on actually</u>
+<u n="377" who="S0571">there might be a film <pause dur="short"/></u>
+<u n="378" who="S0517"><anon type="name" nameType="m"/> did you find out who else got the forty-two pounds?</u>
+<u n="379" who="S0570">no I told you that's my forty-two pound</u>
+<u n="380" who="S0571">no it's not</u>
+<u n="381" who="S0570">cos me and <anon type="name" nameType="m"/> went to war at school complaining about the <unclear>place</unclear></u>
+<u n="382" who="S0517" trans="overlap">oh you said it was just <anon type="name" nameType="m"/> went to war</u>
+<u n="383" who="S0570" trans="overlap">yeah it was me and <anon type="name" nameType="m"/></u>
+<u n="384" who="S0517">no you said it was just <anon type="name" nameType="m"/></u>
+<u n="385" who="S0570">I said it was me and <anon type="name" nameType="m"/> I <anon type="name" nameType="m"/> did not go into a meeting without me</u>
+<u n="386" who="S0517">a meeting with who?</u>
+<u n="387" who="S0570">when we got called into the office to say the place was awful</u>
+<u n="388" who="S0517" trans="overlap">well it was</u>
+<u n="389" who="S0570"><unclear/> crap on the floor we were gonna sue them if they don't give us compensation</u>
+<u n="390" who="S0571">yeah right</u>
+<u n="391" who="S0517">did you find out who else got the money?</u>
+<u n="392" who="S0570">no do you want me to find out?</u>
+<u n="393" who="S0517">ask <anon type="name" nameType="m"/> if he got it</u>
+<u n="394" who="S0570">yeah he was in our room so he probably will get it</u>
+<u n="395" who="S0517">well yeah that's what I'm saying ask him</u>
+<u n="396" who="S0571">I can't believe they're gonna give you compensation when you broke the window</u>
+<u n="397" who="S0517">no nor me I can't believe that either are you sure? I can't believe the school would send us a cheque without any explanation as to why I mean just to <trunc>sit</trunc>stick a cheque in an envelope and post it to us</u>
+<u n="398" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="399" who="S0517">and leave us to work out why the school is paying us</u>
+<u n="400" who="S0570">yeah for all we know it could like even be about <unclear/></u>
+<u n="401" who="S0517">I I I have no idea why I've never received a cheque from a school before</u>
+<u n="402" who="S0571">I think it's good I think that's a new trend</u>
+<u n="403" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="404" who="S0517">I mean they're they're always asking for money they don't</u>
+<u n="405" who="S0570" trans="overlap">would you would you <unclear/></u>
+<u n="406" who="S0517" trans="overlap">they don't give it out they always ask for money</u>
+<u n="407" who="S0570" trans="overlap">would you raise questions if you got a cheque for forty-two pound every month like?</u>
+<u n="408" who="S0517">well we were all I was gonna ring the school on Monday and say why have you sent us a cheque?</u>
+<u n="409" who="S0570">why would you do that?</u>
+<u n="410" who="S0517">because it's not normal for a school to send you a cheque just a cheque no explanation</u>
+<u n="411" who="S0572">mum I've told you I got kicked off the French trip because my my French behaviour wasn't good</u>
+<u n="412" who="S0517">well I'm telling you if you've got kicked off the French</u>
+<u n="413" who="S0571" trans="overlap">that's good news</u>
+<u n="414" who="S0572">trip we've already paid more than forty-two quid we've paid about two hundred</u>
+<u n="415" who="S0572">oh</u>
+<u n="416" who="S0571">I want the rest of that <unclear>when you get back</unclear></u>
+<u n="417" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="418" who="S0570">would you argue for that back?</u>
+<u n="419" who="S0517">yes</u>
+<u n="420" who="S0572">well</u>
+<u n="421" who="S0570" trans="overlap">but some of it says non-refundable doesn't it?</u>
+<u n="422" who="S0517">I don't know he's not got</u>
+<u n="423" who="S0571" trans="overlap">that's not our decision</u>
+<u n="424" who="S0517">he hasn't got kicked off the school trip it's just weird for the school to send us a cheque</u>
+<u n="425" who="S0572">I will buy a Swegway didn't we?</u>
+<u n="426" who="S0517">what?</u>
+<u n="427" who="S0571">sorry I didn't understand that?</u>
+<u n="428" who="S0572">we would buy a Swegway wouldn't we?</u>
+<u n="429" who="S0517">no we wouldn't buy a Swegway no you do know don't you that <anon type="name" nameType="m"/> follows both of you on Instagram? <pause dur="short"/> you do know that don't you?</u>
+<u n="430" who="S0572"><unclear/></u>
+<u n="431" who="S0570" trans="overlap">did you see our photos?</u>
+<u n="432" who="S0517">well he was here today and he showed me the photo of you on your Swegway cos he asked me about it</u>
+<u n="433" who="S0572" trans="overlap">you've already seen that</u>
+<u n="434" who="S0517">I know I've seen it but he he was asking me what you were doing and whose was it and all the rest of it and we were talking about tennis and</u>
+<u n="435" who="S0570" trans="overlap">have you seen mine?</u>
+<u n="436" who="S0517">pardon?</u>
+<u n="437" who="S0570">have you seen mine?</u>
+<u n="438" who="S0517">yeah your your tennis picture that he took</u>
+<u n="439" who="S0572">no the North Face one</u>
+<u n="440" who="S0570" trans="overlap">yeah I wasn't talking about that one then</u>
+<u n="441" who="S0517">oh what are you on about?</u>
+<u n="442" who="S0570">I've got a recent one in my North Face <unclear/></u>
+<u n="443" who="S0517">no I haven't seen that</u>
+<u n="444" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="445" who="S0517">but I just thought I just want you to remember that there are people following you on Instagram so don't put anything stupid on there</u>
+<u n="446" who="S0570">don't put anything that your nannie wouldn't like</u>
+<u n="447" who="S0517" trans="overlap">that you're gonna live to regret</u>
+<u n="448" who="S0570">I've got a bad man photo on there</u>
+<u n="449" who="S0517">let's see it</u>
+<u n="450" who="S0571">you've got a what?</u>
+<u n="451" who="S0572">a bad man</u>
+<u n="452" who="S0517" trans="overlap">a bad man</u>
+<u n="453" who="S0570">I told you it's the North Face it's bad</u>
+<u n="454" who="S0517">how is that a bad man <trunc>fa</trunc> are you looking stupid are you pulling a stupid face?</u>
+<u n="455" who="S0572">yes</u>
+<u n="456" who="S0571">are you doing a <anon type="name" nameType="m"/> face?</u>
+<u n="457" who="S0517">doing the finger thing?</u>
+<u n="458" who="S0572">yes</u>
+<u n="459" who="S0570"><unclear/></u>
+<u n="460" who="S0517"><trunc>poi</trunc>pointing <unclear/></u>
+<u n="461" who="S0570" trans="overlap">no I'm not I've put my hands in my pocket I didn't wanna point</u>
+<u n="462" who="S0517">oh thank goodness</u>
+<u n="463" who="S0572">well</u>
+<u n="464" who="S0517">you did look ridiculous on that photo <anon type="name" nameType="m"/></u>
+<u n="465" who="S0572">on what?</u>
+<u n="466" who="S0517">on the Swegway</u>
+<u n="467" who="S0570">has dad seen that photo?</u>
+<u n="468" who="S0571">no</u>
+<u n="469" who="S0517">no show it</u>
+<u n="470" who="S0570">oh my life dad I'll show it you I've got it</u>
+<u n="471" who="S0517"><vocal desc="laugh"/></u>
+<u n="472" who="S0571">is it going to upset me?</u>
+<u n="473" who="S0517">yes he looks ridiculous</u>
+<u n="474" who="S0571">why do you do this <anon type="name" nameType="m"/>?</u>
+<u n="475" who="S0517">let's see</u>
+<u n="476" who="S0571">you look an absolute plonker why do you do that?</u>
+<u n="477" who="S0570">oh and there's mine</u>
+<u n="478" who="S0517">let's see?</u>
+<u n="479" who="S0570">look this is really bad I can't show you it</u>
+<u n="480" who="S0517">no show us</u>
+<u n="481" who="S0570"><unclear/></u>
+<u n="482" who="S0571"><unclear/></u>
+<u n="483" who="S0570">no it's not</u>
+<u n="484" who="S0517">show us <pause dur="short"/></u>
+<u n="485" who="S0571">you look like a plonker too</u>
+<u n="486" who="S0517">let me see <anon type="name" nameType="n"/> <pause dur="short"/> where were you? what is what is going on with your eyes? they just look weird where were you? <anon type="name" nameType="n"/> so the school just gave us forty-two quid what does that mean? why has he got the question mark did he not get a cheque?</u>
+<u n="487" who="S0570">I don't know I don't think so he said I haven't seen one</u>
+<u n="488" who="S0517">so he hasn't had a cheque?</u>
+<u n="489" who="S0570">it's just me and <anon type="name" nameType="m"/> I told you our arguments get us money</u>
+<u n="490" who="S0517">hang on hang on hang on who when did you complain about the room?</u>
+<u n="491" who="S0570">we didn't really well no in the meetings that we had</u>
+<u n="492" who="S0517">about the window?</u>
+<u n="493" who="S0570">yeah</u>
+<u n="494" who="S0517" trans="overlap">the broken window</u>
+<u n="495" who="S0570">me and <anon type="name" nameType="m"/> were the only ones saying actually arguing our point everyone else was just sitting there in silence</u>
+<u n="496" who="S0517">and what was your point?</u>
+<u n="497" who="S0570">that I don't agree with it I'm not <unclear/></u>
+<u n="498" who="S0571" trans="overlap">do you think it's cos Mrs <anon type="name" nameType="n"/> feels sorry for you?</u>
+<u n="499" who="S0570">what me and <anon type="name" nameType="m"/>?</u>
+<u n="500" who="S0517">so <anon type="name" nameType="m"/> hasn't had a cheque for forty-two pounds?</u>
+<u n="501" who="S0570">well he says he doesn't know about it or <anon type="name" nameType="n"/> has though</u>
+<u n="502" who="S0517">he has?</u>
+<u n="503" who="S0570">yeah and he was in our room so <anon type="name" nameType="n"/> must have been robbed by his parents</u>
+<u n="504" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="505" who="S0517">well we're not giving you the money we've paid for the trip and that trip was like what was that trip three hundred pounds?</u>
+<u n="506" who="S0571">our money well spent</u>
+<u n="507" who="S0572"><unclear/></u>
+<u n="508" who="S0572">are we having Tob?</u>
+<u n="509" who="S0571">yes we are</u>
+<u n="510" who="S0517" trans="overlap">no you're no you can have cake</u>
+<u n="511" who="S0571">oh I'd rather have a Tob</u>
+<u n="512" who="S0570">have both</u>
+<u n="513" who="S0517">oh have both then</u>
+<u n="514" who="S0572">where is do you want me to get the Tob?</u>
+<u n="515" who="S0517">yeah</u>
+<u n="516" who="S0571">so</u>
+<u n="517" who="S0517" trans="overlap">actually what we could do <anon type="name" nameType="m"/> is get that cheque paid into <anon type="name" nameType="m"/>'s account and get him to transfer it because there isn't a Nationwide local to us any more</u>
+<u n="518" who="S0571">oh okay yeah</u>
+<u n="519" who="S0517">and it is addressed to <anon type="name" nameType="n"/> isn't it?</u>
+<u n="520" who="S0572">did <unclear/>?</u>
+<u n="521" who="S0517">pardon? no it hasn't come yet <anon type="name" nameType="m"/></u>
+<u n="522" who="S0570">so technically that is actually addressed to me <unclear/>?</u>
+<u n="523" who="S0571">no</u>
+<u n="524" who="S0517">no <pause dur="short"/> I don't know why it's addressed to you because</u>
+<u n="525" who="S0572"><unclear>the same</unclear> really</u>
+<u n="526" who="S0570">who paid for the actual thing? whose <unclear>details</unclear></u>
+<u n="527" who="S0517" trans="overlap">well it was it was a a cheque from our joint account</u>
+<u n="528" who="S0570">so it shouldn't actually be</u>
+<u n="529" who="S0517">so actually it should be made out to to both of us shouldn't it?</u>
+<u n="530" who="S0571">mm</u>
+<u n="531" who="S0517">that we paid for the trip from our joint account</u>
+<u n="532" who="S0572" trans="overlap">are these joint too?</u>
+<u n="533" who="S0517" trans="overlap">so why would they send it to him?</u>
+<u n="534" who="S0570"><anon type="name" nameType="m"/> just said it can't be a cheque from us being invoiced for the window</u>
+<u n="535" who="S0517">it's not it's a cheque</u>
+<u n="536" who="S0571">text to <anon type="name" nameType="m"/> and send it to him</u>
+<u n="537" who="S0570">I will</u>
+<u n="538" who="S0517">just one please <anon type="name" nameType="m"/></u>
+<u n="539" who="S0572"><anon type="name" nameType="m"/> do you just want two?</u>
+<u n="540" who="S0570">they wouldn't just charge me <anon type="name" nameType="n"/> and <anon type="name" nameType="n"/> <pause dur="long"/></u>
+<u n="541" who="S0517">thank you <anon type="name" nameType="m"/></u>
+<u n="542" who="S0571" trans="overlap">why not?</u>
+<u n="543" who="S0517">what do you mean charge you?</u>
+<u n="544" who="S0570">they wouldn't just</u>
+<u n="545" who="S0517">refund you?</u>
+<u n="546" who="S0570">no they wouldn't just he just said it can't be a cheque it must be an invoice</u>
+<u n="547" who="S0517">it's not it's a cheque</u>
+<u n="548" who="S0570" trans="overlap">but he wouldn't they wouldn't just charge me <anon type="name" nameType="m"/> and <anon type="name" nameType="n"/> for an invoice and not <anon type="name" nameType="n"/></u>
+<u n="549" who="S0517">it's not an invoice it's a cheque</u>
+<u n="550" who="S0570">I know</u>
+<u n="551" who="S0571"><anon type="name" nameType="m"/> probably thinks <unclear/></u>
+<u n="552" who="S0517">right shall we go and see what's on the TV?</u>
+<u n="553" who="S0571">yeah</u>
+	
+	</body>
+</text>

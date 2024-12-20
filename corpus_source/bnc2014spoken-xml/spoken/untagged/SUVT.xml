@@ -1,0 +1,530 @@
+<text id="SUVT">
+<header>
+		<rec_length>0:20:16</rec_length>
+		<rec_date>2012-04-12</rec_date>
+		<rec_year>2012</rec_year>
+		<rec_period>2012_Q2</rec_period>
+		<n_speakers>5</n_speakers>
+		<list_speakers>S0009 S0044 S0116 S0165 S0168</list_speakers>
+		<rec_loc>A student flat, Salford</rec_loc>
+		<relationships>Friends, wider family circle</relationships>
+		<topics>Holidays, animals and food</topics>
+		<activity>Flatmates Talking about their Favourites</activity>
+		<conv_type>Discussing</conv_type>
+		<conventions>Original</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T09</transcriber>
+		<speakerInfo>
+			<speaker id="S0009">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace></birthplace>
+				<birthcountry>South Africa</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>North East</dialect_rep>
+				<hab_city>Salford, Greater Manchester</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 month</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0044">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Bishop Aukland, County Durham</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>North East</dialect_rep>
+				<hab_city>Salford, Greater Manchester</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 month</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student Nurse</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0116">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>Irish</nat>
+				<birthplace></birthplace>
+				<birthcountry>Ireland</birthcountry>
+				<l1>English</l1>
+				<lingorig>Ireland</lingorig>
+				<dialect_rep>Irish</dialect_rep>
+				<hab_city>Salford, Greater Manchester</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 month</hab_dur>
+				<dialect_l1>non_uk</dialect_l1>
+				<dialect_l2>r_ireland</dialect_l2>
+				<dialect_l3>r_ireland</dialect_l3>
+				<dialect_l4>r_ireland</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student Nurse</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls>Irish -- Advanced; French -- Beginner</fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0165">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Penarth</birthplace>
+				<birthcountry>Wales</birthcountry>
+				<l1>English</l1>
+				<lingorig>Wales</lingorig>
+				<dialect_rep>Welsh</dialect_rep>
+				<hab_city>Salford, Greater Manchester</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 month</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>wales</dialect_l2>
+				<dialect_l3>wales</dialect_l3>
+				<dialect_l4>wales</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Nursing</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+			<speaker id="S0168">
+				<exactage></exactage>
+				<age1994>Unknown</age1994>
+				<agerange>19_29</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Hartlepool, County Durham</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>North East</dialect_rep>
+				<hab_city>Salford, Greater Manchester</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>1 month</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Student Nurse</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>n</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+<body>
+<u n="1" who="S0116">okay so we're going to talk about holidays <pause dur="short"/> okay</u>
+<u n="2" who="S0009">do we do which ones we've been on first and then which ones we want to go on?</u>
+<u n="3" who="S0116">yeah <pause dur="short"/> or maybe we could talk about like our favourite holiday</u>
+<u n="4" who="S0044">yeah</u>
+<u n="5" who="S0009">okay</u>
+<u n="6" who="S0116">my favourite holiday was in Sorrento in Italy <pause dur="short"/> I went when I was eighteen and it was absolutely amazing <pause dur="short"/> we went to Capri as well which is like a little island off Sorrento <pause dur="short"/> I think Italy is like one of my favourite place <pause dur="short"/> I love the food the people the weather was great <pause dur="short"/> and that's all I have to say</u>
+<u n="7" who="S0044">my favourite holiday was New York <pause dur="short"/> my boyfriend took us for our first year anniversary and paid for it all <pause dur="short"/> we did the whole sightseeing thing <pause dur="short"/> we went to see the Statue of Liberty <pause dur="short"/> we went up the Empire State building <pause dur="short"/> aye <pause dur="short"/> that was about it</u>
+<u n="8" who="S0168">my favourite holiday was Kavos <pause dur="short"/> I went back and worked out there and it was just a proper party holiday</u>
+<u n="9" who="S0009">I'd say mine was Egypt <pause dur="short"/> we went on a conservation expedition with the college people <pause dur="short"/> but we didn't do much conservationy stuff <pause dur="short"/> we mostly just laid about and got a tan <pause dur="short"/> the food wasn't so good but I did get to ride a camel and go snorkelling and stuff</u>
+<u n="10" who="S0165">mine was a cruise we went on around the Mediterranean <pause dur="short"/> but I didn't actually get off the boat much it was just me and my sister running about the boat and being silly <pause dur="short"/> that's why it was cool</u>
+<u n="11" who="UNKFEMALE" whoConfidence="low">last year I went to Paris I really enjoyed it it was really nice <pause dur="short"/> I visited different places museums and I really liked it</u>
+<u n="12" who="S0116">okay so maybe now we'll talk about places that we'd like to go <pause dur="short"/> I think I've been to America a few places in America but I think I would love to go to Thailand or Australia or somewhere that kind of side of the world <pause dur="short"/> I think Australia would be really good <pause dur="short"/> I think the weather is supposed to be great <pause dur="short"/> the beaches on Thailand I've heard is really good <pause dur="short"/> I'd love to go to a full moon party <pause dur="short"/> em <pause dur="short"/> yeah</u>
+<u n="13" who="S0044">I would like to go to Japan <pause dur="short"/> em <pause dur="short"/> cos I love the food and I really want to go to the Studio Gibli museum because it's amazing <pause dur="short"/> but I also kind of I want to go to me the North Pole <pause dur="short"/> I want to go Polar bear spotting <pause dur="short"/> em</u>
+<u n="14" who="S0009">I didn't even know you could do that</u>
+<u n="15" who="S0044">I don't know if you can but I really want to</u>
+<u n="16" who="S0165"><unclear/> I saw baby polars but then polar bears are just not <pause dur="short"/> I'm sure you could and you could go and stay in like an igloo</u>
+<u n="17" who="S0165">yeah <pause dur="short"/> or just go to Canada and just</u>
+<u n="18" who="S0009">have you seen that  Have you seen that  hotel that's completely made of ice</u>
+<u n="19" who="S0165">yeah that's so cool</u>
+<u n="20" who="S0044" trans="overlap">yeah I really want to go there</u>
+<u n="21" who="S0116">I think there's one in London</u>
+<u n="22" who="S0168">oh there are ice clubs aren't there?</u>
+<u n="23" who="S0044">yes i <pause dur="short"/>e <pause dur="short"/> clubs yeah</u>
+<u n="24" who="S0168">ice bar</u>
+<u n="25" who="S0044">yeah but no I'd like to stay in that hotel <pause dur="short"/> be really cold though</u>
+<u n="26" who="UNKFEMALE" whoConfidence="low">I'd love to go to Dubai especially for the jewels <pause dur="short"/> I love jewels</u>
+<u n="27" who="S0116">the jewellery?</u>
+<u n="28" who="S0165">is it not expensive? Really expensive <pause dur="short"/> I want to go to Australia too <pause dur="short"/> but I don't like the spiders and snakes and stuff to be there <pause dur="short"/> and I want to go to Canada</u>
+<u n="29" who="S0009">I want to go there <pause dur="short"/> I want to go like places where they have like animals and stuff and to go and</u>
+<u n="30" who="S0165">monkeys like <unclear/></u>
+<u n="31" who="S0168">yeah <pause dur="short"/> like Safari or <unclear/></u>
+<u n="32" who="S0116">I just think going like snorkelling off the Great Barrier Reef would be unbelievable <pause dur="short"/> like my friend lives in Australia now and the photos that she has <pause dur="short"/> she went somewhere for Easter and I was just like oh my god <pause dur="short"/> I don't know where she was staying it was amazing</u>
+<u n="33" who="S0168">well I'd go anywhere really as long as it was hot</u>
+<u n="34" who="S0116">and there was a bar</u>
+<u n="35" who="S0168">and there's a bar <pause dur="short"/> and had some nice sites as well <pause dur="short"/> and a beach</u>
+<u n="36" who="UNKFEMALE" whoConfidence="low">you want a <unclear/> that's all</u>
+<u n="37" who="S0044">I want to go to Germany actually cos I want to go around the Nazi camps and stuff</u>
+<u n="38" who="S0168">ah yeah I want to do that</u>
+<u n="39" who="S0009">my dad did that yeah <pause dur="short"/> my dad and uncle <anon type="name" nameType="n"/> did that</u>
+<u n="40" who="S0165">so do you just walk around and see the place where people got gassed</u>
+<u n="41" who="S0044">yeah</u>
+<u n="42" who="S0116">it's supposed to be really eerie</u>
+<u n="43" who="S0009">wasn't there loads of shoes there and stuff</u>
+<u n="44" who="S0168">yeah they have like mounds of like glasses or like shoes and everything</u>
+<u n="45" who="S0165">mm</u>
+<u n="46" who="S0116">so I don't think we're going to get to go on holidays any time soon</u>
+<u n="47" who="S0168">not in the next three year no</u>
+<u n="48" who="S0044">no that's not going to happen</u>
+<u n="49" who="S0168">we can dream</u>
+<u n="50" who="S0044">no I really wanted to go to Ibiza again this year cos last year was amazing <pause dur="short"/> but it's so expensive so you can't do that when you're a student</u>
+<u n="51" who="S0165">do they have metal clubs in Ibiza?</u>
+<u n="52" who="S0044">yeah</u>
+<u n="53" who="S0165">do they really?</u>
+<u n="54" who="UNKFEMALE" whoConfidence="low">did you go there with your family or friends and</u>
+<u n="55" who="S0044">friends <pause dur="short"/> yeah I went with a couple of my mates <pause dur="short"/> yeah it was just absolutely unreal <pause dur="short"/> it's not all just about the dance music and getting drunk and stuff</u>
+<u n="56" who="S0165">people being sick</u>
+<u n="57" who="S0168">oh I would go back to Ibiza as well</u>
+<u n="58" who="S0116">since you're talking about New York I'm like I totally forgot I been to New York <pause dur="short"/> I went to New York for my twenty-first birthday with my sister and my three aunties as like her birthday present <pause dur="short"/> but I'm not even going to lie we didn't even look at one piece of sightseeing <pause dur="short"/> all we did was shop it was exactly a bit mortifying</u>
+<u n="59" who="S0009">how do you forget that you've been to New York? <unclear/> remember</u>
+<u n="60" who="S0116">because no <pause dur="short"/> because I'm trying to think of like my favourite holiday my favourite place in Europe is probably Italy but my favourite place in America would be San Francisco <pause dur="short"/> because it's so American <pause dur="short"/> it's really like it's really cultural <pause dur="short"/> cos like I've been to Florida and it's just Disney land and then big motorways an big fast food restaurants <pause dur="short"/> there's not <pause dur="short"/> well there's like beaches and stuff but there's not really <pause dur="short"/> you know <unclear/></u>
+<u n="61" who="UNKFEMALE" whoConfidence="low">I'm going to Disneyland</u>
+<u n="62" who="S0168">I want to go there</u>
+<u n="63" who="S0009">no no</u>
+<u n="64" who="S0044">I'd like to go to Disneyland</u>
+<u n="65" who="S0009">I went to the Paris one but I want to go there <unclear/></u>
+<u n="66" who="S0116">yeah <pause dur="short"/> the one is America is better atmosphere but the one in Paris has better rides for sure</u>
+<u n="67" who="S0009">ah <pause dur="short"/> see I'm all about the <pause dur="short"/> I was in <unclear/> atmosphere <unclear/></u>
+<u n="68" who="S0165" trans="overlap">I've been to the one in Paris but</u>
+<u n="69" who="UNKFEMALE" whoConfidence="low">I want to the one in Paris <pause dur="short"/> really good</u>
+<u n="70" who="S0044">yeah cos you were saying that not everyone's not like happy happy happy <pause dur="short"/> and they should be its Disney</u>
+<u n="71" who="S0116">they are in America and also they have em animal kingdom in America and we went on safari <pause dur="short"/> they have <unclear/> and stuff</u>
+<u n="72" who="S0165">have any of you been to Chester Zoo or somewhere?</u>
+<u n="73" who="S0044"><unclear/> one day</u>
+<u n="74" who="S0116">I fed I fed the elephants in Dublin zoo that used to be a load  used to be a load go in</u>
+<u n="75" who="S0165" trans="overlap">oh my god that's so cool</u>
+<u n="76" who="S0116">like it</u>
+<u n="77" who="UNKFEMALE" whoConfidence="low">so you're allowed to do that?</u>
+<u n="78" who="S0116">yeah my sister's held one of the baby monkeys</u>
+<u n="79" who="UNKFEMALE" whoConfidence="low">ah</u>
+<u n="80" who="S0116">yeah</u>
+<u n="81" who="S0165">yeah when my mum was in Nepal like you get to ride on an elephant go into the river and they like squirt you</u>
+<u n="82" who="S0116">they do that in Thailand <pause dur="short"/> and the elephants paint pictures</u>
+<u n="83" who="S0165">I saw that one on telly <pause dur="short"/></u>
+<u n="84" who="S0116">they like get their paintbrush and they my aunty has one</u>
+<u n="85" who="S0165">yeah they like twitch their ears and they can do really detailed pictures <pause dur="short"/> it's so cool</u>
+<u n="86" who="S0116">where is it where they have the tiger temple? Is that somewhere in China?</u>
+<u n="87" who="S0165">I don't know</u>
+<u n="88" who="S0116">they bring the baby tigers up like from babies so they're like tame <pause dur="short"/> I'm sure it's</u>
+<u n="89" who="S0044">I can imagine it being China</u>
+<u n="90" who="S0116">yeah <pause dur="short"/> it's a bit cruel though</u>
+<u n="91" who="S0009">I want to go see Lion Man</u>
+<u n="92" who="S0165">who's Lion Man?</u>
+<u n="93" who="S0168">yeah I want to</u>
+<u n="94" who="S0116">have you not heard about him?</u>
+<u n="95" who="S0044">no</u>
+<u n="96" who="S0116">he was like shut down</u>
+<u n="97" who="S0044">yeah</u>
+<u n="98" who="S0116">Cos he was declawing the all the lions like he was really cruel to them</u>
+<u n="99" who="S0168">who is the Lion Man?</u>
+<u n="100" who="S0116">and then his</u>
+<u n="101" who="S0168">oh I thought he loved the <unclear/></u>
+<u n="102" who="S0116">no he's been in trouble</u>
+<u n="103" who="S0044" trans="overlap">you're <unclear/> has gone completely</u>
+<u n="104" who="S0009">he's been derailed slightly</u>
+<u n="105" who="S0044">yeah but then he one of his lions mauled one of his em</u>
+<u n="106" who="S0009">assistants?</u>
+<u n="107" who="S0044">assistant people</u>
+<u n="108" who="UNKFEMALE" whoConfidence="low">oh my god</u>
+<u n="109" who="S0044">so and he was beating his wife</u>
+<u n="110" who="S0009">really?</u>
+<u n="111" who="S0116">I wasn't going to say that</u>
+<u n="112" who="S0044">well yeah</u>
+<u n="113" who="S0116">there was a reason for it though but <pause dur="short"/> we'll discuss it later</u>
+<u n="114" who="S0168">has the topic gone completely off holidays yet or?</u>
+<u n="115" who="S0044">lions and <unclear/></u>
+<u n="116" who="S0165">I went to Legoland once it wasn't so much fun</u>
+<u n="117" who="S0168">ah my cousins are going there he's like obsessed with Lego</u>
+<u n="118" who="S0165">I was too old to go so I couldn't go on anything but I went on the riding the driving school <pause dur="short"/> that was good</u>
+<u n="119" who="S0044">I've been to Spain loads of time</u>
+<u n="120" who="S0168">I have been to Spain countless times</u>
+<u n="121" who="S0009">I want to go  I want to go  to Spain and see where <anon type="name" nameType="m"/> lived cos he lived in <unclear/> but now his parents don't live there anymore obviously</u>
+<u n="122" who="S0116">where do his mum and dad live back in Wales now or?</u>
+<u n="123" who="S0168" trans="overlap">oh no they <unclear/></u>
+<u n="124" who="S0009">they've still got the house</u>
+<u n="125" who="S0168">have they got the <unclear/>?</u>
+<u n="126" who="S0044">so they like rented it</u>
+<u n="127" who="S0116">I was just going to ask her where she went in Spain</u>
+<u n="128" who="S0044">em I went to Tenerife <pause dur="short"/> but I was really young like so I cannot really remember <pause dur="short"/> but we went to Tenerife and then we went to Salu <pause dur="short"/> really like typical tourist holidays <pause dur="short"/> but I remember being in Salu cos we went to the we went to the  water park</u>
+<u n="129" who="S0168">oh the water park in Salo <pause dur="short"/> everyone's always going on about that</u>
+<u n="130" who="S0044">and em my dad went on one of the slides like the big long ones and his his kegs fell off <pause dur="short"/> that was all I remember form that holiday and getting sun burnt</u>
+<u n="131" who="S0116">we went to one of those water parks in the Canaries and me and <anon type="name" nameType="f"/> were like six and we couldn't swim like properly and we went down this big slide and my dad was going down the middle to catch us and he like got stuck <pause dur="short"/> my sister just flew off the end like my sister's nearly drowned twice</u>
+<u n="132" who="S0044">oh god</u>
+<u n="133" who="S0116">she's so much <unclear/> didn't get it and I just managed to stop myself before</u>
+<u n="134" who="S0044">I you must have looked dead cute going down little twins</u>
+<u n="135" who="S0116">one just starting to drown</u>
+<u n="136" who="S0044">anyone else had some cracking holidays?</u>
+<u n="137" who="S0116">no <pause dur="short"/> is that enough information? I think we're finished</u>
+<u n="138" who="S0009">we might have to do a new topic it's been like nine minutes <pause dur="short"/> we've got like another eleven minutes to go</u>
+<u n="139" who="UNKFEMALE" whoConfidence="low">still ten minutes <pause dur="short"/> you can talk about another topic</u>
+<u n="140" who="S0116">do you want to talk about monkeys <anon type="name" nameType="f"/>? What's your favourite monkey?</u>
+<u n="141" who="S0165">gorillas</u>
+<u n="142" who="S0168"><unclear/> is my favourite</u>
+<u n="143" who="S0116">what's your favourite animal?</u>
+<u n="144" who="S0165">me?</u>
+<u n="145" who="S0116">yeah</u>
+<u n="146" who="S0165">monkey</u>
+<u n="147" who="S0116">monkey I like monkeys too</u>
+<u n="148" who="S0165">and my Snouser but</u>
+<u n="149" who="S0168">I like cats</u>
+<u n="150" who="S0116">cats</u>
+<u n="151" who="S0168"><unclear/> Cats</u>
+<u n="152" who="S0116">I like cats but I like capybaras</u>
+<u n="153" who="S0009">what are those?</u>
+<u n="154" who="S0116">they're like the biggest rodent <pause dur="short"/> they're lie a big giant guinea pig</u>
+<u n="155" who="S0009">urgh</u>
+<u n="156" who="S0165">oh I love those <pause dur="short"/> ah</u>
+<u n="157" who="S0168">they're not like chinchillas?</u>
+<u n="158" who="S0044">no no</u>
+<u n="159" who="S0168">I bet you they're <unclear/></u>
+<u n="160" who="S0009">they're like that aren't they?</u>
+<u n="161" who="S0168">yeah they're huge they're about this big</u>
+<u n="162" who="S0165">ah imagine waking up with like a rat that size in your room</u>
+<u n="163" who="S0009" trans="overlap">no</u>
+<u n="164" who="S0165">that's not on</u>
+<u n="165" who="S0168">outside <unclear/></u>
+<u n="166" who="S0116">oh do they have big tails?</u>
+<u n="167" who="S0044">no</u>
+<u n="168" who="S0116">no okay so that makes it <unclear/></u>
+<u n="169" who="S0165">where do they live in the wild then? They can't all be from the zoo</u>
+<u n="170" who="S0044">I don't know</u>
+<u n="171" who="S0168">Australia I can <unclear/></u>
+<u n="172" who="S0044" trans="overlap">Google it</u>
+<u n="173" who="S0009">I'll just Google it <pause dur="short"/> em I'm just like a dog person</u>
+<u n="174" who="S0165">no they're too much effort <pause dur="short"/> they're cute but you have to walk them and clean up their poo</u>
+<u n="175" who="S0116">ah they're <unclear/></u>
+<u n="176" who="S0044">same with any pet <pause dur="short"/> same like a hamster except you don't have to walk that but</u>
+<u n="177" who="S0165">cats if you just lock them outside they'll poo</u>
+<u n="178" who="S0116">no they have to have a litter tray don't they?</u>
+<u n="179" who="S0009">and the inside <unclear/></u>
+<u n="180" who="S0044">and they and that's in your house <pause dur="short"/> if they go out then you don't need a litter tray for them</u>
+<u n="181" who="S0165">could be an outside cat</u>
+<u n="182" who="S0009">yeah they just poo in everyone else's garden</u>
+<u n="183" who="S0044">yeah</u>
+<u n="184" who="S0165">people love that <pause dur="short"/> they love it when other people's cat poo in their garden</u>
+<u n="185" who="S0116">why do dogs get told off then for pooing outside? And you're supposed to clean it up</u>
+<u n="186" who="S0165">Cos they've got big smelly poo</u>
+<u n="187" who="S0168">yeah <pause dur="short"/> it's not fair is it?</u>
+<u n="188" who="S0044">dogs need to poo outside</u>
+<u n="189" who="S0165">no I mean cats do poo everywhere and then dogs</u>
+<u n="190" who="S0044">yeah because cats don't do it in the path</u>
+<u n="191" who="S0168" trans="overlap">I don't know what to put in that one</u>
+<u n="192" who="S0009" trans="overlap">I don't know</u>
+<u n="193" who="S0168">just put English</u>
+<u n="194" who="S0009">I don't understand that question</u>
+<u n="195" who="S0044">I don't think so <pause dur="short"/> I've never seen a cat pooing <pause dur="short"/> this is getting really bad this conversation</u>
+<u n="196" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="197" who="S0165">we're going on about poo <pause dur="short"/> <unclear/> animals</u>
+<u n="198" who="S0044">we're nurses everything goes back to poo</u>
+<u n="199" who="S0009">well I think we should have <unclear/></u>
+<u n="200" who="S0165">is that first bay?</u>
+<u n="201" who="S0009">ah <unclear/></u>
+<u n="202" who="S0165">can you get a train it would be quicker</u>
+<u n="203" who="S0168">you have to drive through it</u>
+<u n="204" who="S0009">exactly yeah <pause dur="short"/> I think I'm going to walk</u>
+<u n="205" who="S0044">I'm not driving through that</u>
+<u n="206" who="S0168">I'd go like once I had my Granddad's car and was nearly crashing <pause dur="short"/> took all the paint of the bonnet</u>
+<u n="207" who="S0044">yeah I'm not driving through that no way</u>
+<u n="208" who="S0168">so what's your favourite animal?</u>
+<u n="209" who="S0009">I don't have a favourite animal <pause dur="short"/> I can't choose <pause dur="short"/> I don't know</u>
+<u n="210" who="S0116">monkeys are nice</u>
+<u n="211" who="S0044">I do think we should have a day a Chester zoo though because they've got a big dinosaur exhibition at the minute where they've got like mechanical dinosaurs</u>
+<u n="212" who="S0165" trans="overlap">real life dinosaurs</u>
+<u n="213" who="S0168">oh you're kidding? Yeah</u>
+<u n="214" who="S0165"><unclear/> like and Jurassic Park</u>
+<u n="215" who="S0044">no</u>
+<u n="216" who="S0009">they're not real</u>
+<u n="217" who="S0168">oh they actually could like make them move</u>
+<u n="218" who="S0044">they do they mechanical ones <pause dur="short"/> they've got a big giant T-Rex there <pause dur="short"/> but they don't walk around</u>
+<u n="219" who="UNKFEMALE" whoConfidence="low">because you are not British you cannot participate</u>
+<u n="220" who="UNKFEMALE" whoConfidence="low">really?</u>
+<u n="221" who="UNKFEMALE" whoConfidence="low">no</u>
+<u n="222" who="UNKFEMALE" whoConfidence="low">alright it's okay <pause dur="short"/> I'll stay here</u>
+<u n="223" who="UNKFEMALE" whoConfidence="low">sorry about that <pause dur="short"/> sorry</u>
+<u n="224" who="S0116">trying to think of a topic <pause dur="short"/> does anyone want a glass of wine</u>
+<u n="225" who="S0165">no thank you</u>
+<u n="226" who="S0116">well what I I hear <pause dur="short"/> I have something to say <pause dur="short"/> I think we've gone into the wrong em profession <pause dur="short"/> cos my two friends are school teachers and they get three months off <pause dur="short"/> you don't get three months holidays here I don't think <pause dur="short"/> but they get three months off paid in the summer <pause dur="short"/> each year since we've finished school <pause dur="short"/> so obviously I'm twenty-six now and they've had their well after they graduated which was like two thousand and eight they've basically travelled the world in the summer <pause dur="short"/> all they do is save <pause dur="short"/> they've been to like Brazil eh they're going to Africa this this summer <pause dur="short"/> they've been to Bali Thailand Australia and basically <pause dur="short"/> and then they can go on like another break in October <pause dur="short"/> they have the whole of Christmas off <pause dur="short"/> and then they have</u>
+<u n="227" who="S0168">weekends</u>
+<u n="228" who="S0116">easter</u>
+<u n="229" who="S0168">bank holidays</u>
+<u n="230" who="S0116">midterm</u>
+<u n="231" who="S0165">but they have to deal with those children that are rude</u>
+<u n="232" who="S0009">think of the people we've got to deal with though</u>
+<u n="233" who="S0116" trans="overlap">yeah <pause dur="short"/> but they don't seem <pause dur="short"/> there doesn't seem</u>
+<u n="234" who="S0009">yeah <pause dur="short"/> I think we could be dealing with a lot worse</u>
+<u n="235" who="S0165">well you could go into teaching after his like like a lecturer or something</u>
+<u n="236" who="S0044">no</u>
+<u n="237" who="S0165">oh no they don't get holidays</u>
+<u n="238" who="S0116">might go back to Ireland and teach</u>
+<u n="239" who="S0044">primary school teacher</u>
+<u n="240" who="S0116">they get you get salaried holidays <pause dur="short"/> even the nurses <pause dur="short"/> but it is four years so it all evens itself out I think</u>
+<u n="241" who="S0044">wouldn't you have to like nursing before you could go teaching it</u>
+<u n="242" who="S0165">yeah</u>
+<u n="243" who="S0044">or actual nursing</u>
+<u n="244" who="S0165">you have to get <pause dur="short"/> you have to be like</u>
+<u n="245" who="S0116">yeah like you have to have <trunc>ex</trunc> I'd say you'd have to have experience in the field</u>
+<u n="246" who="S0009" trans="overlap">advanced practitioner or something</u>
+<u n="247" who="S0044">aye</u>
+<u n="248" who="S0116">I'd say you need a PhD before you teach in Ireland <pause dur="short"/> it seems like you don't need that over here</u>
+<u n="249" who="S0165">no you just need a PGCE <pause dur="short"/> or something</u>
+<u n="250" who="S0116">I think you have to have a PhD to to be a lecturer in Ireland <pause dur="short"/> in a like in a</u>
+<u n="251" who="S0165">A yeah at a university</u>
+<u n="252" who="S0116">in a university</u>
+<u n="253" who="S0044">Cos they seem a lot</u>
+<u n="254" who="S0165">Cos they get paid loads</u>
+<u n="255" who="S0044">they're a lot stricter over there though in the</u>
+<u n="256" who="S0168">Ireland is really strict though isn't it?</u>
+<u n="257" who="S0165">but is their education standards better than</u>
+<u n="258" who="S0116">yeah</u>
+<u n="259" who="S0009">yeah</u>
+<u n="260" who="S0116">it it is though <pause dur="short"/> it's not necessarily the university standards <pause dur="short"/> but school you're A-levels are I'm sure they have more detail but we technically do more A-levels than you therefore <pause dur="short"/> without choice if you know what I mean <pause dur="short"/> I think the demand <pause dur="short"/> I was thinking like the other day cos <pause dur="short"/> cos there are about thirty-six nursing skills here <pause dur="short"/> like thirty-six courses that you can do <pause dur="short"/> I'd say there's only like ten in Ireland and then you think of the population of here and the population there <pause dur="short"/> like there's obviously a reason why because if you had as many nurses nursing places in Ireland like you wouldn't have the jobs <pause dur="short"/> you don't even have the jobs now to support it <pause dur="short"/> you know? How are we doing? I don't know what else to talk about</u>
+<u n="261" who="S0009">what's your <unclear/> <anon type="name" nameType="f"/>? Is it delicious?</u>
+<u n="262" who="S0165">yeah it's very nice yeah</u>
+<u n="263" who="S0009">are you full now?</u>
+<u n="264" who="S0165">not yet no</u>
+<u n="265" who="S0116">what's your favourite food?</u>
+<u n="266" who="S0165">oh don't look <pause dur="short"/> <unclear/> spam</u>
+<u n="267" who="S0009">she's been eating it for three days straight</u>
+<u n="268" who="S0116">have you had spam before?</u>
+<u n="269" who="S0165">I don't want to try it</u>
+<u n="270" who="S0044">there's loads in the bleeding fridge man</u>
+<u n="271" who="S0168">spam's quite nice and she's got it in et freezer</u>
+<u n="272" who="S0044">seriously you <trunc>nee</trunc> you need to eat some <pause dur="short"/> I'm getting sick</u>
+<u n="273" who="S0165">spam sandwich tomorrow with Brown sauce</u>
+<u n="274" who="S0116" trans="overlap">is it just like is it  is it  actual meat?</u>
+<u n="275" who="S0165">it's questionable</u>
+<u n="276" who="S0044" trans="overlap">I don't even know</u>
+<u n="277" who="S0116">is it reconstituted?</u>
+<u n="278" who="S0009">you just don't think about it and then you</u>
+<u n="279" who="S0044">just don't think about it just eat it</u>
+<u n="280" who="S0116">I don't mind I can eat I don't mind like my meat mooing <pause dur="short"/> like I'm not fussy on my <unclear/></u>
+<u n="281" who="S0044">I don't think it would be mooing cos it's probably more like feet</u>
+<u n="282" who="UNKMULTI"><vocal desc="laugh"/></u>
+<u n="283" who="S0044">but yeah you need to eat some like cos there's far too much in the</u>
+<u n="284" who="S0116">did you get it from your mum?</u>
+<u n="285" who="S0044">I got it from work</u>
+<u n="286" who="S0165" trans="overlap">no work</u>
+<u n="287" who="S0044">it was one of my it was probably my main present form work</u>
+<u n="288" who="S0116">A crate of spam</u>
+<u n="289" who="S0168" trans="overlap">what a beautiful present</u>
+<u n="290" who="S0044"><unclear/></u>
+<u n="291" who="S0116">oh yeah <pause dur="short"/> might as well use it all up</u>
+<u n="292" who="S0044">what's your favourite food Laura?</u>
+<u n="293" who="S0009">probably it's pizza</u>
+<u n="294" who="S0168">pizza?</u>
+<u n="295" who="S0009"><unclear/> do it yourself</u>
+<u n="296" who="S0044" trans="overlap">mine is steak</u>
+<u n="297" who="S0165">steak is nice <pause dur="short"/> with chips and peas</u>
+<u n="298" who="S0116">I'm not realty a fan of pizza I want some food</u>
+<u n="299" who="S0168" trans="overlap">cheesecake</u>
+<u n="300" who="S0009">and ice cream</u>
+<u n="301" who="S0168">I like eh Chinese food as well</u>
+<u n="302" who="S0116">yeah Chinese</u>
+<u n="303" who="S0168">duck wraps <pause dur="short"/> mm <pause dur="short"/> chowmein <pause dur="short"/> mm</u>
+<u n="304" who="S0044">I could live on Chinese food</u>
+<u n="305" who="S0116">yeah</u>
+<u n="306" who="S0168">chowmein without broccoli though</u>
+<u n="307" who="S0165" trans="overlap">sweet and sour best</u>
+<u n="308" who="S0168">I bought chowmein yesterday and it</u>
+<u n="309" who="S0165">it had broccoli in it?</u>
+<u n="310" who="S0168">it had broccoli in it</u>
+<u n="311" who="S0165">urgh</u>
+<u n="312" who="S0168">since when has chowmein had broccoli in it?</u>
+<u n="313" who="S0116">chowmein is supposed to be very <pause dur="short"/> that's supposed to the most low in calorie Chinese dish that you can have</u>
+<u n="314" who="S0165">it's got nothing in it that's why</u>
+<u n="315" who="S0116">really?</u>
+<u n="316" who="S0165">just noodles and</u>
+<u n="317" who="S0168">beef</u>
+<u n="318" who="S0009">yeah just the sauce and spring a bit of spring onion</u>
+<u n="319" who="S0168">this one had like carrots peppers sweet corn little corn on the cob things broccoli so I was like that picking them all out</u>
+<u n="320" who="S0165">every time I've had chowmein it's got like two ingredients in it <pause dur="short"/> it's really boring</u>
+<u n="321" who="S0168">Don't get it from that place then</u>
+<u n="322" who="S0165">you can jazz it up</u>
+<u n="323" who="S0044">aye there's loads of peppers in that one</u>
+<u n="324" who="S0168">what's your favourite food</u>
+<u n="325" who="S0009">is it Welsh food <anon type="name" nameType="f"/>?</u>
+<u n="326" who="S0165">no</u>
+<u n="327" who="S0009">what is Welsh food?</u>
+<u n="328" who="S0165">cheese cake</u>
+<u n="329" who="S0116">cheese cake for dinner <pause dur="short"/> do you have like a savoury food?</u>
+<u n="330" who="S0165">I like all savoury food</u>
+<u n="331" who="S0009">yeah I'm the <trunc>s</trunc> I can eat everything <pause dur="short"/> she likes pancakes and cupcakes</u>
+<u n="332" who="S0165">I like making them more than I do</u>
+<u n="333" who="S0116">yeah I like making them more than eating them <pause dur="short"/> I must have thrown out like these cupcakes I brought back <pause dur="short"/> they do look a bit ooh <pause dur="short"/> they're like different colours and</u>
+<u n="334" who="S0044">yeah what is Welsh food?</u>
+<u n="335" who="S0009">yeah</u>
+<u n="336" who="S0165">eh you have Welsh cakes</u>
+<u n="337" who="S0009">welsh cakes</u>
+<u n="338" who="S0116">no one knows what that is <pause dur="short"/> you can't just put Welsh in front of a thing and make it sound like welsh food</u>
+<u n="339" who="S0165">no but them little flat little they're a bit like scones but not</u>
+<u n="340" who="S0044">potato cakes</u>
+<u n="341" who="S0165">no not potato</u>
+<u n="342" who="S0044">but like sweet</u>
+<u n="343" who="S0165">and then they've got raisins in it and then lots of sugar <pause dur="short"/> you have to stone bake them</u>
+<u n="344" who="S0009">you have to</u>
+<u n="345" who="S0165">yeah otherwise they don't really work</u>
+<u n="346" who="S0009">what would be like a traditional savoury dish</u>
+<u n="347" who="S0165">forgot what it's called <pause dur="short"/> they do this like weird soup thing</u>
+<u n="348" who="S0168">we just have <unclear/> don't we?</u>
+<u n="349" who="S0044">aye</u>
+<u n="350" who="S0168">like traditional food from the north east</u>
+<u n="351" who="S0044">no you can't get that from <unclear/></u>
+<u n="352" who="S0116">our traditional food is stew and I hate stew</u>
+<u n="353" who="S0009">I like stew <pause dur="short"/> stew is the best</u>
+<u n="354" who="S0044">no you can only get  in Durham you can't get the outside Durham</u>
+<u n="355" who="S0168">no</u>
+<u n="356" who="S0044">you definitely can't get them in the middle of the sticks</u>
+<u n="357" who="S0009">unless you make your own</u>
+<u n="358" who="S0168">I'll become a <unclear/></u>
+<u n="359" who="S0009">but it's not as good</u>
+<u n="360" who="S0044">they're minging anyway</u>
+<u n="361" who="S0009">someone on Facebook was having a go at <anon type="place"/> <pause dur="short"/> saying the food was gross and the managers were rude to her and she wanted to complain</u>
+<u n="362" who="S0044">yeah they're rude but they make good food <pause dur="short"/> I drive out to get a <anon type="place"/></u>
+<u n="363" who="S0009">an hour</u>
+<u n="364" who="S0116">what does <anon type="place"/>'s do?</u>
+<u n="365" who="S0168">it's just like a pizza shop</u>
+<u n="366" who="S0044">but it's got the best Dolaite ever</u>
+<u n="367" who="S0168">it's not like a gourmet restaurant</u>
+<u n="368" who="S0044">but you can eat in when you're sober <pause dur="short"/> you don't have to be drunk</u>
+<u n="369" who="S0165">and not like just spicy</u>
+<u n="370" who="S0168">that one was horrible was got the other day</u>
+<u n="371" who="S0044"><anon type="place"/>'s is a little bit spicy but nave <pause dur="short"/> it's amazing <pause dur="short"/> so yeah you can tell that person</u>
+<u n="372" who="S0009">yeah</u>
+<u n="373" who="S0044">to put it politely</u>
+<u n="374" who="S0009">I'll give you her name so you can message her <pause dur="short"/> defend your <anon type="place"/>'s good name</u>
+<u n="375" who="S0044"><vocal desc="laugh"/></u>
+<u n="376" who="S0168">I'll have to sample a <anon type="place"/>'s one day</u>
+<u n="377" who="S0044">oh definitely man</u>
+<u n="378" who="S0009">well done people</u>
+</body>
+</text>

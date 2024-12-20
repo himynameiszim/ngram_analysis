@@ -1,0 +1,845 @@
+<text id="SES2">
+	<header>
+		<rec_length>0:24:40</rec_length>
+		<rec_date>2016-06-20</rec_date>
+		<rec_year>2016</rec_year>
+		<rec_period>2016_Q2</rec_period>
+		<n_speakers>3</n_speakers>
+		<list_speakers>S0653 S0654 S0655</list_speakers>
+		<rec_loc>Kitchen, Comberton</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>Baking for a lesson, what happens in a lesson, half birthday celebrations, Tomodachi life, finding a book in Morrisons, other books</topics>
+		<activity>Family talking about plans for Mum’s lesson</activity>
+		<conv_type>Discussing, explaining, making arrangements, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>n</in_sample>
+		<transcriber>T04</transcriber>
+		<speakerInfo>
+			<speaker id="S0653">
+				<exactage>39</exactage>
+				<age1994>35_44</age1994>
+				<agerange>30_39</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Dartford, Kent</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>England</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0654">
+				<exactage>7</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Norwich</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>1_primary</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0655">
+				<exactage>9</exactage>
+				<age1994>0_14</age1994>
+				<agerange>0_10</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Bury St Edmunds</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>non (Southern?)</dialect_rep>
+				<hab_city>Comberton</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>5</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>south</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>1_primary</edqual>
+				<occupation>n/a</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls>Spanish -- level unspecified</fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0653">so today is well er the first of only four days cos it's gonna be a four-day week this week at school</u>
+<u n="2" who="S0655">wahoo</u>
+<u n="3" who="S0653">so on Friday you're gonna come with me to one of my lessons</u>
+<u n="4" who="S0655"><vocal desc="laugh"/></u>
+<u n="5" who="S0653">and assist me in the teaching of it</u>
+<u n="6" who="S0654">oh</u>
+<u n="7" who="S0655">yeah</u>
+<u n="8" who="S0653">but you were thinking of baking doing some baking for my students?</u>
+<u n="9" who="S0654">yeah</u>
+<u n="10" who="S0655">yeah</u>
+<u n="11" who="S0653">so what are your thoughts on that?</u>
+<u n="12" who="S0654">well we obviously have to know about er rock cakes cos they are so delicious</u>
+<u n="13" who="S0653">your your fantastic rock cakes yes</u>
+<u n="14" who="S0654" whoConfidence="low">mm</u>
+<u n="15" who="S0653">and they are triple chocolate chip <trunc>ch</trunc> rock cakes aren't they?</u>
+<u n="16" who="S0654">yeah triple chocolate rock cakes</u>
+<u n="17" who="S0653">and er that's not easy to say is it really?</u>
+<u n="18" who="S0654">triple chocolate rock cakes triple chocolate rock cakes</u>
+<u n="19" who="S0653" trans="overlap">no triple chocolate chip rock cakes</u>
+<u n="20" who="S0654">yeah it's triple triple <trunc>choc</trunc></u>
+<u n="21" who="S0653" trans="overlap">that's the bit that's tricky</u>
+<u n="22" who="S0654">and look at the recipe</u>
+<u n="23" who="S0655"><vocal desc="laugh"/> it's a tongue twister</u>
+<u n="24" who="S0653">what?</u>
+<u n="25" who="S0654">look at the recipe <unclear/></u>
+<u n="26" who="S0653">er triple oh triple chocolate rock cakes that's still hard to say though isn't it?</u>
+<u n="27" who="S0654">mm triple chocolate rock cakes</u>
+<u n="28" who="S0653" trans="overlap">and what else were you thinking that you wanted to have as well?</u>
+<u n="29" who="S0654">well</u>
+<u n="30" who="S0655" trans="overlap">erm your muffins</u>
+<u n="31" who="S0654">we could do a mixture of vanilla and chocolate muffins</u>
+<u n="32" who="S0653">yes we could</u>
+<u n="33" who="S0654">but we could do a little bit of icing on top because last time you didn't</u>
+<u n="34" who="S0653">we didn't well well er we didn't I didn't have time to do the icing cos you snaffled them very quickly didn't you?</u>
+<u n="35" who="S0654">yeah but now we do</u>
+<u n="36" who="S0653">yeah well the yeah so they were fudge cupcakes</u>
+<u n="37" who="S0655" whoConfidence="low">mm</u>
+<u n="38" who="S0653">so we can have the fudge topping but I'm glad that you really liked the the cupcakes so that's good and we could go healthy eating and do ones with cherries and apple which are delicious</u>
+<u n="39" who="S0655">oh yeah</u>
+<u n="40" who="S0654">hey I've got</u>
+<u n="41" who="S0653" trans="overlap">cos you really really liked them when you were little</u>
+<u n="42" who="S0654">and maybe we can put a little batch of chocolate sauce and have some like <unclear>fruits in</unclear></u>
+<u n="43" who="S0653">what? what like when we did the kebabs do you mean? or?</u>
+<u n="44" who="S0654"><vocal desc="gasp"/></u>
+<u n="45" who="S0655"><unclear/></u>
+<u n="46" who="S0654">yeah</u>
+<u n="47" who="S0653">a sauce to dip the fruit in?</u>
+<u n="48" who="S0654">yeah</u>
+<u n="49" who="S0653">well I think that's going a bit over the top there</u>
+<u n="50" who="S0654">well <unclear/> well okay but</u>
+<u n="51" who="S0653"><vocal desc="laugh"/></u>
+<u n="52" who="S0655">oh I just <unclear/></u>
+<u n="53" who="S0654" trans="overlap">and we could get some fruit as well just so after those we could give them some refreshments</u>
+<u n="54" who="S0655">mum</u>
+<u n="55" who="S0653" trans="overlap">well they're we're gonna have a Greek salad cos one of them's making a Greek salad</u>
+<u n="56" who="S0655">mum in your lesson</u>
+<u n="57" who="S0653" trans="overlap">yes</u>
+<u n="58" who="S0655">er could we play the game where you say where somebody starts off a story with one word like there</u>
+<u n="59" who="S0653">mm?</u>
+<u n="60" who="S0655">and the other person says erm and the word that we use to make a sentence with that word <unclear/></u>
+<u n="61" who="S0654" trans="overlap">there was a pirate poo poo pants <vocal desc="laugh"/></u>
+<u n="62" who="S0655">no a goat</u>
+<u n="63" who="S0653">mm?</u>
+<u n="64" who="S0655">eating grass on a farm</u>
+<u n="65" who="S0654">no they don't have to make sense there was a banana eating</u>
+<u n="66" who="S0655" trans="overlap">but <anon type="name" nameType="f"/></u>
+<u n="67" who="S0654">flowers on a on a school ground <vocal desc="laugh"/></u>
+<u n="68" who="S0655">but <anon type="name" nameType="f"/> <unclear/></u>
+<u n="69" who="S0653">is this what you play at school?</u>
+<u n="70" who="S0655">erm no <pause dur="short"/> but it might be interesting to see the results</u>
+<u n="71" who="S0654">okay let's start</u>
+<u n="72" who="S0653">well explain the game a bit more to me?</u>
+<u n="73" who="S0655">so</u>
+<u n="74" who="S0654" trans="overlap">I'll explain it</u>
+<u n="75" who="S0655">one person that says a word to start off a story the next person says another word the two carry on the story and then</u>
+<u n="76" who="S0653" trans="overlap">but you have to <unclear/>?</u>
+<u n="77" who="S0655">yeah so it makes you think about them but I'll</u>
+<u n="78" who="S0653" trans="overlap">I think that some of my students might find that a bit tricky</u>
+<u n="79" who="S0654">no it's only for that they and they can do there was there was a big man eating giant</u>
+<u n="80" who="S0655">well <anon type="name" nameType="f"/> you start</u>
+<u n="81" who="S0653">the reason why it's tricky though</u>
+<u n="82" who="S0654" trans="overlap">there</u>
+<u n="83" who="S0655">once</u>
+<u n="84" who="S0653">oh good grief</u>
+<u n="85" who="S0654">was</u>
+<u n="86" who="S0653">well once was doesn't make sense there was</u>
+<u n="87" who="S0654" trans="overlap">there was there</u>
+<u n="88" who="S0653">was</u>
+<u n="89" who="S0655">was</u>
+<u n="90" who="S0653">a</u>
+<u n="91" who="S0654">banana</u>
+<u n="92" who="S0653">you've just said two things</u>
+<u n="93" who="S0654"><trunc>bana</trunc></u>
+<u n="94" who="S0653">banana? walking</u>
+<u n="95" who="S0654" trans="overlap">banana</u>
+<u n="96" who="S0655">happily</u>
+<u n="97" who="S0654">down</u>
+<u n="98" who="S0653">the</u>
+<u n="99" who="S0655"><trunc>s</trunc></u>
+<u n="100" who="S0654"><vocal desc="laugh"/></u>
+<u n="101" who="S0655">aeroplane</u>
+<u n="102" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="103" who="S0654"><unclear/> it can make it doesn't have to make any sense at all</u>
+<u n="104" who="S0653">mm</u>
+<u n="105" who="S0654"><vocal desc="laugh"/></u>
+<u n="106" who="S0653">sounds amazing</u>
+<u n="107" who="S0654"><vocal desc="laugh"/> that's all you need to do</u>
+<u n="108" who="S0653">where's your <trunc>bea</trunc> pink beaker <anon type="name" nameType="f"/>?</u>
+<u n="109" who="S0655">on the aeroplane the banana was walking down</u>
+<u n="110" who="S0654">it's on</u>
+<u n="111" who="S0653"><unclear>with the</unclear> banana?</u>
+<u n="112" who="S0655"><vocal desc="laugh"/></u>
+<u n="113" who="S0654">no it's on the table</u>
+<u n="114" who="S0653">oh yeah</u>
+<u n="115" who="S0654">in the <unclear>play area</unclear> <vocal desc="yawn"/></u>
+<u n="116" who="S0653">yeah I'm gonna have to put your mattress back up I've actually really injured my back</u>
+<u n="117" who="S0655" whoConfidence="low"><unclear>oh</unclear></u>
+<u n="118" who="S0653">last night I mean yesterday afternoon so I was hoping er <trunc>pu</trunc>putting the spare mattress downstairs I was hoping that I could use it <trunc>s</trunc>so I could practise my handstands but I did a really quite good handstand but fell <trunc>o</trunc> went over backwards and I thought well that's alright cos I can land on the ouch</u>
+<u n="119" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="120" who="S0653">and I really hurt my back <vocal desc="laugh"/> cos it's actually not that soft and bouncy</u>
+<u n="121" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="122" who="S0654">it's bouncy for us I'm always bouncing on it</u>
+<u n="123" who="S0653">it's bouncy if it's got you know</u>
+<u n="124" who="S0654"><vocal desc="laugh"/></u>
+<u n="125" who="S0653">if it's on a bed but just on its own it's not that good so I do really need a crash mat and also I need to stop doing it because I really hurt my back</u>
+<u n="126" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="127" who="S0653">so I'm just gonna carry on practising handstands against the wall but I did do quite a good handstand yesterday</u>
+<u n="128" who="S0655" trans="overlap">sorry for</u>
+<u n="129" who="S0653">against the wall</u>
+<u n="130" who="S0655">sorry er for laughing</u>
+<u n="131" who="S0653" trans="overlap">but my <trunc>ba</trunc></u>
+<u n="132" who="S0655">but that is hilarious</u>
+<u n="133" who="S0654"><vocal desc="laugh"/></u>
+<u n="134" who="S0653">I can understand why you're laughing</u>
+<u n="135" who="S0654"><unclear/> ouch</u>
+<u n="136" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="137" who="S0655"><unclear/> oh I'm just <unclear/> ouch</u>
+<u n="138" who="S0654"><vocal desc="laugh"/></u>
+<u n="139" who="S0653">yeah ouchy ouchy</u>
+<u n="140" who="S0654">I wonder what your students will think of us</u>
+<u n="141" who="S0653">mm</u>
+<u n="142" who="S0655">they'll probably think we're adorable</u>
+<u n="143" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="144" who="S0653">yeah they've all got they've all got children themselves</u>
+<u n="145" who="S0654"><unclear/></u>
+<u n="146" who="S0653">so they'll really like you guys</u>
+<u n="147" who="S0655">you should make it so that we're erm so that we're they're allowed to bring their children to school</u>
+<u n="148" who="S0654"><vocal desc="laugh"/></u>
+<u n="149" who="S0655"><unclear/></u>
+<u n="150" who="S0653">no cos that would be a bit chaotic</u>
+<u n="151" who="S0654"><vocal desc="laugh"/></u>
+<u n="152" who="S0655">oh</u>
+<u n="153" who="S0654">children running around going mummy mummy <vocal desc="laugh"/></u>
+<u n="154" who="S0655"><unclear>yeah</unclear> <vocal desc="laugh"/></u>
+<u n="155" who="S0654">mummy mummy <unclear/></u>
+<u n="156" who="S0653">but there is a lady</u>
+<u n="157" who="S0655"><vocal desc="laugh"/></u>
+<u n="158" who="S0654"><unclear/></u>
+<u n="159" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="160" who="S0653">there is a lady that erm helps me outside the lesson to look after young children <unclear>of the parents</unclear> so you <trunc>c</trunc> if you get bored you can watch a film with her</u>
+<u n="161" who="S0655">what type of film?</u>
+<u n="162" who="S0653">I dunno</u>
+<u n="163" who="S0654"><vocal desc="laugh"/></u>
+<u n="164" who="S0653">it'll be <trunc>f</trunc>it'll be for young kids Winnie the Pooh</u>
+<u n="165" who="S0655"><vocal desc="misc"/></u>
+<u n="166" who="S0654">yay</u>
+<u n="167" who="S0655">oh yay I like Winnie the Pooh</u>
+<u n="168" who="S0654"><vocal desc="laugh"/></u>
+<u n="169" who="S0655"><shift new="singing"/> Winnie the Pooh pooh <shift new="normal"/></u>
+<u n="170" who="UNKMULTI" whoConfidence="low"><shift new="singing"/> Winnie the Pooh pooh <unclear/> <shift new="normal"/></u>
+<u n="171" who="S0653"><vocal desc="laugh"/></u>
+<u n="172" who="UNKMULTI" whoConfidence="low"><shift new="singing"/> it's Winnie the Pooh pooh Winnie the <unclear/> <shift new="normal"/> <vocal desc="laugh"/></u>
+<u n="173" who="S0654"><shift new="singing"/> <unclear/> <unclear>little bear</unclear> <shift new="normal"/> <vocal desc="laugh"/></u>
+<u n="174" who="S0655"><unclear>mm</unclear></u>
+<u n="175" who="S0653">so I wonder what film will be on for your birthday celebrations cos er your half birthday</u>
+<u n="176" who="S0655">it'll be hilarious if it was a film about</u>
+<u n="177" who="S0654"><vocal desc="laugh"/></u>
+<u n="178" who="S0655">somebody going to Hollywood and becoming world-famous</u>
+<u n="179" who="S0653">why?</u>
+<u n="180" who="S0654">wait are you talking about my birthday or <anon type="name" nameType="m"/>'s birthday?</u>
+<u n="181" who="S0655"><vocal desc="laugh"/> mm</u>
+<u n="182" who="S0654" whoConfidence="low">because just cos it's a <trunc>Hol</trunc> er Hollywood-themed birthday</u>
+<u n="183" who="S0653">oh I see oh look one of the lights has just gone in the kitchen my goodness</u>
+<u n="184" who="S0655"><vocal desc="laugh"/></u>
+<u n="185" who="S0653">it is dark in here isn't it without the lights?</u>
+<u n="186" who="S0655">wow</u>
+<u n="187" who="S0654"><vocal desc="gasp"/> let there be light</u>
+<u n="188" who="S0653">it's</u>
+<u n="189" who="S0655">I don't want to be on the dark side</u>
+<u n="190" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="191" who="S0653">it looks like autumn not summer do you know I had a dream about our holiday in <anon type="place"/> last night?</u>
+<u n="192" who="S0655"><unclear>woah</unclear></u>
+<u n="193" who="S0653">I can't wait to go it'll be so exciting</u>
+<u n="194" who="S0655">I wasn't so lucky</u>
+<u n="195" who="S0653">what did you dream about?</u>
+<u n="196" who="S0655">nothing in particular</u>
+<u n="197" who="S0653">well you would've done you just can't remember</u>
+<u n="198" who="S0655">well I remember what it I remember a bit I remember bits of it</u>
+<u n="199" who="S0653">mm?</u>
+<u n="200" who="S0655">it was based in the school playground</u>
+<u n="201" who="S0653">I have a lot of dream about school</u>
+<u n="202" who="S0654">mum?</u>
+<u n="203" who="S0653">mm?</u>
+<u n="204" who="S0654">you say you've had a lot of dream about school</u>
+<u n="205" who="S0653">mm?</u>
+<u n="206" who="S0655">that doesn't make sense</u>
+<u n="207" who="S0653">why?</u>
+<u n="208" who="S0655">I've had a lot of dream about school</u>
+<u n="209" who="S0653">a lot of dreams about school</u>
+<u n="210" who="S0655"><unclear>okay</unclear></u>
+<u n="211" who="S0654"><vocal desc="laugh"/></u>
+<u n="212" who="S0655">well <unclear/></u>
+<u n="213" who="S0653" trans="overlap">you mean it doesn't make grammatical sense?</u>
+<u n="214" who="S0655">well er</u>
+<u n="215" who="S0653">oh</u>
+<u n="216" who="S0654">I had this really strange dream that erm in your dachi life erm</u>
+<u n="217" who="S0653" trans="overlap">mm what is that by the way?</u>
+<u n="218" who="S0655">a really really fun game that</u>
+<u n="219" who="S0653" trans="overlap">on the Nintendo?</u>
+<u n="220" who="S0655">is Japanese</u>
+<u n="221" who="S0654">yeah that's</u>
+<u n="222" who="S0653" trans="overlap">no I never get it Toma Toma what?</u>
+<u n="223" who="UNKMULTI" whoConfidence="low">Tomodachi</u>
+<u n="224" who="S0653">dachi? Tomodachi it's because when I was little there was something called Tamagotchi okay so Tomodachi yes carry on</u>
+<u n="225" who="S0655" trans="overlap">what's Tamagotchi?</u>
+<u n="226" who="S0654" trans="overlap">erm</u>
+<u n="227" who="S0653">Tamagotchi was when you had a little I never had one a little tiny almost like a keyring baby computer and it was a little egg and you had to look after the egg and eventually it would hatch and you'd have to look after it by like feeding it virtually and all that nonsense but yeah it was a massive craze when I was younger yes carry on</u>
+<u n="228" who="S0654">and erm in it I made a character who was supposed to be dad and there was a character that was supposed to be you</u>
+<u n="229" who="S0653">can't can't hear what you're saying <anon type="name" nameType="f"/></u>
+<u n="230" who="S0654">there was a character who was like</u>
+<u n="231" who="S0653" trans="overlap">you made a character like dad and a character like me</u>
+<u n="232" who="S0654">well that was well erm before that <unclear/> a character like dad</u>
+<u n="233" who="S0653" trans="overlap">mm?</u>
+<u n="234" who="S0654"><unclear/> like you so in it he married <anon type="name" nameType="m"/>'s one of <anon type="name" nameType="m"/>'s daughters <anon type="name" nameType="f"/></u>
+<u n="235" who="S0653" trans="overlap"><unclear/> <vocal desc="laugh"/></u>
+<u n="236" who="S0655">yeah I married <anon type="name" nameType="f"/></u>
+<u n="237" who="S0653">mm</u>
+<u n="238" who="S0655">and had lots of lovely children</u>
+<u n="239" who="S0653">mm?</u>
+<u n="240" who="S0655">there's er I have <anon type="name" nameType="f"/> <anon type="name" nameType="f"/> and <anon type="name" nameType="m"/></u>
+<u n="241" who="S0654"><anon type="name" nameType="m"/></u>
+<u n="242" who="S0655"><anon type="name" nameType="m"/> I said <anon type="name" nameType="m"/></u>
+<u n="243" who="S0654"><anon type="name" nameType="m"/></u>
+<u n="244" who="S0653">you said <anon type="name" nameType="m"/> but anyway</u>
+<u n="245" who="S0655">I said <anon type="name" nameType="m"/></u>
+<u n="246" who="S0653"><vocal desc="laugh"/></u>
+<u n="247" who="S0654">and</u>
+<u n="248" who="S0655" trans="overlap"><unclear/> <anon type="name" nameType="f"/> <unclear/> spelt <anon type="name" nameType="f"/> wrong</u>
+<u n="249" who="S0654">he was erm he had married <anon type="name" nameType="f"/> and he wanted to have a child</u>
+<u n="250" who="S0653">right</u>
+<u n="251" who="S0654">and then I had like a different dream of that was like <unclear/></u>
+<u n="252" who="S0653" trans="overlap">how do you know he wanted to have a child? did they say that?</u>
+<u n="253" who="S0655">yeah</u>
+<u n="254" who="S0654">mm</u>
+<u n="255" who="S0653">do they?</u>
+<u n="256" who="S0654">and he'll have love hearts popping out of his head it's like I wanna have a child</u>
+<u n="257" who="S0653">so do love hearts mean I would like to have a baby?</u>
+<u n="258" who="S0655"><unclear/></u>
+<u n="259" who="S0654">yes or love hearts mean that</u>
+<u n="260" who="S0655" trans="overlap">this is what they sound like I want to have a child</u>
+<u n="261" who="S0654">that's that</u>
+<u n="262" who="S0653">is that what they say?</u>
+<u n="263" who="S0654">it's dad who wants to have a child</u>
+<u n="264" who="S0655">oh I want to have a child</u>
+<u n="265" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="266" who="S0653">no but do they actually say it in the game?</u>
+<u n="267" who="S0655">yeah</u>
+<u n="268" who="S0654">yeah</u>
+<u n="269" who="S0653">okay</u>
+<u n="270" who="S0654">and if he if it's before they say that</u>
+<u n="271" who="S0653">mm?</u>
+<u n="272" who="S0654"><unclear>or it's like</unclear> have a child erm they have love hearts and they like</u>
+<u n="273" who="S0653">to make babies?</u>
+<u n="274" who="S0654">yeah but erm I can't believe it but somebody quite cool was going to marry Piggy Poop <vocal desc="laugh"/> it's a character</u>
+<u n="275" who="S0653">who is Piggy Poo?</u>
+<u n="276" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="277" who="S0654">she's a character she's really small got a big big big mouth and goes</u>
+<u n="278" who="S0655" trans="overlap"><unclear>we've showed you</unclear> <unclear/></u>
+<u n="279" who="S0653">hang on small and a big mouth? sounds like you</u>
+<u n="280" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="281" who="S0654"><unclear/> it's got a mouth this big</u>
+<u n="282" who="S0655">yeah <vocal desc="laugh"/></u>
+<u n="283" who="S0654"><unclear/> very big head</u>
+<u n="284" who="S0653">and someone wants to have a baby with her? do they get married before they have babies?</u>
+<u n="285" who="S0655">erm they <unclear/></u>
+<u n="286" who="S0654" trans="overlap">they want to get married with her but erm they were going to give her a bouquet and she and they invited her round to the café so she they could give her a bouquet</u>
+<u n="287" who="S0653">mm</u>
+<u n="288" who="S0655">but she didn't come so if they don't</u>
+<u n="289" who="S0653" trans="overlap">she didn't come?</u>
+<u n="290" who="S0654">yeah</u>
+<u n="291" who="S0653">how rude</u>
+<u n="292" who="S0654">if they don't come or</u>
+<u n="293" who="S0653" trans="overlap">yeah</u>
+<u n="294" who="S0654">they say no they so <unclear>he</unclear> become really sad</u>
+<u n="295" who="S0653">mm</u>
+<u n="296" who="S0654">and also in one of them another person loved another girl who the person who had the bouquet said they said <trunc>n</trunc> stop <unclear>wait</unclear> nobody loves me more than you but the guy who I was gonna marry to him <trunc>s</trunc> erm one because he had the bouquet</u>
+<u n="297" who="S0653"><vocal desc="laugh"/> okay fair enough</u>
+<u n="298" who="S0654">the girl</u>
+<u n="299" who="S0653">wow you know that people don't have to get married though?</u>
+<u n="300" who="S0654"><unclear>I know</unclear> but they want to get married</u>
+<u n="301" who="S0653">okay</u>
+<u n="302" who="S0655">and they feel very sad</u>
+<u n="303" who="S0653">oh that is sad</u>
+<u n="304" who="S0655">yeah</u>
+<u n="305" who="S0653"><anon type="name" nameType="f"/> got engaged to <anon type="name" nameType="m"/> last week so she's got a sparkly ring she's never been married before</u>
+<u n="306" who="S0655"><unclear/></u>
+<u n="307" who="S0653">but anyway you don't have to be married to have babies or to just have sex</u>
+<u n="308" who="S0655"><anon type="name" nameType="m"/></u>
+<u n="309" who="S0653">mm?</u>
+<u n="310" who="S0655">is going to see their wedding</u>
+<u n="311" who="S0653">mm?</u>
+<u n="312" who="S0655"><anon type="name" nameType="m"/> might see their wedding</u>
+<u n="313" who="S0653">I'm sure he will</u>
+<u n="314" who="S0655" trans="overlap">well he will</u>
+<u n="315" who="S0653">I'm sure he will</u>
+<u n="316" who="S0654">can we are we gonna go to it?</u>
+<u n="317" who="S0653"><trunc>n</trunc> well I don't know they might just have a really quiet wedding</u>
+<u n="318" who="S0655"><shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="319" who="S0653">with like <anon type="name" nameType="m"/> and their mum and that'll be it</u>
+<u n="320" who="S0655">oh well I yeah but then we'll party crash it</u>
+<u n="321" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="322" who="S0655">and then he'll be like</u>
+<u n="323" who="S0653" trans="overlap">we can still celebrate it you can still wear a pretty dress can't you?</u>
+<u n="324" who="S0654"><vocal desc="laugh"/></u>
+<u n="325" who="S0655">do you take <unclear/> disco DJ <unclear/>?</u>
+<u n="326" who="S0653">mm? what's that from?</u>
+<u n="327" who="S0654"><vocal desc="laugh"/></u>
+<u n="328" who="S0655">do you take me to be a disco DJ? <vocal desc="misc"/> <vocal desc="laugh"/></u>
+<u n="329" who="S0653">yes okay</u>
+<u n="330" who="S0655">yeah</u>
+<u n="331" who="S0653">mm</u>
+<u n="332" who="S0654">and erm he told me it was it sounded great cos he's like waited a long time to have <anon type="name" nameType="f"/></u>
+<u n="333" who="S0653">what sounded great?</u>
+<u n="334" who="S0654">it's taken a long time for him to have <anon type="name" nameType="f"/></u>
+<u n="335" who="S0653">right</u>
+<u n="336" who="S0654"><unclear/></u>
+<u n="337" who="S0653">what? and she's finally said yes?</u>
+<u n="338" who="S0654">yeah well it's taken <unclear/></u>
+<u n="339" who="S0653" trans="overlap">so has she been playing hard to get then?</u>
+<u n="340" who="S0654">it's taken a long time for him to pluck up the courage</u>
+<u n="341" who="S0653">oh that's so sweet</u>
+<u n="342" who="S0655"><unclear/> I know it took me it didn't really take me that long to pluck up the courage for to ask <anon type="name" nameType="f"/></u>
+<u n="343" who="S0654">but <anon type="name" nameType="m"/> do you know what? now you and <anon type="name" nameType="f"/> are enemies</u>
+<u n="344" who="S0653">no</u>
+<u n="345" who="S0654">you do not like each other any more in Tomodachi</u>
+<u n="346" who="S0653" trans="overlap">but you've got children with each other?</u>
+<u n="347" who="S0655">I know but</u>
+<u n="348" who="S0653">oh dear</u>
+<u n="349" who="S0654" trans="overlap"><vocal desc="gasp"/> so there might be a divorce</u>
+<u n="350" who="S0653">might be</u>
+<u n="351" who="S0654">erm when I went into the love chart I was hoping I might I was thinking you might be at the top but then when but you were at the bottom with <anon type="name" nameType="f"/></u>
+<u n="352" who="S0655">I don't</u>
+<u n="353" who="S0653" trans="overlap">I don't understand any of this at all</u>
+<u n="354" who="S0654"><unclear/></u>
+<u n="355" who="S0655">well I don't understand the love chart it doesn't say very good couples if they're married then apparently it makes it really low down</u>
+<u n="356" who="S0653"><vocal desc="laugh"/> does it?</u>
+<u n="357" who="S0654">no</u>
+<u n="358" who="S0653">oh</u>
+<u n="359" who="S0654">I'm with <anon type="name" nameType="m"/> and I'm at the top</u>
+<u n="360" who="S0655">are you?</u>
+<u n="361" who="S0654">yes I'm already I'm already married to him and erm we're at the and I'm at the top</u>
+<u n="362" who="S0653">this is such like a baffling thing this Toma thingy wingy Tomodachi</u>
+<u n="363" who="S0655">I don't get the <unclear/></u>
+<u n="364" who="S0654" trans="overlap">yeah and <anon type="name" nameType="m"/> do you know what? when I went into the love</u>
+<u n="365" who="S0653">yeah? waiting</u>
+<u n="366" who="S0654">thing when I went to you with <anon type="name" nameType="f"/> I was like shocked when it said no</u>
+<u n="367" who="S0653">no what?</u>
+<u n="368" who="S0654">it says</u>
+<u n="369" who="S0653">no spark no passion?</u>
+<u n="370" who="S0654">it just said</u>
+<u n="371" who="S0655"><unclear/></u>
+<u n="372" who="S0653">the love has gone you're wearing your <trunc>s</trunc> your mucky</u>
+<u n="373" who="S0654" trans="overlap">erm <unclear/> it says <unclear/></u>
+<u n="374" who="S0653">erm sort of</u>
+<u n="375" who="S0654" trans="overlap">it says</u>
+<u n="376" who="S0653" trans="overlap">shush shush you're wearing your mucky pyjamas drinking beer eating pizza</u>
+<u n="377" who="S0654">mm</u>
+<u n="378" who="S0655" trans="overlap">that's not</u>
+<u n="379" who="S0653">ignoring your wife</u>
+<u n="380" who="S0655">that</u>
+<u n="381" who="S0653">and she is in the kitchen cross</u>
+<u n="382" who="S0655">that's not me</u>
+<u n="383" who="S0654" trans="overlap">no</u>
+<u n="384" who="S0655">that</u>
+<u n="385" who="S0653"><vocal desc="laugh"/></u>
+<u n="386" who="S0654">that's <unclear/></u>
+<u n="387" who="S0655"><unclear/> it would probably be the other way round anyway</u>
+<u n="388" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="389" who="S0655">too <anon type="name" nameType="f"/> gave <anon type="name" nameType="f"/> a beard not relevant but it</u>
+<u n="390" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="391" who="S0653">maybe that is relevant though</u>
+<u n="392" who="S0654" trans="overlap">maybe yeah</u>
+<u n="393" who="S0653">maybe that maybe that</u>
+<u n="394" who="S0655"><trunc>may</trunc>maybe she's angry</u>
+<u n="395" who="S0654" trans="overlap">I wanted I wanted to marry <anon type="name" nameType="m"/> but now I <trunc>ga</trunc> I <vocal desc="laugh"/></u>
+<u n="396" who="S0653" trans="overlap">oh you wanted to marry <anon type="name" nameType="m"/> so you gave <anon type="name" nameType="f"/> a beard?</u>
+<u n="397" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="398" who="S0653">oh my God <anon type="name" nameType="f"/> that's hilarious</u>
+<u n="399" who="S0654">but now I'm taking it off her</u>
+<u n="400" who="S0653">maybe <anon type="name" nameType="m"/> doesn't fancy <anon type="name" nameType="f"/> when she's got a beard and that's why</u>
+<u n="401" who="S0654" trans="overlap"><vocal desc="laugh"/> no</u>
+<u n="402" who="S0653">their marriage has gone wrong</u>
+<u n="403" who="S0654"><unclear/></u>
+<u n="404" who="S0655">and er although I'll probably have to look after all the</u>
+<u n="405" who="S0654" trans="overlap">I took I took the beard off</u>
+<u n="406" who="S0655">I'll probably have to look after the three children I need to give them pocket money I need to take them to the beach</u>
+<u n="407" who="S0654"><unclear/></u>
+<u n="408" who="S0655">I need to avoid the I need to stop the babies from getting bitten by the crab</u>
+<u n="409" who="S0654"><vocal desc="laugh"/></u>
+<u n="410" who="S0653">it sounds you sound like a perfect dad already</u>
+<u n="411" who="S0655">yeah I also need to stop them from going</u>
+<u n="412" who="S0654" trans="overlap"><unclear/> in the picture</u>
+<u n="413" who="S0655">really up close to the camera</u>
+<u n="414" who="S0654"><vocal desc="laugh"/></u>
+<u n="415" who="S0655">whenever I <unclear/> get back</u>
+<u n="416" who="S0654" trans="overlap">that was <unclear/></u>
+<u n="417" who="S0653" trans="overlap">cos that happens</u>
+<u n="418" who="S0655">you're too close</u>
+<u n="419" who="S0653">like <anon type="name" nameType="m"/> crawling?</u>
+<u n="420" who="S0655"><vocal desc="laugh"/> mm</u>
+<u n="421" who="S0654">no that really happened in cos there's a <unclear>kid info</unclear> which erm you see</u>
+<u n="422" who="S0653" trans="overlap">there's what?</u>
+<u n="423" who="S0655"><unclear>kid info</unclear></u>
+<u n="424" who="S0654">there's a <unclear>kid info</unclear> where you see your kids when they were babies <vocal desc="laugh"/> and in it</u>
+<u n="425" who="S0655"><unclear/></u>
+<u n="426" who="S0654">there was one where erm like every single child's running towards <unclear/></u>
+<u n="427" who="S0653">the camera?</u>
+<u n="428" who="S0654"><vocal desc="laugh"/></u>
+<u n="429" who="S0655">yeah and going towards the camera like this</u>
+<u n="430" who="S0654"><vocal desc="laugh"/></u>
+<u n="431" who="S0655">no running towards the camera cos they can walk by then</u>
+<u n="432" who="S0654"><vocal desc="laugh"/></u>
+<u n="433" who="S0655">yeah it's like starting from a baby and then getting older to where they are</u>
+<u n="434" who="S0654" trans="overlap"><unclear/> <unclear>and so it was like and so it was like this no</unclear></u>
+<u n="435" who="S0655">and they were like this <vocal desc="gasp"/></u>
+<u n="436" who="S0653">I love it</u>
+<u n="437" who="S0654"><vocal desc="laugh"/> and erm</u>
+<u n="438" who="S0655" trans="overlap">yeah it's er very funny</u>
+<u n="439" who="S0654">erm <vocal desc="sigh"/> and when I went onto the love chart it was like er fights hopeless</u>
+<u n="440" who="S0653">five what?</u>
+<u n="441" who="S0654">it's they said it <trunc>w</trunc> fights and it's hopeless</u>
+<u n="442" who="S0653">okay</u>
+<u n="443" who="S0654">and and at the bottom it's like</u>
+<u n="444" who="S0655" trans="overlap">hey <anon type="name" nameType="f"/> check the house in Tomodachi Life</u>
+<u n="445" who="S0653">oh I don't have any cheese and I don't oh that's right I haven't got much of my bread so we're gonna have to</u>
+<u n="446" who="S0654" trans="overlap"><unclear>boogie</unclear> <vocal desc="laugh"/></u>
+<u n="447" who="S0653">pop to Morrisons I think at some point</u>
+<u n="448" who="S0655">use <anon type="name" nameType="f"/> as the cheese</u>
+<u n="449" who="S0654"><vocal desc="laugh"/></u>
+<u n="450" who="S0655"><unclear/></u>
+<u n="451" who="S0653">oh and we're gonna look in Morrisons for Katie Dale's new book cos apparently it's come out and if we do like a selfie with us spotting it then we can get entered into a competition</u>
+<u n="452" who="S0655">woah</u>
+<u n="453" who="S0653">to win loads of her of her exciting stuff so we will do that to support her won't we?</u>
+<u n="454" who="S0654">mm</u>
+<u n="455" who="S0653">she has got a book for us to have but I think it'd be good if we do that</u>
+<u n="456" who="S0655">let me take a selfie</u>
+<u n="457" who="S0654"><unclear/> so you get two</u>
+<u n="458" who="S0655">who is Katie Dale?</u>
+<u n="459" who="S0653">she is my friend who writes those fairy tale</u>
+<u n="460" who="S0654" trans="overlap">like Mumnesia?</u>
+<u n="461" who="S0653">stories yes and Mumnesia is the <trunc>st</trunc> is the book that hopefully should be in Morrisons so we'll look out for it cos I will she will give a copy she'll sign a copy for us but I'm not sure when I'm gonna see her so it'd be nice to get a copy as soon as possible really wouldn't it? so that we can read it</u>
+<u n="462" who="S0655">you should plant one of those stones</u>
+<u n="463" who="S0653" trans="overlap">and then when you see her you can question her about it sorry?</u>
+<u n="464" who="S0655">you should plant one of those stones</u>
+<u n="465" who="S0653">one of the avocado stones? yeah but I keep telling you it's they only grow in hot countries</u>
+<u n="466" who="S0654" trans="overlap">mum you should stone one of those</u>
+<u n="467" who="S0653">I have stoned it darling</u>
+<u n="468" who="S0655"><vocal desc="laugh"/> you should stone that</u>
+<u n="469" who="S0653">do you mean like stoning? like to whack someone with a stone?</u>
+<u n="470" who="S0654">no</u>
+<u n="471" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="472" who="S0654">yes yes <unclear/></u>
+<u n="473" who="S0653">so what you could do if you're sensible you must be sensible at my lesson on Friday</u>
+<u n="474" who="S0654">okay mum</u>
+<u n="475" who="S0653">you could read out some poems to my students</u>
+<u n="476" who="S0655">can we do highchair?</u>
+<u n="477" who="S0654"><vocal desc="laugh"/></u>
+<u n="478" who="S0653">well that's the one I was thinking but only if you</u>
+<u n="479" who="S0654"><vocal desc="laugh"/></u>
+<u n="480" who="S0653">can read it and giggle for a little bit and then get back to being composed and sensible</u>
+<u n="481" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="482" who="S0653">not just to be rolling around on the floor or anything</u>
+<u n="483" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="484" who="S0655"><unclear>no but</unclear></u>
+<u n="485" who="S0653">cos it is a primary school I mean you're only gonna be seeing grown-ups but</u>
+<u n="486" who="S0655">the thing the funniest thing <anon type="name" nameType="f"/> ever told me was Shimmer and Shine</u>
+<u n="487" who="S0654"><vocal desc="laugh"/></u>
+<u n="488" who="S0653">what's Shimmer and Shine?</u>
+<u n="489" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="490" who="S0653">why is that funny?</u>
+<u n="491" who="S0655"><unclear/></u>
+<u n="492" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="493" who="S0654">well</u>
+<u n="494" who="S0655"><vocal desc="laugh"/> <unclear/></u>
+<u n="495" who="S0654">erm it's about two genies and a girl</u>
+<u n="496" who="S0653">it's about what?</u>
+<u n="497" who="S0654">two genies and a girl and</u>
+<u n="498" who="S0655"><vocal desc="laugh"/></u>
+<u n="499" who="S0654">and a boy and the boy keeps coming back to her house <vocal desc="laugh"/> and in it erm they want to <unclear>keep</unclear> <unclear/></u>
+<u n="500" who="S0653" trans="overlap">hang on is this is this a story that you've read?</u>
+<u n="501" who="S0654" trans="overlap">no and in it</u>
+<u n="502" who="S0653" trans="overlap">what is it then?</u>
+<u n="503" who="UNKMULTI" whoConfidence="low">a TV programme</u>
+<u n="504" who="S0653">oh right</u>
+<u n="505" who="S0654">and er the the girl wants to make some cupcakes for a friend and she asks the genies</u>
+<u n="506" who="S0655"><vocal desc="laugh"/></u>
+<u n="507" who="S0654">and rubs her little lamp on her <unclear>necklace</unclear></u>
+<u n="508" who="S0653" trans="overlap">right</u>
+<u n="509" who="S0654">and then they come out and <vocal desc="laugh"/> erm they said cupcake but that's er a a really big cake on top of a cup and</u>
+<u n="510" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="511" who="S0654">and <vocal desc="laugh"/> <unclear>it's</unclear></u>
+<u n="512" who="S0653">that's cool</u>
+<u n="513" who="S0654"><vocal desc="laugh"/> and a giant strawberry on top and the boy kept <unclear/> popped in and said woah is that? that's a giant cup it's <vocal desc="laugh"/> that's a giant cup and that's a giant cake in a cup</u>
+<u n="514" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="515" who="S0655">yeah it happens it happens a lot</u>
+<u n="516" who="S0653">it what?</u>
+<u n="517" who="S0655">it happens it happens a lot</u>
+<u n="518" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="519" who="S0653">it happens a lot what?</u>
+<u n="520" who="S0655">this happens it happens a lot <vocal desc="laugh"/> he says that after he says that's a big cup</u>
+<u n="521" who="S0654"><vocal desc="laugh"/> no no no no no no and then erm <trunc>s</trunc></u>
+<u n="522" who="S0653" trans="overlap">good grief</u>
+<u n="523" who="S0654">and then erm there was a giant strawberry on top and the monkey</u>
+<u n="524" who="S0653" trans="overlap">hang on hang on hang on <vocal desc="misc"/></u>
+<u n="525" who="S0654">and there was a giant strawberry on top and the monkey wanted to go and get the strawberry</u>
+<u n="526" who="S0653" trans="overlap">what monkey? what monkey?</u>
+<u n="527" who="S0654"><vocal desc="laugh"/> that was Shimmer or Shine <trunc>t</trunc></u>
+<u n="528" who="S0653">when did the monkey appear in the story?</u>
+<u n="529" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="530" who="S0654">that was a monkey genie <vocal desc="laugh"/> and there was a <unclear/> <vocal desc="laugh"/></u>
+<u n="531" who="S0653" trans="overlap">oh of course there was</u>
+<u n="532" who="S0654">that's Shimmer and Shine's pets</u>
+<u n="533" who="S0653">well I don't know that do I? <unclear/></u>
+<u n="534" who="S0654" trans="overlap"><vocal desc="laugh"/> and then erm and <vocal desc="laugh"/></u>
+<u n="535" who="S0653" trans="overlap">oh gosh yes so it's like a giant cake in a cup?</u>
+<u n="536" who="S0655"><vocal desc="laugh"/></u>
+<u n="537" who="S0654">a giant no a giant cake on top of a cup</u>
+<u n="538" who="S0655"><vocal desc="laugh"/></u>
+<u n="539" who="S0653">but er is it a normal sized cup?</u>
+<u n="540" who="S0654">yes</u>
+<u n="541" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="542" who="S0653">so it looks is that is that it? is that all that's why it's funny?</u>
+<u n="543" who="S0654">no <vocal desc="laugh"/></u>
+<u n="544" who="S0653">cos there's a giant cake sitting in a cup?</u>
+<u n="545" who="S0654">no <vocal desc="laugh"/></u>
+<u n="546" who="S0655"><unclear/></u>
+<u n="547" who="S0654"><unclear/> a giant strawberry on top</u>
+<u n="548" who="S0655"><vocal desc="laugh"/></u>
+<u n="549" who="S0653">and the giant strawberry on top</u>
+<u n="550" who="S0654"><unclear/> <vocal desc="laugh"/> the giant strawberry <unclear/> monkey and <unclear>he climbs</unclear> on the cake to get the strawberry that's <unclear/> the monkey <vocal desc="laugh"/></u>
+<u n="551" who="S0653">hang on hang on so</u>
+<u n="552" who="S0654"><unclear/></u>
+<u n="553" who="S0653">hang on I can't hear what you're saying so the boy and monkey see the strawberry at the same time?</u>
+<u n="554" who="S0654"><vocal desc="laugh"/> no</u>
+<u n="555" who="S0653" trans="overlap">and the boy goes up</u>
+<u n="556" who="S0654">the boy climbs up because he sees the strawberry <vocal desc="laugh"/> the monkey</u>
+<u n="557" who="S0653" trans="overlap">I just said that</u>
+<u n="558" who="S0654">pops out</u>
+<u n="559" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="560" who="S0653">the monkey pops out from where? the cake?</u>
+<u n="561" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="562" who="S0654">the strawberry</u>
+<u n="563" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="564" who="S0653">oh good God</u>
+<u n="565" who="S0654">the strawberry they try to get the strawberry from each other and then the cake topples over</u>
+<u n="566" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="567" who="S0653">and then what?</u>
+<u n="568" who="S0654">the cake topples over <unclear/> <vocal desc="laugh"/></u>
+<u n="569" who="S0653" trans="overlap">right the cake the cake topples over and what? <vocal desc="laugh"/></u>
+<u n="570" who="S0654">they all fall into a massive cake</u>
+<u n="571" who="S0655"><vocal desc="laugh"/></u>
+<u n="572" who="S0653">they all run out of cake?</u>
+<u n="573" who="S0654"><vocal desc="laugh"/> no</u>
+<u n="574" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="575" who="S0653">they all what? <vocal desc="laugh"/></u>
+<u n="576" who="S0655">they all fall into a massive cake</u>
+<u n="577" who="S0654"><vocal desc="laugh"/> and then the boy says <vocal desc="laugh"/></u>
+<u n="578" who="S0653" trans="overlap">they all fall into a massive cake <unclear>well</unclear> where did the giant cake come from?</u>
+<u n="579" who="S0654">that was <unclear/> the cupcake</u>
+<u n="580" who="S0655" trans="overlap"><unclear/> the cup that was on the cup</u>
+<u n="581" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="582" who="S0653">but how big is the cake?</u>
+<u n="583" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="584" who="S0654">erm</u>
+<u n="585" who="S0655" trans="overlap">about about</u>
+<u n="586" who="S0654">as big as you</u>
+<u n="587" who="S0653">oh massive then?</u>
+<u n="588" who="S0654"><vocal desc="laugh"/> yeah</u>
+<u n="589" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="590" who="S0654">and then <vocal desc="laugh"/></u>
+<u n="591" who="S0653" trans="overlap">oh you're so funny the pair of you</u>
+<u n="592" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="593" who="S0653">what er? <vocal desc="laugh"/></u>
+<u n="594" who="S0654">and er this is a real programme</u>
+<u n="595" who="S0653">okay yeah <unclear>okay</unclear></u>
+<u n="596" who="S0655"><vocal desc="laugh"/></u>
+<u n="597" who="S0654">and then erm</u>
+<u n="598" who="S0655" trans="overlap">it's funny</u>
+<u n="599" who="S0654">they want to make er</u>
+<u n="600" who="S0655"><vocal desc="laugh"/></u>
+<u n="601" who="S0654">but I I <trunc>ha</trunc>I have to tell you all of the programme before I tell you that bit</u>
+<u n="602" who="S0653">oh good God</u>
+<u n="603" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="604" who="S0654">then like</u>
+<u n="605" who="S0653" trans="overlap">we'll be here for</u>
+<u n="606" who="S0654">they go into a lavatory and they start making lots of cakes but then er Shimmer acts</u>
+<u n="607" who="S0653" trans="overlap">in in the in a <trunc>la</trunc>in a lavatory?</u>
+<u n="608" who="S0655"><vocal desc="laugh"/></u>
+<u n="609" who="S0654" trans="overlap">no they're like mixing in the loft</u>
+<u n="610" who="S0653" trans="overlap">do you mean in a laboratory?</u>
+<u n="611" who="S0654">a loft they make it in a loft</u>
+<u n="612" who="S0653" trans="overlap">right</u>
+<u n="613" who="S0654">and they</u>
+<u n="614" who="S0655" trans="overlap">laboratory <vocal desc="laugh"/></u>
+<u n="615" who="S0654">and they get loads of er</u>
+<u n="616" who="S0655" trans="overlap">laboratory</u>
+<u n="617" who="S0654">they have cow <trunc>mil</trunc></u>
+<u n="618" who="S0653" trans="overlap">you know a <trunc>lav</trunc>a lavatory is a toilet?</u>
+<u n="619" who="S0654"><vocal desc="laugh"/> no</u>
+<u n="620" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="621" who="S0654">they get a chicken and a cow and some flowers</u>
+<u n="622" who="S0653">right</u>
+<u n="623" who="S0654">and then they <trunc>acciden</trunc></u>
+<u n="624" who="S0655" trans="overlap"><unclear/> a chicken a cow and some flowers</u>
+<u n="625" who="S0654">and then they accidentally and then they like go we don't need any we don't need flour to just make this and they like and they get eggs milk and flour but they speed it up</u>
+<u n="626" who="S0653" trans="overlap">right</u>
+<u n="627" who="S0654">so that until</u>
+<u n="628" who="S0653" trans="overlap"><trunc>j</trunc> it reminds me of Nuzzle and Scratch</u>
+<u n="629" who="S0654">there's er until there's a big overflow and then Shimmer and Shine have to hide because the boy is got erm</u>
+<u n="630" who="S0655" trans="overlap">a chainsaw <vocal desc="laugh"/></u>
+<u n="631" who="S0653">is coming out</u>
+<u n="632" who="S0653">can I just pause you there <unclear/> have you eaten enough breakfast?</u>
+<u n="633" who="S0655">yeah</u>
+<u n="634" who="S0654">no</u>
+<u n="635" who="S0655">yes</u>
+<u n="636" who="S0653">do you want a pancake?</u>
+<u n="637" who="S0655">yes</u>
+<u n="638" who="S0654">pancake?</u>
+<u n="639" who="S0655"><unclear/> yes</u>
+<u n="640" who="S0653">well can you carry on with your story</u>
+<u n="641" who="S0655"><vocal desc="laugh"/> okay</u>
+<u n="642" who="S0654">and then he like walks and then he walks out with a cart with some of the cake in</u>
+<u n="643" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="644" who="S0654">and then the genie is hiding and says</u>
+<u n="645" who="S0655"><vocal desc="laugh"/></u>
+<u n="646" who="S0654">what are you hiding? and he says nothing er and then he hears a moo he looks down and he says wow cows</u>
+<u n="647" who="S0655"><vocal desc="laugh"/></u>
+<u n="648" who="S0654"><unclear/> <vocal desc="laugh"/> <unclear/></u>
+<u n="649" who="S0655"><vocal desc="laugh"/></u>
+<u n="650" who="S0653" trans="overlap">hang on hang on er <unclear>there's a lot</unclear></u>
+<u n="651" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="652" who="S0654"><unclear/> <vocal desc="laugh"/></u>
+<u n="653" who="S0655"><unclear/> what did you say before that?</u>
+<u n="654" who="S0653">an overflow of what though?</u>
+<u n="655" who="S0654">of of cake</u>
+<u n="656" who="S0653">oh</u>
+<u n="657" who="S0654">it happens it happens a lot so and then he says oh <unclear/> the cake I'll be back taking I'll I'll just go <unclear/> can't wait for the</u>
+<u n="658" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="659" who="S0654">bake sale I'll just take this I'll take it <trunc>b</trunc> I'll bring it back soon and then</u>
+<u n="660" who="S0653">right</u>
+<u n="661" who="S0654">the door shuts</u>
+<u n="662" who="S0655"><vocal desc="laugh"/></u>
+<u n="663" who="S0654"><unclear/> she goes phew and then the door opens again</u>
+<u n="664" who="S0653">yes</u>
+<u n="665" who="S0655"><vocal desc="laugh"/></u>
+<u n="666" who="S0654">and he says the cup not the cake because that will be all gone</u>
+<u n="667" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="668" who="S0653">what?</u>
+<u n="669" who="S0654"><unclear/> and then er and they <unclear/></u>
+<u n="670" who="S0653" trans="overlap">oh my God I don't understand</u>
+<u n="671" who="S0654">and then they</u>
+<u n="672" who="S0655" trans="overlap">neither do I</u>
+<u n="673" who="S0654">find out what there is to do so they get a cup</u>
+<u n="674" who="S0653" trans="overlap">hang on</u>
+<u n="675" who="S0654">they scoop out the</u>
+<u n="676" who="S0653" trans="overlap">yeah eat</u>
+<u n="677" who="S0654">erm cake from the cake</u>
+<u n="678" who="S0653">have you seen this <anon type="name" nameType="m"/>?</u>
+<u n="679" who="S0654" trans="overlap">and then they put it in a cupcake case</u>
+<u n="680" who="S0653" trans="overlap">you haven't seen this film? programme?</u>
+<u n="681" who="S0654">and they make them cupcakes but then shall I tell you what erm the boy said before that? I thought</u>
+<u n="682" who="S0653" trans="overlap">but before who said what?</u>
+<u n="683" who="S0655"><unclear/></u>
+<u n="684" who="S0654">erm before all the boy said before all that</u>
+<u n="685" who="S0653" trans="overlap">right</u>
+<u n="686" who="S0654">wow I just felt like I <vocal desc="laugh"/> just felt like I just felt I was being I was being I was wrestling a monkey for a giant strawberry</u>
+<u n="687" who="S0655"><vocal desc="laugh"/></u>
+<u n="688" who="S0654"><unclear/></u>
+<u n="689" who="S0653">hang on a minute</u>
+<u n="690" who="S0654" trans="overlap">and then he sees</u>
+<u n="691" who="S0653" trans="overlap">I can't hear what you're saying hang on I thought I was resting a monkey?</u>
+<u n="692" who="S0654"><vocal desc="laugh"/></u>
+<u n="693" who="S0655"><trunc>ar</trunc>arresting</u>
+<u n="694" who="S0654" trans="overlap">I just thought I was wrestling</u>
+<u n="695" who="S0653" trans="overlap">arresting a monkey</u>
+<u n="696" who="S0654">wrestling a monkey</u>
+<u n="697" who="S0653" trans="overlap">oh <trunc>wres</trunc> for a giant strawberry?</u>
+<u n="698" who="S0654">yeah and then he just sees the giant strawberry and he goes it happens it happens a lot</u>
+<u n="699" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="700" who="S0653">and when <unclear>oh</unclear> my God <anon type="name" nameType="f"/> when did you see this programme?</u>
+<u n="701" who="S0654">when I was sick</u>
+<u n="702" who="S0653">when you were sick</u>
+<u n="703" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="704" who="S0653">the other day and what and so you have retold the the tale don't do that to erm <anon type="name" nameType="m"/> and that's why <anon type="name" nameType="m"/>'s laughing?</u>
+<u n="705" who="S0655" trans="overlap">she's only told it to she's only told it in little bits to me</u>
+<u n="706" who="S0653">but you've not seen it but you think it's hilarious?</u>
+<u n="707" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="708" who="S0653">how big is this strawberry?</u>
+<u n="709" who="S0655"><unclear>giant</unclear></u>
+<u n="710" who="S0654"><vocal desc="laugh"/> it's</u>
+<u n="711" who="S0653">as big as my head?</u>
+<u n="712" who="S0655">it's er</u>
+<u n="713" who="S0654"><vocal desc="laugh"/></u>
+<u n="714" who="S0653">okay</u>
+<u n="715" who="S0655">it's as big as <unclear/> <unclear>bum bum</unclear></u>
+<u n="716" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="717" who="S0653">sorry? it's what?</u>
+<u n="718" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="719" who="S0653">it's a what?</u>
+<u n="720" who="S0654"><unclear>bottom</unclear></u>
+<u n="721" who="S0655">it's bigger than your</u>
+<u n="722" who="S0653">bottom</u>
+<u n="723" who="UNKMULTI" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="724" who="S0653">oh my goodness me</u>
+<u n="725" who="S0655"><unclear/></u>
+<u n="726" who="S0653">what is the programme called?</u>
+<u n="727" who="S0654"><vocal desc="laugh"/> Shimmer and Shine Genies Devine</u>
+<u n="728" who="S0653" trans="overlap">Shimmer and Shine</u>
+<u n="729" who="S0654">it's Genies Devine</u>
+<u n="730" who="S0655">it's not on Netflix</u>
+<u n="731" who="S0653">Genies Devine</u>
+<u n="732" who="S0655"><unclear/></u>
+<u n="733" who="S0653">can you stop mucking around with your pancake and eat it don't put it in <unclear>her</unclear></u>
+<u n="734" who="S0655" trans="overlap">it's not erm it's not on Netflix</u>
+<u n="735" who="S0653">is it on television?</u>
+<u n="736" who="S0654">yeah</u>
+<u n="737" who="S0655">oh what is it on? Nickelodeon? or Cartoon Network?</u>
+<u n="738" who="S0654" trans="overlap">erm I think it</u>
+<u n="739" who="S0653">we'll have to try and find it though won't we?</u>
+<u n="740" who="S0654" whoConfidence="low"><unclear/></u>
+<u n="741" who="S0655" whoConfidence="low">ah</u>
+<u n="742" who="S0654" whoConfidence="low"><vocal desc="laugh"/></u>
+<u n="743" who="S0653">right hang on I'm stopping it there</u>
+	
+	</body>
+</text>

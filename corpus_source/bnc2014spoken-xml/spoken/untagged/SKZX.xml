@@ -1,0 +1,714 @@
+<text id="SKZX">
+	<header>
+		<rec_length>0:20:02</rec_length>
+		<rec_date>2015-10-10</rec_date>
+		<rec_year>2015</rec_year>
+		<rec_period>2015_Q4</rec_period>
+		<n_speakers>3</n_speakers>
+		<list_speakers>S0391 S0392 S0393</list_speakers>
+		<rec_loc>Car on way home</rec_loc>
+		<relationships>Close family, partners, very close friends</relationships>
+		<topics>music, purchases, nature, sleep, places, football, relatives, photograph, TV, arrangements, linguistics, urban planning, sociology.</topics>
+		<activity>Meeting friend</activity>
+		<conv_type>Discussing, explaining, Inquiring, requesting, anecdote telling, making arrangements, telling jokes</conv_type>
+		<conventions>Revised</conventions>
+		<in_sample>y</in_sample>
+		<transcriber>T10</transcriber>
+		<speakerInfo>
+			<speaker id="S0391">
+				<exactage>55</exactage>
+				<age1994>45_59</age1994>
+				<agerange>50_59</agerange>
+				<gender>F</gender>
+				<nat>British</nat>
+				<birthplace>Darlington</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>British</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>County Durham</dialect_rep>
+				<hab_city>Near Thirsk</hab_city>
+				<hab_country>England</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>northeast</dialect_l4>
+				<edqual>4_graduate</edqual>
+				<occupation>Teacher</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0392">
+				<exactage>15</exactage>
+				<age1994>15_24</age1994>
+				<agerange>11_18</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Newcastle-upon-time</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern/Yorkshire</dialect_rep>
+				<hab_city>Near Thirsk</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>yorkshire</dialect_l4>
+				<edqual>2_secondary</edqual>
+				<occupation>Full-time education</occupation>
+				<socgrade>E</socgrade>
+				<nssec>uncat</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+			<speaker id="S0393">
+				<exactage>47</exactage>
+				<age1994>45_59</age1994>
+				<agerange>40_49</agerange>
+				<gender>M</gender>
+				<nat>British</nat>
+				<birthplace>Kendal</birthplace>
+				<birthcountry>England</birthcountry>
+				<l1>English</l1>
+				<lingorig>UK</lingorig>
+				<dialect_rep>Northern/RP</dialect_rep>
+				<hab_city>Bagby near Thirsk</hab_city>
+				<hab_country>UK</hab_country>
+				<hab_dur>15 years</hab_dur>
+				<dialect_l1>uk</dialect_l1>
+				<dialect_l2>england</dialect_l2>
+				<dialect_l3>north</dialect_l3>
+				<dialect_l4>unspecified</dialect_l4>
+				<edqual>5_postgrad</edqual>
+				<occupation>Writer</occupation>
+				<socgrade>B</socgrade>
+				<nssec>2</nssec>
+				<l2></l2>
+				<fls></fls>
+				<in_core>y</in_core>
+			</speaker>
+		</speakerInfo>
+	</header>
+	<body>
+
+<u n="1" who="S0391">what did you tell <anon type="name" nameType="m"/> exactly?</u>
+<u n="2" who="S0393">I said I've bought a guitar</u>
+<u n="3" who="S0391">and he said? come on</u>
+<u n="4" who="S0393">er well <anon type="name" nameType="m"/> will you read it back? you've got the thing</u>
+<u n="5" who="S0392">he said</u>
+<u n="6" who="S0391"><vocal desc="laugh"/></u>
+<u n="7" who="S0392">he said cripes <pause dur="short"/> what</u>
+<u n="8" who="S0393">no he didn't</u>
+<u n="9" who="S0392"><trunc>n</trunc>no he did</u>
+<u n="10" who="S0391" trans="overlap">what did he say?</u>
+<u n="11" who="S0393">he said er</u>
+<u n="12" who="S0392" trans="overlap">I'll have a look let's have a look what did he say?</u>
+<u n="13" who="S0393" trans="overlap">he said that sounds interesting or something</u>
+<u n="14" who="S0392">right so I'll get his exact text</u>
+<u n="15" who="S0391" trans="overlap">did you tell him you were in <anon type="place"/></u>
+<u n="16" who="S0392">no he didn't</u>
+<u n="17" who="S0393">no</u>
+<u n="18" who="S0392"><unclear/> I'll find the exact text</u>
+<u n="19" who="S0391" trans="overlap">well is he not curious to know where you are?</u>
+<u n="20" who="S0392">howdy got a guitar today wow exclamation which one? Martin DX one AE one down from Ed Sheeran's <vocal desc="laugh"/></u>
+<u n="21" who="S0391"><vocal desc="laugh"/></u>
+<u n="22" who="S0392" trans="overlap"><trunc>cri</trunc>cripes that's a real pro spec instrument I wish you well to play it <anon type="name" nameType="m"/> looking forward to hearing it presently <anon type="name" nameType="m"/> PS very exciting</u>
+<u n="23" who="S0391"><vocal desc="laugh"/></u>
+<u n="24" who="S0392" trans="overlap">it's a beauty</u>
+<u n="25" who="S0391"><vocal desc="laugh"/> it did <anon type="name" nameType="m"/> hear it much?</u>
+<u n="26" who="S0393">yeah</u>
+<u n="27" who="S0391">what did he think?</u>
+<u n="28" who="S0393">I had to stop him from playing it</u>
+<u n="29" who="S0391"><vocal desc="laugh"/></u>
+<u n="30" who="S0393">cos I <trunc>t</trunc> my method was to as it's always been I've been looking for a while <pause dur="short"/> to try them and see what you think they sound like</u>
+<u n="31" who="S0391" trans="overlap">yeah</u>
+<u n="32" who="S0393">and play like</u>
+<u n="33" who="S0392">yeah</u>
+<u n="34" who="S0391">yeah</u>
+<u n="35" who="S0393" trans="overlap">yeah</u>
+<u n="36" who="S0392">I can't believe you haven't tried it plugged in <anon type="name" nameType="m"/></u>
+<u n="37" who="S0393">well I researched about that and it's really about the quality of the amp</u>
+<u n="38" who="S0392">oh right that's</u>
+<u n="39" who="S0391" trans="overlap">yeah that would depend</u>
+<u n="40" who="S0393" trans="overlap">like that shop</u>
+<u n="41" who="S0392">yeah they're rubbish <trunc>ar</trunc></u>
+<u n="42" who="S0391" trans="overlap">yeah</u>
+<u n="43" who="S0393" trans="overlap">they're not doing themselves any <trunc>fav</trunc></u>
+<u n="44" who="S0391">by using that amp</u>
+<u n="45" who="S0393" trans="overlap">but it's the same in <anon type="place"/></u>
+<u n="46" who="S0392" trans="overlap">yeah</u>
+<u n="47" who="S0391">yeah <trunc>r</trunc></u>
+<u n="48" who="S0392" trans="overlap">but there <trunc>i</trunc>it's not the <unclear/></u>
+<u n="49" who="S0393" trans="overlap">just thought it's a quiet shop I'm not rushed</u>
+<u n="50" who="S0391">yeah</u>
+<u n="51" who="S0393">in <anon type="place"/> they're so busy</u>
+<u n="52" who="S0391">yeah</u>
+<u n="53" who="S0393">there's there was an older bloke who's in a band he understands</u>
+<u n="54" who="S0391">oh right the the salesman?</u>
+<u n="55" who="S0393">yeah</u>
+<u n="56" who="S0391">oh that's good</u>
+<u n="57" who="S0392" trans="overlap"><vocal desc="yawn"/> oh</u>
+<u n="58" who="S0391" trans="overlap">I love the trees on the turn this time of the year do you?</u>
+<u n="59" who="S0393" trans="overlap">it's nice yeah so <anon type="name" nameType="m"/> I played the one below the next one in price for <anon type="name" nameType="m"/> and that's was clunky wasn't it?</u>
+<u n="60" who="S0392">yeah</u>
+<u n="61" who="S0393" trans="overlap">but Ivan S is a good make <pause dur="short"/> erm</u>
+<u n="62" who="S0392">yeah</u>
+<u n="63" who="S0393">and then I tried one just below that as well which I didn't <trunc>e</trunc> though well obviously though the Martin the Martin's got</u>
+<u n="64" who="S0391" trans="overlap">do you</u>
+<u n="65" who="S0393">a massive reputation</u>
+<u n="66" who="S0392">yeah definitely</u>
+<u n="67" who="S0391" trans="overlap">do you want it putting on the music insurance?</u>
+<u n="68" who="S0393">yeah <pause dur="short"/> that's why er</u>
+<u n="69" who="S0392">hang on with my Musicians' Union membership I might be able to get it cos you get insurance up to two thousand pound in mine</u>
+<u n="70" who="S0393">we'll have to look into it properly</u>
+<u n="71" who="S0391">yeah cos I might be paying over the odds cos I'm already paying on Allianz for <anon type="name" nameType="m"/>'s</u>
+<u n="72" who="S0392">ah yeah that's</u>
+<u n="73" who="S0393" trans="overlap">I think the music union covers the instrument doesn't it?</u>
+<u n="74" who="S0392">yeah but only to two grand so it'll be no good for my fiddle but we could put</u>
+<u n="75" who="S0393" trans="overlap">right</u>
+<u n="76" who="S0392">put the guitar in</u>
+<u n="77" who="S0391" trans="overlap">oh you could put the guitar on on erm</u>
+<u n="78" who="S0393">I might</u>
+<u n="79" who="S0391" trans="overlap">that one the</u>
+<u n="80" who="S0393" trans="overlap">what I might get see if that <trunc>pu</trunc> that <unclear>EDFS</unclear> public liability there's that as well</u>
+<u n="81" who="S0392">well as well we'll discuss that later cos I think that's wrong</u>
+<u n="82" who="S0393" trans="overlap">cos the problem is <anon type="name" nameType="m"/> if obviously if it's me and <anon type="name" nameType="m"/> that cause that is the problem you're covered but I don't think we are</u>
+<u n="83" who="S0392">well then you'll have to sort yourselves out won't you?</u>
+<u n="84" who="S0393">alright now that's why</u>
+<u n="85" who="S0392" trans="overlap">you know?</u>
+<u n="86" who="S0393">we'd need something else as well</u>
+<u n="87" who="S0392">oh right well we'll discuss that later we'll see who's right later yeah?</u>
+<u n="88" who="S0391">I would just get the guitar insured though</u>
+<u n="89" who="S0393">yeah <pause dur="short"/> so it's five seven nine it's already down</u>
+<u n="90" who="S0391" trans="overlap">you see I I can get you that for thirty pound a year</u>
+<u n="91" who="S0392">I can get it for nothing a year you see</u>
+<u n="92" who="S0391">oh in the with the Musicians'</u>
+<u n="93" who="S0392" trans="overlap">yeah</u>
+<u n="94" who="S0391" trans="overlap">Union?</u>
+<u n="95" who="S0393">can you turn the heater down a bit <anon type="name" nameType="f"/>? <pause dur="long"/></u>
+<u n="96" who="S0392">yeah it's I'm shattered I really am <pause dur="short"/> I woke up today and part of my with the body clock and everything woke up about twenty to eight <pause dur="short"/> it's horrible</u>
+<u n="97" who="S0391">well why don't you</u>
+<u n="98" who="S0393" trans="overlap">I <unclear/></u>
+<u n="99" who="S0391" trans="overlap">have an early night tonight?</u>
+<u n="100" who="S0392">I dunno well I'll see</u>
+<u n="101" who="S0391">yeah well she'd had two bad nights hadn't she? the one before the hospital visit and then one when she was in hospital <pause dur="short"/> but I thought she would sleep well last night</u>
+<u n="102" who="S0392">yeah <pause dur="short"/> <shift new="singing"/> <unclear/> <shift new="normal"/></u>
+<u n="103" who="S0393">there's a funny old cormorant flying around isn't it?</u>
+<u n="104" who="S0391">where?</u>
+<u n="105" who="S0393" whoConfidence="low">just over the river <anon type="place"/> there <pause dur="short"/> it hardly looks like a cormorant I wonder what else it might be</u>
+<u n="106" who="S0391">to the right?</u>
+<u n="107" who="S0393">oh you won't be able to see it <pause dur="long"/></u>
+<u n="108" who="S0392">so this is <anon type="place"/> <pause dur="short"/> here <anon type="name" nameType="m"/></u>
+<u n="109" who="S0393">yeah so</u>
+<u n="110" who="S0392">yeah</u>
+<u n="111" who="S0393">had you been to <anon type="place"/> before <anon type="name" nameType="f"/>?</u>
+<u n="112" who="S0391">before what?</u>
+<u n="113" who="S0393">when you went with <anon type="name" nameType="f"/></u>
+<u n="114" who="S0391"><anon type="place"/></u>
+<u n="115" who="S0392">had you?</u>
+<u n="116" who="S0391">I think er everyone's driven to it <trunc>f</trunc>from <anon type="place"/> even if they're going just going up to <anon type="place"/> or somewhere</u>
+<u n="117" who="S0392">do <anon type="place"/> folk go to <anon type="place"/>?</u>
+<u n="118" who="S0391">yeah</u>
+<u n="119" who="S0392">really?</u>
+<u n="120" who="S0391">uhu</u>
+<u n="121" who="S0393">where did <anon type="place"/> go to when they die?</u>
+<u n="122" who="S0391">what do you mean?</u>
+<u n="123" who="S0393">well you know like er Middlesbrough people probably got to like Thirsk?</u>
+<u n="124" who="S0391">what?</u>
+<u n="125" who="S0393">as an ultimate reward you know seems the best place</u>
+<u n="126" who="S0392">Tow Law if you've been bad</u>
+<u n="127" who="S0393">yeah Tow Law as well</u>
+<u n="128" who="S0392" trans="overlap">Palace Green</u>
+<u n="129" who="S0393">what would heaven be?</u>
+<u n="130" who="S0392" trans="overlap">Durham Durham</u>
+<u n="131" who="S0391" trans="overlap">Durham yeah</u>
+<u n="132" who="S0393" trans="overlap">Durham</u>
+<u n="133" who="S0391">Durham Palace Green the cathedral square yeah</u>
+<u n="134" who="S0392">where do Teessiders go <trunc>t</trunc> if they've been bad?</u>
+<u n="135" who="S0393">they stay in Teesside</u>
+<u n="136" who="S0391" trans="overlap">South Bank South Bank</u>
+<u n="137" who="S0392">oh their rival <pause dur="short"/> area</u>
+<u n="138" who="S0393">no it would probably be Surrey wouldn't it if you look at it properly</u>
+<u n="139" who="S0391"><vocal desc="laugh"/></u>
+<u n="140" who="S0392">yeah</u>
+<u n="141" who="S0391">yeah</u>
+<u n="142" who="S0392">then it's you move up to Darlington</u>
+<u n="143" who="S0393">is there a rivalry between Darlo folk and <unclear/>?</u>
+<u n="144" who="S0391">no</u>
+<u n="145" who="S0392">they're so geographically near but</u>
+<u n="146" who="S0391">if they've</u>
+<u n="147" who="S0392">removed</u>
+<u n="148" who="S0391">no people from Darlington go shopping in Middlesbrough they think it's just on their doorstep <pause dur="short"/> they wouldn't even see it as a <pause dur="short"/> a rival really</u>
+<u n="149" who="S0393">cos they all support Borough don't they?</u>
+<u n="150" who="S0391">well they <trunc>ha</trunc> they haven't really got anything else do you know what? there's not many football fans in Darlington <pause dur="short"/> believe it or not</u>
+<u n="151" who="S0392">really?</u>
+<u n="152" who="S0391">Darlington never ever drew a large crowd</u>
+<u n="153" who="S0393">no they <trunc>ha</trunc></u>
+<u n="154" who="S0392" trans="overlap">how many people did it draw?</u>
+<u n="155" who="S0393" trans="overlap">doesn't does</u>
+<u n="156" who="S0391">they reckon there's a solid core of two hundred</u>
+<u n="157" who="S0392">two hundred?</u>
+<u n="158" who="S0393">two thousand</u>
+<u n="159" who="S0391">no a solid core that like gave their weekends up to raise money to try and save</u>
+<u n="160" who="S0393">oh right</u>
+<u n="161" who="S0391" trans="overlap">the they the rest can take it or leave it</u>
+<u n="162" who="S0393">really?</u>
+<u n="163" who="S0391" trans="overlap">that's why that's why they disappeared</u>
+<u n="164" who="S0393" trans="overlap">that's a bit like Carlisle except the Carlisle ones</u>
+<u n="165" who="S0391">no Carlisle</u>
+<u n="166" who="S0393" trans="overlap">there's more glory</u>
+<u n="167" who="S0391" trans="overlap">have more</u>
+<u n="168" who="S0393" trans="overlap">if they do well</u>
+<u n="169" who="S0391">Carlisle have always had more</u>
+<u n="170" who="S0392">mm well actually</u>
+<u n="171" who="S0391" trans="overlap">like Darlington have never had</u>
+<u n="172" who="S0392" trans="overlap">well <trunc>actual</trunc> <unclear/> if they do well</u>
+<u n="173" who="S0393">yeah like if I had lived there I'd start going if they were doing well</u>
+<u n="174" who="S0392">like Middlesbrough have got a lot of them like they have about fourteen thousand do a solid people who go even when they're not doing so well and then about</u>
+<u n="175" who="S0393">yeah</u>
+<u n="176" who="S0392">ten thousand</u>
+<u n="177" who="S0391" trans="overlap">yeah ten more</u>
+<u n="178" who="S0392" trans="overlap">further</u>
+<u n="179" who="S0391">yeah</u>
+<u n="180" who="S0393" trans="overlap">soon see that drop off if they were in league division two</u>
+<u n="181" who="S0391">yeah they would drop off</u>
+<u n="182" who="S0393" trans="overlap">they'd go down to three or four I reckon</u>
+<u n="183" who="S0391">no I think</u>
+<u n="184" who="S0392" trans="overlap">yeah</u>
+<u n="185" who="S0391">they they've got they have always</u>
+<u n="186" who="S0393" trans="overlap">or five</u>
+<u n="187" who="S0391">had more Middlesbrough have always had more</u>
+<u n="188" who="S0393" trans="overlap">they went down to five six thousand when in the eighties</u>
+<u n="189" who="S0391">did they?</u>
+<u n="190" who="S0393">when football attendances were low Man U were</u>
+<u n="191" who="S0392" trans="overlap">yeah</u>
+<u n="192" who="S0393">getting</u>
+<u n="193" who="S0391" trans="overlap">really?</u>
+<u n="194" who="S0393" trans="overlap">thirty-five thousand</u>
+<u n="195" who="S0392" trans="overlap">hooliganism and everything yeah</u>
+<u n="196" who="S0393">yeah</u>
+<u n="197" who="S0391" trans="overlap">yeah but what about nineteen what's on their badge? nineteen eighty-six or something</u>
+<u n="198" who="S0393">yeah well that's probably when they</u>
+<u n="199" who="S0392" trans="overlap">that's when Steve Gibson bought them yeah</u>
+<u n="200" who="S0391">oh is that when they were starting to rise</u>
+<u n="201" who="S0392" trans="overlap">when were football crowds at their biggest then? seventies or what?</u>
+<u n="202" who="S0393">now</u>
+<u n="203" who="S0392">really? now?</u>
+<u n="204" who="S0393">yeah now</u>
+<u n="205" who="S0392">even though it's seated?</u>
+<u n="206" who="S0391" trans="overlap">but but a lot of</u>
+<u n="207" who="S0393" trans="overlap">yeah</u>
+<u n="208" who="S0391">people today are are they're wearing er protest T-shirts and holding placards against ticket prices</u>
+<u n="209" who="S0393">yeah they will be yeah</u>
+<u n="210" who="S0392">yeah cos in</u>
+<u n="211" who="S0391" trans="overlap">I think it's</u>
+<u n="212" who="S0392" trans="overlap">Spain and Germany they're so cheap aren't they?</u>
+<u n="213" who="S0391" trans="overlap">I think it's this Saturday they're doing it</u>
+<u n="214" who="S0392">that's why Spain and Germany</u>
+<u n="215" who="S0391" trans="overlap">it's every</u>
+<u n="216" who="S0392" trans="overlap">get such big crowds cos the prices are so</u>
+<u n="217" who="S0391">there's</u>
+<u n="218" who="S0392" trans="overlap">small</u>
+<u n="219" who="S0391" trans="overlap">more money in the grassroots stuff as well the the erm all of the Premiership and <unclear>ten</unclear> of the Championship are protesting today</u>
+<u n="220" who="S0392">you couldn't really get more money in English grassroots mummy</u>
+<u n="221" who="S0391">evidently it's poor</u>
+<u n="222" who="S0392">everyone plays <trunc>foot</trunc> there's not one person who's never played football</u>
+<u n="223" who="S0391">most of no but most of our kids have to pay to play whereas if you were in Germany <anon type="name" nameType="f"/> will tell you the there are just loads of teams everywhere</u>
+<u n="224" who="S0393" trans="overlap">I don't I don't tend to</u>
+<u n="225" who="S0391" trans="overlap">and you can just</u>
+<u n="226" who="S0393" trans="overlap">believe Germans any more</u>
+<u n="227" who="S0391" trans="overlap">you can just turn up</u>
+<u n="228" who="S0392"><vocal desc="laugh"/></u>
+<u n="229" who="S0393">I don't believe Germans any more</u>
+<u n="230" who="S0391"><vocal desc="laugh"/></u>
+<u n="231" who="S0392">what happened?</u>
+<u n="232" who="S0391">well that's what she told me</u>
+<u n="233" who="S0393">Volkswagen</u>
+<u n="234" who="S0391"><vocal desc="laugh"/></u>
+<u n="235" who="S0392">oh yeah</u>
+<u n="236" who="S0391"><vocal desc="laugh"/> I don't think <vocal desc="laugh"/> I don't think er that's <pause dur="short"/> what would have anything to do with what <anon type="name" nameType="f"/> was telling us</u>
+<u n="237" who="S0393" trans="overlap"><anon type="name" nameType="m"/> seems to be dining out on it</u>
+<u n="238" who="S0391">oh have you chatted to him?</u>
+<u n="239" who="S0393">he wasn't surprised</u>
+<u n="240" who="S0391">when did you talk about it?</u>
+<u n="241" who="S0393">last Sunday</u>
+<u n="242" who="S0391">oh <vocal desc="laugh"/> <pause dur="long"/></u>
+<u n="243" who="S0392">yeah</u>
+<u n="244" who="S0391"><vocal desc="laugh"/> <pause dur="long"/> I bet <anon type="name" nameType="f"/>'s tired when they collect her after <pause dur="short"/> a night's sponsored sleep</u>
+<u n="245" who="S0392">sponsored sleep at night?</u>
+<u n="246" who="S0391" trans="overlap">sponsored well</u>
+<u n="247" who="S0392" trans="overlap">that's not on you can't</u>
+<u n="248" who="S0391" trans="overlap">no</u>
+<u n="249" who="S0392">sponsor someone to sleep on a night</u>
+<u n="250" who="S0391" trans="overlap"><trunc>spon</trunc>sponsored</u>
+<u n="251" who="S0393" trans="overlap">a sleepover</u>
+<u n="252" who="S0391" trans="overlap">not going to bed</u>
+<u n="253" who="S0392">oh</u>
+<u n="254" who="S0391" trans="overlap"><trunc>slee</trunc>sleep on the school hall for a homeless charity</u>
+<u n="255" who="S0392" trans="overlap">on oh I er oh right</u>
+<u n="256" who="S0391">and it's in sleeping bags</u>
+<u n="257" who="S0392" trans="overlap">I was just I'm going to sleep tonight</u>
+<u n="258" who="S0391"><vocal desc="laugh"/></u>
+<u n="259" who="S0392">will you sponsor me?</u>
+<u n="260" who="S0393"><vocal desc="laugh"/></u>
+<u n="261" who="S0391">a sponsored group sleep on the school floor</u>
+<u n="262" who="S0392">oh no I couldn't stand that yeah</u>
+<u n="263" who="S0391">I know <pause dur="short"/> and then go to a friend's house for the day</u>
+<u n="264" who="S0392">that's not a sponsor either</u>
+<u n="265" who="S0391">I think by the time she'll get they'll she gets back tonight she'll be shattered <pause dur="long"/></u>
+<u n="266" who="S0392">yeah</u>
+<u n="267" who="S0393" trans="overlap">the sale the guy who was the selling the guitar said they get better with age</u>
+<u n="268" who="S0391">oh</u>
+<u n="269" who="S0392">oh yeah?</u>
+<u n="270" who="S0393" trans="overlap">and I was like I don't know whether I could believe that</u>
+<u n="271" who="S0392">no I was gonna say</u>
+<u n="272" who="S0391" trans="overlap">well violins do must be something to do with the wood</u>
+<u n="273" who="S0392" trans="overlap">some of them do</u>
+<u n="274" who="S0393" trans="overlap">yeah but this is still a budget guitar</u>
+<u n="275" who="S0392">yeah</u>
+<u n="276" who="S0393">top end of the budgets <pause dur="long"/></u>
+<u n="277" who="S0392"><vocal desc="sneeze"/> serious amateurs or serious novice sort of thing yeah</u>
+<u n="278" who="S0393">no no</u>
+<u n="279" who="S0391" trans="overlap">bless you</u>
+<u n="280" who="S0393">semi <trunc>prof</trunc> pros</u>
+<u n="281" who="S0392">yeah serious people <pause dur="long"/></u>
+<u n="282" who="S0391">were you having erm a try of a few different models?</u>
+<u n="283" who="S0393">yeah</u>
+<u n="284" who="S0391">were you tempted by any other?</u>
+<u n="285" who="S0393">no <pause dur="short"/> but I haven't</u>
+<u n="286" who="S0391" trans="overlap">did that one just stand out?</u>
+<u n="287" who="S0393">yeah it was the first time I've played one and I've played a lot of the other stuff around that price</u>
+<u n="288" who="S0391">yeah you have</u>
+<u n="289" who="S0393" trans="overlap"><unclear/></u>
+<u n="290" who="S0391">where do you plug it in? at the bottom end or the top?</u>
+<u n="291" who="S0393">I don't know I didn't look</u>
+<u n="292" who="S0391">is that not crucial?</u>
+<u n="293" who="S0392">no</u>
+<u n="294" who="S0393">it doesn't really matter</u>
+<u n="295" who="S0391">I thought</u>
+<u n="296" who="S0392" trans="overlap">like whether <trunc>s</trunc> you eh record through the mixer now then you mix that recording</u>
+<u n="297" who="S0393">yeah I know that's what I thought</u>
+<u n="298" who="S0391">so you don't know where you put the erm the lead?</u>
+<u n="299" who="S0393" trans="overlap">yeah I have</u>
+<u n="300" who="S0392" trans="overlap">it'll be somewhere</u>
+<u n="301" who="S0393" trans="overlap">I I've plugged it in there I did it</u>
+<u n="302" who="S0391" trans="overlap">I just wondered whether it came out of the bottom end or</u>
+<u n="303" who="S0393" trans="overlap">I think it does yeah</u>
+<u n="304" who="S0391">how did you start that was easier</u>
+<u n="305" who="S0392" trans="overlap">the controls will be</u>
+<u n="306" who="S0391" trans="overlap">yeah</u>
+<u n="307" who="S0392">the controls will be by your left sort of out shoulder will they?</u>
+<u n="308" who="S0393">yeah</u>
+<u n="309" who="S0392">but you can change the volume if you <unclear/></u>
+<u n="310" who="S0393" trans="overlap">oh no you can get to it there's two buttons</u>
+<u n="311" who="S0392">is there not a control pad?</u>
+<u n="312" who="S0393">there's two</u>
+<u n="313" who="S0392">oh what kind of pickup is it?</u>
+<u n="314" who="S0393">fish something</u>
+<u n="315" who="S0392">Fishman? yeah they're</u>
+<u n="316" who="S0393" trans="overlap">yeah</u>
+<u n="317" who="S0392">the best ones</u>
+<u n="318" who="S0393">yeah</u>
+<u n="319" who="S0391">are they?</u>
+<u n="320" who="S0392">yeah</u>
+<u n="321" who="S0393">yeah I</u>
+<u n="322" who="S0391" trans="overlap">had</u>
+<u n="323" who="S0393">researched it all</u>
+<u n="324" who="S0391">had <anon type="name" nameType="n"/> played that make before?</u>
+<u n="325" who="S0392">no Martin</u>
+<u n="326" who="S0393" trans="overlap">and he he says you won't get a better guitar</u>
+<u n="327" who="S0392">yeah I'd say</u>
+<u n="328" who="S0393" trans="overlap">but</u>
+<u n="329" who="S0392" trans="overlap">seventy percent of professional guitarists use Martins</u>
+<u n="330" who="S0391" trans="overlap">cos he played for a lot of years</u>
+<u n="331" who="S0393" trans="overlap">he he said if you got <pause dur="short"/> if you spent less you just get rubbish he says</u>
+<u n="332" who="S0391" trans="overlap">well he'll know because he's been in a lot of bands</u>
+<u n="333" who="S0393" trans="overlap">he says you can spend a lot more</u>
+<u n="334" who="S0391">and managed bands hasn't he?</u>
+<u n="335" who="S0393">and just get the same and he said er the only other thing for me to do is do what he did go round a lot of second hands</u>
+<u n="336" who="S0391">oh right</u>
+<u n="337" who="S0393" trans="overlap">cos he got a twelve string for four hundred</u>
+<u n="338" who="S0391">second hand?</u>
+<u n="339" who="S0393">yeah which I might borrow if we record</u>
+<u n="340" who="S0392">no it's</u>
+<u n="341" who="S0393">yeah just take just to differentiate the texture</u>
+<u n="342" who="S0392">oh cos when you start getting really er that's what ruined it last time</u>
+<u n="343" who="S0393">what?</u>
+<u n="344" who="S0392">you just wanted to <unclear>well</unclear> everything and everything and everything and everything</u>
+<u n="345" who="S0393">I wanted to what?</u>
+<u n="346" who="S0392">had everything and everything</u>
+<u n="347" who="S0393" trans="overlap">no no I just</u>
+<u n="348" who="S0392">you'd have the the saucepans <vocal desc="laugh"/> out</u>
+<u n="349" who="S0391"><vocal desc="laugh"/></u>
+<u n="350" who="S0393">her last guitar was er</u>
+<u n="351" who="S0391"><vocal desc="laugh"/></u>
+<u n="352" who="S0393">er</u>
+<u n="353" who="S0391" trans="overlap">the saucepans <vocal desc="laugh"/> and spoons</u>
+<u n="354" who="S0392"><vocal desc="laugh"/></u>
+<u n="355" who="S0392">I've come up with something on the fork <pause dur="short"/> can I add it to to <unclear/>? <vocal desc="laugh"/></u>
+<u n="356" who="S0391">a fork <vocal desc="laugh"/></u>
+<u n="357" who="S0393">yeah <trunc>w</trunc>well I think we'll be a</u>
+<u n="358" who="S0392" trans="overlap">well when are we going to do my <unclear/> track?</u>
+<u n="359" who="S0393" trans="overlap">I think we'll record over Christmas how about that?</u>
+<u n="360" who="S0392">well we can probably start tonight if you've got the mixer or something</u>
+<u n="361" who="S0393">cos we're just quite good now as a band we're much better than we were</u>
+<u n="362" who="S0392">yeah</u>
+<u n="363" who="S0393">I mean you always were but me and <anon type="name" nameType="m"/> I mean</u>
+<u n="364" who="S0392">yeah <pause dur="short"/> no I think you're right there</u>
+<u n="365" who="S0393">in fact we casually played <unclear/> as a warmup and I've got it on my camera and it's really good</u>
+<u n="366" who="S0392"><vocal desc="laugh"/></u>
+<u n="367" who="S0391"><vocal desc="laugh"/></u>
+<u n="368" who="S0392" whoConfidence="low">which camera?</u>
+<u n="369" who="S0392"><vocal desc="laugh"/></u>
+<u n="370" who="S0393">and I will have a camera holder for my thing so if you could</u>
+<u n="371" who="S0391" trans="overlap">what?</u>
+<u n="372" who="S0393" trans="overlap">get me that one from Amazonshire</u>
+<u n="373" who="S0392"><vocal desc="laugh"/></u>
+<u n="374" who="S0391">what?</u>
+<u n="375" who="S0393">well I've decided my camera's really good for taking pictures</u>
+<u n="376" who="S0391">like a so you want it stationery?</u>
+<u n="377" who="S0393" trans="overlap">no my phone camera</u>
+<u n="378" who="S0392">a tripod</u>
+<u n="379" who="S0393">just my phone</u>
+<u n="380" who="S0391">like a mini tripod?</u>
+<u n="381" who="S0393">no</u>
+<u n="382" who="S0392">here have a look at this one <anon type="name" nameType="m"/></u>
+<u n="383" who="S0393">no I just want a case</u>
+<u n="384" who="S0392" trans="overlap">like that</u>
+<u n="385" who="S0393">no a case</u>
+<u n="386" who="S0391">oh a case</u>
+<u n="387" who="S0393">a case</u>
+<u n="388" who="S0392">well you've got one haven't you?</u>
+<u n="389" who="S0391">just go on Amazon and get one</u>
+<u n="390" who="S0393" trans="overlap">no you do it I can't do it</u>
+<u n="391" who="S0391">no I I had it in the basket and you said no</u>
+<u n="392" who="S0393" trans="overlap">no</u>
+<u n="393" who="S0391">you've missed your chance</u>
+<u n="394" who="S0393">you never did</u>
+<u n="395" who="S0391" trans="overlap">tell him I did</u>
+<u n="396" who="S0392">yeah she did</u>
+<u n="397" who="S0391">I did</u>
+<u n="398" who="S0392">it was twelve ninety-nine I can remember it</u>
+<u n="399" who="S0391">I can remember it</u>
+<u n="400" who="S0392">my camera's the best one</u>
+<u n="401" who="S0393" trans="overlap">I might take it back to <anon type="name" nameType="n"/> or whoever it was who <trunc>s</trunc>sold it to me</u>
+<u n="402" who="S0392"><vocal desc="laugh"/> my camera's the</u>
+<u n="403" who="S0391"><vocal desc="laugh"/></u>
+<u n="404" who="S0392">my camera's the best one for taking pictures <pause dur="short"/> have you seen the picture of that orchid and the the videos of chemistry? the quality's brilliant</u>
+<u n="405" who="S0391">did you put it <trunc>s</trunc></u>
+<u n="406" who="S0392" trans="overlap">oh well obviously I believe in <anon type="place"/> you'll be filming with a cos camcorder</u>
+<u n="407" who="S0391">oh heck</u>
+<u n="408" who="S0393" trans="overlap">I don't want to</u>
+<u n="409" who="S0392">why not? it's brilliant</u>
+<u n="410" who="S0391">it actually if you just set it up on a little tripod and have it in the front row I don't mind</u>
+<u n="411" who="S0392">yeah it's easy for you</u>
+<u n="412" who="S0391">I've never used that before though</u>
+<u n="413" who="S0393" trans="overlap">got quite a good programme</u>
+<u n="414" who="S0391">I'm used to the Ipad</u>
+<u n="415" who="S0392">you've held the camcorder before do you remember when we were buying it about five years ago? six years ago it's the same principle</u>
+<u n="416" who="S0391">I'll have a little lesson the day before</u>
+<u n="417" who="S0392">yeah</u>
+<u n="418" who="S0391">a private oh</u>
+<u n="419" who="S0392"><trunc>y</trunc> there's no doubt it'll be making noises do you remember at the er two years ago at the concern?</u>
+<u n="420" who="S0391">yeah <vocal desc="laugh"/></u>
+<u n="421" who="S0392" trans="overlap">and you pressed Siri and it said Siri not available connect to the internet</u>
+<u n="422" who="S0391">yeah <vocal desc="laugh"/></u>
+<u n="423" who="S0392">Siri not available</u>
+<u n="424" who="S0391">oh there was something funny</u>
+<u n="425" who="S0392" trans="overlap">hello</u>
+<u n="426" who="S0391">on Gogglebox what was it? someone was talking to Siri what was it?</u>
+<u n="427" who="S0392">were they? I can't remember</u>
+<u n="428" who="S0391" trans="overlap">oh I watched that <unclear/> we <trunc>w</trunc> all laughed what was it?</u>
+<u n="429" who="S0392" trans="overlap">oh I told <anon type="name" nameType="f"/> that today</u>
+<u n="430" who="S0391">what was she saying?</u>
+<u n="431" who="S0392">no that was quite funny <unclear/></u>
+<u n="432" who="S0393" trans="overlap">she don't call it <anon type="place"/> she's from <anon type="place"/></u>
+<u n="433" who="S0391">well it just comes up under under her name as <anon type="place"/> that's why it's</u>
+<u n="434" who="S0392">yeah what did she say?</u>
+<u n="435" who="S0391">oh she said something funny</u>
+<u n="436" who="S0392">she was crying at that</u>
+<u n="437" who="S0393" trans="overlap">if</u>
+<u n="438" who="S0391" trans="overlap">that oh about the shifts cos we wondered where</u>
+<u n="439" who="S0392" trans="overlap">oh yeah yeah</u>
+<u n="440" who="S0391" trans="overlap">she worked what was it?</u>
+<u n="441" who="S0392">no no she</u>
+<u n="442" who="S0391">oh that</u>
+<u n="443" who="S0392" trans="overlap">that's it the with the athletes</u>
+<u n="444" who="S0391" trans="overlap">the that the programme</u>
+<u n="445" who="S0392" trans="overlap">yeah</u>
+<u n="446" who="S0391">there's a new programme where you watch famous athletes do I don't know stamina competitions and speed competitions but one of the stupid challenges was just stand on one leg on a podium in a lake or in a pool</u>
+<u n="447" who="S0392">see I've <unclear/></u>
+<u n="448" who="S0391" trans="overlap">what did she say?</u>
+<u n="449" who="S0392">erm the</u>
+<u n="450" who="S0391" trans="overlap">well I'd <trunc>a</trunc></u>
+<u n="451" who="S0392" trans="overlap">come</u>
+<u n="452" who="S0391">I'd admire them more if they just</u>
+<u n="453" who="S0392" trans="overlap">come back to me when you've worked a nine-hour shift</u>
+<u n="454" who="S0391" trans="overlap">she's yeah <trunc>s</trunc> I would admire them more if they were standing on two legs doing a nine-hour shift</u>
+<u n="455" who="S0392">come back to me then and I'll be impressed</u>
+<u n="456" who="S0391" trans="overlap">then come back to me then I'll be impressed that standing on one leg for a few minutes <vocal desc="laugh"/> I thought she had a point didn't she?</u>
+<u n="457" who="S0392">he's gone silent</u>
+<u n="458" who="S0391">I know</u>
+<u n="459" who="S0393" trans="overlap">yeah yeah I know she's got a point yeah</u>
+<u n="460" who="S0392">well</u>
+<u n="461" who="S0393">yeah I'm just trying to remember what we're <unclear/> gone to <anon type="place"/></u>
+<u n="462" who="S0391">now?</u>
+<u n="463" who="S0393">yeah</u>
+<u n="464" who="S0391" trans="overlap">today?</u>
+<u n="465" who="S0393">he's got a ticket where you can go round certain</u>
+<u n="466" who="S0391">a ticket?</u>
+<u n="467" who="S0393">he's gonna come to <anon type="place"/> I a fortnight you know when I'm there</u>
+<u n="468" who="S0391">it's what's a ticket?</u>
+<u n="469" who="S0393">a train ticket</u>
+<u n="470" who="S0391">oh <pause dur="short"/> I thought I was coming that week</u>
+<u n="471" who="S0393">alright three weeks I'll be then</u>
+<u n="472" who="S0391">what erm</u>
+<u n="473" who="S0392"><vocal desc="laugh"/></u>
+<u n="474" who="S0391">what did he do in <anon type="place"/> how did he do?</u>
+<u n="475" who="S0393">well he was going off to do a bit more I think he got his</u>
+<u n="476" who="S0391">he'd got his</u>
+<u n="477" who="S0393" trans="overlap">train fare</u>
+<u n="478" who="S0391" trans="overlap">rail fare covered</u>
+<u n="479" who="S0393" trans="overlap">that was all</u>
+<u n="480" who="S0391">yeah</u>
+<u n="481" who="S0393">we had er it was nice actually we went to the market</u>
+<u n="482" who="S0391">indoor market?</u>
+<u n="483" who="S0393" trans="overlap">that café outside it's called the <anon type="place"/></u>
+<u n="484" who="S0391">oh yes that that was the first Italian café</u>
+<u n="485" who="S0391" trans="overlap">yeah it's gone downhill slightly</u>
+<u n="486" who="S0391">er it's dreadful</u>
+<u n="487" who="S0393">yeah</u>
+<u n="488" who="S0391">yeah</u>
+<u n="489" who="S0393" trans="overlap">yeah well</u>
+<u n="490" who="S0391" trans="overlap">why did you go there?</u>
+<u n="491" who="S0393">he wanted to it was cheap and the latte wasn't that bad</u>
+<u n="492" who="S0391">oh right</u>
+<u n="493" who="S0392"><vocal desc="laugh"/></u>
+<u n="494" who="S0393">so</u>
+<u n="495" who="S0391">they they they were the first</u>
+<u n="496" who="S0393" trans="overlap">and it's like how many sugars in that?</u>
+<u n="497" who="S0391">they were the first cappuccinos in <anon type="place"/></u>
+<u n="498" who="S0393" trans="overlap">yeah I know it used to be a</u>
+<u n="499" who="S0391" trans="overlap">they had people used to</u>
+<u n="500" who="S0393" trans="overlap">proper place</u>
+<u n="501" who="S0391">yeah</u>
+<u n="502" who="S0393">and then</u>
+<u n="503" who="S0391" trans="overlap">but that was years ago <anon type="name" nameType="m"/></u>
+<u n="504" who="S0393" trans="overlap">I don't know there was a great conversation when she brought my latte we were sitting outside <pause dur="short"/> and this old lady said why is his different from mine? mine's a <trunc>c</trunc> he says yours is a cappuccino</u>
+<u n="505" who="S0391"><vocal desc="laugh"/></u>
+<u n="506" who="S0393">oh well what's he got then? his is a latte</u>
+<u n="507" who="S0391"><vocal desc="laugh"/></u>
+<u n="508" who="S0393">a latte well it looks <trunc>ni</trunc> oh that sort of thing</u>
+<u n="509" who="S0391"><vocal desc="laugh"/></u>
+<u n="510" who="S0393" trans="overlap">well I was gonna ask you about the accents I asked someone where to go and she said you wanna go up <anon type="place"/></u>
+<u n="511" who="S0392">that's <anon type="place"/> that</u>
+<u n="512" who="S0393">do <anon type="place"/> folks say <anon type="place"/>?</u>
+<u n="513" who="S0391"><anon type="place"/> <anon type="place"/></u>
+<u n="514" who="S0393" trans="overlap"><anon type="place"/></u>
+<u n="515" who="S0391"><anon type="place"/> they might do</u>
+<u n="516" who="S0393">ah</u>
+<u n="517" who="S0391" trans="overlap"><unclear/> <anon type="place"/></u>
+<u n="518" who="S0393" trans="overlap">you're on the edge of a</u>
+<u n="519" who="S0391">did you ask for <trunc>s</trunc></u>
+<u n="520" who="S0393" trans="overlap"><unclear/></u>
+<u n="521" who="S0391">oh no <anon type="place"/> is down at the bottom near the library</u>
+<u n="522" who="S0393" trans="overlap">she said <anon type="place"/></u>
+<u n="523" who="S0391" trans="overlap">what were you asking for?</u>
+<u n="524" who="S0392" trans="overlap">that's <anon type="place"/> <anon type="place"/> though isn't it?</u>
+<u n="525" who="S0393">I can't remember</u>
+<u n="526" who="S0391">did you go up there?</u>
+<u n="527" who="S0393">what was I</u>
+<u n="528" who="S0391">towards the Co-op bank?</u>
+<u n="529" who="S0393">no I was coming back down she said go to <anon type="place"/> somebody was in <anon type="place"/> I could get to it by <anon type="place"/> oh that's it <pause dur="short"/> er Waterstones</u>
+<u n="530" who="S0392">oh yeah</u>
+<u n="531" who="S0393">so you don't know whether people say <anon type="place"/>? you wouldn't say that</u>
+<u n="532" who="S0391">I'd say it's <anon type="place"/> it well it depends which part of <anon type="place"/> they were from</u>
+<u n="533" who="S0392">oh</u>
+<u n="534" who="S0393" trans="overlap">what would <anon type="name" nameType="n"/> say?</u>
+<u n="535" who="S0391" trans="overlap">the west er the west end wouldn't say that</u>
+<u n="536" who="S0393">no I don't think they do say she must have been from Middlesbrough</u>
+<u n="537" who="S0392">Middlesbrough</u>
+<u n="538" who="S0391">there's a lot of those <anon type="place"/>s because it's a Quaker feature</u>
+<u n="539" who="S0393">yeah</u>
+<u n="540" who="S0391">narrow gullies or <unclear/></u>
+<u n="541" who="S0393" trans="overlap">they're nice</u>
+<u n="542" who="S0391">with</u>
+<u n="543" who="S0393">yeah</u>
+<u n="544" who="S0391">they join two big</u>
+<u n="545" who="S0393">well</u>
+<u n="546" who="S0391">perpendicular</u>
+<u n="547" who="S0393" trans="overlap">we sat outside</u>
+<u n="548" who="S0391">roads</u>
+<u n="549" who="S0393">the market on that outside café</u>
+<u n="550" who="S0391">mm</u>
+<u n="551" who="S0393">and I said do you know <pause dur="short"/> that square there if the town plans to do it cos it could be as nice as anywhere in the country</u>
+<u n="552" who="S0391">I think if they did it yeah</u>
+<u n="553" who="S0393" trans="overlap">you know like a little</u>
+<u n="554" who="S0391" trans="overlap">if they</u>
+<u n="555" who="S0393">urban orchard?</u>
+<u n="556" who="S0391">yeah</u>
+<u n="557" who="S0393">a few tables</u>
+<u n="558" who="S0391" trans="overlap">be very yeah</u>
+<u n="559" who="S0393">and it was quiet</u>
+<u n="560" who="S0391" trans="overlap"><trunc>di</trunc> does he realise there are more pubs per square metre because it's a Quaker town? so like where <anon type="name" nameType="f"/> lives you just don't get a pub for miles</u>
+<u n="561" who="S0393">yeah</u>
+<u n="562" who="S0391">does he realise that's why they're all in that small space?</u>
+<u n="563" who="S0393">he did</u>
+<u n="564" who="S0391">oh right</u>
+<u n="565" who="S0392" trans="overlap">what is that?</u>
+<u n="566" who="S0393">no he didn't he wouldn't know but er</u>
+<u n="567" who="S0391">it's the</u>
+<u n="568" who="S0392" trans="overlap">explain</u>
+<u n="569" who="S0391" trans="overlap">the Quakers didn't want people to live near pubs</u>
+<u n="570" who="S0392">oh I see yeah</u>
+<u n="571" who="S0393" trans="overlap">he came up with an interesting</u>
+<u n="572" who="S0391">so you couldn't</u>
+<u n="573" who="S0393" trans="overlap">sort of <unclear/></u>
+<u n="574" who="S0391" trans="overlap">you know around the <anon type="place"/></u>
+<u n="575" who="S0392" trans="overlap">yeah</u>
+<u n="576" who="S0391" trans="overlap">area you won't find a pub</u>
+<u n="577" who="S0393">no</u>
+<u n="578" who="S0391">but they're all in the middle of town</u>
+<u n="579" who="S0393">there's a variant on that <pause dur="short"/> he was saying how many Ladbrokes there are just in Newcastle</u>
+<u n="580" who="S0392"><vocal desc="laugh"/></u>
+<u n="581" who="S0393">twenty-five</u>
+<u n="582" who="S0391">gosh</u>
+<u n="583" who="S0392">oh no</u>
+<u n="584" who="S0391" trans="overlap">that's terrible</u>
+<u n="585" who="S0393" trans="overlap">that is Newcastle not</u>
+<u n="586" who="S0391">oh it's</u>
+<u n="587" who="S0393" trans="overlap">even like the outskirts</u>
+<u n="588" who="S0391">that's dreadful</u>
+<u n="589" who="S0393" trans="overlap">he says that's just one</u>
+<u n="590" who="S0391" trans="overlap">just all in the town centre</u>
+<u n="591" who="S0393" trans="overlap">he reckons there's probably about a thousand betting shops in the north east</u>
+<u n="592" who="S0391">oh that's dreadful</u>
+<u n="593" who="S0393">isn't it awful?</u>
+<u n="594" who="S0391">and any pawn shops?</u>
+<u n="595" who="S0392" trans="overlap">can't believe that</u>
+<u n="596" who="S0393">well not as many as there are <pause dur="short"/> he says the <trunc>fr</trunc> here we are <anon type="name" nameType="f"/> it's right</u>
+<u n="597" who="S0391" trans="overlap">oh this where I turn off?</u>
+<u n="598" who="S0393">yeah</u>
+<u n="599" who="S0392">wanna go back a bit</u>
+<u n="600" who="S0393" trans="overlap">just looking for aquatic pond weed er <unclear>soil</unclear></u>
+<u n="601" who="S0392">we got here quick didn't we?</u>
+<u n="602" who="S0391">I'll go and look in the craft shop and the gift area</u>
+<u n="603" who="S0393">someone'll have to carry the <trunc>g</trunc> <unclear/></u>
+<u n="604" who="S0392">I hate this shop</u>
+<u n="605" who="S0391" trans="overlap">I bet there's someone rich in there did you see that car tinted windows BMW?</u>
+<u n="606" who="S0393"><unclear/></u>
+<u n="607" who="S0392" trans="overlap">it's it's a Skoda</u>
+<u n="608" who="S0391">no the one that went past there there's a private number</u>
+<u n="609" who="S0392">oh <anon type="name" nameType="f"/>'s has got private <trunc>r</trunc> number though hasn't she?</u>
+<u n="610" who="S0391">yeah I know but that was a posh car</u>
+<u n="611" who="S0393" trans="overlap"><anon type="name" nameType="m"/> <anon type="name" nameType="m"/> does</u>
+<event desc="abrupt end"/>
+	
+	</body>
+</text>
