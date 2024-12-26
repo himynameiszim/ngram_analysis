@@ -160,11 +160,10 @@ def process_corpus_folder_trigram(input_folder, output_file):
 # Main execution
 if __name__ == "__main__":
     input_folder = input("Enter the path to the corpus input directory: ").strip()
-    output_folder = input("Enter the path to the corpus output directory: ").strip()
     output_file = input("Enter the path to the output file: ").strip()
 
-    process_folder(input_folder, output_folder)
-    print(f"Processed files are saved in '{output_folder}'.")
+    process_folder(input_folder, input_folder)
+    print(f"Preprocessed files are saved in '{input_folder}'.")
 
     process_corpus_folder_bigram(input_folder, output_file)
     process_corpus_folder_trigram(input_folder, output_file)

@@ -2,12 +2,12 @@
 Ngram-based analytical idiolectal profiling
 
 ## Setting
-Create a "source" folder. <br />
-Create a "output" folder. <br />
-Include your text files into the "source" folder to extract the bigrams or trigrams. This is your main data.<br />
-<!-- Default files are generated with phi3:14b (93 participants x 7 genres). -->
-Create a "corpus" folder. <br />
-This is your preferred corpus for comparison.
+Create a `contestant_source/` folder. Put your participants' data here. <br />
+Create a `contestant_output` folder. N-gram extraction and z-score calculation will be output to this directory. <br />
+Create a `output/` folder. Z-score calculation will be extracted to this directory. <br />
+Create a `corpus_source/` folder. Put your preferred corpus for comparison. <br />
+Create a `corpus_output/` folder. N-gram extraction and z-score calculation will be output to this directory.
+
 
 ## Description ##
 Samples of language from 7 different genres were collected from `n` participants. The genres include both spoken and written English. The spoken genres were transcribed and saved in text files in written form.
@@ -22,17 +22,32 @@ conda activate <environment-name>
 pip3 install -r requirements.txt
 ```
 
-## Extracting XML to TXT ##
-Extracting XML-formatted corpus(es) to .txt files for comparison.
-```[bash]
-python3 xmlprocess.py
-```
-After pasting in the path of "/corpus/", the output will be produced as "/corpus_processed/"
+## Process data ##
+The processing pipeline starts with ngram extraction and zscore calculation data from participants' data, then the same procedure is applied to reference corpus'. Finally, zscore comparison between the corpuss and participants' data.
 
-## Run
+### for participants ###
+```[bash]
+python3 participant.py
+```
+After pasting in the path of `corpus_source/` and `corpus_output/`, the n-gram extraction and z-score calculation will be extracted to this directory.
+
+### for corpus ###
+
+```[bash]
+python3 corpus.py
+```
+After pasting in the path of `input_folder/` and `output_processed_folder/`, the .txt data extraction will be saved in `output_processed_folder`. Input in the `ngram_output_file` and `ngram_type`, the n-gram extraction and z-score calculation will be extracted to the `output_file`.
+
+## Run ##
 ```[bash]
 python3 main.py
 ```
+Paste in your input participants' data directory `input_folder`. (the data that was previously processed) <br />
+Paste in your input file
+Paste in your output 
+ input_folder = input("Enter the path to contestants' data: ")  # Update with your folder path
+    output_folder = input("Enter the path to your output folder: ")
+    input_file = input("Enter the path to reference corpus' data:  ")  # The provided file with ngrams and zscores
 
 ## Tips
 For ease of reading CSV files, consider installing [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv).<br />

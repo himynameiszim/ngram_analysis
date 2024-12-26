@@ -64,7 +64,7 @@ def process_and_save_text(folder_path, output_folder):
         print(f"Error processing folder {folder_path}: {e}")
 
 if __name__ == "__main__":
-    folder_path = input("Enter the path to the folder containing XML files: ").strip()
+    input_folder = input("Enter the path to untagged corpus data: ").strip()
     output_folder = input("Enter the path to the folder where text files will be saved: ").strip()
 
-    process_and_save_text(folder_path, output_folder)
+    process_and_save_text(input_folder, output_folder)

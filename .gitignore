@@ -10,3 +10,6 @@ corpus_processed/
 corpus_source/
 output/
 corpus_source/BNC_baby_4mill/download
+
+corpus_tagged.py
+corpus_untagged.py
