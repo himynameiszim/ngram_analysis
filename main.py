@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 
+
 def main():
     # Define paths
     input_folder = input("Enter the path to contestants' data: ")  # Update with your folder path
@@ -8,7 +9,7 @@ def main():
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
-    input_file = input("Enter the path to corpus' data:  ")  # The provided file with ngrams and zscores
+    input_file = input("Enter the path to reference corpus' data:  ")  # The provided file with ngrams and zscores
 
     # Load the ngram and zscore data
     bnc_baby_data = pd.read_csv(input_file)
@@ -27,12 +28,13 @@ def main():
             # Add a new column for z-scores
             # Ensure the ngrams are stripped of extraneous quotes
             data['ngram'] = data['ngram'].apply(lambda x: str(eval(x)))
-            data['z-score_BNC_baby'] = data['ngram'].map(ngram_to_zscore).fillna(0)
-            
+            # data['z-score_BNC_baby'] = data['ngram'].map(ngram_to_zscore).fillna(0)
+            data['z-score_BNC_spoken'] = data['ngram'].map(ngram_to_zscore).fillna(0)
+        
             # Save the updated file to the output folder
             output_file_path = os.path.join(output_folder, filename)
             data.to_csv(output_file_path, index=False)
 
-    print("All files updated and saved to the output folder successfully!")
+    print("Done!")
 
 main()
