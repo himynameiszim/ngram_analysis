@@ -81,7 +81,7 @@ def calculate_zscores_bigram_individual_genre(input_dir):
 
     # print("Done!")
 
-input_dir = "/home/jimmy/Videos/test_ngram_analysis/participant_output/bigrams"
+input_dir = input("Input dir of ngram-extracted list: ").strip()
 start_time = datetime.now()
 calculate_zscores_bigram_individual_genre(input_dir)
 end_time = datetime.now()
