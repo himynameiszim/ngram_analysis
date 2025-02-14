@@ -3,10 +3,9 @@ Ngram-based analytical idiolectal profiling
 
 ## Setting
 Create a `contestant_source/` folder. Put your participants' data here. <br />
-Create a `contestant_output` folder. N-gram extraction and z-score calculation will be output to this directory. <br />
-Create a `output/` folder. Z-score calculation will be extracted to this directory. <br />
+Create a `contestant_output` folder. N-gram extraction for contestant directory. <br />
 Create a `corpus_source/` folder. Put your preferred corpus for comparison. <br />
-Create a `corpus_output/` folder. N-gram extraction and z-score calculation will be output to this directory.
+Create a `corpus_output/` folder. N-gram extraction for corpus directory.
 
 
 ## Description ##
