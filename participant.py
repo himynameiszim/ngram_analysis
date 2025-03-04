@@ -15,7 +15,6 @@ import warnings
 from typing import Dict, List, Tuple
 warnings.filterwarnings('ignore')
 
-
 # Download nltk data
 # nltk.download('punkt')
 nltk.download('punkt_tab')
@@ -259,105 +258,6 @@ def sum_abs_adj(d_abs_adj: Dict) -> Dict:
 
     return d_sum_abs_adj
 
-def keyness(
-        corpus_name_sc: str,
-        corpus_name_rc: str,
-        freq_type: str,
-        keyn_metric: str,
-        d_abs_adj_sc: Dict,
-        d_sum_abs_adj_sc: Dict,
-        d_abs_adj_rc: Dict,
-        d_sum_abs_adj_rc: Dict
-    ) -> List:
-    '''Calculate keyness %DIFF (data stored in "[SC]_VS_[RC]" folder).
-    :param corpus_name_sc: name of the study corpus.
-    :param corpus_name_rc: name of the reference corpus.
-    :param freq_type: frequency type based on which keyness values are calculated.
-    :param keyn_metric: keyness metric used to perform the keyness calculations.
-    :param d_abs_adj_sc: frequency dictionary enriched with adjusted frequency values (per item) for the study corpus.
-    :param d_sum_abs_adj_sc: frequency dictionary enriched with adjusted frequency values (totals) for the study corpus.
-    :param d_abs_adj_rc: frequency dictionary enriched with adjusted frequency values (per item) for the reference corpus.
-    :param d_sum_abs_adj_rc: frequency dictionary enriched with adjusted frequency values (totals) for the reference corpus.
-    :var approx: float by which zero frequencies are approximated (here, I use 0.1).
-    :return: a list containing the keyness analysis for all n-grams.
-    '''
-    print(f"Keyness for {corpus_name_sc} (sc) vs {corpus_name_rc} (rc).")
-    l_d_keyn = []
-    approx = 0.1
-
-    sum_sc = d_sum_abs_adj_sc["all"][freq_type]
-    sum_rc = d_sum_abs_adj_rc["all"][freq_type]
-
-    for ngram in d_abs_adj_sc:
-        freq_sc = d_abs_adj_sc[ngram][freq_type]
-
-        if ngram in d_abs_adj_rc:
-            freq_rc = d_abs_adj_rc[ngram][freq_type]
-        else:
-            if freq_type in ["abs_freq", "adj_freq"]:
-                freq_rc = approx
-            elif freq_type in ["abs_freq_lapl", "adj_freq_lapl"]:
-                freq_rc = 1
-            else:
-                raise ValueError("`frequency_type` is not correctly defined.")
-
-        norm_freq_1000_sc = freq_sc / sum_sc * 1000
-        norm_freq_1000_rc = freq_rc / sum_rc * 1000
-
-        # Keyness calculation %DIFF based on frequency
-        if keyn_metric == "%DIFF":
-            keyn_score_sc = ((norm_freq_1000_sc - norm_freq_1000_rc) * 100) / norm_freq_1000_rc
-            keyn_score_rc = ((norm_freq_1000_rc - norm_freq_1000_sc) * 100) / norm_freq_1000_sc
-        else:
-            raise ValueError("`keyness_metric` is not correctly defined.")
-
-        # Store the keyness and related frequency values for this n-gram
-        d_keyn = {
-            "item": ngram,
-            "keyness": keyn_score_sc,
-            "abs_freq_SC": d_abs_adj_sc[ngram]["abs_freq"],
-            "norm_abs_freq_1000_SC": d_abs_adj_sc[ngram]["abs_freq"] / d_sum_abs_adj_sc["all"]["abs_freq"] * 1000,
-            "adj_freq_SC": d_abs_adj_sc[ngram]["adj_freq"],
-            "norm_adj_freq_1000_SC": d_abs_adj_sc[ngram]["adj_freq"] / d_sum_abs_adj_sc["all"]["adj_freq"] * 1000,
-            "abs_freq_lapl_SC": d_abs_adj_sc[ngram]["abs_freq_lapl"],
-            "norm_abs_freq_lapl_1000_SC":
-                d_abs_adj_sc[ngram]["abs_freq_lapl"] / d_sum_abs_adj_sc["all"]["abs_freq_lapl"] * 1000,
-            "adj_freq_lapl_SC": d_abs_adj_sc[ngram]["adj_freq_lapl"],
-            "norm_adj_freq_lapl_1000_SC":
-                d_abs_adj_sc[ngram]["adj_freq_lapl"] / d_sum_abs_adj_sc["all"]["adj_freq_lapl"] * 1000
-        }
-
-        # Reference corpus frequency values
-        if ngram in d_abs_adj_rc:
-            d_keyn["DP_RC"] = d_abs_adj_rc[ngram]["DP"]
-            d_keyn["abs_freq_RC"] = d_abs_adj_rc[ngram]["abs_freq"]
-            d_keyn["norm_abs_freq_1000_RC"] = \
-                d_abs_adj_rc[ngram]["abs_freq"] / d_sum_abs_adj_rc["all"]["abs_freq"] * 1000
-            d_keyn["adj_freq_RC"] = d_abs_adj_rc[ngram]["adj_freq"]
-            d_keyn["norm_adj_freq_1000_RC"] = \
-                d_abs_adj_rc[ngram]["adj_freq"] / d_sum_abs_adj_rc["all"]["adj_freq"] * 1000
-            d_keyn["abs_freq_lapl_RC"] = d_abs_adj_rc[ngram]["abs_freq_lapl"]
-            d_keyn["norm_abs_freq_lapl_1000_RC"] = \
-                d_abs_adj_rc[ngram]["abs_freq_lapl"] / d_sum_abs_adj_rc["all"]["abs_freq_lapl"] * 1000
-            d_keyn["adj_freq_lapl_RC"] = d_abs_adj_rc[ngram]["adj_freq_lapl"]
-            d_keyn["norm_adj_freq_lapl_1000_RC"] = \
-                d_abs_adj_rc[ngram]["adj_freq_lapl"] / d_sum_abs_adj_rc["all"]["adj_freq_lapl"] * 1000
-        else:
-            d_keyn["DP_RC"] = "NA"
-            d_keyn["abs_freq_RC"] = approx
-            d_keyn["norm_abs_freq_1000_RC"] = approx / d_sum_abs_adj_rc["all"]["abs_freq"] * 1000
-            d_keyn["adj_freq_RC"] = approx
-            d_keyn["norm_adj_freq_1000_RC"] = approx / d_sum_abs_adj_rc["all"]["adj_freq"] * 1000
-            d_keyn["abs_freq_lapl_RC"] = 1
-            d_keyn["norm_abs_freq_lapl_1000_RC"] = 1 / d_sum_abs_adj_rc["all"]["abs_freq_lapl"] * 1000
-            d_keyn["adj_freq_lapl_RC"] = 1
-            d_keyn["norm_adj_freq_lapl_1000_RC"] = 1 / d_sum_abs_adj_rc["all"]["adj_freq_lapl"] * 1000
-
-        l_d_keyn.append(d_keyn)
-
-    # Return the list of all keyness score
-    return l_d_keyn
-
 def main():
     print("\n------Step 1: Ngram extraction and count------\n")
 
@@ -488,5 +388,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    
