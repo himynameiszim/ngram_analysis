@@ -365,6 +365,23 @@ def main():
             keyn_score_rc = norm_freq_1000_rc / norm_freq_1000_sc
 
             sc_data.at[index, "keyness_Ratio_93"] = keyn_score_sc
+
+            # elif keyn_metric == "RatioAdd1":
+            keyn_score_sc = (norm_freq_1000_sc + 1) / (norm_freq_1000_rc + 1)
+            keyn_score_rc = (norm_freq_1000_rc + 1) / (norm_freq_1000_sc + 1)
+
+            sc_data.at[index, "keyness_RatioAdd1_93"] = keyn_score_sc
+
+            # elif keyn_metric == "RatioAdd100":
+            keyn_score_sc = (norm_freq_1000_sc + 100) / (norm_freq_1000_rc + 100)
+            keyn_score_rc = (norm_freq_1000_rc + 100) / (norm_freq_1000_sc + 100)
+
+            sc_data.at[index, "keyness_RatioAdd100_93"] = keyn_score_sc
+            # elif keyn_metric == "RatioAdd1000":
+            keyn_score_sc = (norm_freq_1000_sc + 1000) / (norm_freq_1000_rc + 1000)
+            keyn_score_rc = (norm_freq_1000_rc + 1000) / (norm_freq_1000_sc + 1000)
+
+            sc_data.at[index, "keyness_RatioAdd1000_93"] = keyn_score_sc
             # elif keyn_metric == "OddsRatio":
             keyn_score_sc = (freq_sc / (sum_sc - freq_sc)) / (freq_rc / (sum_rc - freq_rc))
             keyn_score_rc = (freq_rc / (sum_rc - freq_rc)) / (freq_sc / (sum_sc - freq_sc))
