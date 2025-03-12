@@ -36,23 +36,6 @@ def preprocess_data(directory):
         os.rename(old_file, new_file)
         print(f'Renamed: {filename} -> {new_filename}')
 
-def get_word_count(file_path):
-     with open(file_path, 'r', encoding='utf-8') as file:
-            text = file.read()
-            return len(text.split())  # Split by whitespace and count words
-
-def count_words_in_files(directory, substring):
-    """Count the total words in all text files in a directory with a certain substring in the filename."""
-    total_word_count = 0
-
-    # Iterate over all files in the directory
-    for filename in os.listdir(directory):
-        if filename.endswith(".txt") and substring in filename:
-            file_path = os.path.join(directory, filename)
-            total_word_count += get_word_count(file_path)
-
-    return total_word_count
-
 # Function to remove punctuation from text
 def remove_punctuation(text):
     return text.translate(str.maketrans('', '', string.punctuation))
@@ -261,8 +244,8 @@ def sum_abs_adj(d_abs_adj: Dict) -> Dict:
 def main():
     print("\n------Step 1: Ngram extraction and count------\n")
 
-    input_dir = input("Enter the path to the input directory: ").strip()
-    output_dir = input("Enter the path to the output directory: ").strip()
+    input_dir = input("Enter the path to study corpus directory: ").strip()
+    output_dir = input("Enter the path to the study corpus ngram-extraction directory: ").strip()
     preprocess_data(input_dir)
     
     # Remove the output directory if it exists
@@ -302,9 +285,9 @@ def main():
 
     print("\n------Step 2: Keyness calculation------\n")
 
-    sc_dir = input("Path to the study corpus directory(ngram extracted list): ").strip()
-    rc_dir = input("Path to the reference corpus directory(ngram extracted list): ").strip()
-    rc_file = os.path.join(rc_dir, f"93{suffix}")
+    sc_dir = input("Path to the study corpus FOLDER(ngram extracted list): ").strip()
+    rc_file = input("Path to the reference corpus FILE(ngram extracted list): ").strip()
+    rc_name = os.path.basename(rc_file).split('_')[0]
 
     # keyn_metric = input("Your choice of keyness metric (%DIFF, Ratio, OddsRatio, LogRatio, DiffCoefficient): ").strip()
 
@@ -318,11 +301,7 @@ def main():
     d_sum_abs_adj_rc = sum_abs_adj(d_abs_adj_rc)
 
     approx_num = 0.1
-    freq_type = "adj_freq"
-
-    rc_file = os.path.join(rc_dir, f"93{suffix}")
-    # rc_data = pd.read_csv(rc_file, usecols=["ngram", "93_count"])
-    # d_rc = dict(zip(rc_data["ngram"], rc_data["93_count"]))
+    freq_type = "adj_freq_lapl"
 
     for i in range(1, 94):
         sc_name = f"{i:03d}"
@@ -338,7 +317,7 @@ def main():
         d_sum_abs_adj_sc = sum_abs_adj(d_abs_adj_sc)
 
         sc_data = pd.read_csv(os.path.join(sc_dir, f"{sc_name}{suffix}"))
-        print(f"-----Calculating keyness for {sc_file}-----")
+        print(f"-----Calculating keyness for {sc_name}-----")
 
         col_to_del = ["pd2_count", "pd1_count", "vm2_count", "interview_count", "tm-family_count", "tm-friends_count", "vm1_count"]
         sc_data.drop(columns=col_to_del, inplace=True, errors='ignore')
@@ -346,8 +325,15 @@ def main():
         for index, row in sc_data.iterrows():
             ngram = row['ngram']
             freq_sc = d_abs_adj_sc[ngram][freq_type]
-            freq_rc = d_abs_adj_rc[ngram][freq_type]
-            # rc_count = int(d_rc.get(ngram, approx_num))
+            if ngram in d_abs_adj_rc:
+                freq_rc = d_abs_adj_rc[ngram][freq_type]
+            else:
+                if freq_type in ["abs_freq", "adj_freq"]:
+                    freq_rc = approx_num
+                elif freq_type in ["abs_freq_lapl", "adj_freq_lapl"]:
+                    freq_rc = 1
+                else:
+                    raise ValueError("`frequency_type` is not defined.")
 
             sum_sc = d_sum_abs_adj_sc["all"][freq_type]
             sum_rc = d_sum_abs_adj_rc["all"][freq_type]
@@ -359,44 +345,44 @@ def main():
             keyn_score_sc = ((norm_freq_1000_sc - norm_freq_1000_rc) * 100) / norm_freq_1000_rc
             keyn_score_rc = ((norm_freq_1000_rc - norm_freq_1000_sc) * 100) / norm_freq_1000_sc
 
-            sc_data.at[index, "keyness_%DIFF_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_%DIFF_{rc_name}"] = keyn_score_sc
             # elif keyn_metric == "Ratio":
             keyn_score_sc = norm_freq_1000_sc / norm_freq_1000_rc
             keyn_score_rc = norm_freq_1000_rc / norm_freq_1000_sc
 
-            sc_data.at[index, "keyness_Ratio_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_Ratio_{rc_name}"] = keyn_score_sc
 
             # elif keyn_metric == "RatioAdd1":
             keyn_score_sc = (norm_freq_1000_sc + 1) / (norm_freq_1000_rc + 1)
             keyn_score_rc = (norm_freq_1000_rc + 1) / (norm_freq_1000_sc + 1)
 
-            sc_data.at[index, "keyness_RatioAdd1_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_RatioAdd1_{rc_name}"] = keyn_score_sc
 
             # elif keyn_metric == "RatioAdd100":
             keyn_score_sc = (norm_freq_1000_sc + 100) / (norm_freq_1000_rc + 100)
             keyn_score_rc = (norm_freq_1000_rc + 100) / (norm_freq_1000_sc + 100)
 
-            sc_data.at[index, "keyness_RatioAdd100_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_RatioAdd100_{rc_name}"] = keyn_score_sc
             # elif keyn_metric == "RatioAdd1000":
             keyn_score_sc = (norm_freq_1000_sc + 1000) / (norm_freq_1000_rc + 1000)
             keyn_score_rc = (norm_freq_1000_rc + 1000) / (norm_freq_1000_sc + 1000)
 
-            sc_data.at[index, "keyness_RatioAdd1000_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_RatioAdd1000_{rc_name}"] = keyn_score_sc
             # elif keyn_metric == "OddsRatio":
             keyn_score_sc = (freq_sc / (sum_sc - freq_sc)) / (freq_rc / (sum_rc - freq_rc))
             keyn_score_rc = (freq_rc / (sum_rc - freq_rc)) / (freq_sc / (sum_sc - freq_sc))
 
-            sc_data.at[index, "keyness_OddsRatio_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_OddsRatio_{rc_name}"] = keyn_score_sc
             # elif keyn_metric == "LogRatio":
             keyn_score_sc = np.log2(norm_freq_1000_sc / norm_freq_1000_rc)
             keyn_score_rc = np.log2(norm_freq_1000_rc / norm_freq_1000_sc)
 
-            sc_data.at[index, "keyness_LogRatio_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_LogRatio_{rc_name}"] = keyn_score_sc
             # elif keyn_metric == "DiffCoefficient":
             keyn_score_sc = (norm_freq_1000_sc - norm_freq_1000_rc) / (norm_freq_1000_sc + norm_freq_1000_rc)
             keyn_score_rc = (norm_freq_1000_rc - norm_freq_1000_sc) / (norm_freq_1000_rc + norm_freq_1000_sc)
             
-            sc_data.at[index, "keyness_DiffCoefficient_93"] = keyn_score_sc
+            sc_data.at[index, f"keyness_DiffCoefficient_{rc_name}"] = keyn_score_sc
             # else:
             #     raise ValueError("`keyness metric` is not correctly defined.")
             
